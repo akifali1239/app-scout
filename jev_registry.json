@@ -33,7 +33,8 @@
     "fe4f9337fb18",
     "a6599b1d5db8",
     "e112bc9e2c57",
-    "c9467db59894"
+    "c9467db59894",
+    "e8991a45f5f9"
    ],
    "prev": null,
    "promoted_at": null
@@ -41,7 +42,7 @@
   "brand": {
    "type": "noul",
    "prod": [
-    "v2"
+    "v3"
    ],
    "versions": {
     "v1": {
@@ -82,6 +83,33 @@
      "created": "2026-10-04T14:48:11+00:00",
      "dev_obj": 0.7279,
      "test_obj": 0.643
+    },
+    "v3": {
+     "instructions": "Would a typical person read `search_term` as the name of one particular product, app, company, publisher, clinic or person, rather than a description of a task or topic? Invented words, trademarks, company or person names, and app titles with taglines are names.",
+     "criteria": {
+      "true": {
+       "description": "Identifies one specific named product, company, publication, publisher or person, even when it is made of ordinary words or ends with a generic word (Paramedic Coach, Hinge Health, Pharmacy Technician Letter, Tinozzi Chiropractic & Massage)",
+       "examples": [
+        "dental assistant - dental plan",
+        "guide to clinical midwifery",
+        "align functional movement & massage therapy",
+        "foreflight"
+       ]
+      },
+      "false": {
+       "description": "A generic description of a topic, exam, certification or tool, including exam-prep style titles with an acronym, year or 'prep/test/flashcards' (cmtbc massage therapy prep, student midwife baby catches, welding test, hvac flashcards)",
+       "examples": [
+        "rccs sonography exam prep 2026",
+        "paramedic registration prep uk",
+        "paramedic survey helper",
+        "amcb cm midwifery exam prep"
+       ]
+      }
+     },
+     "origin": "talimat#1 tanım#2 örnek×4",
+     "created": "2026-10-04T18:39:24+00:00",
+     "dev_obj": 0.8158,
+     "test_obj": 0.8281
     }
    },
    "tried": [
@@ -98,12 +126,16 @@
     "00c4000acbe4",
     "e746dced5971",
     "b012a57dcf48",
-    "32521c79e04e"
+    "32521c79e04e",
+    "df9c6db1a542",
+    "fa6fb0714e11",
+    "9cf72398e952",
+    "179a828228d3"
    ],
    "prev": [
-    "v1"
+    "v2"
    ],
-   "promoted_at": "2026-10-04T14:48:11+00:00"
+   "promoted_at": "2026-10-04T18:39:24+00:00"
   },
   "rival": {
    "type": "noul",
@@ -316,5 +348,5 @@
    "promoted_at": "2026-10-04T14:48:11+00:00"
   }
  },
- "rejudge_after": "2026-10-04T14:48:11+00:00"
+ "rejudge_after": "2026-10-04T18:39:24+00:00"
 }

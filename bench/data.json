@@ -5181,6 +5181,646 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "esab welding parameters set-up guide",
+   "top": [
+    {
+     "name": "ESAB Welding Parameters Set-Up Guide",
+     "dev": "ESAB Group Inc",
+     "ratings": 4,
+     "desc": "This simple, yet helpful app gives you the ability to correctly identify the welding parameters for your next job. Just choose the type of wire you're using (solid or flux-cored), plug in a few pieces"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "voestalpine Welding Calculator",
+     "dev": "voestalpine AG",
+     "ratings": 0,
+     "desc": "Welding becomes smart – thanks to the voestalpine Welding Calculator (powered by voestalpine Steel Division and Böhler Welding)!\n\nPlan and optimize your welding tasks. Calculate specific manufacturing"
+    },
+    {
+     "name": "Harbor Freight Tools",
+     "dev": "Harbor Freight Tools",
+     "ratings": 233400,
+     "desc": "HARBOR FREIGHT COUPONS\nFind the latest coupons, instant savings, Inside Track Club member deals, and more with the Harbor Freight Tools app.\n \nSHOP\nBrowse the latest tools, watch them in action with o"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    },
+    {
+     "name": "ASME IX Welding",
+     "dev": "Austenite Pty Ltd",
+     "ratings": 0,
+     "desc": "ASME-IX Welding: Master the Welding Code\nElevate your welding career with the ASME-IX Welding app. Designed for welding engineers, inspectors, and professionals, this comprehensive tool provides the k"
+    },
+    {
+     "name": "SSAB WeldCalc",
+     "dev": "SSAB AB",
+     "ratings": 5,
+     "desc": "The SSAB WeldCalc app is a simplified version of the advanced SSAB WeldCalc desktop pro version.\n \nBased on the welding method, the welding joint, steel grades and thicknesses, it gives you the result"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "miller welding app",
+   "top": [
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "ESAB Welding Parameters Set-Up Guide",
+     "dev": "ESAB Group Inc",
+     "ratings": 4,
+     "desc": "This simple, yet helpful app gives you the ability to correctly identify the welding parameters for your next job. Just choose the type of wire you're using (solid or flux-cored), plug in a few pieces"
+    },
+    {
+     "name": "Lincoln Electric",
+     "dev": "Lee's Tools",
+     "ratings": 5,
+     "desc": "Lincoln Electric\n\nThe Welding Experts – Founded on 1895\nLincoln Electric is an American multinational and a global manufacturer of welding products, arc welding equipment, welding consumables, plasma "
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades i"
+    },
+    {
+     "name": "GearPoint",
+     "dev": "Lincoln Electric",
+     "ratings": 12,
+     "desc": "Get the most out of your welding experience with the Lincoln Electric GearPoint™ app. Our app provides you with the ability to automatically track your arc time for daily performance, notifies user wh"
+    },
+    {
+     "name": "Weldbend Field Reference App",
+     "dev": "Weldbend Corporation",
+     "ratings": 38,
+     "desc": "The Weldbend Field Reference Digital Companion is an app which contains dimensional data for carbon steel butt-weld fittings and flanges, as well and technical and general information pertaining to ca"
+    },
+    {
+     "name": "voestalpine Welding Calculator",
+     "dev": "voestalpine AG",
+     "ratings": 0,
+     "desc": "Welding becomes smart – thanks to the voestalpine Welding Calculator (powered by voestalpine Steel Division and Böhler Welding)!\n\nPlan and optimize your welding tasks. Calculate specific manufacturing"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "texas chiropractic association",
+   "top": [
+    {
+     "name": "Texas Chiropractic Association",
+     "dev": "Texas Chiropractic Association",
+     "ratings": 0,
+     "desc": "The Texas Chiropractic Association app has everything you need to stay in touch with the community. Features include:\n\n• Member Directory: A list of members that allows for easy communication and netw"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Texas Health MyChart",
+     "dev": "Texas Health Resources",
+     "ratings": 9217,
+     "desc": "Stay connected to your health, anytime, anywhere.\n\n\nTexas Health MyChart makes it easy to manage your health and stay in touch with your care team — all from your mobile device.\n\n\nWith Texas Health My"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Sword Health: AI Care",
+     "dev": "Sword Health, Inc",
+     "ratings": 54420,
+     "desc": "Access best-in-class AI care from the comfort of home and break the cycle of pain and discomfort with Sword Health. Sword Health combines clinical expertise and AI care to support pain recovery, healt"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Texas Covered Conference",
+     "dev": "Texas Association of Health Plans Incorporated",
+     "ratings": 104,
+     "desc": "Hosted by the Texas Association of Health Plans (TAHP), the statewide leader representing health insurers, Medicaid and Medicare Advantage plans, and other health care organizations across Texas.\n\nThe"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "barlas chiropractic, pllc",
+   "top": [
+    {
+     "name": "Barlas Chiropractic",
+     "dev": "Barlas Chiropractic, Pllc",
+     "ratings": 0,
+     "desc": "Barlas Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as:\n- Requesting an Appointment\n- Loyalty Rew"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "JustStretch | Flex & Mobility",
+     "dev": "TechPioneers Limited",
+     "ratings": 2407,
+     "desc": "Make Stretching a Daily Habit for a Healthier You\nWelcome to JustStretch, your go-to app for making stretching a seamless part of your daily routine. Our app is designed to help you enhance your flexi"
+    },
+    {
+     "name": "Chiropractic Boards 3",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 15,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 3 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "triandos chiropractic office",
+   "top": [
+    {
+     "name": "Triandos Chiropractic Office",
+     "dev": "NICK TRIANDOS",
+     "ratings": 0,
+     "desc": "Triandos Chiropractic & Acupuncture's official app makes it easy to stay connected with our office. Quickly schedule your next appointment, order your personalized supplement plan through Fullscript, "
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Zocdoc - Find and book doctors",
+     "dev": "Zocdoc Inc",
+     "ratings": 179947,
+     "desc": "Zocdoc is the leading healthcare app that makes it easy for you to find and book the right doctor. Each month, millions of people use Zocdoc to search for in-network care and instantly book appointmen"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Sword Health: AI Care",
+     "dev": "Sword Health, Inc",
+     "ratings": 54420,
+     "desc": "Access best-in-class AI care from the comfort of home and break the cycle of pain and discomfort with Sword Health. Sword Health combines clinical expertise and AI care to support pain recovery, healt"
+    },
+    {
+     "name": "Askenas Chiropractic",
+     "dev": "ASKENAS CHIROPRACTOR",
+     "ratings": 4,
+     "desc": "Askenas Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as:\n- Requesting an Appointment\n- Loyalty Re"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "welding calculator",
+   "top": [
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "WelderCalc: Welding Calculator",
+     "dev": "Double Vision USA LLC",
+     "ratings": 0,
+     "desc": "The welding calculator that picks amperage on the first shot — TIG, MIG, stick, flux-core — heat input, travel speed, electrode sizing, all offline.\n\nTired of dialing in by feel? Tired of running test"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "WeldCalc Pro - Welding Calc",
+     "dev": "Ersel Tarhan",
+     "ratings": 0,
+     "desc": "WeldCalc Pro turns your iPhone into a complete welding calculator for every welder, fabricator, and engineer on the shop floor — brand-neutral, 100% offline, no Wi-Fi required. Get accurate parameters"
+    },
+    {
+     "name": "Feet and Inches Calculator",
+     "dev": "Evan Winograd",
+     "ratings": 416,
+     "desc": "Master your trade with a powerful construction calculator built for contractors, carpenters, builders, electricians, and tradespeople.\n\nTutorial: https://www.youtube.com/watch?v=PZugBX9o-8E&t=0s\nQuest"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Vice: safe open chat",
+     "dev": "CRAYCRAY",
+     "ratings": 0,
+     "desc": "Vice is your safe space to speak freely about the things you really want to talk about. In just a few minutes, you're connected with a verified person who wants to talk about the same things as you. \n"
+    },
+    {
+     "name": "WeldMaster: Welding Calculator",
+     "dev": "Grima Hdez",
+     "ratings": 0,
+     "desc": "WeldMaster is the welding settings calculator built for working welders, fabricators, and students.\n\nPick your process, material, and thickness — get starting amperage, voltage, wire feed speed, gas f"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades i"
+    },
+    {
+     "name": "Weldwise: Welding Calculator",
+     "dev": "ENES AYKUT AYDEMIR",
+     "ratings": 0,
+     "desc": "Stop guessing your welder settings.\n\nWeldwise gives you a clean starting point for MIG, TIG, Stick and flux-core in seconds. Pick your process, material and thickness and get recommended amperage, vol"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "hvac calculator",
+   "top": [
+    {
+     "name": "HVAC & Sheet Metal Calculator",
+     "dev": "Calculated Industries",
+     "ratings": 82,
+     "desc": "FREE Try Before You Buy trial: Apple does not charge your App Store account during the free trial.\n\nThe ultimate calculator for HVAC professionals and sheet metal specialists. Transform your workflow "
+    },
+    {
+     "name": "HVAC Calculator - FieldCalc",
+     "dev": "静 李",
+     "ratings": 0,
+     "desc": "The professional HVAC calculator for technicians and contractors. Superheat, subcooling, R-454B PT charts, duct sizing, load estimates, and psychrometrics — six field-ready tools, all offline, in one "
+    },
+    {
+     "name": "HVACR Check & Charge",
+     "dev": "Copeland LP",
+     "ratings": 17332,
+     "desc": "Instant mobile refrigerant charge calculator for HVACR applications.\n\nThe HVACR Check & Charge™ mobile app from Copeland Climate Technologies provides an on-site refrigerant charge calculator for air "
+    },
+    {
+     "name": "HVAC Calculator: BTU & AC Load",
+     "dev": "Vyacheslav Dovner",
+     "ratings": 0,
+     "desc": "Size any system in seconds. HVAC Calculator gives technicians, installers, and DIY homeowners fast, accurate BTU and load numbers — no spreadsheets, no guesswork.\n\nWHAT YOU CAN CALCULATE\n• BTU & Cooli"
+    },
+    {
+     "name": "P-T Calculator",
+     "dev": "National Refrigerants Inc.",
+     "ratings": 52,
+     "desc": "This comprehensive Pressure/Temperature calculation tool from National Refrigerants provides several unique features designed to make the HVAC/R technician’s job easier. This app can calculate a simpl"
+    },
+    {
+     "name": "SuperCool Slide Rule HVAC",
+     "dev": "Designstein, llc",
+     "ratings": 194,
+     "desc": "The SuperCool HVAC app provides comprehensive solutions to the most complex problems in the industry. The app provides the user with an interactive experience, possible solutions, on-screen instructio"
+    },
+    {
+     "name": "IN HVAC Calculator",
+     "dev": "Gregory Enterprises",
+     "ratings": 10,
+     "desc": "Inspector Nation presents a general reference application to provide insight into the world of HVAC equipment inspection. It is never good practice to mention the exact age or tonnage rating in the ho"
+    },
+    {
+     "name": "Ductulator - Duct Calculator",
+     "dev": "Mikhail Nikitin",
+     "ratings": 33,
+     "desc": "Professional HVAC duct sizing and psychrometric calculations in one powerful app. DuctCalc replaces your physical ductulator with a modern, accurate digital tool trusted by engineers, contractors, and"
+    },
+    {
+     "name": "Flux HVAC: Tech Calculator",
+     "dev": "华 陆",
+     "ratings": 2,
+     "desc": "STOP GUESSING. START MEASURING.\n\nFlux HVAC is the modern, professional toolkit designed for the 2025 technician. We combined the essential tools into one lightning-fast app, helping you diagnose issue"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "lab values",
+   "top": [
+    {
+     "name": "Lab Values Reference Guide",
+     "dev": "William Wyatt",
+     "ratings": 10,
+     "desc": "The best pocket guide for reference ranges!\n\n***\n\nLab values is a quick reference tool for all normal lab values as well as PRO tips for need-to-know information to help interpretation! \n\nIt is excell"
+    },
+    {
+     "name": "Lab Values+ Medical Reference",
+     "dev": "Hipposoft, LLC",
+     "ratings": 47,
+     "desc": "A study reference for laboratory values, medical abbreviations, and the word roots medical vocabulary is built from — for nursing and medical students, and for anyone reviewing the material. It works "
+    },
+    {
+     "name": "Lab Test Values",
+     "dev": "Ahmad Nakore",
+     "ratings": 318,
+     "desc": "For Educational purpose!!!\nThis app is designed to provide general informations on the commonly using (BLOOD AND OTHER BODY FLUIDS) test in the laboratory. It includes the normal ranges of various tes"
+    },
+    {
+     "name": "Medical Lab Tests",
+     "dev": "Medicon Apps",
+     "ratings": 1141,
+     "desc": "The go-to lab reference for healthcare professionals, medical students, and nurses — trusted on hospital wards, in classrooms, and during clinical rotations.\n\nINSTANT LAB TEST LOOKUP\n\nSearch or browse"
+    },
+    {
+     "name": "Lab Values: 63 Must Know Labs",
+     "dev": "TazKai, LLC",
+     "ratings": 0,
+     "desc": "Nursing labs just got easier! \n\nThe Lab Values  app by NURSING.com is your go-to resource for mastering the most essential labs nursing students need to know. \n\nWhether you're preparing for the NCLEX "
+    },
+    {
+     "name": "Lab Values",
+     "dev": "Pierre Robinson Debut",
+     "ratings": 0,
+     "desc": "All healthcare professionals & students get at some point to measure and evaluate biological analysis results.\n \nFully optimized for the iPhone screen, this app gives you a rapid and simple access to "
+    },
+    {
+     "name": "Blood Test Results: Lab Values",
+     "dev": "Krzysztof Gwiazda",
+     "ratings": 1,
+     "desc": "Blood Diagnostics App provides descriptions and explanations of over 300 laboratory blood tests. It is a perfect pocket guide for all healthcare professionals, including medical students, graduates, a"
+    },
+    {
+     "name": "Lab Values Pro",
+     "dev": "Dr. Steve Müller",
+     "ratings": 3,
+     "desc": "With Laboratory values ​​Pro, you can quickly and easily find out about blood laboratory values. This laboratory app gives physicians and non-medical professionals a generally understandable, quickly "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "beekeeping",
+   "top": [
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "Beekeeping for Dummies®",
+     "dev": "Expanded Apps",
+     "ratings": 1,
+     "desc": "Start beekeeping with confidence using the trusted Dummies guide—now a simple, mobile tool built for real life at the hive. Learn how to set up your hive, care for honey bees, and harvest honey with c"
+    },
+    {
+     "name": "Bees Knees: Hive & Beekeeping",
+     "dev": "James Belcher",
+     "ratings": 0,
+     "desc": "Bees Knees is the simple, reliable way to manage your apiaries from the hive side — built for beekeepers, by beekeepers.\nRecord a full hive inspection in seconds with glove-friendly controls: colony s"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    },
+    {
+     "name": "Beekeeper - Digital Workplace",
+     "dev": "Beekeeper AG",
+     "ratings": 17696,
+     "desc": "Beekeeper, the all-in-one Frontline Success System, is transforming the way frontline businesses work. Our mobile-first platform helps companies ditch paper and manual processes to improve employee en"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Apiarist - Beekeeper Assistant",
+     "dev": "Oleg Soloviev",
+     "ratings": 147,
+     "desc": "Manage your apiary easily and professionally  \n\nThis app is designed specifically for beekeepers — from beginners to experienced professionals. It will help you efficiently manage your beekeeping busi"
+    },
+    {
+     "name": "HiveHelp.AI: Beekeeper's App",
+     "dev": "Anthony Ziebell",
+     "ratings": 104,
+     "desc": "Welcome to HiveHelp.AI, your ultimate Beekeeper's App, where technology meets tradition in the art of beekeeping. Let Beek, our AI-powered beekeeping guide, lead you through an enriching journey with "
+    },
+    {
+     "name": "ApiNote: Beekeeping Hive Log",
+     "dev": "Petr Drabek",
+     "ratings": 3,
+     "desc": "ApiNote is a beekeeping hive log and apiary manager built for real work at the bee yard. Keep a complete history for every colony and know what needs attention before your next visit.\n\nHIVE RECORDS TH"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "cosmetology exam",
+   "top": [
+    {
+     "name": "Cosmetology Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 8151,
+     "desc": "Ace your next Cosmetology exam with the help of the new Cosmetology Exam Center app! Thousands of Cosmetology questions and their detailed explanations are now available at your fingertips.\n\nPrepare f"
+    },
+    {
+     "name": "Cosmetology Exam Practice 2026",
+     "dev": "秀娟 周",
+     "ratings": 63,
+     "desc": "Cosmetology Exam Practice 2026 is an application carefully designed and developed by industry exam experts. With more than 800 high-quality questions and answers, multiple test modes, and a scientific"
+    },
+    {
+     "name": "Milady Exam Prep",
+     "dev": "Cengage Learning",
+     "ratings": 1470,
+     "desc": "Preparing for your state board licensing exam doesn't have to be stressful when you use the #1 test prep tool from Milady. Whether you’re studying for Cosmetology, Esthetics, Advanced Esthetics, Barbe"
+    },
+    {
+     "name": "Cosmetology Exam Prep & Test",
+     "dev": "Edu Prep",
+     "ratings": 11,
+     "desc": "Helping you pass your Cosmetology licensing exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first try"
+    },
+    {
+     "name": "COSMETOLOGY Exam Review 2026",
+     "dev": "Prepia Inc",
+     "ratings": 55,
+     "desc": "Prepare for Cosmetology, Esthetician, and Nail Technician licensing exams in one app. Choose the exam track you need and study with practice questions, mock exams, flashcards, detailed explanations, a"
+    },
+    {
+     "name": "Cosmetology State Board Exams",
+     "dev": "PDG APPS SRL",
+     "ratings": 488,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "Cosmetology Exam Prep Test",
+     "dev": "Best Fun Games",
+     "ratings": 533,
+     "desc": "Pass your Cosmetology State Board Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written by experts, d"
+    },
+    {
+     "name": "Cosmetology exam center 2026",
+     "dev": "Chengdu CloudLedger Technology Co., Ltd",
+     "ratings": 46,
+     "desc": "Congratulations! As long as you successfully pass the cosmetology exam 2026.We are committed to developing the cosmetology Test App to help prospective you prepare and review, so that you can easily p"
+    },
+    {
+     "name": "Cosmetology Exam Prep & Review",
+     "dev": "MastrAPI",
+     "ratings": 451,
+     "desc": "Pass your Cosmetology exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nEver wanted "
+    },
+    {
+     "name": "Cosmetology Test Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 182,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the state boards material with 600+ exam-like questions and 300+ flashcards that help you remember more. Get access to over a dozen practice exams that will help you pas"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -6220,6 +6860,30 @@
    "hi": "birthday reminder",
    "lo": "online banking app",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "cosmetology exam prep",
+   "lo": "birthday reminder",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "lab values reference for nurses",
+   "lo": "fasting tracker",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate license exam prep",
+   "lo": "speaker cleaner",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "stud finder",
+   "lo": "multiplayer fps game",
+   "split": "dev"
   }
  ],
  "note": [

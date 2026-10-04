@@ -18,5 +18,21 @@
  "welding written - passrun": {
   "verdict": "brand",
   "note": "PassRun geliştiricisinin kendi app adı; arama o app'e gidiyor, genel bir ihtiyaç değil."
+ },
+ "best farrier": {
+  "verdict": "brand",
+  "note": "Üst sonuç birebir \"Best Farrier\" adlı app; arama o app adına ait, nişin genel ihtiyaç kanıtı yok."
+ },
+ "groomspec: dog grooming guide": {
+  "verdict": "brand",
+  "note": "GroomSpec app'inin tam başlığı; marka araması, genel ihtiyaç değil."
+ },
+ "sommelier india": {
+  "verdict": "brand",
+  "note": "Üst sonuç birebir \"Sommelier India\" app'i; ad araması ve pazar çok küçük."
+ },
+ "nsw geology maps": {
+  "verdict": "reject",
+  "note": "Yeni Güney Galler jeoloji kurumunun resmi harita verisi; kurumsal/kamu ürünü, tek geliştirici için veri ve telif sorunu, çok dar pazar."
  }
 }

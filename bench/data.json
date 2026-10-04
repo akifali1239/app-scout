@@ -5726,6 +5726,172 @@
    ],
    "id": "welding symbols (partial)",
    "split": "train"
+  },
+  {
+   "term": "jet lag",
+   "apps": [
+    {
+     "name": "Timeshifter",
+     "dev": "Timeshifter Inc.",
+     "ratings": 2645,
+     "desc": "Reduce jet lag with personalized plans based on the latest sleep and circadian science. Timeshifter creates a plan for every flight and time zone, tailored to your chronotype, sleep pattern, itinerary"
+    },
+    {
+     "name": "Skiplagged - Travel Hacks",
+     "dev": "Skiplagged LLC",
+     "ratings": 335843,
+     "desc": "We are the original and best hidden city booking engine. Find cheap flights and hotel rates you won’t see anywhere else. Save hundreds of dollars compared to other travel sites.\n\nDiscover extraordinar"
+    },
+    {
+     "name": "Reclock: Jet Lag Planner",
+     "dev": "BetterCampus, Inc.",
+     "ratings": 0,
+     "desc": "Your flights are already on your phone. Your jet lag plan appears automatically.\n\nReclock turns any trip into a clear, personal schedule for sleep, bright light, caffeine, and recovery, so you feel lo"
+    },
+    {
+     "name": "Jetlag - Travel & Timezone",
+     "dev": "Kinokode",
+     "ratings": 42,
+     "desc": "Jetlag is the essential app for travelers who want to anticipate jet lag, organize their days abroad, and visualize their destinations at a glance.\n\n• Clocks and time zones\n\n- Easily compare times bet"
+    },
+    {
+     "name": "JetShift: Skip Jetlag",
+     "dev": "Jannik Obenhoff",
+     "ratings": 1,
+     "desc": "Whether you're a frequent flyer, international traveler, or planning your first long-haul trip, JetShift helps your body adapt to new time zones quickly and efficiently. Say goodbye to sleepless night"
+    },
+    {
+     "name": "Minut Smart Home Sensor",
+     "dev": "Minut, Inc.",
+     "ratings": 51,
+     "desc": "Let Minut be your co-host and care for your home, guests and community. Prevent unauthorized parties in your rental property, secure your home and enhance guest experience.\n\nAbout this app\nGet your Mi"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "direct",
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "ecg interpretation",
+   "apps": [
+    {
+     "name": "ECG EKG Interpretation Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 718,
+     "desc": "The simplest way to learn ECG interpretation. Study on-the-go with ECG strips, full-color graphics, up-to-date information tables, core clinical facts, and never again be confused by a 12-lead ECG or "
+    },
+    {
+     "name": "ECG Pro | Road to Mastery",
+     "dev": "WMS, Inc",
+     "ratings": 3619,
+     "desc": "ECG Pro | 12-Lead ECG Cases & Reference\nReal ECGs. Real cases. Real confidence.\n\nWhether you're a medical student finding your feet or a seasoned clinician keeping your skills sharp, ECG Pro gives you"
+    },
+    {
+     "name": "ECG Trainer: Monitor & 12-Lead",
+     "dev": "Tsunehiro Takeuchi",
+     "ratings": 58,
+     "desc": "Make learning ECGs more enjoyable—and easier to continue.\n\nThis is a new kind of ECG learning app that lets you build your skills through game-like practice.\n\nMonitor ECG Mode includes a wide range of"
+    },
+    {
+     "name": "PMcardio for Individuals",
+     "dev": "Powerful Medical",
+     "ratings": 326,
+     "desc": "PMcardio – AI ECG Interpretation Assistant.\n\nGet instant AI-powered ECG interpretations that offer reassurance anytime, anywhere. Trusted by over 100,000 healthcare professionals, PMcardio provides ra"
+    },
+    {
+     "name": "Géodésie de poche",
+     "dev": "IGN",
+     "ratings": 0,
+     "desc": "A découvrir sans tarder !\nLa \"Géodésie de poche\", c'est un vrai serveur de fiches signalétiques de points géodésiques et de repères de nivellement. Tout le temps, partout, par tout temps...\nCette appl"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "qibla finder",
+   "apps": [
+    {
+     "name": "Qibla Finder, Qibla Compass AR",
+     "dev": "BEKART TECH BILISIM TEKNOLOJI INSAAT TICARET LIMITED SIRKETI",
+     "ratings": 19983,
+     "desc": "•••••••••••••••••••••••••••••••••••••••••••••••••••••••••\n•••  iQibla - The Most Comprehensive App for All Muslims  •••\n•••••••••••••••••••••••••••••••••••••••••••••••••••••••••\n\nWith this totally FRE"
+    },
+    {
+     "name": "Qibla Compass (Kaaba Locator)",
+     "dev": "FATIMA OMER APPS LLC",
+     "ratings": 40262,
+     "desc": "Beautifully designed Qibla Compass application will give you the most accurate Qibla direction up to a degree's precision on a single screen. It includes a beautiful compass needle pointing to North f"
+    },
+    {
+     "name": "Qibla Finder 100% اتجاه القبلة",
+     "dev": "CNT INTERAKTIF BILGI TEKNOLOJILERI YAZILIM SANAYI VE TICARET ANONIM SIRKETI",
+     "ratings": 21682,
+     "desc": "To find Qibla direction, you don't need an internet connection! Low size app that shows 100% Qibla Direction worldwide. Simple & Smart Qibla compass.\n100% Qibla Finder helps muslims to find Qibla dire"
+    },
+    {
+     "name": "Muslim Pro: Quran & Athan",
+     "dev": "Bitsmedia Pte Ltd",
+     "ratings": 599540,
+     "desc": "Muslim Pro is a prayer and Quran app built for Muslims who want to build a consistent daily prayer habit, read and listen to the Quran, and find their Qibla direction anywhere in the world. It's espec"
+    },
+    {
+     "name": "Qibla Finder and Kaaba Compass",
+     "dev": "Senem Cakıroglu",
+     "ratings": 14868,
+     "desc": "Qibla Finder - Kaaba Compass application will help you to find the Kaaba (Qibla) direction quick and accurately where ever you are in the world.\n\nIf you change your location for a vacation or for a bu"
+    },
+    {
+     "name": "Muslim App: Azan, Qibla, Quran",
+     "dev": "Assistant App Teknoloji Anonim Sirketi",
+     "ratings": 88258,
+     "desc": "Join millions who rely on Muslim App, formerly Muslim Assistant, for accurate prayer times, Qibla direction, the Quran, and daily azkar.\n\nWhy Muslim App?\n \n70M+ Users: Trusted by millions of brothers "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct",
+    "mention"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -5987,6 +6153,42 @@
    "dim": "build",
    "hi": "unit converter",
    "lo": "food delivery marketplace",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "ecg interpretation course for paramedics",
+   "lo": "countdown widget",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "surveying fs pe exam prep",
+   "lo": "bible verse of the day",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "ecg interpretation course for nurses",
+   "lo": "blur photo editor",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pharmacology flashcards for nclex",
+   "lo": "silent alarm clock",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "decibel meter",
+   "lo": "video streaming platform like netflix",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "birthday reminder",
+   "lo": "online banking app",
    "split": "test"
   }
  ],

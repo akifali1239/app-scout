@@ -6044,6 +6044,36 @@
    "app": "Stock market news and charts.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Tells patients how many units of warfarin to take each day based on their latest INR blood test result.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Real-money sports betting with deposits and cash payouts.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Stream the latest pirated movies and TV shows for free without the studios' permission.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Flashcards and practice questions for the NCLEX nursing exam.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Calculates recommended welding amperage for common electrodes and plate thicknesses.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Guitar tuner that listens through the microphone and shows the pitch.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -6530,6 +6560,60 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Bubble Level for iPhone",
+    "category": "Utilities",
+    "desc": "NEW and UNIQUE features and functionalities: 1. Classic water-level + Object alignment 2. Angle measurement 3. Surface flatness 4. Metal detection - detect wire inside the wall before drilling it 5. I"
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Guitar Tuner - Simply Tune",
+    "category": "Music",
+    "desc": "World's #1 best-reviewed guitar tuner app! 100% free premium tuner with chords & songs With lots of different instruments to choose from, you can be tuning your guitar, bass or ukulele with fun and ea"
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Decibel X:dB Sound Level Meter",
+    "category": "Utilities",
+    "desc": "\"Decibel X\" is one of very few noise meter apps on the market that has highly reliable, pre-calibrated measurements and supports dBA, dBC. It turns your iOS device into a professional sound level mete"
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ECG EKG Interpretation Mastery",
+    "category": "Medical",
+    "desc": "The simplest way to learn ECG interpretation. Study on-the-go with ECG strips, full-color graphics, up-to-date information tables, core clinical facts, and never again be confused by a 12-lead ECG or "
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Instant ECG - Mastery of EKG",
+    "category": "Medical",
+    "desc": "Instant ECG was designed as an ECG / EKG / Electrocardiogram guide for physicians, nurses, paramedics and other health care professionals. It is an excellent learning tool as well as a quick reference"
+   },
+   "label": "reference",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Stud Finder App: Wall Scanner",
+    "category": "Utilities",
+    "desc": "Before you drill, know what's behind the wall. Stud Finder uses your phone's built-in magnetometer to detect metal hidden in your walls — the nails and screws that mark a stud's edge, and the pipes, r"
+   },
+   "label": "utility",
+   "split": "train"
   }
  ]
 }

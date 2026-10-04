@@ -7,7 +7,8 @@
    {
     "task": "Classify the App Store search query `search_term` by what the searcher wants.",
     "hint": "Names of clinics, companies, publishers or specific apps mean they want that one entity; plain topic words mean a need that any good app could serve."
-   }
+   },
+   "Decide what the person typing `search_term` wants. If the words identify one particular company, publisher, app, clinic or practice (even when built from ordinary words, or ending in LLC, PC, Inc or a city), they want that one entity. If the words only describe a topic, task, exam or tool that many apps could serve, they want a need. Use `top_results` only as supporting evidence."
   ],
   "criteria": [
    {

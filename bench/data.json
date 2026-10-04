@@ -4517,6 +4517,670 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "tinozzi chiropractic & massage",
+   "top": [
+    {
+     "name": "Tinozzi Chiropractic & Massage",
+     "dev": "Tinozzi Chiropractic INC",
+     "ratings": 0,
+     "desc": "Tinozzi Chiropractic & Massage Studio- Personalized Care for Pain Relief and Wellness\n\nEasily book chiropractic treatments, therapeutic massage, and wellness services at Tinozzi Chiropractic & Massage"
+    },
+    {
+     "name": "Massage Envy",
+     "dev": "Massage Envy",
+     "ratings": 52658,
+     "desc": "With the Massage Envy app, access to routine self-care is literally in your hands. Find your favorite massage therapist, stretch provider, or esthetician at any franchised location and easily book a m"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Zeel In-Home Massage Therapist",
+     "dev": "Zeel",
+     "ratings": 10762,
+     "desc": "Book massage therapy for pain relief, athletic recovery, or relaxation to your home, hotel, or office. Health and wellness have never been more accessible or essential to your well-being.\n\nNamed one o"
+    },
+    {
+     "name": "Bigtoe: Massage On Demand",
+     "dev": "BigToe",
+     "ratings": 2356,
+     "desc": "Book an in-home Massage session in seconds!\n\nSay goodbye to back-and-forth. Get a professional massage delivered to your door with just a few taps. \n\nHow it works:\n\nCreate Request\nChoose your preferre"
+    },
+    {
+     "name": "Soothe: Wellness On Demand",
+     "dev": "Soothe LLC",
+     "ratings": 13607,
+     "desc": "Spa-quality wellness and personal care services delivered to you, on your schedule –– at home, at the office, or on the go.\n\nSoothe is the largest and most trusted on-demand wellness platform in the w"
+    },
+    {
+     "name": "Squeeze - Massage",
+     "dev": "GoSaga Squeeze Franchising, LLC",
+     "ratings": 1997,
+     "desc": "Squeeze is a way better massage experience. Why? Because unlike other massage places, you can book, pay, and tip right in the app—so after your massage, you can just float on out. No cashier, no regis"
+    },
+    {
+     "name": "Perfect mobile massager +",
+     "dev": "Ryuichi Tanaka",
+     "ratings": 25248,
+     "desc": "**********************************************\nPlease spend a good day with this App!\n**********************************************\n\nNew mobile massager Debut !!\nPlease have a wonderful life with thi"
+    },
+    {
+     "name": "Best Massages | Vibe",
+     "dev": "CODEPAD YAZILIM VE DIJITAL HIZMETLER LIMITED SIRKETI",
+     "ratings": 217,
+     "desc": "Simple Massager & Vibration App!\n\nMassager may be a idealize versatile massager, that gives​ you joy. Fair introduce, select your pattern, start vibrate button and appreciate. This application contain"
+    },
+    {
+     "name": "Massage at home | Urban",
+     "dev": "Urban Massage Ltd",
+     "ratings": 610,
+     "desc": "Relax, you’re home.\nUrban brings a human touch to city life – with massage, beauty and wellness treatments delivered to your door in as little as 60 minutes.\n\nChoose from over 50 services, including d"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "hobart welding calculator",
+   "top": [
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades i"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Weight calculator for metals",
+     "dev": "Electronial",
+     "ratings": 263,
+     "desc": "Weight Calculator For Metals is a metal weight calculator that lets you calculate the mass or length and price of many different shapes of metals. You can choose between many metals or add your own. \n"
+    },
+    {
+     "name": "SSAB WeldCalc",
+     "dev": "SSAB AB",
+     "ratings": 5,
+     "desc": "The SSAB WeldCalc app is a simplified version of the advanced SSAB WeldCalc desktop pro version.\n \nBased on the welding method, the welding joint, steel grades and thicknesses, it gives you the result"
+    },
+    {
+     "name": "Harbor Freight Tools",
+     "dev": "Harbor Freight Tools",
+     "ratings": 233400,
+     "desc": "HARBOR FREIGHT COUPONS\nFind the latest coupons, instant savings, Inside Track Club member deals, and more with the Harbor Freight Tools app.\n \nSHOP\nBrowse the latest tools, watch them in action with o"
+    },
+    {
+     "name": "OneCalc: All-in-one Calculator",
+     "dev": "tasser gyati",
+     "ratings": 5092,
+     "desc": "All-in-one Calculator is a free calculator app for iPhone and iPad featuring over 40+ calculators and unit converters categorized under finance, health, date & time, construction, shopping and everyda"
+    },
+    {
+     "name": "WeldConnect",
+     "dev": "Fronius International GmbH",
+     "ratings": 17,
+     "desc": "WeldConnect, the new welding app from Fronius, provides you with a whole host of options for functional use and wireless interaction with the current generation of Fronius systems in many different la"
+    },
+    {
+     "name": "EXATON Welding Guide",
+     "dev": "ESAB Group Inc",
+     "ratings": 3,
+     "desc": "Welding Handbook from Exaton: a quick, easy and useful in your pocket tool!\n\nFor those working with welding or interested in welding technology, in our Welding Handbook you will find a welding grade s"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "kmk optometry",
+   "top": [
+    {
+     "name": "KMK Optometry Pages",
+     "dev": "KMK Optometry",
+     "ratings": 6,
+     "desc": "\"KMK AI Reader is your all-in-one study companion—designed to help you learn more efficiently and engage with your content like never before.\n\nAccess your full library of KMK digital textbooks and mat"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "OptoPrep - NBEO® Part I",
+     "dev": "XPrep Learning Solutions, Inc",
+     "ratings": 18,
+     "desc": "Study smarter with the perfect balance of questions, content, and tools. It's your secret weapon to passing the NBEO®!\n\nNOTE: This app is a companion to our online course. You can download and make us"
+    },
+    {
+     "name": "The Wills Eye Manual",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 126,
+     "desc": "\"Try before you buy\" - Download the FREE App, which includes sample content. In-App purchase required to unlock all content.\n\nThe Wills Eye Manual®, 9th Edition is the ultimate pocket guide for eye ca"
+    },
+    {
+     "name": "Optometry Boards Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "You are one exam away from becoming a licensed optometrist.\n\nThe NBEO® Part 1 is comprehensive and demanding. It covers the full depth of optometry science. Walking in underprepared is not an option.\n"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "KMK Livestream",
+     "dev": "KMK Optometry",
+     "ratings": 0,
+     "desc": "KMK Livestream makes it effortless to share your screen directly to your KMK livestream event. Present slides, demo, or showcase resources in real time with a clear, reliable broadcast.\n\nSimply log in"
+    },
+    {
+     "name": "AAO Ophthalmic Education",
+     "dev": "American Academy of Ophthalmology, Inc.",
+     "ratings": 18,
+     "desc": "The AAO Ophthalmic Education app offers free, easy access to clinical content from the American Academy of Ophthalmology, your source for the most trusted and reliable information on eye disorders and"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "Ophthalmology & Optometry",
+     "dev": "My Call Bag LLC",
+     "ratings": 120,
+     "desc": "Designed for healthcare professionals, this app transforms your iPhone into a comprehensive digital call bag, utilizing the True Depth Camera, gyroscope, and accelerometer.\n\nOphthalmology Tools\n• Dist"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "voltpro electrician kit",
+   "top": [
+    {
+     "name": "Master Electrician Ref. Lite",
+     "dev": "PawEng, LLC",
+     "ratings": 2522,
+     "desc": "Master Electrician Reference Lite (or MER Lite for short) is your electronic pocket electrician reference guide. \n\nMER Lite is for electrical designers, engineers, installers, contractors, facility ma"
+    },
+    {
+     "name": "Electrician Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 173,
+     "desc": "Electrician Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,200 high quality test questions and answer explanations, multiple test"
+    },
+    {
+     "name": "Electrician's Sidekick",
+     "dev": "IDEAL INDUSTRIES, INC",
+     "ratings": 18,
+     "desc": "Tired of juggling multiple calculators and reference guides on the job? The Electrician's Sidekick app from IDEAL Electrical is a free tool that combines the functions of many electrical calculators i"
+    },
+    {
+     "name": "Electrician Handy Tool",
+     "dev": "Handy Tool LLC",
+     "ratings": 23,
+     "desc": "A handy conduit bending, calculating and quick reference all-in-one tool for Electricians.\n\nMaking electrical work easier is our goal.\n\n- Voltage drop calculator: determines wire size to meet NEC volt"
+    },
+    {
+     "name": "Electrical Wiring Simulator",
+     "dev": "Louie Juera",
+     "ratings": 395,
+     "desc": "Electrical Wiring Simulator is a hands-on circuit simulator for electrician training, apprentices, and TVET students. Practice DC and AC wiring, relays, motors, and Arduino circuits on your phone—safe"
+    },
+    {
+     "name": "Electrician Handbook — Basics",
+     "dev": "Sergey Vavaev",
+     "ratings": 1019,
+     "desc": "Electrician’s Handbook — an app for electricians, students, and installers.\nTheory, diagrams, and calculators in one place.\nWorks offline. No ads. No subscriptions.\n\n— Theory\nA variety of topics in el"
+    },
+    {
+     "name": "NEC Journeyman Electrician",
+     "dev": "Lumeon Technologies, LLC",
+     "ratings": 133,
+     "desc": "Pass Your Journeyman Electrician Exam with CertifyIQ\n\nIncludes NEC 2020, 2023, and 2026 code references.\n\nMaster your journeyman electrician exam on the first try with CertifyIQ. Designed for apprenti"
+    },
+    {
+     "name": "Ugly's Electrical References",
+     "dev": "Informed Publishing",
+     "ratings": 1500,
+     "desc": "The Ugly's Electrical References App has been updated to reflect changes to the 2026 National Electrical Code (NEC) and the 2026 Edition of our popular Ugly’s Electrical References book. The Ugly’s Ap"
+    },
+    {
+     "name": "NEC Electrician Exam Prep 2026",
+     "dev": "Edu Prep",
+     "ratings": 92,
+     "desc": "Helping you pass your Journeyman Electrician certification exams is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam "
+    },
+    {
+     "name": "VoltPro Electrician Kit",
+     "dev": "PT Zanova Digital Teknologi",
+     "ratings": 0,
+     "desc": "VoltPro is a complete electrician's toolkit: 23 calculators, a quotation generator and a panel schedule builder, designed to be used on the job — even with gloves on.\n\nCALCULATORS\nCore: Ohm's Law, Wir"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pilot flying j",
+   "top": [
+    {
+     "name": "Pilot",
+     "dev": "Pilot Flying J",
+     "ratings": 220348,
+     "desc": "Whether you're fueling up, grabbing a bite, or earning rewards, the Pilot™ app is your wingman for the road ahead. \n\nWhatever you drive, see how the Pilot app can help you get the most out of every st"
+    },
+    {
+     "name": "PilotCo",
+     "dev": "Pilot Flying J",
+     "ratings": 241,
+     "desc": "The PilotCo app is the easiest way for Pilot Company fans to keep up with the latest news, real-time updates, and career opportunities for the Pilot Company family of brands. \n\nPilotCo gives you:\n• Ur"
+    },
+    {
+     "name": "Love's Rewards",
+     "dev": "Love's Travel Stops & Country Stores, Inc.",
+     "ratings": 5979,
+     "desc": "Find your favorite Love’s Travel Stops, check your Love's Rewards account, secure the next shower with Mobile Shower Check In, activate commercial fuel pumps with Love’s Mobile Pay, view transaction a"
+    },
+    {
+     "name": "Google Maps",
+     "dev": "Google",
+     "ratings": 7393639,
+     "desc": "Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling, and public transport. Discover"
+    },
+    {
+     "name": "Trucker Path: Truck GPS & Fuel",
+     "dev": "Trucker Path Inc.",
+     "ratings": 153628,
+     "desc": "North America’s most popular app for Truckers. BUILT FOR TRUCKERS, BY TRUCKERS! Get all trucker tools in one FREE APP! Best Trucking APP featured by truckers! Trucker Path is a mapping tool used by mo"
+    },
+    {
+     "name": "Weigh My Truck",
+     "dev": "CAT Scale Company",
+     "ratings": 168,
+     "desc": "Attention Professional Drivers! Save time weighing your load! The CAT Scale Weigh My Truck app offers you the convenience of weighing your truck and paying for the weigh, all from your iPhone or iPad,"
+    },
+    {
+     "name": "QuikTrip: Coupons, Fuel, Food",
+     "dev": "QuikTrip",
+     "ratings": 28162,
+     "desc": "QuikTrip: food, gas, coupons\nOrder ahead. Exclusive offers.\n\nMake your QT run even faster and easier. Order snacks, drinks & fresh food for curbside delivery or in-store pickup. \n\nMobile Order & Pay\nO"
+    },
+    {
+     "name": "Blue Beacon Truck Wash",
+     "dev": "Blue Beacon, Inc.",
+     "ratings": 14014,
+     "desc": "The Nation’s Largest Truck Wash app will help you locate, map and navigate to the nearest Blue Beacon Truck Wash.  Search for a location near you or search by the special services you love.  With over"
+    },
+    {
+     "name": "TruckSmart ™",
+     "dev": "Travelcenters of America",
+     "ratings": 18570,
+     "desc": "TruckSmart is now earnify™pro.\n \nearnifypro delivers a faster, more intuitive way to manage your rewards, track activity, and get more from every interaction at TA, Petro Stopping Centers and TA Expre"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "welding test",
+   "top": [
+    {
+     "name": "Welding Quiz & AWS Study Guide",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 4,
+     "desc": "Master all essential topics Welding with Fun and Engaging Quizzes! \n\nDive into the world of Welding with our comprehensive quiz app, designed to boost your knowledge, confidence, and skills. Whether y"
+    },
+    {
+     "name": "CWE Welding Educator Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 1,
+     "desc": "Prepare for success with our Welding Educator Exam Prep 2025 app. This essential study companion helps you gain the knowledge and skills required to pass the CWE exam and advance your career in weldin"
+    },
+    {
+     "name": "AWS CWS Welding Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare for success with our Welding Supervisor Exam Prep Mastery 2025 app. This essential study companion helps you build the knowledge and skills required to pass the certification exam and advance "
+    },
+    {
+     "name": "Weld It 3D",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 20504,
+     "desc": "Weld, smooth and paint objects to your heart's content! Each level is designed as a relaxing puzzle. First you have to weld the objects from their seperation areas, than rand the excess weld and lastl"
+    },
+    {
+     "name": "AWS CWI Exam Test Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 4,
+     "desc": "Prepare for success in your welding career with the AWS CWI Exam Test Prep 2026 app. Whether you’re an experienced welder or just starting your journey toward Certified Welding Inspector (CWI) certifi"
+    },
+    {
+     "name": "CWI Exam Prep",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 6,
+     "desc": "Master all essential topics for your Certified Welding Inspector(CWI) exam with Fun and Engaging Quizzes! \n\nDive into the world of CWI with our comprehensive quiz app, designed to boost your knowledge"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Harbor Freight Tools",
+     "dev": "Harbor Freight Tools",
+     "ratings": 233400,
+     "desc": "HARBOR FREIGHT COUPONS\nFind the latest coupons, instant savings, Inside Track Club member deals, and more with the Harbor Freight Tools app.\n \nSHOP\nBrowse the latest tools, watch them in action with o"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "AWS-CWI Practices and Exams",
+     "dev": "Nguyen Hieu",
+     "ratings": 6,
+     "desc": "This Free version only has 30 basic questions to show you the general view of the app. The full ExamGuider version includes more than 1000 questions that cover the whole sections of AWS- CWI exams. Yo"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy order of draw",
+   "top": [
+    {
+     "name": "Phlebotomy Order of Draw",
+     "dev": "Anil Gullapalli",
+     "ratings": 10,
+     "desc": "Phlebotomy Order of Draw is the fast, reliable reference tool for phlebotomists, nurses and lab professionals- built around CLSI GP41 guidelines.\n\n  Search any lab test by name and instantly get the c"
+    },
+    {
+     "name": "Mobile Phlebotomy App",
+     "dev": "Do-Ya Medical Services, LLC",
+     "ratings": 0,
+     "desc": "Mobile Phlebotomy App is the all-in-one operations app for mobile phlebotomy businesses — the owners and staff who draw labs at patients' homes and offices.\n\nRun your whole operation from one screen:\n"
+    },
+    {
+     "name": "Phlebotomy Prep: CPT Exam 2026",
+     "dev": "Deeun Inc.",
+     "ratings": 1,
+     "desc": "PHLEBOTOMY PREP: YOUR CPT CERTIFICATION COMPANION\n\nThe order of draw can make or break your career. Learn it the right way with our interactive simulator.\n\nORDER OF DRAW SIMULATOR\n\nWrong order means c"
+    },
+    {
+     "name": "Phlebotomy Toolkit",
+     "dev": "Vaughn NextGen Education LLC",
+     "ratings": 10,
+     "desc": "Find test and tube guidance, review collection steps, and build your knowledge in one offline app.\n\nPhlebotomy Toolkit brings visual reference, workflow checklists, and study practice together for phl"
+    },
+    {
+     "name": "Phlebotomy Technician Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Prepare for the NHA Certified Phlebotomy Technician (CPT) exam with hundreds of realistic practice questions covering venipuncture, order of draw, specimen handling, safety, anatomy, and patient care."
+    },
+    {
+     "name": "NHA",
+     "dev": "MastrAPI",
+     "ratings": 427,
+     "desc": "Pass your NHA CPT Exam with flying colors! Updated for the 2026 exam cycle, boost your confidence in passing on the first attempt with our mobile app and a personal study plan based on your current sk"
+    },
+    {
+     "name": "Phlebotomy Test",
+     "dev": "Danila Danilenko",
+     "ratings": 56,
+     "desc": "Features:\n\n - Comprehensive question bank covering all exam categories, with detailed answers for thorough preparation.\n - Easy navigation through categories for focused study on specific topics.\n - E"
+    },
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals natio"
+    },
+    {
+     "name": "Phlebotomy Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 423,
+     "desc": "Get fully prepared to earn your Phlebotomy Technician certification with the all-in-one Phlebotomy Practice Test app — your personal study coach for passing the exam with ease and confidence. Trusted "
+    },
+    {
+     "name": "NHA CPT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 128,
+     "desc": "NHA CPT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,000 high-quality test questions and answer explanations, multiple test mod"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "electrician license exam 2026",
+   "top": [
+    {
+     "name": "Electrician License Exam 2026",
+     "dev": "Md Tariqul Islam",
+     "ratings": 0,
+     "desc": "Prepare for the Journeyman Electrician licensing exam with the most comprehensive study tool. Our app covers all essential topics – Electrical Theory, NEC/IEC code regulations, Wiring practices, Equip"
+    },
+    {
+     "name": "Electrician Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 104,
+     "desc": "Help you prepare for the Journeyman Electrician license exam and pass it on your first attempt at the actual exam! Use the mobile app Electrician Exam Prep 2026 developed by our exam experts to help p"
+    },
+    {
+     "name": "NEC Journeyman Electrician",
+     "dev": "Lumeon Technologies, LLC",
+     "ratings": 133,
+     "desc": "Pass Your Journeyman Electrician Exam with CertifyIQ\n\nIncludes NEC 2020, 2023, and 2026 code references.\n\nMaster your journeyman electrician exam on the first try with CertifyIQ. Designed for apprenti"
+    },
+    {
+     "name": "Journeyman Electrician (2025)",
+     "dev": "Nilu Rathod",
+     "ratings": 299,
+     "desc": "An application to prepare and practice for the written exam conducted by states for journeyman electricians to be certified or licensed.\n\nDo you want to become a certified or licensed journeyman elect"
+    },
+    {
+     "name": "CDL Prep",
+     "dev": "Jeffrey Diaz",
+     "ratings": 6924,
+     "desc": "CDL Prep is the best way to prepare for the Commercial Drivers License General Knowledge, and various endorsement exams. CDL Prep contains questions on the following topics: General Commercial, Air Br"
+    },
+    {
+     "name": "Real Estate Exam For Dummies",
+     "dev": "Higher Learning Technologies",
+     "ratings": 8307,
+     "desc": "PASS your Real Estate Exam guaranteed, or get triple your money back! \n\nAre you ready to ace your Real Estate License exam on the first try? Real Estate For Dummies is here to ensure your success! Wit"
+    },
+    {
+     "name": "TradePrep: License Exam Prep",
+     "dev": "Shanghai Xushu Information Technology Co., Ltd.",
+     "ratings": 0,
+     "desc": "Pass your trade licensing or certification exam on the first try — seven exams across five trades, all in one app.\n\nEXAMS COVERED\n• General Contractor — NASCLA (16+ states), Florida, California\n• Jour"
+    },
+    {
+     "name": "NEC Electrical Exam by Dakota",
+     "dev": "Blue Collar Labs Inc.",
+     "ratings": 486,
+     "desc": "Looking to pass your NEC Electrical Exam? Get started with free NEC electrical exam practice questions to help you prepare for your Journeyman, Master Electrician, or Electrical Contractor exam. Our a"
+    },
+    {
+     "name": "Electrician Test Practice 2026",
+     "dev": "Prepia Inc",
+     "ratings": 54,
+     "desc": "Developed by experienced educators and based on proven study methods, our NASCLA Journeyman Electrician Exam Prep App is recommended by top instructors nationwide! \n\nStudy anytime, anywhere. Try it fr"
+    },
+    {
+     "name": "Dearborn Real Estate Exam Prep",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13113,
+     "desc": "The #1 Real Estate Exam study tool! Pass your exams with our 500+ questions, quizzes, flashcards, and updated content.\n\nDearborn Real Estate has helped millions earn their Real Estate License. And you"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "hvac flashcards",
+   "top": [
+    {
+     "name": "HVAC Flashcards",
+     "dev": "Mau Nguyen",
+     "ratings": 6,
+     "desc": "How to study effectively?\nDo you want to succeed in exams?\n\nUsing Heating, Ventilation, Air Conditioning  Flashcards will help you learn faster and remember more in a shorter time by showing flashcard"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "EPA 608 Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 2627,
+     "desc": "Get ready to pass your EPA Section 608 Certification Exam with confidence! The EPA 608 Practice Test app helps HVAC technicians and students prepare for Core, Type I, Type II, Type III, and Universal "
+    },
+    {
+     "name": "HVAC practice test",
+     "dev": "Hung Nguyen",
+     "ratings": 443,
+     "desc": "With HVAC Test Pro, you can study with our Free HVAC practice tests, flashcards, and score reports with detailed analytics. Best of all, you can access these features anywhere and anytime when you dow"
+    },
+    {
+     "name": "CE HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 1590,
+     "desc": "CE HVAC PRO is 100% free for HVAC technicians and always will be. Easily check warranty entitlement, available inventory, order status, manuals, and tech specs for all the HVAC models we carry. Our mi"
+    },
+    {
+     "name": "EPA 608 HVAC Test Prep",
+     "dev": "Md Tariqul Islam",
+     "ratings": 0,
+     "desc": "Get certified with confidence using the ultimate EPA 608 practice app!\nThis powerful tool is built for HVAC professionals who want an efficient, mobile-first way to pass their EPA 608 certification. W"
+    },
+    {
+     "name": "HVAC Exam Prep: NATE Practice",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Master the HVAC technician and NATE-style exams the smart way — beyond EPA 608.\n\nHVAC Exam Prep: NATE turns scattered, outdated study material into one fast, focused app with 1,100+ original practice "
+    },
+    {
+     "name": "SkillCat: EPA 608 & HVAC",
+     "dev": "SkillCat Inc",
+     "ratings": 9986,
+     "desc": "SkillCat helps you build trade skills, earn certifications, and move your career forward - all from your phone.\n\nNo classroom.\nNo big bill.\nNo waiting around for someone to give you permission.\n\nJust "
+    },
+    {
+     "name": "HVAC School",
+     "dev": "Kalos Services Inc.",
+     "ratings": 85,
+     "desc": "The app that helps you remember some things you forgot along the way, as well as helps you remember some things you forgot to know in the first place.\n\nFor all current and aspiring HVAC technicians: H"
+    },
+    {
+     "name": "HVAC Mastery",
+     "dev": "arjan qema",
+     "ratings": 2,
+     "desc": "HVAC Mastery is the hands-on study companion for anyone learning the heating, ventilation, air conditioning, and refrigeration trade — from first-year apprentices to experienced technicians brushing u"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "surveying practice",
+   "top": [
+    {
+     "name": "Surveying Practice",
+     "dev": "Manish Kumar",
+     "ratings": 0,
+     "desc": "Surveying Practice is an educational application designed to help students understand and practice the fundamental principles of surveying used in civil engineering and land measurement. The app empha"
+    },
+    {
+     "name": "Azimuth Prep",
+     "dev": "Azimuth Education LLC",
+     "ratings": 5,
+     "desc": "Azimuth Prep is the study app built for land surveyors preparing for NCEES and state licensing exams. Whether you're taking the Fundamentals of Surveying (FS), Principles and Practice of Surveying (PS"
+    },
+    {
+     "name": "Hover: Measure Design Estimate",
+     "dev": "Hover Inc.",
+     "ratings": 3050,
+     "desc": "Hover is the property intelligence platform that turns a scan of any residential or commercial property into high-quality 3D data, complete with accurate measurements, structured documentation, and re"
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    },
+    {
+     "name": "Land id®",
+     "dev": "MapRight, LLC",
+     "ratings": 4206,
+     "desc": "Land id® turns AI-driven parcel insights into shareable property stories that drive real estate decisions. Explore properties, parcel boundaries, land ownership, and data nationwide. Showcase and mark"
+    },
+    {
+     "name": "ArcGIS Survey123",
+     "dev": "ESRI",
+     "ratings": 216,
+     "desc": "Smart forms and surveys for digital data collection.\n\nArcGIS Survey123 helps mobile workers collect field data with speed and precision. Capture location-aware survey responses anytime, anywhere—even "
+    },
+    {
+     "name": "Planimeter for map measure",
+     "dev": "忠 张",
+     "ratings": 856,
+     "desc": "How many acres is your property?\n\nWhat is the straight-line distance between Los Angeles and Las Vegas?\n\nHow large is Central Park?\n\nHow much roof space is available for a solar installation?\n\nMap Mea"
+    },
+    {
+     "name": "FieldCalc - GPS Area Measure",
+     "dev": "Pravin Gondaliya",
+     "ratings": 10257,
+     "desc": "Need to measure your land, field, or yard? FieldCalc - GPS Area Measure gives you a simple and powerful way to calculate area and distance right from your phone using GPS.\n\nWhether you are a farmer pl"
+    },
+    {
+     "name": "CamToPlan - AR tape measure",
+     "dev": "Tasmanic Editions",
+     "ratings": 16618,
+     "desc": "Measure anything with CamToPlan! Horizontally and vertically! Length, distance, area of any surface… Measure everything with this virtual ruler and tape measure thanks to augmented reality. \n\nMeasurin"
+    },
+    {
+     "name": "GPS Land Measurement & Survey",
+     "dev": "LogiSian Technology Solutions",
+     "ratings": 3006,
+     "desc": "GPS Area Measure - Mapulator is a powerful measurement app for iPhone designed for professionals and individuals who need field area measurements, GPS measure distance, and land surveying tools. Wheth"
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

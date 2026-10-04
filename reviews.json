@@ -14,5 +14,9 @@
  "machinist journeyman": {
   "verdict": "brand",
   "note": "smartcalculations'ın mevcut app'inin adı; arama o app'e gidiyor olabilir. Makinist referans nişi CNC hesaplayıcılarla dolu (The Phillips Machinist 393 yorum)."
+ },
+ "welding written - passrun": {
+  "verdict": "brand",
+  "note": "PassRun geliştiricisinin kendi app adı; arama o app'e gidiyor, genel bir ihtiyaç değil."
  }
 }

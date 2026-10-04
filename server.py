@@ -807,7 +807,7 @@ def start_job(kind, fn, *args):
 # Heavy jobs run in GitHub Actions (.github/workflows/scout.yml) on a schedule, even when the Mac is off.
 # The Mac runs only the labelling UI and syncs: it pushes MAC_FILES, Actions pushes the rest -> no conflicts.
 GITHUB_MODE = os.environ.get("SCOUT_GITHUB") == "1"
-MAC_FILES = ["labels.json", "notes.json", "ads.json", "hidden.json", "wordvec.tsv", "reviews.json"]
+MAC_FILES = ["labels.json", "notes.json", "ads.json", "hidden.json", "wordvec.tsv"]   # reviews.json: cloud brain
 GH = {"run": "", "last_sync": ""}
 
 
@@ -965,11 +965,13 @@ class H(BaseHTTPRequestHandler):
         if self.path == "/api/scoreboard":
             board = load("bench/scoreboard.json", {})
             board.pop("raw", None)
-            try:
-                lines = open(DP("bench/audit.jsonl")).read().splitlines()
-                board["audit"] = [json.loads(x) for x in lines if '"action": "trial"' not in x][-60:][::-1]
-            except FileNotFoundError:
-                board["audit"] = []
+            lines = []
+            for f in ("bench/audit.jsonl", "bench/audit_brain.jsonl"):   # optimizer + cloud brain, merged by time
+                try:
+                    lines += [json.loads(x) for x in open(DP(f)).read().splitlines() if '"action": "trial"' not in x]
+                except FileNotFoundError:
+                    pass
+            board["audit"] = sorted(lines, key=lambda e: e.get("ts", ""))[-80:][::-1]
             reg = jev.registry() or {}
             board["prod"] = {cap: {"prod": c["prod"], "origin": [c["versions"][v].get("origin") for v in c["prod"]]}
                              for cap, c in reg.get("caps", {}).items()}

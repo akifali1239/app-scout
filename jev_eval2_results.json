@@ -1,0 +1,214 @@
+{
+ "brand": {
+  "n": 36,
+  "old_intent_acc": 0.6388888888888888,
+  "new_brand_q_acc": 0.6944444444444444,
+  "new_no_evidence_acc": 0.6388888888888888,
+  "new_errors": [
+   [
+    "speech therapy delhi",
+    "brand",
+    0.08
+   ],
+   [
+    "rmsks sonography exam prep",
+    "need",
+    0.56
+   ],
+   [
+    "dental assistant - dental plan",
+    "brand",
+    0.23
+   ],
+   [
+    "pharmacy technician letter",
+    "brand",
+    0.04
+   ],
+   [
+    "paramedic coach",
+    "brand",
+    0.06
+   ],
+   [
+    "guide to clinical midwifery",
+    "brand",
+    0.15
+   ],
+   [
+    "audiology a.i.",
+    "brand",
+    0.41
+   ],
+   [
+    "massage therapy notes - needle",
+    "brand",
+    0.44
+   ],
+   [
+    "align functional movement & massage therapy",
+    "brand",
+    0.15
+   ],
+   [
+    "hinge health",
+    "brand",
+    0.09
+   ],
+   [
+    "miller weld setting calculator",
+    "brand",
+    0.29
+   ]
+  ],
+  "old_errors": [
+   [
+    "welding written - passrun",
+    "brand",
+    "need"
+   ],
+   [
+    "speech therapy delhi",
+    "brand",
+    "need"
+   ],
+   [
+    "dental assistant - dental plan",
+    "brand",
+    "need"
+   ],
+   [
+    "pharmacy technician letter",
+    "brand",
+    "need"
+   ],
+   [
+    "paramedic coach",
+    "brand",
+    "need"
+   ],
+   [
+    "guide to clinical midwifery",
+    "brand",
+    "need"
+   ],
+   [
+    "smart optometry",
+    "brand",
+    "need"
+   ],
+   [
+    "audiology a.i.",
+    "brand",
+    "need"
+   ],
+   [
+    "massage therapy notes - needle",
+    "brand",
+    "need"
+   ],
+   [
+    "align functional movement & massage therapy",
+    "brand",
+    "need"
+   ],
+   [
+    "woodcheck: carpentry checklist",
+    "brand",
+    "need"
+   ],
+   [
+    "hinge health",
+    "brand",
+    "need"
+   ],
+   [
+    "miller weld setting calculator",
+    "brand",
+    "need"
+   ]
+  ]
+ },
+ "user_labels": {
+  "n": 47,
+  "good": 38,
+  "auc_prior_only": 0.365,
+  "auc_learned_loo": 0.38,
+  "auc_single_feature": {
+   "audience": 0.424,
+   "pay": 0.601,
+   "build": 0.148,
+   "risk": 0.548
+  }
+ },
+ "popularity": {
+  "n": 80,
+  "spearman_vs_autocomplete_proxy": 0.289
+ },
+ "turkish": {
+  "rival_acc": 1.0,
+  "rival_rows": [
+   [
+    "Kaynak Sembolleri Rehberi",
+    1,
+    0.94
+   ],
+   [
+    "Kaynak Hesaplayıcı",
+    0,
+    0.13
+   ],
+   [
+    "Fener",
+    0,
+    0.03
+   ],
+   [
+    "Sembol Klavyesi",
+    0,
+    0.08
+   ],
+   [
+    "Akupunktur Atlası",
+    1,
+    0.96
+   ],
+   [
+    "Masaj Randevu",
+    0,
+    0.03
+   ],
+   [
+    "Yemek Tarifleri",
+    0,
+    0.02
+   ]
+  ],
+  "intent": {
+   "kaynak sembolleri (need)": "need",
+   "akupunktur noktaları (need)": "need",
+   "ehliyet sınav soruları (need)": "need",
+   "trendyol (brand)": "brand",
+   "acıbadem hastanesi (local)": "local_business"
+  }
+ },
+ "partial": [
+  [
+   "suite (symbols is a full feature)",
+   0.79
+  ],
+  [
+   "exam prep that covers symbols",
+   0.48
+  ],
+  [
+   "broader topic",
+   0.47
+  ]
+ ],
+ "usage": {
+  "calls": 160,
+  "input_tokens": 91725,
+  "cost_usd": 0.0039
+ }
+}

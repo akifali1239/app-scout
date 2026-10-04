@@ -1,0 +1,118 @@
+{
+ "intent": {
+  "acc": 0.925,
+  "n": 40,
+  "errors": [
+   [
+    "sublux",
+    "need",
+    "brand",
+    0.47000000000000003
+   ],
+   [
+    "hinge health",
+    "brand",
+    "need",
+    0.73
+   ],
+   [
+    "miller weld setting calculator",
+    "brand",
+    "need",
+    0.91
+   ]
+  ],
+  "need_recall": 0.9375
+ },
+ "rivals": {
+  "acc": 1.0,
+  "n": 44,
+  "by_kind": {
+   "direct": 1.0,
+   "adjacent": 1.0,
+   "mention": 1.0,
+   "unrelated": 1.0
+  },
+  "errors": [],
+  "mean_p": {
+   "direct": 0.932,
+   "adjacent": 0.066,
+   "mention": 0.122,
+   "unrelated": 0.043
+  }
+ },
+ "robust": {
+  "shuffle_mean": 0.009523809523809521,
+  "shuffle_max": 0.039999999999999994,
+  "pad_mean": 0.01428571428571429,
+  "pad_max": 0.04000000000000001,
+  "filler_false_pos": 0,
+  "repeat_max": 0.010000000000000009,
+  "pos_first": 0.97,
+  "pos_last": 0.96
+ },
+ "injection": {
+  "direct_p": 0.97,
+  "evil_p": [
+   0.02,
+   0.03,
+   0.05
+  ],
+  "fooled": 0
+ },
+ "risk": {
+  "acc": 1.0,
+  "n": 20,
+  "errors": [],
+  "risky_mean": 0.8624999999999999,
+  "safe_mean": 0.08
+ },
+ "pairs": {
+  "audience": {
+   "acc": 1.0,
+   "errors": [],
+   "margin": 0.7668333333333334
+  },
+  "pay": {
+   "acc": 1.0,
+   "errors": [],
+   "margin": 0.8591666666666666
+  },
+  "build": {
+   "acc": 1.0,
+   "errors": [],
+   "margin": 0.7566666666666666
+  }
+ },
+ "notes": {
+  "acc": 1.0,
+  "n": 16,
+  "errors": []
+ },
+ "paraphrase": {
+  "agree_all": 1.0,
+  "n": 20,
+  "split": []
+ },
+ "calibration": {
+  "0.5-0.7": {
+   "n": 2,
+   "acc": 0.5
+  },
+  "0.7-0.9": {
+   "n": 22,
+   "acc": 0.955
+  },
+  "0.9-1.0": {
+   "n": 96,
+   "acc": 0.99
+  }
+ },
+ "usage": {
+  "calls": 175,
+  "input_tokens": 87290,
+  "cost_usd": 0.0037,
+  "latency_median_s": 0.39,
+  "latency_p95_s": 0.52
+ }
+}

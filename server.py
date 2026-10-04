@@ -366,10 +366,13 @@ def score_all(apps, labels, notes):
     for i in good:
         if str(i) in ja:
             Xl.append(jev.app_vector(ja[str(i)])); yl.append(1.0); wl.append(1.0)
+    # Only rejections about the *idea* teach Jev weights. "Çok benzer" / "Kalitesiz / eski" are about the feed or
+    # the listing; jev_eval2 showed they invert the features (AUC 0.38), so they are excluded here.
     for i, w in bad:
-        if str(i) in ja:
+        rs = set(notes.get(str(i), {}).get("reasons") or [])
+        if str(i) in ja and not (rs and rs <= {"Çok benzer", "Kalitesiz / eski"}):
             Xl.append(jev.app_vector(ja[str(i)])); yl.append(0.0); wl.append(w)
-    if len(Xl) >= 4 and 0 < sum(yl) < len(yl):
+    if sum(yl) >= 10 and len(yl) - sum(yl) >= 10:
         jw, jb = fit_jev_weights(np.array(Xl), np.array(yl), np.array(wl))
     else:
         jw, jb = JEV_PRIOR, JEV_BIAS
@@ -544,6 +547,28 @@ INTENT = set("calculator calc calculation calculations guide chart charts symbol
              "points meter app review board boards drills exercises workout scheduler sizing table tables measure pre trip".split())
 BUSINESS = set("llc inc pc pa ltd office clinic clinics studio association federal credit union center centre "
                "group family associates partners church hospital".split())
+
+
+GENERIC_WORDS = set("app apps exam prep test review guide tool tools notes tracker calculator practice the and for of a "
+                    "pro free lite 2024 2025 2026 training study questions checklist helper journal".split())
+
+
+def brand_evidence(k):
+    """Code-side brand signals Jev cannot see (jev_eval2: lifts brand detection 64% -> 83%, no false alarms):
+    the term shares a distinctive word with the #1 app's developer name, or carries app-title punctuation."""
+    term, top = k["term"], k["top"]
+    if re.search(r" - |: |a\.i\.", term):
+        return True
+    if not top:
+        return False
+    tw = set(re.findall(r"[a-z0-9]+", term)) - GENERIC_WORDS
+    dev = set(re.findall(r"[a-z0-9]+", (top[0].get("dev") or "").lower()))
+    return bool(tw & dev)
+
+
+def title_copy(k):
+    """The term is exactly one existing app's title: demand may be that app's own brand traffic -> needs review."""
+    return bool(k["top"]) and k["top"][0]["name"].lower().strip() == k["term"].strip()
 
 
 def rival_stats(term, top):
@@ -782,7 +807,7 @@ def start_job(kind, fn, *args):
 # Heavy jobs run in GitHub Actions (.github/workflows/scout.yml) on a schedule, even when the Mac is off.
 # The Mac runs only the labelling UI and syncs: it pushes MAC_FILES, Actions pushes the rest -> no conflicts.
 GITHUB_MODE = os.environ.get("SCOUT_GITHUB") == "1"
-MAC_FILES = ["labels.json", "notes.json", "ads.json", "hidden.json", "wordvec.tsv"]
+MAC_FILES = ["labels.json", "notes.json", "ads.json", "hidden.json", "wordvec.tsv", "reviews.json"]
 GH = {"run": "", "last_sync": ""}
 
 
@@ -935,7 +960,7 @@ class H(BaseHTTPRequestHandler):
             return self.send({**JOB, "jev": JEVJOB, "jevKey": bool(jev.api_key()) or GITHUB_MODE,
                               "github": GITHUB_MODE, "gh": GH})
         if self.path == "/api/niche":
-            ads, hidden = load("ads.json", {}), set(load("hidden.json", []))
+            ads, hidden, reviews = load("ads.json", {}), set(load("hidden.json", [])), load("reviews.json", {})
             kws = [k for k in load("keywords.json", {}).values() if k["term"] not in hidden]
             for k in kws:
                 k["ads"] = ads.get(k["term"])
@@ -944,9 +969,11 @@ class H(BaseHTTPRequestHandler):
                 k["opp"] = round(math.sqrt(k["pop"] * k["weak"]))
                 j = k.get("jev")
                 if j:   # Jev: real rivals = top-10 apps that actually serve this need
-                    real = [a for a, p in zip(k["top"], j["rivalP"]) if p >= 0.5]
-                    k["rivals"], k["serious"] = len(real), sum(a["ratings"] >= 50 for a in real)
-                    k["brand"] = j["intent"] in ("brand", "local_business")
+                    # graded: p 0.35..0.65 counts as a partial rival (jev_eval2: suites / exam preps sit at ~0.5)
+                    part = [min(1.0, max(0.0, (p - 0.35) / 0.3)) for p in j["rivalP"]]
+                    k["rivals"] = round(sum(part))
+                    k["serious"] = round(sum(w for a, w in zip(k["top"], part) if a["ratings"] >= 50))
+                    k["brand"] = j["intent"] in ("brand", "local_business") or brand_evidence(k)
                     k["intent"] = j["intent"]
                     k["quality"] = round(100 * (0.35 * j["audience"] + 0.4 * j["pay"] + 0.25 * j["build"]))
                 bonus = (12 if k["rivals"] <= 1 else 5 if k["rivals"] == 2 else 0)
@@ -954,7 +981,12 @@ class H(BaseHTTPRequestHandler):
                     bonus += round((k["quality"] - 50) / 4) - round(20 * j["risk"])
                 k["score"] = max(0, min(100, k["opp"] + bonus
                                         + (10 if k.get("ads") == "no" else -10 if k.get("ads") == "yes" else 0)))
-                k["gold"] = (k["rivals"] <= 1 and k["pop"] >= 30 and k["weak"] >= 35 and not k["brand"]
+                k["titleCopy"] = title_copy(k)
+                # Claude review (world knowledge Jev lacks): verdict ok / brand / reject, with a short note
+                k["review"] = reviews.get(k["term"])
+                if k["review"] and k["review"]["verdict"] == "brand":
+                    k["brand"] = True
+                k["gold"] = (not (k["review"] and k["review"]["verdict"] in ("brand", "reject"))) and (k["rivals"] <= 1 and k["pop"] >= 30 and k["weak"] >= 35 and not k["brand"]
                              and (not j or (j["intent"] == "need" and j["risk"] < 0.5)))
             return self.send(sorted(kws, key=lambda k: -k["score"]))
         if self.path == "/api/apps":

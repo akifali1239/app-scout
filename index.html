@@ -255,8 +255,11 @@ function renderNiche(){
     const c=(v,cls)=>{const td=el('td',cls);if(v instanceof Node)td.appendChild(v);else td.textContent=v;tr.appendChild(td);return td};
     const nm=el('div');nm.append(el('b',null,(k.gold?'🏆 ':'')+k.term));
     const INT={need:'',brand:'marka',local_business:'yerel işletme',game:'oyun',jobs:'iş ilanı',other:'belirsiz'};
-    const tagTxt=k.jev?INT[k.intent]:(k.brand?'marka?':'');
+    const tagTxt=[k.jev?(k.brand&&k.intent==='need'?'marka':INT[k.intent]):(k.brand?'marka?':''),
+      k.titleCopy&&!k.brand&&!k.review?'tek app\'in adı: doğrula':''].filter(Boolean).join(' · ');
     if(k.seed||tagTxt){const m=el('div','meta',[k.seed?'meslek: '+k.seed:'',tagTxt].filter(Boolean).join(' · '));nm.appendChild(m)}
+    if(k.review){const rv=el('div','meta','🧠 Claude: '+({ok:'✓ ',brand:'marka · ',reject:'✗ '}[k.review.verdict]||'')+k.review.note);
+      rv.style.color=k.review.verdict==='ok'?'var(--good)':'var(--bad)';nm.appendChild(rv)}
     c(nm);
     c(bar(k.score),'num');c(bar(k.pop),'num');c(`${k.rivals} (${k.serious})`+(k.jev?' ✓':''),'num');
     if(k.jev){const j=k.jev;const d=el('div','meta',`meslek ${j.audience.toFixed(1)} · ödeme ${j.pay.toFixed(1)} · yapılır ${j.build.toFixed(1)}`);

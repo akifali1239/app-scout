@@ -478,7 +478,9 @@ def discover_job():
     if len(liked) >= 2 and labels:
         bad = [(int(i), neg_weight(notes, i)) for i, l in labels.items() if l == "bad" and int(i) in by_id]
         nbw = nb_weights(by_id, [(a["id"], 1.0) for a in liked], [(i, w) for i, w in bad if w > 0])
-        queries += [t for t, w in sorted(nbw.items(), key=lambda z: -z[1]) if " " in t and ":" not in t][:6]
+        # only phrases that appear in a liked app's NAME: description bigrams are marketing filler ("whether you're")
+        names = " | ".join(a["name"].lower() for a in liked)
+        queries += [t for t, w in sorted(nbw.items(), key=lambda z: -z[1]) if " " in t and ":" not in t and t in names][:6]
     queries = list(dict.fromkeys(queries))[:18]
     for k, q in enumerate(queries):
         progress(f"Arama {k + 1}/{len(queries)}: {q}")

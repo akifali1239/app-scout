@@ -37,7 +37,11 @@
     "question": "Is `search_term` a name (of one app, product, company, publisher, clinic or person) rather than a description of a need?",
     "evidence": "Check `top_results`: if one result's title or developer contains the distinctive words of `search_term`, it is probably that result's name. If many results share the words, they are probably generic."
    },
-   "Does `search_term` identify one specific named product, app, company, publisher, publication or person? A name can be built from ordinary words (like 'Paramedic Coach', 'Hinge Health', 'Pharmacy Technician Letter'); a description of a topic, exam or tool is not a name. Use `top_results` only as supporting evidence: many results with similar titles means generic words, one distinctive title or publisher means a name."
+   "Does `search_term` identify one specific named product, app, company, publisher, publication or person? A name can be built from ordinary words (like 'Paramedic Coach', 'Hinge Health', 'Pharmacy Technician Letter'); a description of a topic, exam or tool is not a name. Use `top_results` only as supporting evidence: many results with similar titles means generic words, one distinctive title or publisher means a name.",
+   {
+    "question": "Does `search_term` read like the exact title or name of ONE app, company or publisher, rather than a phrase a person would type to find any app for a task?",
+    "steps": "1) If the first result's title (or its developer name) equals `search_term` or nearly equals it, answer true. 2) A title with a colon, dash, tagline, 'app' suffix or a trailing word like 'driver', 'coach', 'letter' still counts as a title. 3) If many results repeat the same words in different titles, answer false."
+   }
   ],
   "criteria": [
    {
@@ -51,6 +55,10 @@
    {
     "true": "Identifies one specific named product, company, publication, publisher or person, even when it is made of ordinary words or ends with a generic word (Paramedic Coach, Hinge Health, Pharmacy Technician Letter, Tinozzi Chiropractic & Massage)",
     "false": "A generic description of a topic, exam, certification or tool, including exam-prep style titles with an acronym, year or 'prep/test/flashcards' (cmtbc massage therapy prep, student midwife baby catches, welding test, hvac flashcards)"
+   },
+   {
+    "true": "The words are the exact title of one app or the name of one organization, including titles with a colon/tagline or an 'app' suffix (e.g. 'pilot driver app', 'personal trainer prep: test', 'paramedic coach')",
+    "false": "The words are a search phrase that many different apps match: exam names, years, 'prep/practice test/flashcards', a topic or a tool type (e.g. 'real estate exam', 'barber exam prep', 'epa 608 practice test')"
    }
   ]
  },

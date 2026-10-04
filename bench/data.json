@@ -5821,6 +5821,536 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "hana florist pos",
+   "top": [
+    {
+     "name": "Hana Florist POS",
+     "dev": "Murali Nethi",
+     "ratings": 9,
+     "desc": "With the Hana Florist POS app (HanaViewers2), you can easily ring up sales, take contactless payments, and keep track of your inventory right from your iPhone or iPad. Our comprehensive Florist POS Sy"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "FNP: Gifts, Flowers, Cakes App",
+     "dev": "Ferns N Petals Pvt. Ltd.",
+     "ratings": 1466,
+     "desc": "FNP (Ferns N Petals) is your one-stop app for online cake delivery, gifts for him & her, anniversary & valentine gifts, flowers, and more! Whether you need to order cakes online, find birthday gifts f"
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    },
+    {
+     "name": "Flowwow: Gifting Marketplace",
+     "dev": "FLOWWOW LLC",
+     "ratings": 3285,
+     "desc": "Flowwow is an online marketplace that connects sellers and customers in more than 1,300 cities around the world. \nOn Flowwow, you can order fresh seasonal flowers, delicious desserts, and gifts for an"
+    },
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "The Cozy Florist",
+     "dev": "RiftSky Games",
+     "ratings": 30754,
+     "desc": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual "
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "phlebx - phlebotomy @ home",
+   "top": [
+    {
+     "name": "PhlebX - Phlebotomy @ Home",
+     "dev": "PhlebX INC",
+     "ratings": 7,
+     "desc": "We are providing blood draw services to individuals and organizations, at the comfort of their home, at their community or onsite at their workplace.\nWe offer same-day service that is available 24-hou"
+    },
+    {
+     "name": "PhlebX MD",
+     "dev": "PhlebX INC",
+     "ratings": 0,
+     "desc": "PhlebX - Laboratory Services\n\nThat Come To You\n\n\nWe are providing blood draw services to individuals and organizations, at the comfort of their home, at their community or onsite at their workplace.\n\n"
+    },
+    {
+     "name": "NHA",
+     "dev": "MastrAPI",
+     "ratings": 427,
+     "desc": "Pass your NHA CPT Exam with flying colors! Updated for the 2026 exam cycle, boost your confidence in passing on the first attempt with our mobile app and a personal study plan based on your current sk"
+    },
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals natio"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written b"
+    },
+    {
+     "name": "Phlebotomy CPT NHA Prep 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 277,
+     "desc": "**Pass the Phlebotomy Exam Without Drawing a Blank**\n\nYou’ve practiced the sticks, mastered the tubes, and maybe even survived your first fainting patient. Now it’s time to pass your phlebotomy certif"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 51,
+     "desc": "Help you prepare for the NHA CPT certification exam and pass it on your first attempt at the actual exam! Use the mobile app Phlebotomy NHA CPT Prep 2026 developed by our exam experts to help prepare "
+    },
+    {
+     "name": "Axxess Home Health",
+     "dev": "Axxess Technology Solutions",
+     "ratings": 310,
+     "desc": "Axxess Home Health improves patient outcomes through built-in compliance features that incorporate clinical intelligence. Caregivers can save time and streamline mobile documentation with user-friendl"
+    },
+    {
+     "name": "MyQuest for Patients",
+     "dev": "Quest Diagnostics, Inc.",
+     "ratings": 509668,
+     "desc": "Take control of your health. \n\nWith the MyQuest app from Quest Diagnostics, all your lab results and appointments are at your fingertips – so you have the information you need to stay healthy: \n\n•\tVie"
+    },
+    {
+     "name": "NHA CPT Exam Prep 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 2,
+     "desc": "5,000+ exam-like questions, 1,000+ flashcards, over a dozen practice tests, and real-life scenarios make Ultraprep a must-have tool to prepare for the NHA CPT.\n\nThe NHA CPT exam, also known as the Nat"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "farrierforge: hoof records",
+   "top": [
+    {
+     "name": "FarrierForge: Hoof Records",
+     "dev": "Alisson Bento",
+     "ratings": 0,
+     "desc": "Every horse, every cycle, on paper you own.\n\nFarrierForge is the record book for working farriers. The free download includes complete records for up to five active horses.\n\nA separate FarrierForge Pr"
+    },
+    {
+     "name": "Scootboot - Hoof Sizer",
+     "dev": "ISW",
+     "ratings": 224,
+     "desc": "The Scootboot sizing app guides you through the entire sizing process so you can easily take and send accurate pictures for successful sizing.\n\nThis ensures a faster, more accurate size for your equin"
+    },
+    {
+     "name": "Star Equestrian - Horse Ranch",
+     "dev": "Foxie Ventures LLC",
+     "ratings": 21014,
+     "desc": "Snowdrop. A majestic rescue horse. Together, the two of you had the potential to be a perfect duo, real contenders for the much coveted Star Championship title, but life had other plans. One accident "
+    },
+    {
+     "name": "Equestrian the Game",
+     "dev": "Kavalri Games",
+     "ratings": 10651,
+     "desc": "Live the horse dream! Equestrian the game is a horse riding- & management game. Ride and compete with horses of different breeds and personalities! Breed horses and get a genetically correct foals! Fe"
+    },
+    {
+     "name": "Vinyl Record App",
+     "dev": "Noah Tovares",
+     "ratings": 3550,
+     "desc": "Vinyl is the ultimate app for record collectors.\n\nThe Collection\nKeep track of the records you own. Use the search tab to find records by artist, album title, or catalog number. Tap on a record and hi"
+    },
+    {
+     "name": "Equestriad World Tour 26",
+     "dev": "EQUUSports Inc.",
+     "ratings": 28222,
+     "desc": "Equestriad World Tour: Embark on a Thrilling Equestrian Adventure!\n\nUnleash the Ultimate Competitive Experience:\n • Ride, jump, and experience family-friendly equine fun.\n • Immerse yourself in realis"
+    },
+    {
+     "name": "DRF Horse Racing News & Data",
+     "dev": "Sports Information Group LLC",
+     "ratings": 4963,
+     "desc": "Horse Racing is a breeze with the DRF App, the official app of the Daily Racing Form! \n\nWinning horseplayers have trusted the Daily Racing Form for more than 130 years. Get access to the same inside i"
+    },
+    {
+     "name": "Keeneland Race Day",
+     "dev": "Keeneland Association, Inc.",
+     "ratings": 6544,
+     "desc": "Keeneland’s free Race Day app is your guide to handicapping and enjoying a day of Keeneland Racing - all at your fingertips!\n\nNew: Beautiful new look and feel with improved user experience and interac"
+    },
+    {
+     "name": "HoofmApp",
+     "dev": "Benjamin Arora",
+     "ratings": 2,
+     "desc": "An objective measuring tool for external equine proportional hoof balance references.\n\nPrivacy Policy: http://hoofinnovations.com/app-privacy-policy/\nTerms of use: http://hoofinnovations.com/app-terms"
+    },
+    {
+     "name": "Horse Racing Manager 2026",
+     "dev": "Third Time, Inc",
+     "ratings": 6393,
+     "desc": "Online races are here! \n\n• Introducing HRM TV, the hub for online horse racing!\n• Live PVP races occur every 5 minutes!\n• Will you be able to top the global leaderboard?\n\nBecome the number one horse r"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "groomspec: dog grooming guide",
+   "top": [
+    {
+     "name": "GroomSpec: Dog Grooming Guide",
+     "dev": "毅 王",
+     "ratings": 0,
+     "desc": "GroomSpec is the offline blade-and-comb reference and per-dog spec tool built for professional dog groomers, mobile groomers and grooming students.\n\nA new dog is on the table. Pick the breed, the cut "
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "PetSmart",
+     "dev": "PetSmart LLC",
+     "ratings": 31099,
+     "desc": "At PetSmart, we know being a pet parent is one of life’s most rewarding experiences. It also raises many questions! So, we’ve built our app to be a valued resource for every step of your journey as a "
+    },
+    {
+     "name": "Pawsh: Book Dog Groomers",
+     "dev": "Pawsh Inc",
+     "ratings": 296,
+     "desc": "Pawsh is the #1 pet grooming app. Get trusted pet care in your home.\n\nFinding a trusted dog groomer can be tough, but Pawsh makes it easy. When you book with us, Pawsh checks all of your pet's records"
+    },
+    {
+     "name": "Scenthound",
+     "dev": "Scenthound Franchising, LLC",
+     "ratings": 136,
+     "desc": "Love a clean, healthy dog®\n\nGetting your pup the routine care they need to stay clean and healthy is easier than ever! With the Scenthound mobile app you'll be able to book ahead of time at your prefe"
+    },
+    {
+     "name": "GrooMore Grooming Software",
+     "dev": "GrooMore, INC.",
+     "ratings": 24,
+     "desc": "[ Flexible Scheduling ]\nDay/Week/Month view and Agenda view provided, you can get the best control of your whole schedule easily.\nYou can easily view and print your appointment list of agenda view.\nYo"
+    },
+    {
+     "name": "Woof Gang Bakery and Grooming",
+     "dev": "FranPOS Inc.",
+     "ratings": 10,
+     "desc": "At Woof Gang Bakery & Grooming, we believe every dog deserves to be pampered with care, love, and trust. Now, managing your pup’s grooming experience is easier than ever—with the official Woof Gang do"
+    },
+    {
+     "name": "DaySmart Pet Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 1096,
+     "desc": "DaySmart Pet, formerly 123Pet, is an easy to use groomer appointment scheduling app for pet grooming business owners, employees, and independent contractors that lets you manage your grooming business"
+    },
+    {
+     "name": "DapperTails Mobile Grooming",
+     "dev": "The Ruff Life Mobile Grooming",
+     "ratings": 12,
+     "desc": "An app that connects pet parents with premium pet grooming facilities.\n\n- Instant Booking: Effortlessly schedule appointments with top-notch pet grooming facilities.\n- Manage Easily: Track your past a"
+    },
+    {
+     "name": "TapGroom - Pet Grooming Salon",
+     "dev": "TapStyle Pty Ltd",
+     "ratings": 93,
+     "desc": "Shift to the new STYLISH way,,,, TapGroom makes your pet grooming salon business more efficient and stylish. TapStyle offers all the must have features for pet grooming salon / groomer in one package."
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "real estate exam",
+   "top": [
+    {
+     "name": "Real Estate Exam For Dummies",
+     "dev": "Higher Learning Technologies",
+     "ratings": 8307,
+     "desc": "PASS your Real Estate Exam guaranteed, or get triple your money back! \n\nAre you ready to ace your Real Estate License exam on the first try? Real Estate For Dummies is here to ensure your success! Wit"
+    },
+    {
+     "name": "Dearborn Real Estate Exam Prep",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13113,
+     "desc": "The #1 Real Estate Exam study tool! Pass your exams with our 500+ questions, quizzes, flashcards, and updated content.\n\nDearborn Real Estate has helped millions earn their Real Estate License. And you"
+    },
+    {
+     "name": "Aceable Real Estate, Insurance",
+     "dev": "Aceable Inc.",
+     "ratings": 14733,
+     "desc": "AceableAgent and Aceable Insurance are the most convenient ways to earn your real estate or insurance license and jumpstart a new career. Take flexible, self-paced real estate and insurance courses an"
+    },
+    {
+     "name": "Real Estate Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 1377,
+     "desc": "Pass your Real Estate License Exam with confidence! The Real Estate Practice Test app is your complete study companion for mastering the knowledge, skills, and strategies you need to become a licensed"
+    },
+    {
+     "name": "Real Estate Exam Prep Practice",
+     "dev": "秀娟 周",
+     "ratings": 81,
+     "desc": "Real Estate Exam Prep Practice is an application software carefully designed and developed by exam experts in the industry. It has more than 1,100 high-quality test questions and answer explanations, "
+    },
+    {
+     "name": "Real Estate Exam Prep & Test",
+     "dev": "Best Fun Games",
+     "ratings": 1917,
+     "desc": "Pass your Real Estate Licensing Examination with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,100+ questions written by expe"
+    },
+    {
+     "name": "Real Estate Exam Prep 2026 Q&A",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 37,
+     "desc": "Help you prepare for the Real Estate agent license exam and pass it on your first attempt at the actual exam! Use the mobile app Real Estate Exam Prep 2026 Q&A developed by our exam experts to help pr"
+    },
+    {
+     "name": "TX Real Estate Exam Flashcards",
+     "dev": "Champions School of Real Estate",
+     "ratings": 3389,
+     "desc": "This app can supplement the Exam Prep Course, or be used as a stand-alone resource for any future sales agent. Study anywhere, anytime and master over 500 terms and definitions commonly used on the ex"
+    },
+    {
+     "name": "Real Estate Exam Prep: 2026",
+     "dev": "和荣 叶",
+     "ratings": 258,
+     "desc": "Real Estate Exam Prep 2026 is an exam preparation application that will help you pass the real estate agent licensing exam with a high score in your first attempt.\n\nReal Estate Exam Prep 2026 will not"
+    },
+    {
+     "name": "Prepia REAL ESTATE Exam Prep",
+     "dev": "Prepia Inc",
+     "ratings": 337,
+     "desc": "Study faster and easier with all the tools you need to succeed! Whether you're at work or relaxing at home, take our Study App with you and ace your Real Estate exam with confidence.\n\nOur Real Estate "
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "home inspector exam prep",
+   "top": [
+    {
+     "name": "Home Inspector Exam Prep: 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 5,
+     "desc": "Welcome to Home Inspector Exam Prep: 2026, the ultimate app to help candidates ace their Home Inspector (Certified Residential Home Inspector - National Licensing Standard) exam! Designed specifically"
+    },
+    {
+     "name": "NHIE Exam Prep: Home Inspector",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Home Inspector Exam Prep is the study app for the National Home Inspector Examination (NHIE): 2,150+ original questions and a full-length timed mock exam, built around the exam's real nine content dom"
+    },
+    {
+     "name": "Home Inspector Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Home Inspector with confidence. Home Inspector Exam Prep gives you 750+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nRoofing & Exterio"
+    },
+    {
+     "name": "Home Inspector Exam Prep 2026'",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 89,
+     "desc": "Ace the National Home Inspector Exam with our comprehensive test prep program. Our resources are designed to equip you with the knowledge and confidence needed to succeed on exam day. Whether you're a"
+    },
+    {
+     "name": "HOME INSPECTOR EXAM PREP 2026.",
+     "dev": "Prepia Inc",
+     "ratings": 66,
+     "desc": "Home Inspector Exam Prep App\n\nDeveloped by experienced educators and based on proven study methods, this app helps you prepare for your home inspector exam anytime, anywhere.\n\nPrepare with practice qu"
+    },
+    {
+     "name": "Home Inspector Exam Prep 2026­",
+     "dev": "Yan Marinich",
+     "ratings": 1,
+     "desc": "Home Inspector Exam Prep 2026 is a comprehensive Test Preparation App designed to help you Study for the National Home Inspector Examination offered by the Examination Board of Professional Home Inspe"
+    },
+    {
+     "name": "Home Inspector Exam Flashcards",
+     "dev": "Alexander Pyjik",
+     "ratings": 5,
+     "desc": "Master the National Home Inspector Exam with Flashcards 2026!\nThe National Home Inspector Examination, administered by the Examining Board of Professional Home Inspectors, assesses the knowledge and s"
+    },
+    {
+     "name": "Home Inspector MCQ Exam Prep",
+     "dev": "Sayma Tasnim",
+     "ratings": 10,
+     "desc": "Home Inspector MCQ Exam Prep Pro\n\nKey Features of this APP: \n• At practice mode you can see the explanation describing the correct answer.\n• Real exam style full mock exam with timed interface\n• Abili"
+    },
+    {
+     "name": "World Home Inspector Exam Prep",
+     "dev": "Md Tariqul Islam",
+     "ratings": 0,
+     "desc": "Our Home Inspector exam prep app provides comprehensive study tools with thousands of practice questions to help you succeed. Study offline anytime and master every topic covered in home inspection li"
+    },
+    {
+     "name": "Home Inspector Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 0,
+     "desc": "HOME INSPECTOR PREP: PASS YOUR NHIE AND STATE LICENSING EXAM\n\nThe National Home Inspector Examination has a 65 percent first-attempt pass rate. Candidates who fail are most often weak on identifying d"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "barber exam prep",
+   "top": [
+    {
+     "name": "Barber Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 0,
+     "desc": "BARBER PREP: PASS YOUR STATE BOARD WRITTEN EXAM FIRST TRY\n \nThe barber state board written exam covers sanitation and infection control, hair cutting theory, scalp and skin science, chemical services,"
+    },
+    {
+     "name": "Barber Exam Prep 2025-2026",
+     "dev": "Feraco media Inc.",
+     "ratings": 2,
+     "desc": "Ace the Barber State Board Exam!\n\nYour comprehensive study companion for the Barber State Board exam. Barber state board exams determine your readiness to provide professional barber services.\n\nKEY FE"
+    },
+    {
+     "name": "Barber Exam Prep: Board & Quiz",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 2,
+     "desc": "Walk into your barber state board exam ready. Barber Exam Prep gives you 1,016 practice questions with a clear explanation for every single answer, so you don't just memorize the right choice - you un"
+    },
+    {
+     "name": "NIC Barber Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 14,
+     "desc": "Prepare to excel in your Barber certification exam with the comprehensive NIC Barber Exam Prep 2026 app. Developed by industry experts, this app offers the ultimate test preparation experience to help"
+    },
+    {
+     "name": "Barber License Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 0,
+     "desc": "PASS YOUR BARBER EXAM ON THE FIRST TRY\nCrush the exam material with 1,500+ exam-like questions and 500+ flashcards designed to help you memorize faster and smarter. Get access to multiple full-length "
+    },
+    {
+     "name": "Barber Exam Prep 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 4,
+     "desc": "1500+ exam-like questions, 500+ flashcards, over a dozen practice tests and real-life scenarios make Ultraprep a must-have tool to prepare for the Barber Exam.\n\nThe Barber Exam is a licensing exam des"
+    },
+    {
+     "name": "Barber Exam Prep & Study Guide",
+     "dev": "Anthony Perry",
+     "ratings": 2,
+     "desc": "63% of students fail the NIC barber exam on their first attempt. Most rely on passive studying and walk in underprepared.\n\nGlowStudy is an independent study tool. It is not affiliated with, endorsed b"
+    },
+    {
+     "name": "Barber Exam Center Rocket Prep",
+     "dev": "Darya Pyzhyk",
+     "ratings": 0,
+     "desc": "Take the next step in your barbering career with a mobile-optimized study resource designed to support your success on the Barber Licensing Exam. Whether you're a barbering student or preparing to ret"
+    },
+    {
+     "name": "Barber Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 256,
+     "desc": "Pass your State Board of Barber exam with the help of the new Barber Exam Center app!\n\nThousands of Barber questions, and their detailed explanations are now available at your fingertips.\n\nPrepare for"
+    },
+    {
+     "name": "Alberta Barber Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Alberta Written Barber Practice Exam Exam Prep 2026 helps you pass with 354+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 354+ practice questions with detailed answer expla"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "epa 608 practice test",
+   "top": [
+    {
+     "name": "EPA 608 Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 2627,
+     "desc": "Get ready to pass your EPA Section 608 Certification Exam with confidence! The EPA 608 Practice Test app helps HVAC technicians and students prepare for Core, Type I, Type II, Type III, and Universal "
+    },
+    {
+     "name": "EPA 608 Exam Prep & HVAC Test",
+     "dev": "Best Fun Games",
+     "ratings": 1633,
+     "desc": "Pass your EPA 608 certification exams with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 1,600+ questions written by experts, d"
+    },
+    {
+     "name": "EPA 608 Practice 2026",
+     "dev": "Danila Danilenko",
+     "ratings": 450,
+     "desc": "Features:\n\n - Comprehensive question bank covering all exam categories, with detailed answers for thorough preparation.\n - Easy navigation through categories for focused study on specific topics.\n - A"
+    },
+    {
+     "name": "EPA 608 Practice Pro",
+     "dev": "Payal Seth",
+     "ratings": 48,
+     "desc": "The EPA 608 Practice Test helps you prepare and successfully pass the Core, Type I, Type II, and Type III tests. The app has been updated for 2018, 2019, 2020, 2021 and 2022.\n\nThe EPA 608 Practice Pro"
+    },
+    {
+     "name": "EPA Practice Test",
+     "dev": "Ben Wallenberg",
+     "ratings": 1,
+     "desc": "EPA Practice Test — Free Practice Tests & Exam Prep\n\nPass your EPA Practice Test on the first try with hundreds of real practice questions, detailed answer explanations, and instant scoring.\n\nFEATURES"
+    },
+    {
+     "name": "EPA 608 Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 126,
+     "desc": "Help you prepare for the EPA 608 certification exam and pass it on your first attempt at the actual exam! Use the mobile app EPA 608 Exam Prep 2026 developed by our exam experts to help prepare for th"
+    },
+    {
+     "name": "EPA 608 Practice Test Prep",
+     "dev": "MOON MOUNTAIN INC",
+     "ratings": 6,
+     "desc": "Your new best friend in learning an EPA 608 Practice Test takes test preparation to a new level.\n\nStudying and passing your EPA 608 Exam will never be easier. WE PROMISE!\n\nIn fact, our amazing apps ar"
+    },
+    {
+     "name": "608Wise: EPA Practice Test",
+     "dev": "Vikram Joshi",
+     "ratings": 0,
+     "desc": "608Wise is EPA Section 608 exam prep built on three promises: the question bank is current (written for the AIM Act rules in force in 2026), every answer is explained in plain language with the regula"
+    },
+    {
+     "name": "EPA 608 Study & Practice 2026",
+     "dev": "Redouan Afoulous",
+     "ratings": 0,
+     "desc": "Pass your EPA 608 on the first try. 578 practice questions, a full mock exam, and flashcards — aligned to EPA Section 608 regulations (40 CFR Part 82).\n\nWHAT YOU GET\n\n• 578 practice questions across C"
+    },
+    {
+     "name": "EPA 608 HVAC Practice Test Pro",
+     "dev": "Nova Scotia Limited",
+     "ratings": 0,
+     "desc": "Embark on a streamlined study journey with the EPA 608 HVAC Practice Test app, leveraging cloud-based updates to ensure you always have the most current preparation material. This app is your ultimate"
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [
@@ -6532,6 +7062,164 @@
     "mention"
    ],
    "split": "train"
+  },
+  {
+   "term": "stud finder",
+   "apps": [
+    {
+     "name": "Stud Finder®",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 22972,
+     "desc": "Stud Finder App: Locate Metal Studs with Ease\n\nDiscover the power of our Stud Finder app, designed to detect metal studs effortlessly. Utilizing the magnetometer, the app measures the magnetic field w"
+    },
+    {
+     "name": "Stud Finder゜",
+     "dev": "Hanja Devi",
+     "ratings": 4943,
+     "desc": "STUD FINDER / DETECTOR\n\nThis app will help you to detect studs. It uses the magnetometer to measure the magnetic field when your iPhone is placed near any metal objects. You can quickly detect wood st"
+    },
+    {
+     "name": "Stud Finder Pro: Wall Scanner",
+     "dev": "KnotSmith Ltd.",
+     "ratings": 176,
+     "desc": "Turn your iPhone into a wall scanner before you drill.\n\nStud Finder Pro is a stud finder app, wall scanner, metal detector, and drilling toolbox for homeowners, renters, DIY builders, contractors, ins"
+    },
+    {
+     "name": "Stud Finder - Metal Detector",
+     "dev": "Andrei Nemtsou",
+     "ratings": 527,
+     "desc": "Stud Finder - Metal Detector\n\nThe app is used to find metal elements in the wall: nails, screws, wiring, etc.\n\nHow it works:\n\n1. Turn on the app\n2. Place the back of your phone against a wall\n3. Start"
+    },
+    {
+     "name": "Wood Stud Finder",
+     "dev": "Nikhil Kumar",
+     "ratings": 162,
+     "desc": "Wood Stud Finder\nLocate wall studs instantly with professional-grade accuracy! Wood Stud Finder transforms your iPhone into a powerful stud detection tool perfect for contractors, DIY enthusiasts, and"
+    },
+    {
+     "name": "Stud Finder Wall Wood Detector",
+     "dev": "Appcellent",
+     "ratings": 2523,
+     "desc": "Discover Hidden Structures with Stud Finder Wall Wood Detector.\n\nEver been frustrated by the guesswork of hanging a picture or mounting a shelf? Do you wish you had a reliable companion to locate stud"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "epa 608 practice test",
+   "apps": [
+    {
+     "name": "EPA 608 Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 2627,
+     "desc": "Get ready to pass your EPA Section 608 Certification Exam with confidence! The EPA 608 Practice Test app helps HVAC technicians and students prepare for Core, Type I, Type II, Type III, and Universal "
+    },
+    {
+     "name": "EPA 608 Exam Prep & HVAC Test",
+     "dev": "Best Fun Games",
+     "ratings": 1633,
+     "desc": "Pass your EPA 608 certification exams with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 1,600+ questions written by experts, d"
+    },
+    {
+     "name": "EPA 608 Practice 2026",
+     "dev": "Danila Danilenko",
+     "ratings": 450,
+     "desc": "Features:\n\n - Comprehensive question bank covering all exam categories, with detailed answers for thorough preparation.\n - Easy navigation through categories for focused study on specific topics.\n - A"
+    },
+    {
+     "name": "EPA 608 Practice Pro",
+     "dev": "Payal Seth",
+     "ratings": 48,
+     "desc": "The EPA 608 Practice Test helps you prepare and successfully pass the Core, Type I, Type II, and Type III tests. The app has been updated for 2018, 2019, 2020, 2021 and 2022.\n\nThe EPA 608 Practice Pro"
+    },
+    {
+     "name": "EPA 608 Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 126,
+     "desc": "Help you prepare for the EPA 608 certification exam and pass it on your first attempt at the actual exam! Use the mobile app EPA 608 Exam Prep 2026 developed by our exam experts to help prepare for th"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nail technician exam center",
+   "apps": [
+    {
+     "name": "Nail Technician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 1805,
+     "desc": "Pass your State Board of Nail Technology exam with the help of the new Nail Technician Exam Center app! \n\nThousands of Nail Tech questions and their detailed explanations are now available at your fin"
+    },
+    {
+     "name": "Milady Exam Prep",
+     "dev": "Cengage Learning",
+     "ratings": 1470,
+     "desc": "Preparing for your state board licensing exam doesn't have to be stressful when you use the #1 test prep tool from Milady. Whether you’re studying for Cosmetology, Esthetics, Advanced Esthetics, Barbe"
+    },
+    {
+     "name": "Nail Technician Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 110,
+     "desc": "PASS YOUR EXAM FIRST TRY\nConquer the Nail Technician exam with our extensive study kit, featuring over 1500 exam-style questions and 500+ flashcards designed to boost your memory and retention. You’ll"
+    },
+    {
+     "name": "Acrylic Nails!",
+     "dev": "Crazy Labs",
+     "ratings": 444350,
+     "desc": "Congrats you have your own nail salon! \n\nTime to give some hands an acrylic DIY makeover - drill, lengthen, shape, and polish some gorgeous nails. \n\nIt’s up to you to makeover nails with art and give "
+    },
+    {
+     "name": "Quizlet: More than Flashcards",
+     "dev": "Quizlet Inc",
+     "ratings": 1126269,
+     "desc": "Whatever you're studying, a language, the MCAT, or next week's history quiz, Quizlet helps you turn any material into personalized study tools, then practice with the methods that actually work for yo"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -6884,6 +7572,30 @@
    "hi": "stud finder",
    "lo": "multiplayer fps game",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "e6b flight computer for student pilots",
+   "lo": "fidget spinner game",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac refrigerant charging calculator for technicians",
+   "lo": "wallpaper maker",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "flashlight",
+   "lo": "social video app like tiktok",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex pharmacology flashcards",
+   "lo": "emoji sticker pack",
+   "split": "train"
   }
  ],
  "note": [

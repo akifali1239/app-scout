@@ -9,7 +9,7 @@
    "brier": 0.1242,
    "n": 44,
    "versions": 1,
-   "tried": 9,
+   "tried": 13,
    "test_errors": [
     [
      "hinge health",
@@ -32,7 +32,7 @@
    "brier": 0.1977,
    "n": 54,
    "versions": 2,
-   "tried": 10,
+   "tried": 14,
    "test_errors": [
     [
      "pharmacy technician letter",
@@ -82,7 +82,7 @@
    "brier": 0.0161,
    "n": 23,
    "versions": 1,
-   "tried": 5,
+   "tried": 9,
    "test_errors": []
   },
   "audience": {
@@ -130,7 +130,7 @@
    "brier": 0.0014,
    "n": 18,
    "versions": 1,
-   "tried": 8,
+   "tried": 9,
    "test_errors": []
   },
   "note": {
@@ -328,7 +328,7 @@
    "n": 16
   }
  ],
- "updated": "2026-10-04T14:49:53+00:00",
+ "updated": "2026-10-04T14:51:44+00:00",
  "raw": {
   "intent": {
    "version": "v1",

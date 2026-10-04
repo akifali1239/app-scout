@@ -3,7 +3,7 @@
   "intent": {
    "type": "choice",
    "prod": [
-    "v1"
+    "v2"
    ],
    "versions": {
     "v1": {
@@ -18,6 +18,52 @@
      },
      "origin": "v1 (elle yazıldı)",
      "created": "2026-10-04T14:48:11+00:00"
+    },
+    "v2": {
+     "instructions": "What is a person who types `search_term` into the App Store search box looking for?",
+     "criteria": {
+      "need": {
+       "description": "Plain words for a topic, task, exam or tool that many apps could serve (e.g. 'welding symbols', 'white noise', 'nclex practice questions'); not a proper name",
+       "examples": [
+        "metal detector",
+        "white noise",
+        "tide times",
+        "lab values"
+       ]
+      },
+      "brand": {
+       "description": "A proper name of one product, app, publisher or company, possibly with generic words added (e.g. 'foreflight', 'hinge health', 'pocket prep', 'miller weld setting calculator')",
+       "examples": [
+        "davis drug guide",
+        "epocrates",
+        "pilot flying j"
+       ]
+      },
+      "local_business": {
+       "description": "Names one specific local clinic, practice, shop, school, hospital or credit union, often with LLC, PC, a city or a person's name",
+       "examples": [
+        "st. mary's hospital patient portal",
+        "smith family dental"
+       ]
+      },
+      "game": {
+       "description": "Wants a game, simulator or something to play",
+       "examples": [
+        "fireman plumber"
+       ]
+      },
+      "jobs": {
+       "description": "Wants job listings or to be hired",
+       "examples": [
+        "nurse jobs"
+       ]
+      },
+      "other": "None of the above"
+     },
+     "origin": "talimat#0 tanım#1 örnek×4",
+     "created": "2026-10-04T22:21:13+00:00",
+     "dev_obj": 0.7843,
+     "test_obj": 0.9293
     }
    },
    "tried": [
@@ -34,10 +80,16 @@
     "a6599b1d5db8",
     "e112bc9e2c57",
     "c9467db59894",
-    "e8991a45f5f9"
+    "e8991a45f5f9",
+    "404af0c0b538",
+    "70a020d677f1",
+    "7d706cb038d7",
+    "0d94c319df0d"
    ],
-   "prev": null,
-   "promoted_at": null
+   "prev": [
+    "v1"
+   ],
+   "promoted_at": "2026-10-04T22:21:13+00:00"
   },
   "brand": {
    "type": "noul",
@@ -130,7 +182,9 @@
     "df9c6db1a542",
     "fa6fb0714e11",
     "9cf72398e952",
-    "179a828228d3"
+    "179a828228d3",
+    "c7f3decb2288",
+    "947f53f1335b"
    ],
    "prev": [
     "v2"
@@ -348,5 +402,5 @@
    "promoted_at": "2026-10-04T14:48:11+00:00"
   }
  },
- "rejudge_after": "2026-10-04T18:39:24+00:00"
+ "rejudge_after": "2026-10-04T22:21:13+00:00"
 }

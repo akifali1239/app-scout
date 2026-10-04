@@ -2,12 +2,17 @@
 
 Jev returns typed judgments (choice / score / noul probabilities), not text. Code keeps the policy:
 which answers count, thresholds and weights all live in server.py.
+
+Questions are versioned in jev_registry.json. jev_optimize.py tries new versions every hour against the
+hand-labelled bench (bench/data.json) and promotes one only by consensus (dev win + no test loss + repeat).
+If a capability has several production versions, their answers are averaged (ensemble).
 """
-import json, os, time, urllib.error, urllib.request
+import copy, json, os, time, urllib.error, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 URL = "https://api.typesafe.ai/v1/systemone"
 MODEL = "jev-latest"
+REGISTRY = os.path.join(HERE, "jev_registry.json")
 
 
 def api_key():
@@ -41,7 +46,7 @@ def ask(state, questions, tries=5):
 
 
 def norm(ans):
-    """Score -> 0..1 position on its levels; noul -> probability of yes."""
+    """Score -> 0..1 position on its levels; noul -> probability of yes; choice -> chosen option."""
     if ans["type"] == "noul":
         return round(ans["noul"], 3)
     if ans["type"] == "score":
@@ -49,7 +54,7 @@ def norm(ans):
     return ans["choice"]
 
 
-# ---- shared rubrics ----------------------------------------------------------
+# ---- version-1 rubrics (also the fallback when the registry is missing) -----------
 AUDIENCE = ["The general public; anyone could need it",
             "A broad hobby or interest group",
             "People in a specific occupation or trade, or students training for one",
@@ -67,9 +72,6 @@ RISK = {"true": "The app itself would do something App Review restricts: calcula
         "false": "An ordinary app. Study aids, exam prep, flashcards, reference guides, calculators for trades and "
                  "educational content ABOUT medicine, law or finance are ordinary apps"}
 RISK_Q = "be restricted by App Store review because of what the app itself does"
-
-
-# ---- keyword / niche judgments -------------------------------------------------
 INTENT = {
     "need": "A kind of tool, calculator, reference, study aid or utility; any good app doing this job would satisfy them",
     "brand": "One specific company, product, publisher or app, by its name",
@@ -78,37 +80,6 @@ INTENT = {
     "jobs": "Job listings, hiring or staffing",
     "other": "None of the above",
 }
-
-
-def judge_keyword(term, profession, top):
-    state = {"search_term": term, "profession": profession or "unknown",
-             "top_results": [{"rank": i + 1, "name": a["name"], "developer": a.get("dev", ""),
-                              "ratings": a["ratings"], "description": (a.get("desc") or "")[:300]}
-                             for i, a in enumerate(top)]}
-    q = {
-        "intent": {"type": "choice", "criteria": INTENT,
-                   "instructions": "What is a person who types `search_term` into the App Store search box looking for?"},
-        "audience": {"type": "score", "criteria": AUDIENCE,
-                     "instructions": "Who mainly searches the App Store for `search_term`?"},
-        "pay": {"type": "score", "criteria": PAY,
-                "instructions": "How willing is the typical person searching `search_term` to pay for an app that serves it well?"},
-        "build": {"type": "score", "criteria": BUILD,
-                  "instructions": "How feasible is it for one iOS developer to build a high-quality app that serves `search_term` within about four weeks?"},
-        "risk": {"type": "noul", "criteria": RISK,
-                 "instructions": f"Would an app built to serve `search_term` likely {RISK_Q}?"},
-    }
-    for i in range(len(top)):
-        q[f"rival_{i}"] = {"type": "noul", "instructions": f"Does `top_results[{i}]` directly serve what a person searching `search_term` wants?",
-                           "criteria": {"true": "Built for this need: a real competitor",
-                                        "false": "Unrelated, only loosely related, or a general app that merely mentions it"}}
-    r = ask(state, q)
-    a = r["answers"]
-    return {"intent": a["intent"]["choice"], "intentP": round(a["intent"]["probabilities"][a["intent"]["choice"]], 3),
-            "audience": norm(a["audience"]), "pay": norm(a["pay"]), "build": norm(a["build"]), "risk": norm(a["risk"]),
-            "rivalP": [norm(a[f"rival_{i}"]) for i in range(len(top))], "model": r["model"]}
-
-
-# ---- app judgments (features the learner weighs with your labels) --------------
 KIND = {
     "utility": "A tool that does one job with the phone's sensors, camera, audio, files or calculations",
     "reference": "Reference, learning, study or exam-prep content for a topic",
@@ -117,35 +88,6 @@ KIND = {
     "ai_wrapper": "Mainly a chat or AI-generation interface",
     "service": "Front end for a business, account or online service",
 }
-APP_FEATURES = ["audience", "pay", "build", "risk"] + ["kind_" + k for k in KIND]
-
-
-def judge_app(a):
-    state = {"app": {"name": a["name"], "developer": a["dev"], "category": a["genre"],
-                     "ratings": a["ratings"], "description": a["desc"][:900]}}
-    q = {
-        "kind": {"type": "choice", "criteria": KIND, "instructions": "What kind of app is `app`?"},
-        "audience": {"type": "score", "criteria": AUDIENCE, "instructions": "Who is `app` built for?"},
-        "pay": {"type": "score", "criteria": PAY,
-                "instructions": "How willing are the people `app` is built for to pay for an app like it?"},
-        "build": {"type": "score", "criteria": BUILD,
-                  "instructions": "How feasible is it for one iOS developer to build a competing app as good as `app` within about four weeks?"},
-        "risk": {"type": "noul", "criteria": RISK, "instructions": f"Would an app like `app` likely {RISK_Q}?"},
-    }
-    r = ask(state, q)
-    an = r["answers"]
-    out = {k: norm(an[k]) for k in ("audience", "pay", "build", "risk")}
-    out["kind"] = an["kind"]["choice"]
-    out["kindP"] = {k: round(v, 3) for k, v in an["kind"]["probabilities"].items()}
-    out["model"] = r["model"]
-    return out
-
-
-def app_vector(j):
-    return [j["audience"], j["pay"], j["build"], j["risk"]] + [j["kindP"].get(k, 0) for k in KIND]
-
-
-# ---- free-text "bad" note -> reason -------------------------------------------
 REASON_DESC = {
     "Alakasız": "The app or idea is unrelated to what the user is looking for",
     "Çok rekabet / doygun": "The market niche already has strong, established competitors",
@@ -157,12 +99,152 @@ REASON_DESC = {
     "Sıkıcı fikir": "The idea is boring or uninteresting to the user",
 }
 
+# capability -> (question type, version-1 spec). Placeholders: {i} result index, {subject} what is judged.
+TYPES = {"intent": "choice", "brand": "noul", "rival": "noul", "risk": "noul", "audience": "score",
+         "pay": "score", "build": "score", "kind": "choice", "note": "choice"}
+V1 = {
+    "intent": {"instructions": "What is a person who types `search_term` into the App Store search box looking for?",
+               "criteria": INTENT},
+    "brand": {"instructions": "Is `search_term` a proper name - the brand, product, company or app name of one specific "
+                              "app or company - rather than plain words describing what the searcher needs? "
+                              "Use `top_results` as evidence: a brand usually appears as the distinctive title of one result.",
+              "criteria": {"true": "A proper or brand name (like 'ForeFlight', 'PassRun', 'Smart Optometry'), possibly with generic words added",
+                           "false": "Plain descriptive words for a need or topic, even if one app happens to use these words as its title "
+                                    "(like 'paramedic exam prep', 'welding symbols', 'acupuncture tools')"}},
+    "rival": {"instructions": "Does `top_results[{i}]` directly serve what a person searching `search_term` wants?",
+              "criteria": {"true": "Built for this need: a real competitor",
+                           "false": "Unrelated, only loosely related, or a general app that merely mentions it"}},
+    "risk": {"instructions": "Would {subject} likely " + RISK_Q + "?", "criteria": RISK},
+    "audience": {"instructions": "Who is {subject} built for?", "criteria": AUDIENCE},
+    "pay": {"instructions": "How willing is the target audience of {subject} to pay for it?", "criteria": PAY},
+    "build": {"instructions": "How feasible is it for one iOS developer to build a high-quality version of {subject} within about four weeks?",
+              "criteria": BUILD},
+    "kind": {"instructions": "What kind of app is `app`?", "criteria": KIND},
+    "note": {"instructions": "A user rejected an app idea and wrote `note` (Turkish). Which listed reason does the note express?",
+             "criteria": {**REASON_DESC, "Diğer": "None of the listed reasons"}},
+}
+SUBJECT_KW = "an app that serves people searching the App Store for `search_term`"
+SUBJECT_APP = "`app`"
 
-def note_reason(note, reasons):
-    crit = {r: REASON_DESC.get(r) for r in reasons}
-    crit["Diğer"] = "None of the listed reasons"
-    r = ask({"note": note}, {"reason": {
-        "type": "choice", "criteria": crit,
-        "instructions": "A user rejected an app idea and wrote `note` (Turkish). Which listed reason does the note express?"}})
-    a = r["answers"]["reason"]
+_REG = {"mtime": None, "data": None}
+
+
+def registry():
+    try:
+        m = os.path.getmtime(REGISTRY)
+        if _REG["mtime"] != m:
+            _REG.update(mtime=m, data=json.load(open(REGISTRY)))
+    except (FileNotFoundError, ValueError):
+        _REG["data"] = None
+    return _REG["data"]
+
+
+def prod_specs(cap):
+    reg = registry()
+    if reg and cap in reg.get("caps", {}):
+        c = reg["caps"][cap]
+        return [c["versions"][v] for v in c["prod"]]
+    return [V1[cap]]
+
+
+def _fill(x, fmt):
+    if isinstance(x, str):
+        for k, v in fmt.items():
+            x = x.replace("{" + k + "}", str(v))
+        return x
+    if isinstance(x, list):
+        return [_fill(y, fmt) for y in x]
+    if isinstance(x, dict):
+        return {k: _fill(v, fmt) for k, v in x.items()}
+    return x
+
+
+def build_q(cap, spec, **fmt):
+    return {"type": TYPES[cap], "instructions": _fill(copy.deepcopy(spec["instructions"]), fmt),
+            "criteria": _fill(copy.deepcopy(spec["criteria"]), fmt)}
+
+
+def add_q(qs, key, cap, specs=None, **fmt):
+    """Add one question per production version (ensemble members key, key~1, key~2 ...)."""
+    for n, spec in enumerate(specs or prod_specs(cap)):
+        qs[key if n == 0 else f"{key}~{n}"] = build_q(cap, spec, **fmt)
+
+
+def merged(answers, key):
+    """Average ensemble members into one answer of the same shape."""
+    members = [answers[k] for k in answers if k == key or k.startswith(key + "~")]
+    if len(members) == 1:
+        return members[0]
+    a0 = members[0]
+    if a0["type"] == "noul":
+        return {"type": "noul", "noul": sum(m["noul"] for m in members) / len(members)}
+    keys = a0["probabilities"].keys()
+    probs = {k: sum(m["probabilities"].get(k, 0) for m in members) / len(members) for k in keys}
+    if a0["type"] == "choice":
+        best = max(probs, key=probs.get)
+        return {"type": "choice", "choice": best, "probabilities": probs, "confidence": probs[best]}
+    score = sum(int(k) * p for k, p in probs.items())
+    return {"type": "score", "score": score, "legend": a0["legend"], "probabilities": probs,
+            "confidence": min(m["confidence"] for m in members)}
+
+
+# ---- keyword / niche judgments -------------------------------------------------
+def keyword_state(term, profession, top):
+    return {"search_term": term, "profession": profession or "unknown",
+            "top_results": [{"rank": i + 1, "name": a["name"], "developer": a.get("dev", ""),
+                             "ratings": a["ratings"], "description": (a.get("desc") or "")[:300]}
+                            for i, a in enumerate(top)]}
+
+
+def judge_keyword(term, profession, top):
+    q = {}
+    add_q(q, "intent", "intent")
+    add_q(q, "brand", "brand")
+    for cap in ("audience", "pay", "build", "risk"):
+        add_q(q, cap, cap, subject=SUBJECT_KW)
+    for i in range(len(top)):
+        add_q(q, f"rival_{i}", "rival", i=i)
+    r = ask(keyword_state(term, profession, top), q)
+    a = r["answers"]
+    it = merged(a, "intent")
+    return {"intent": it["choice"], "intentP": round(it["probabilities"][it["choice"]], 3),
+            "brandP": norm(merged(a, "brand")),
+            **{c: norm(merged(a, c)) for c in ("audience", "pay", "build", "risk")},
+            "rivalP": [norm(merged(a, f"rival_{i}")) for i in range(len(top))], "model": r["model"]}
+
+
+# ---- app judgments (features the learner weighs with your labels) --------------
+APP_FEATURES = ["audience", "pay", "build", "risk"] + ["kind_" + k for k in KIND]
+
+
+def app_state(a):
+    return {"app": {"name": a["name"], "developer": a.get("dev", ""), "category": a.get("genre", a.get("category", "")),
+                    "ratings": a.get("ratings", 0), "description": (a.get("desc") or "")[:900]}}
+
+
+def judge_app(a):
+    q = {}
+    add_q(q, "kind", "kind")
+    for cap in ("audience", "pay", "build", "risk"):
+        add_q(q, cap, cap, subject=SUBJECT_APP)
+    r = ask(app_state(a), q)
+    an = r["answers"]
+    out = {k: norm(merged(an, k)) for k in ("audience", "pay", "build", "risk")}
+    kd = merged(an, "kind")
+    out["kind"] = kd["choice"]
+    out["kindP"] = {k: round(v, 3) for k, v in kd["probabilities"].items()}
+    out["model"] = r["model"]
+    return out
+
+
+def app_vector(j):
+    return [j["audience"], j["pay"], j["build"], j["risk"]] + [j["kindP"].get(k, 0) for k in KIND]
+
+
+# ---- free-text "bad" note -> reason -------------------------------------------
+def note_reason(note, reasons=None):
+    q = {}
+    add_q(q, "reason", "note")
+    r = ask({"note": note}, q)
+    a = merged(r["answers"], "reason")
     return a["choice"], a["confidence"]

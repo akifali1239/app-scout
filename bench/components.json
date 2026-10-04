@@ -1,0 +1,127 @@
+{
+ "_doc": "Alternative question parts the hourly optimizer combines. Index 0 must equal version 1 (jev.V1). The cloud brain (Claude) appends new ideas here; the optimizer only ever promotes what wins on the bench.",
+ "intent": {
+  "instructions": [
+   "What is a person who types `search_term` into the App Store search box looking for?",
+   "Someone typed `search_term` into the App Store search box. Decide what they are trying to find. Use `top_results` only as hints.",
+   {"task": "Classify the App Store search query `search_term` by what the searcher wants.",
+    "hint": "Names of clinics, companies, publishers or specific apps mean they want that one entity; plain topic words mean a need that any good app could serve."}
+  ],
+  "criteria": [
+   {"need": "A kind of tool, calculator, reference, study aid or utility; any good app doing this job would satisfy them",
+    "brand": "One specific company, product, publisher or app, by its name",
+    "local_business": "The app of one specific clinic, shop, school, credit union or other organization",
+    "game": "A game or simulator to play for fun",
+    "jobs": "Job listings, hiring or staffing",
+    "other": "None of the above"},
+   {"need": "Plain words for a topic, task, exam or tool that many apps could serve (e.g. 'welding symbols', 'white noise', 'nclex practice questions'); not a proper name",
+    "brand": "A proper name of one product, app, publisher or company, possibly with generic words added (e.g. 'foreflight', 'hinge health', 'pocket prep', 'miller weld setting calculator')",
+    "local_business": "Names one specific local clinic, practice, shop, school, hospital or credit union, often with LLC, PC, a city or a person's name",
+    "game": "Wants a game, simulator or something to play",
+    "jobs": "Wants job listings or to be hired",
+    "other": "None of the above"}
+  ]
+ },
+ "brand": {
+  "instructions": [
+   "Is `search_term` a proper name - the brand, product, company or app name of one specific app or company - rather than plain words describing what the searcher needs? Use `top_results` as evidence: a brand usually appears as the distinctive title of one result.",
+   "Would a typical person read `search_term` as the name of one particular product, app, company, publisher, clinic or person, rather than a description of a task or topic? Invented words, trademarks, company or person names, and app titles with taglines are names.",
+   {"question": "Is `search_term` a name (of one app, product, company, publisher, clinic or person) rather than a description of a need?",
+    "evidence": "Check `top_results`: if one result's title or developer contains the distinctive words of `search_term`, it is probably that result's name. If many results share the words, they are probably generic."}
+  ],
+  "criteria": [
+   {"true": "A proper or brand name (like 'ForeFlight', 'PassRun', 'Smart Optometry'), possibly with generic words added",
+    "false": "Plain descriptive words for a need or topic, even if one app happens to use these words as its title (like 'paramedic exam prep', 'welding symbols', 'acupuncture tools')"},
+   {"true": "It names one specific product, company, app, clinic or person: invented or trademarked words (PassRun, ForeFlight), company or person names (Miller, Hinge Health, Niveta), or an exact app title carrying a tagline or punctuation",
+    "false": "Ordinary words describing a topic, task, exam or tool that many apps could serve (paramedic exam prep, welding symbols, white noise), even if one app uses them as its title"}
+  ]
+ },
+ "rival": {
+  "instructions": [
+   "Does `top_results[{i}]` directly serve what a person searching `search_term` wants?",
+   "Is `top_results[{i}]` built mainly for the need expressed by `search_term`, so that a searcher would pick it to solve exactly that need?"
+  ],
+  "criteria": [
+   {"true": "Built for this need: a real competitor",
+    "false": "Unrelated, only loosely related, or a general app that merely mentions it"},
+   {"true": "Its main purpose matches the search need, or it has a full dedicated feature for it",
+    "false": "Its main purpose is something else in the same field, a broader topic that only touches the need, an exam or course that only includes some questions on it, or unrelated"}
+  ]
+ },
+ "risk": {
+  "instructions": [
+   "Would {subject} likely be restricted by App Store review because of what the app itself does?",
+   "Would Apple's App Review likely reject or restrict {subject} because of what it actually does (not because of its topic)?"
+  ],
+  "criteria": [
+   {"true": "The app itself would do something App Review restricts: calculate drug doses for real patients, diagnose or treat medical conditions, give regulated financial or legal advice, run real-money gambling, distribute copyrighted material, or operate a service that needs an official licence",
+    "false": "An ordinary app. Study aids, exam prep, flashcards, reference guides, calculators for trades and educational content ABOUT medicine, law or finance are ordinary apps"},
+   {"true": {"definition": "The app performs a restricted activity itself", "restricted activities": ["dosing or treatment advice for real patients", "diagnosing conditions or claiming to measure vital signs with phone sensors", "regulated financial services, lending, trading with user money, or legal advice", "real-money gambling", "streaming or distributing copyrighted content without rights"]},
+    "false": {"definition": "An ordinary app", "examples": ["study aids, exam prep and flashcards about medicine, law or finance", "reference guides and dictionaries", "trade calculators", "reminders and trackers that do not give medical decisions"]}}
+  ]
+ },
+ "audience": {
+  "instructions": ["Who is {subject} built for?", "How specialised is the audience of {subject}?"],
+  "criteria": [
+   ["The general public; anyone could need it", "A broad hobby or interest group", "People in a specific occupation or trade, or students training for one", "A narrow specialty inside an occupation"],
+   ["Anyone: a mass-market everyday need", "Hobbyists or a broad interest community", "Workers in one occupation or trade, or students preparing for its licence or exam", "Specialists inside an occupation (a sub-specialty, certification or niche technique)"]
+  ]
+ },
+ "pay": {
+  "instructions": ["How willing is the target audience of {subject} to pay for it?", "If {subject} were excellent, how would its typical user pay for it?"],
+  "criteria": [
+   ["Expects it to be free; would not pay", "Might pay a small one-time amount", "Would pay a recurring subscription because it helps their work, income or an exam they must pass"],
+   ["Would not pay; plenty of free alternatives and low stakes", "A small one-time purchase at most", "A subscription is easy to justify: it saves work time, earns money or helps pass a costly exam"]
+  ]
+ },
+ "build": {
+  "instructions": ["How feasible is it for one iOS developer to build a high-quality version of {subject} within about four weeks?", "Could a single iOS developer ship a competitive version of {subject} in about four weeks?"],
+  "criteria": [
+   ["Not feasible: needs licensed data, special hardware, partnerships, a big content team or a regulated service", "Hard: needs a lot of expert content or complex engineering", "Feasible: moderate content or engineering that one developer can produce or source", "Easy: mostly interface over public knowledge, formulas or the phone's own sensors"],
+   ["No: requires a marketplace, network effects, licences, hardware or a large team", "Barely: a large body of expert content or heavy engineering", "Yes, with focused effort: moderate content or engineering", "Easily: a simple interface over public facts, formulas or phone sensors"]
+  ]
+ },
+ "kind": {
+  "instructions": ["What kind of app is `app`?", "Which category best describes what `app` mainly is?"],
+  "criteria": [
+   {"utility": "A tool that does one job with the phone's sensors, camera, audio, files or calculations",
+    "reference": "Reference, learning, study or exam-prep content for a topic",
+    "content": "Media, entertainment, streaming, social or news",
+    "game": "A game",
+    "ai_wrapper": "Mainly a chat or AI-generation interface",
+    "service": "Front end for a business, account or online service"},
+   {"utility": "A single-purpose tool (scanner, meter, timer, tracker, converter, identifier, reminder) that works on the device",
+    "reference": "Organised knowledge to look up or learn: guides, atlases, drug references, exam-prep question banks",
+    "content": "Media to consume: video, music, radio, books, comics, daily verses, social feeds or news",
+    "game": "A game to play",
+    "ai_wrapper": "Its core is chatting with or generating text, images or playlists with AI",
+    "service": "The app of a company, bank, employer benefit, marketplace or online account the user signs into"}
+  ]
+ },
+ "note": {
+  "instructions": [
+   "A user rejected an app idea and wrote `note` (Turkish). Which listed reason does the note express?",
+   "Bir kullanıcı bir app fikrini reddetti ve `note` notunu yazdı. Not, listedeki hangi sebebi ifade ediyor?"
+  ],
+  "criteria": [
+   {"Alakasız": "The app or idea is unrelated to what the user is looking for",
+    "Çok rekabet / doygun": "The market niche already has strong, established competitors",
+    "Yapması zor": "Too hard or expensive for the user to build",
+    "Para yapmaz": "Users would not pay; it would not make money",
+    "Kalitesiz / eski": "This particular app listing is low quality or outdated",
+    "Çok benzer": "The user keeps seeing too many near-identical apps in this list; it is repetitive",
+    "Ret riski": "Likely to be rejected by App Store review",
+    "Sıkıcı fikir": "The idea is boring or uninteresting to the user",
+    "Diğer": "None of the listed reasons"},
+   {"Alakasız": "Fikir kullanıcının aradığı şeyle ilgisiz (ör. oyun, başka alan)",
+    "Çok rekabet / doygun": "Bu nişte zaten güçlü, çok yorumlu rakipler var; pazar doymuş",
+    "Yapması zor": "Tek başına yapmak çok zor veya pahalı (sunucu, lisans, içerik ekibi)",
+    "Para yapmaz": "Kullanıcılar ödeme yapmaz, gelir getirmez",
+    "Kalitesiz / eski": "Bu app'in kendisi kötü yapılmış veya eski (ikon, ekran görüntüsü, güncelleme)",
+    "Çok benzer": "Listede aynısından çok var, tekrar ediyor",
+    "Ret riski": "Apple incelemesinde reddedilir",
+    "Sıkıcı fikir": "Fikir sıkıcı, heyecan vermiyor",
+    "Diğer": "Bunların hiçbiri"}
+  ]
+ }
+}

@@ -873,12 +873,18 @@ def run_task(task, arg):
         return jev_all_job(force=True)
     if task == "autopilot":
         out = {}
+        # questions improved since the last re-judge (jev_optimize promotion/rollback) -> re-judge everything once
+        reg, ap = jev.registry() or {}, load("autopilot.json", {})
+        if reg.get("rejudge_after") and reg["rejudge_after"] > (ap.get("rejudged_at") or ""):
+            out["rejudge"] = jev_all_job(force=True)
+            ap["rejudged_at"] = datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds")
+            save("autopilot.json", ap)
         if load("mine_queue.json", []):
             out["mine"] = mine_job(load("mine_queue.json", []))
         out["discover"] = discover_job()
         out["niche"] = niche_job([], True)
         out["jev"] = jev_all_job()
-        save("autopilot.json", {"last": datetime.datetime.now().isoformat(timespec="minutes"), "result": out})
+        save("autopilot.json", {**load("autopilot.json", {}), "last": datetime.datetime.now().isoformat(timespec="minutes"), "result": out})
         return out
     raise SystemExit(f"bilinmeyen görev: {task}")
 
@@ -956,6 +962,18 @@ class H(BaseHTTPRequestHandler):
             return
         if self.path in ("/", "/index.html"):
             return self.send(open(P("index.html"), "rb").read(), ctype="text/html")
+        if self.path == "/api/scoreboard":
+            board = load("bench/scoreboard.json", {})
+            board.pop("raw", None)
+            try:
+                lines = open(DP("bench/audit.jsonl")).read().splitlines()
+                board["audit"] = [json.loads(x) for x in lines if '"action": "trial"' not in x][-60:][::-1]
+            except FileNotFoundError:
+                board["audit"] = []
+            reg = jev.registry() or {}
+            board["prod"] = {cap: {"prod": c["prod"], "origin": [c["versions"][v].get("origin") for v in c["prod"]]}
+                             for cap, c in reg.get("caps", {}).items()}
+            return self.send(board)
         if self.path == "/api/status":
             return self.send({**JOB, "jev": JEVJOB, "jevKey": bool(jev.api_key()) or GITHUB_MODE,
                               "github": GITHUB_MODE, "gh": GH})
@@ -973,7 +991,8 @@ class H(BaseHTTPRequestHandler):
                     part = [min(1.0, max(0.0, (p - 0.35) / 0.3)) for p in j["rivalP"]]
                     k["rivals"] = round(sum(part))
                     k["serious"] = round(sum(w for a, w in zip(k["top"], part) if a["ratings"] >= 50))
-                    k["brand"] = j["intent"] in ("brand", "local_business") or brand_evidence(k)
+                    k["brand"] = (j["intent"] in ("brand", "local_business") or brand_evidence(k)
+                                  or (j.get("brandP") or 0) >= 0.7)
                     k["intent"] = j["intent"]
                     k["quality"] = round(100 * (0.35 * j["audience"] + 0.4 * j["pay"] + 0.25 * j["build"]))
                 bonus = (12 if k["rivals"] <= 1 else 5 if k["rivals"] == 2 else 0)

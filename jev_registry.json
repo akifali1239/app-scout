@@ -1,0 +1,307 @@
+{
+ "caps": {
+  "intent": {
+   "type": "choice",
+   "prod": [
+    "v1"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "What is a person who types `search_term` into the App Store search box looking for?",
+     "criteria": {
+      "need": "A kind of tool, calculator, reference, study aid or utility; any good app doing this job would satisfy them",
+      "brand": "One specific company, product, publisher or app, by its name",
+      "local_business": "The app of one specific clinic, shop, school, credit union or other organization",
+      "game": "A game or simulator to play for fun",
+      "jobs": "Job listings, hiring or staffing",
+      "other": "None of the above"
+     },
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    }
+   },
+   "tried": [
+    "9a02b4cf5cbb",
+    "8853de2ad86c",
+    "bd2aff8f66c6",
+    "0d12c3482819",
+    "e24473cc326b",
+    "ceeac85f76d5",
+    "eece9ccd4fac",
+    "bd50450b1401",
+    "2b551d12e0c1"
+   ],
+   "prev": null,
+   "promoted_at": null
+  },
+  "brand": {
+   "type": "noul",
+   "prod": [
+    "v2"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "Is `search_term` a proper name - the brand, product, company or app name of one specific app or company - rather than plain words describing what the searcher needs? Use `top_results` as evidence: a brand usually appears as the distinctive title of one result.",
+     "criteria": {
+      "true": "A proper or brand name (like 'ForeFlight', 'PassRun', 'Smart Optometry'), possibly with generic words added",
+      "false": "Plain descriptive words for a need or topic, even if one app happens to use these words as its title (like 'paramedic exam prep', 'welding symbols', 'acupuncture tools')"
+     },
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    },
+    "v2": {
+     "instructions": {
+      "question": "Is `search_term` a name (of one app, product, company, publisher, clinic or person) rather than a description of a need?",
+      "evidence": "Check `top_results`: if one result's title or developer contains the distinctive words of `search_term`, it is probably that result's name. If many results share the words, they are probably generic."
+     },
+     "criteria": {
+      "true": {
+       "description": "A proper or brand name (like 'ForeFlight', 'PassRun', 'Smart Optometry'), possibly with generic words added",
+       "examples": [
+        "dental assistant - dental plan",
+        "guide to clinical midwifery",
+        "align functional movement & massage therapy",
+        "foreflight"
+       ]
+      },
+      "false": {
+       "description": "Plain descriptive words for a need or topic, even if one app happens to use these words as its title (like 'paramedic exam prep', 'welding symbols', 'acupuncture tools')",
+       "examples": [
+        "rccs sonography exam prep 2026",
+        "paramedic registration prep uk",
+        "paramedic survey helper",
+        "amcb cm midwifery exam prep"
+       ]
+      }
+     },
+     "origin": "talimat#2 tanım#0 örnek×4",
+     "created": "2026-10-04T14:48:11+00:00",
+     "dev_obj": 0.7279,
+     "test_obj": 0.643
+    }
+   },
+   "tried": [
+    "8d2d202299ac",
+    "192d8dae1d6e",
+    "f2b6719fef72",
+    "cb86dba03dc5",
+    "35f713741705",
+    "77276a2ce873",
+    "6cbcdc1981e5",
+    "d8adf3d3aabb",
+    "9374e3043283",
+    "ensemble:v2+v1"
+   ],
+   "prev": [
+    "v1"
+   ],
+   "promoted_at": "2026-10-04T14:48:11+00:00"
+  },
+  "rival": {
+   "type": "noul",
+   "prod": [
+    "v1"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "Does `top_results[{i}]` directly serve what a person searching `search_term` wants?",
+     "criteria": {
+      "true": "Built for this need: a real competitor",
+      "false": "Unrelated, only loosely related, or a general app that merely mentions it"
+     },
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    }
+   },
+   "tried": [
+    "f1dc709d250b"
+   ],
+   "prev": null,
+   "promoted_at": null
+  },
+  "risk": {
+   "type": "noul",
+   "prod": [
+    "v1"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "Would {subject} likely be restricted by App Store review because of what the app itself does?",
+     "criteria": {
+      "true": "The app itself would do something App Review restricts: calculate drug doses for real patients, diagnose or treat medical conditions, give regulated financial or legal advice, run real-money gambling, distribute copyrighted material, or operate a service that needs an official licence",
+      "false": "An ordinary app. Study aids, exam prep, flashcards, reference guides, calculators for trades and educational content ABOUT medicine, law or finance are ordinary apps"
+     },
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    }
+   },
+   "tried": [
+    "9e6e9c53b6aa",
+    "487c362f93c6",
+    "fa8dc806c0a9",
+    "d2a8e6e7b076",
+    "4316e32468ed"
+   ],
+   "prev": null,
+   "promoted_at": null
+  },
+  "audience": {
+   "type": "score",
+   "prod": [
+    "v1"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "Who is {subject} built for?",
+     "criteria": [
+      "The general public; anyone could need it",
+      "A broad hobby or interest group",
+      "People in a specific occupation or trade, or students training for one",
+      "A narrow specialty inside an occupation"
+     ],
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    }
+   },
+   "tried": [
+    "7343ae4d4e2e"
+   ],
+   "prev": null,
+   "promoted_at": null
+  },
+  "pay": {
+   "type": "score",
+   "prod": [
+    "v1"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "How willing is the target audience of {subject} to pay for it?",
+     "criteria": [
+      "Expects it to be free; would not pay",
+      "Might pay a small one-time amount",
+      "Would pay a recurring subscription because it helps their work, income or an exam they must pass"
+     ],
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    }
+   },
+   "tried": [
+    "645d23bc493f"
+   ],
+   "prev": null,
+   "promoted_at": null
+  },
+  "build": {
+   "type": "score",
+   "prod": [
+    "v1"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "How feasible is it for one iOS developer to build a high-quality version of {subject} within about four weeks?",
+     "criteria": [
+      "Not feasible: needs licensed data, special hardware, partnerships, a big content team or a regulated service",
+      "Hard: needs a lot of expert content or complex engineering",
+      "Feasible: moderate content or engineering that one developer can produce or source",
+      "Easy: mostly interface over public knowledge, formulas or the phone's own sensors"
+     ],
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    }
+   },
+   "tried": [
+    "0175ad0bdccc"
+   ],
+   "prev": null,
+   "promoted_at": null
+  },
+  "kind": {
+   "type": "choice",
+   "prod": [
+    "v1"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "What kind of app is `app`?",
+     "criteria": {
+      "utility": "A tool that does one job with the phone's sensors, camera, audio, files or calculations",
+      "reference": "Reference, learning, study or exam-prep content for a topic",
+      "content": "Media, entertainment, streaming, social or news",
+      "game": "A game",
+      "ai_wrapper": "Mainly a chat or AI-generation interface",
+      "service": "Front end for a business, account or online service"
+     },
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    }
+   },
+   "tried": [
+    "238d821ae134",
+    "aa14f395e199",
+    "b2628482e5af",
+    "b2628482e5af",
+    "b828200bda03",
+    "5098267bdb35",
+    "703e01f1165e",
+    "71e27cb7cefe"
+   ],
+   "prev": null,
+   "promoted_at": null
+  },
+  "note": {
+   "type": "choice",
+   "prod": [
+    "v2"
+   ],
+   "versions": {
+    "v1": {
+     "instructions": "A user rejected an app idea and wrote `note` (Turkish). Which listed reason does the note express?",
+     "criteria": {
+      "Alakasız": "The app or idea is unrelated to what the user is looking for",
+      "Çok rekabet / doygun": "The market niche already has strong, established competitors",
+      "Yapması zor": "Too hard or expensive for the user to build",
+      "Para yapmaz": "Users would not pay; it would not make money",
+      "Kalitesiz / eski": "This particular app listing is low quality or outdated",
+      "Çok benzer": "The user keeps seeing too many near-identical apps in this list; it is repetitive",
+      "Ret riski": "Likely to be rejected by App Store review",
+      "Sıkıcı fikir": "The idea is boring or uninteresting to the user",
+      "Diğer": "None of the listed reasons"
+     },
+     "origin": "v1 (elle yazıldı)",
+     "created": "2026-10-04T14:48:11+00:00"
+    },
+    "v2": {
+     "instructions": "A user rejected an app idea and wrote `note` (Turkish). Which listed reason does the note express?",
+     "criteria": {
+      "Alakasız": "Fikir kullanıcının aradığı şeyle ilgisiz (ör. oyun, başka alan)",
+      "Çok rekabet / doygun": "Bu nişte zaten güçlü, çok yorumlu rakipler var; pazar doymuş",
+      "Yapması zor": "Tek başına yapmak çok zor veya pahalı (sunucu, lisans, içerik ekibi)",
+      "Para yapmaz": "Kullanıcılar ödeme yapmaz, gelir getirmez",
+      "Kalitesiz / eski": "Bu app'in kendisi kötü yapılmış veya eski (ikon, ekran görüntüsü, güncelleme)",
+      "Çok benzer": "Listede aynısından çok var, tekrar ediyor",
+      "Ret riski": "Apple incelemesinde reddedilir",
+      "Sıkıcı fikir": "Fikir sıkıcı, heyecan vermiyor",
+      "Diğer": "Bunların hiçbiri"
+     },
+     "origin": "talimat#0 tanım#1 örnek×0",
+     "created": "2026-10-04T14:48:11+00:00",
+     "dev_obj": 0.9979,
+     "test_obj": 1.0
+    }
+   },
+   "tried": [
+    "b700dd6a32ed",
+    "3702a40c5574",
+    "4b2cd0e0b911",
+    "a3b4fbc01735",
+    "4b2cd0e0b911"
+   ],
+   "prev": [
+    "v1"
+   ],
+   "promoted_at": "2026-10-04T14:48:11+00:00"
+  }
+ },
+ "rejudge_after": "2026-10-04T14:48:11+00:00"
+}

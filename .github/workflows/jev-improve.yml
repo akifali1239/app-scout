@@ -1,0 +1,35 @@
+name: jev-improve
+run-name: "jev-improve"
+
+on:
+  schedule:
+    - cron: "17 * * * *"       # every hour (minute 17, away from the top-of-hour rush)
+  workflow_dispatch:
+
+concurrency:
+  group: jev-improve
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  improve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Optimise Jev questions (consensus gate + audit + rollback)
+        env:
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+        run: python3 jev_optimize.py
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "app-scout-bot"
+          git config user.email "app-scout-bot@users.noreply.github.com"
+          git add jev_registry.json bench/scoreboard.json bench/audit.jsonl bench/budget.json 2>/dev/null || true
+          git diff --cached --quiet && { echo "değişiklik yok"; exit 0; }
+          git commit -q -m "jev-improve: skor tablosu ve denetim"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 10; done
+          exit 1

@@ -79,7 +79,7 @@ tr.row{cursor:pointer}tr.row:hover td{background:var(--bg)}
 <body>
 <header>
   <h1>App Scout</h1>
-  <div class="tabs"><button data-t="new" class="on">Değerlendirilecek</button><button data-t="good">İyi</button><button data-t="bad">Kötü</button><button data-t="niche">Niş Bulucu</button></div>
+  <div class="tabs"><button data-t="new" class="on">Değerlendirilecek</button><button data-t="good">İyi</button><button data-t="bad">Kötü</button><button data-t="niche">Niş Bulucu</button><button data-t="jev">Jev Skor</button></div>
   <span id="appctl" style="display:contents">
     <select id="src" class="btn"><option value="">Tüm kaynaklar</option><option value="similar">Apple benzerleri</option><option value="ref">Referans profiller</option><option value="dev">Senin listen</option><option value="discovered">Keşfedilenler</option></select>
     <select id="sort" class="btn"><option value="">Uyum sırası</option><option value="ratings">Çok yorumlu</option><option value="new">Yeni çıkan</option><option value="few">Az yorumlu (boş niş)</option></select>
@@ -108,6 +108,12 @@ tr.row{cursor:pointer}tr.row:hover td{background:var(--bg)}
       <label class="stat" style="align-self:center"><input type="checkbox" id="goldonly"> Sadece altın nişler</label>
     </div>
     <div class="twrap"><table><thead><tr><th>Kelime</th><th>Fırsat</th><th>Arama</th><th>Rakip</th><th>Jev</th><th>Rakip zayıflığı</th><th>Reklam</th><th>Medyan yorum</th><th>En güçlü</th><th>Eski (1y+)</th><th>Başlıkta kelime</th><th>Ort. puan</th><th></th></tr></thead><tbody id="ntb"></tbody></table></div>
+  </div>
+  <div id="jevtab" style="display:none">
+    <p class="help">Jev'in her yeteneği, cevabı elle etiketlenmiş bir test setinde ölçülüyor. Saatte bir yeni soru varyantları deneniyor; bir varyant ancak <b>konsensüsle</b> canlıya geçiyor: geliştirme setinde net kazanç + hiç görülmemiş test setinde düşüş yok + toplam doğruluk artışı + tekrar çalıştırmada aynı sonuç. Canlıya alınan sürüm 72 saat denetleniyor; önceki sürüm daha iyi çıkarsa otomatik geri alınıyor. <b>Kalibrasyon</b> (Brier): düşük = olasılıklar güvenilir.</p>
+    <div class="twrap"><table><thead><tr><th>Yetenek</th><th>Canlı sürüm</th><th>Doğruluk (test)</th><th>Doğruluk (geliştirme)</th><th>Kalibrasyon</th><th>Örnek</th><th>Sürüm / deneme</th><th>Test doğruluğu geçmişi</th></tr></thead><tbody id="jtb"></tbody></table></div>
+    <h3 style="margin:22px 0 8px;font-size:15px">Denetim günlüğü</h3>
+    <div id="audit" class="help"></div>
   </div>
 </main>
 <div id="toast"></div>
@@ -201,8 +207,9 @@ document.addEventListener('keydown',e=>{
 
 document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('on'));b.classList.add('on');tab=b.dataset.t;shown=60;
-  const n=tab==='niche';$('#apps').style.display=n?'none':'';$('#niche').style.display=n?'':'none';$('#appctl').style.display=n?'none':'contents';
-  n?loadNiche():render()});
+  const n=tab==='niche',jv=tab==='jev';$('#apps').style.display=(n||jv)?'none':'';$('#niche').style.display=n?'':'none';
+  $('#jevtab').style.display=jv?'':'none';$('#appctl').style.display=(n||jv)?'none':'contents';
+  n?loadNiche():jv?loadJev():render()});
 ['src','sort'].forEach(i=>$('#'+i).onchange=()=>{shown=60;render()});$('#q').oninput=()=>{shown=60;render()};
 
 let jevWasRunning=false;
@@ -284,6 +291,33 @@ function renderNiche(){
         r.append(sh,t,m,l);rv.appendChild(r)});
       td.appendChild(rv);dr.appendChild(td);tb.appendChild(dr)}
   })}
+const CAPTR={intent:'Arama niyeti',brand:'Marka mı?',rival:'Gerçek rakip',risk:'Ret riski',audience:'Meslek nişi puanı',
+  pay:'Ödeme isteği puanı',build:'Yapılabilirlik puanı',kind:'App türü',note:'Türkçe not → sebep'};
+const ACTTR={promote:'✅ canlıya alındı',reject:'✗ reddedildi',rollback:'↩️ geri alındı',run:'⏱ tur',skip:'⏸ atlandı',baseline:'📏 ölçüm',
+  brain_add_cases:'🧠 test seti büyütüldü',brain_add_components:'🧠 yeni soru fikirleri',brain_review:'🧠 inceleme'};
+function spark(vals){const w=160,h=28;const s=document.createElementNS('http://www.w3.org/2000/svg','svg');s.setAttribute('width',w);s.setAttribute('height',h);
+  if(vals.length<2){return s}const lo=Math.min(...vals,0.5),hi=1;const pts=vals.map((v,i)=>`${(i/(vals.length-1))*w},${h-2-((v-lo)/(hi-lo||1))*(h-4)}`).join(' ');
+  const p=document.createElementNS('http://www.w3.org/2000/svg','polyline');p.setAttribute('points',pts);p.setAttribute('fill','none');
+  p.setAttribute('stroke','var(--acc)');p.setAttribute('stroke-width','2');s.appendChild(p);return s}
+async function loadJev(){
+  const b=await (await fetch('/api/scoreboard')).json();const tb=$('#jtb');tb.innerHTML='';
+  if(!b.current){const tr=el('tr');const td=el('td','empty','Henüz ölçüm yok.');td.colSpan=8;tr.appendChild(td);tb.appendChild(tr);return}
+  const pct=v=>v==null?'—':Math.round(v*100)+'%';
+  Object.entries(b.current).forEach(([cap,v])=>{
+    const tr=el('tr');const c=(x,cls)=>{const td=el('td',cls);if(x instanceof Node)td.appendChild(x);else td.textContent=x;tr.appendChild(td)};
+    c(el('b',null,CAPTR[cap]||cap));
+    const pv=el('div');pv.append(v.version);const o=(b.prod&&b.prod[cap]&&b.prod[cap].origin||[]).filter(Boolean).join(' + ');if(o)pv.appendChild(el('div','meta',o));c(pv);
+    const ta=el('b',null,pct(v.test_acc));ta.style.color=v.test_acc>=0.95?'var(--good)':v.test_acc<0.8?'var(--bad)':'';c(ta,'num');
+    c(pct(v.dev_acc),'num');c(v.brier==null?'—':v.brier.toFixed(3),'num');c(v.n,'num');c(`${v.versions} / ${v.tried}`,'num');
+    c(spark(b.history.filter(x=>x.cap===cap&&x.test_acc!=null).map(x=>x.test_acc).slice(-60)));
+    tb.appendChild(tr)});
+  const au=$('#audit');au.innerHTML='';
+  b.audit.forEach(e=>{const d=el('div');d.style.cssText='padding:5px 0;border-bottom:1px solid var(--line)';
+    const t=(e.ts||'').replace('T',' ').slice(0,16);
+    let txt=`${t} · ${ACTTR[e.action]||e.action}`+(e.cap?` · ${CAPTR[e.cap]||e.cap}`:'')+(e.candidate?` · ${e.candidate}`:'');
+    if(e.action==='promote'||e.action==='rollback')txt+=` · ${e.from_version} → ${e.to_version}`+(e.dev?` · dev ${e.dev[0]}→${e.dev[1]} · test ${e.test[0]}→${e.test[1]}`:'');
+    if(e.reason)txt+=` · ${e.reason}`;if(e.action==='run')txt+=` · ${e.calls} istek · $${e.cost_usd}`;if(e.actor&&e.actor!=='optimizer')txt+=` · (${e.actor})`;
+    d.textContent=txt;if(e.action==='promote')d.style.color='var(--good)';if(e.action==='rollback')d.style.color='var(--bad)';au.appendChild(d)})}
 load();poll();
 </script>
 </body>

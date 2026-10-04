@@ -1,0 +1,589 @@
+{
+ "current": {
+  "intent": {
+   "version": "v1",
+   "dev_acc": 0.8571,
+   "test_acc": 0.913,
+   "dev_obj": 0.7431,
+   "test_obj": 0.8509,
+   "brier": 0.1242,
+   "n": 44,
+   "versions": 1,
+   "tried": 9,
+   "test_errors": [
+    [
+     "hinge health",
+     "brand",
+     "need"
+    ],
+    [
+     "somatic massage therapy pc",
+     "local_business",
+     "need"
+    ]
+   ]
+  },
+  "brand": {
+   "version": "v2",
+   "dev_acc": 0.8148,
+   "test_acc": 0.7407,
+   "dev_obj": 0.7316,
+   "test_obj": 0.6419,
+   "brier": 0.1977,
+   "n": 54,
+   "versions": 2,
+   "tried": 10,
+   "test_errors": [
+    [
+     "pharmacy technician letter",
+     true,
+     0.08
+    ],
+    [
+     "paramedic coach",
+     true,
+     0.1
+    ],
+    [
+     "student midwife baby catches",
+     false,
+     0.73
+    ],
+    [
+     "cmtbc massage therapy prep",
+     false,
+     0.53
+    ],
+    [
+     "hinge health",
+     true,
+     0.12
+    ]
+   ]
+  },
+  "rival": {
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9973,
+   "test_obj": 0.996,
+   "brier": 0.008,
+   "n": 43,
+   "versions": 1,
+   "tried": 1,
+   "test_errors": []
+  },
+  "risk": {
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9921,
+   "test_obj": 0.992,
+   "brier": 0.0161,
+   "n": 23,
+   "versions": 1,
+   "tried": 5,
+   "test_errors": []
+  },
+  "audience": {
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0388,
+   "test_obj": 1.0439,
+   "brier": null,
+   "n": 5,
+   "versions": 1,
+   "tried": 1,
+   "test_errors": []
+  },
+  "pay": {
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0373,
+   "test_obj": 1.0425,
+   "brier": null,
+   "n": 5,
+   "versions": 1,
+   "tried": 1,
+   "test_errors": []
+  },
+  "build": {
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0445,
+   "test_obj": 1.0358,
+   "brier": null,
+   "n": 5,
+   "versions": 1,
+   "tried": 1,
+   "test_errors": []
+  },
+  "kind": {
+   "version": "v1",
+   "dev_acc": 0.9,
+   "test_acc": 1.0,
+   "dev_obj": 0.8103,
+   "test_obj": 0.9993,
+   "brier": 0.0014,
+   "n": 18,
+   "versions": 1,
+   "tried": 8,
+   "test_errors": []
+  },
+  "note": {
+   "version": "v2",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9974,
+   "test_obj": 0.9999,
+   "brier": 0.0002,
+   "n": 16,
+   "versions": 2,
+   "tried": 5,
+   "test_errors": []
+  }
+ },
+ "history": [
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "intent",
+   "version": "v1",
+   "dev_acc": 0.8571,
+   "test_acc": 0.913,
+   "dev_obj": 0.7459,
+   "test_obj": 0.8533,
+   "n": 44
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "brand",
+   "version": "v1",
+   "dev_acc": 0.7037,
+   "test_acc": 0.7407,
+   "dev_obj": 0.6129,
+   "test_obj": 0.6373,
+   "n": 54
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9973,
+   "test_obj": 0.9962,
+   "n": 43
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9929,
+   "test_obj": 0.9918,
+   "n": 23
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0388,
+   "test_obj": 1.0439,
+   "n": 5
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.038,
+   "test_obj": 1.0427,
+   "n": 5
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0444,
+   "test_obj": 1.0363,
+   "n": 5
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "kind",
+   "version": "v1",
+   "dev_acc": 0.9,
+   "test_acc": 1.0,
+   "dev_obj": 0.812,
+   "test_obj": 0.9993,
+   "n": 18
+  },
+  {
+   "ts": "2026-10-04T14:48:11+00:00",
+   "cap": "note",
+   "version": "v1",
+   "dev_acc": 0.875,
+   "test_acc": 1.0,
+   "dev_obj": 0.8185,
+   "test_obj": 1.0,
+   "n": 16
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "intent",
+   "version": "v1",
+   "dev_acc": 0.8571,
+   "test_acc": 0.913,
+   "dev_obj": 0.7431,
+   "test_obj": 0.8509,
+   "n": 44
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "brand",
+   "version": "v2",
+   "dev_acc": 0.8148,
+   "test_acc": 0.7407,
+   "dev_obj": 0.7316,
+   "test_obj": 0.6419,
+   "n": 54
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9973,
+   "test_obj": 0.996,
+   "n": 43
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9921,
+   "test_obj": 0.992,
+   "n": 23
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0388,
+   "test_obj": 1.0439,
+   "n": 5
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0373,
+   "test_obj": 1.0425,
+   "n": 5
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0445,
+   "test_obj": 1.0358,
+   "n": 5
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "kind",
+   "version": "v1",
+   "dev_acc": 0.9,
+   "test_acc": 1.0,
+   "dev_obj": 0.8103,
+   "test_obj": 0.9993,
+   "n": 18
+  },
+  {
+   "ts": "2026-10-04T14:49:53+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9974,
+   "test_obj": 0.9999,
+   "n": 16
+  }
+ ],
+ "updated": "2026-10-04T14:49:53+00:00",
+ "raw": {
+  "intent": {
+   "version": "v1",
+   "dev": {
+    "n": 21,
+    "acc": 0.8571,
+    "brier": 0.2281,
+    "obj": 0.7431,
+    "errors": [
+     [
+      "miller weld setting calculator",
+      "brand",
+      "need"
+     ],
+     [
+      "speech therapy delhi",
+      "local_business",
+      "need"
+     ],
+     [
+      "trucker path",
+      "brand",
+      "need"
+     ]
+    ]
+   },
+   "test": {
+    "n": 23,
+    "acc": 0.913,
+    "brier": 0.1242,
+    "obj": 0.8509,
+    "errors": [
+     [
+      "hinge health",
+      "brand",
+      "need"
+     ],
+     [
+      "somatic massage therapy pc",
+      "local_business",
+      "need"
+     ]
+    ]
+   }
+  },
+  "brand": {
+   "version": "v2",
+   "dev": {
+    "n": 27,
+    "acc": 0.8148,
+    "brier": 0.1664,
+    "obj": 0.7316,
+    "errors": [
+     [
+      "cswip welding inspector",
+      false,
+      0.63
+     ],
+     [
+      "speech therapy delhi",
+      true,
+      0.18
+     ],
+     [
+      "miller weld setting calculator",
+      true,
+      0.21
+     ],
+     [
+      "plumber license prep: exam",
+      true,
+      0.24
+     ],
+     [
+      "acupuncture atlas 3d",
+      false,
+      0.67
+     ]
+    ]
+   },
+   "test": {
+    "n": 27,
+    "acc": 0.7407,
+    "brier": 0.1977,
+    "obj": 0.6419,
+    "errors": [
+     [
+      "pharmacy technician letter",
+      true,
+      0.08
+     ],
+     [
+      "paramedic coach",
+      true,
+      0.1
+     ],
+     [
+      "student midwife baby catches",
+      false,
+      0.73
+     ],
+     [
+      "cmtbc massage therapy prep",
+      false,
+      0.53
+     ],
+     [
+      "hinge health",
+      true,
+      0.12
+     ],
+     [
+      "pilot driver app",
+      true,
+      0.19
+     ],
+     [
+      "personal trainer prep: test",
+      true,
+      0.28
+     ]
+    ]
+   }
+  },
+  "rival": {
+   "version": "v1",
+   "dev": {
+    "n": 21,
+    "acc": 1.0,
+    "brier": 0.0053,
+    "obj": 0.9973,
+    "errors": []
+   },
+   "test": {
+    "n": 22,
+    "acc": 1.0,
+    "brier": 0.008,
+    "obj": 0.996,
+    "errors": []
+   }
+  },
+  "risk": {
+   "version": "v1",
+   "dev": {
+    "n": 12,
+    "acc": 1.0,
+    "brier": 0.0158,
+    "obj": 0.9921,
+    "errors": []
+   },
+   "test": {
+    "n": 11,
+    "acc": 1.0,
+    "brier": 0.0161,
+    "obj": 0.992,
+    "errors": []
+   }
+  },
+  "audience": {
+   "version": "v1",
+   "dev": {
+    "n": 2,
+    "acc": 1.0,
+    "brier": null,
+    "margin": 0.775,
+    "obj": 1.0388,
+    "errors": []
+   },
+   "test": {
+    "n": 3,
+    "acc": 1.0,
+    "brier": null,
+    "margin": 0.879,
+    "obj": 1.0439,
+    "errors": []
+   }
+  },
+  "pay": {
+   "version": "v1",
+   "dev": {
+    "n": 2,
+    "acc": 1.0,
+    "brier": null,
+    "margin": 0.745,
+    "obj": 1.0373,
+    "errors": []
+   },
+   "test": {
+    "n": 3,
+    "acc": 1.0,
+    "brier": null,
+    "margin": 0.85,
+    "obj": 1.0425,
+    "errors": []
+   }
+  },
+  "build": {
+   "version": "v1",
+   "dev": {
+    "n": 2,
+    "acc": 1.0,
+    "brier": null,
+    "margin": 0.8895,
+    "obj": 1.0445,
+    "errors": []
+   },
+   "test": {
+    "n": 3,
+    "acc": 1.0,
+    "brier": null,
+    "margin": 0.7153,
+    "obj": 1.0358,
+    "errors": []
+   }
+  },
+  "kind": {
+   "version": "v1",
+   "dev": {
+    "n": 10,
+    "acc": 0.9,
+    "brier": 0.1795,
+    "obj": 0.8103,
+    "errors": [
+     [
+      "Find my Friends, Family Phone",
+      "service",
+      "content"
+     ]
+    ]
+   },
+   "test": {
+    "n": 8,
+    "acc": 1.0,
+    "brier": 0.0014,
+    "obj": 0.9993,
+    "errors": []
+   }
+  },
+  "note": {
+   "version": "v2",
+   "dev": {
+    "n": 8,
+    "acc": 1.0,
+    "brier": 0.0052,
+    "obj": 0.9974,
+    "errors": []
+   },
+   "test": {
+    "n": 8,
+    "acc": 1.0,
+    "brier": 0.0002,
+    "obj": 0.9999,
+    "errors": []
+   }
+  }
+ },
+ "fingerprint": "cf9c7de2d24f"
+}

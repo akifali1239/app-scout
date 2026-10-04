@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>App Scout</title>
+<style>
+:root{--bg:#f6f5f2;--card:#fff;--ink:#1c1b19;--mute:#76736c;--line:#e4e1da;--good:#1f9d55;--bad:#d64545;--acc:#b8860b;--okbg:#e7f6ee;--badbg:#fbeaea}
+@media (prefers-color-scheme:dark){:root{--bg:#161513;--card:#201f1c;--ink:#f1efe9;--mute:#9a968c;--line:#34322d;--good:#3ec27a;--bad:#ef6b6b;--acc:#e0b34a;--okbg:#17301f;--badbg:#3a1d1d}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 20px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+h1{font-size:18px;margin:0 6px 0 0}
+.tabs{display:flex;gap:4px}
+.tabs button,.btn{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 12px;border-radius:8px;cursor:pointer;font:inherit;font-size:14px}
+.tabs button.on{background:var(--ink);color:var(--bg)}
+.btn.primary{background:var(--acc);color:#fff;border-color:var(--acc)}
+.btn:disabled{opacity:.6;cursor:wait}
+.stat{color:var(--mute);font-size:13px}
+.spacer{flex:1}
+#job{font-size:13px;color:var(--acc)}
+main{padding:20px;max-width:1500px;margin:auto}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:9px}
+.card.focus{outline:2px solid var(--acc)}
+.top{display:flex;gap:12px}
+.top img{width:64px;height:64px;border-radius:14px;flex:none;background:var(--line)}
+.name{font-weight:600;font-size:16px;line-height:1.25}
+.meta{color:var(--mute);font-size:12.5px}
+.score{margin-left:auto;font-size:12px;color:var(--acc);font-weight:600;white-space:nowrap}
+.shots{display:flex;gap:6px;overflow-x:auto}
+.shots img{height:170px;border-radius:8px;border:1px solid var(--line)}
+.desc{font-size:13px;color:var(--mute);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer}
+.desc.open{-webkit-line-clamp:unset}
+.pills{display:flex;gap:5px;flex-wrap:wrap}
+.pills span{font-size:11.5px;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--mute)}
+.pills .p{color:var(--good)}.pills .n{color:var(--bad)}
+.pills .ok{background:var(--okbg);color:var(--good);border-color:transparent}
+.pills .bad{background:var(--badbg);color:var(--bad);border-color:transparent}
+.acts{display:flex;gap:8px;margin-top:auto}
+.acts button{flex:1;padding:10px;border-radius:9px;border:0;font:600 14px -apple-system,system-ui,sans-serif;cursor:pointer;color:#fff}
+.g{background:var(--good)}.b{background:var(--bad)}.u{background:var(--mute);flex:.5!important}
+a{color:var(--acc);text-decoration:none;font-size:12.5px}
+.link{background:none;border:0;color:var(--acc);cursor:pointer;font-size:12.5px;padding:0}
+.empty{grid-column:1/-1;text-align:center;color:var(--mute);padding:50px}
+#toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:10px;display:none;z-index:9}
+.tag{font-size:11px;border:1px solid var(--line);border-radius:5px;padding:1px 6px;color:var(--mute)}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chips button{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:99px;padding:4px 10px;font-size:12px;cursor:pointer}
+.chips button.on{background:var(--bad);color:#fff;border-color:var(--bad)}
+.chips kbd{opacity:.55;margin-right:3px;font:11px ui-monospace,monospace}
+.panel{border:1px dashed var(--bad);border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:8px}
+.panel textarea,#terms{width:100%;min-height:54px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);padding:8px;font:inherit;resize:vertical}
+.note{font-size:12.5px;color:var(--bad);border-left:3px solid var(--bad);padding-left:8px}
+input.btn{min-width:140px}
+.help{font-size:12.5px;color:var(--mute);margin:0 0 14px}
+.nbar{display:flex;gap:10px;align-items:flex-start;margin-bottom:14px;flex-wrap:wrap}
+.nbar textarea{flex:1;min-width:260px;min-height:44px}
+.twrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;font-size:13.5px}
+th,td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle}
+th{font-size:12px;color:var(--mute);font-weight:600;white-space:nowrap}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+.bar{height:6px;border-radius:3px;background:var(--line);width:60px;display:inline-block;vertical-align:middle;margin-right:6px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--acc)}
+tr.row{cursor:pointer}tr.row:hover td{background:var(--bg)}
+.ads{white-space:nowrap}
+.ads button{border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:6px;padding:3px 8px;font-size:12px;cursor:pointer}
+.ads button.on.no{background:var(--good);color:#fff}.ads button.on.yes{background:var(--bad);color:#fff}
+.detail td{background:var(--bg)}
+.rivals{display:flex;gap:12px;overflow-x:auto;padding:6px 0}
+.rival{width:150px;flex:none;font-size:12px}
+.rival img.sh{width:150px;height:266px;object-fit:cover;border-radius:8px;border:1px solid var(--line);background:var(--line)}
+.rival img.ic{width:28px;height:28px;border-radius:7px;vertical-align:middle;margin-right:5px}
+.tails{font-size:12px;color:var(--mute);margin:4px 0}
+.x{opacity:.4;cursor:pointer;border:0;background:none;color:var(--ink)}
+@media (max-width:700px){header{padding:10px 16px}main{padding:16px}.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <h1>App Scout</h1>
+  <div class="tabs"><button data-t="new" class="on">Değerlendirilecek</button><button data-t="good">İyi</button><button data-t="bad">Kötü</button><button data-t="niche">Niş Bulucu</button></div>
+  <span id="appctl" style="display:contents">
+    <select id="src" class="btn"><option value="">Tüm kaynaklar</option><option value="similar">Apple benzerleri</option><option value="ref">Referans profiller</option><option value="dev">Senin listen</option><option value="discovered">Keşfedilenler</option></select>
+    <select id="sort" class="btn"><option value="">Uyum sırası</option><option value="ratings">Çok yorumlu</option><option value="new">Yeni çıkan</option><option value="few">Az yorumlu (boş niş)</option></select>
+    <input class="btn" id="q" placeholder="Ara…">
+  </span>
+  <span class="stat" id="stat"></span><span id="job"></span><span class="spacer"></span>
+  <button class="btn" id="jevbtn" title="TypeSafe Jev: nişleri ve app'leri anlamsal olarak puanlar">Jev ile puanla</button>
+  <button class="btn primary" id="disc">Öğren &amp; yeni app bul</button>
+</header>
+<main>
+  <div id="apps">
+    <p class="help">Kısayollar: <b>G</b> iyi · <b>B</b> kötü (sonra <b>1-8</b> sebep, <b>Enter</b> kaydet, <b>Esc</b> vazgeç) · <b>S</b> sonra bak. Çerçeveli kart = klavyenin seçtiği kart. "Kalitesiz / eski" sebebi fikri cezalandırmaz: zayıf rakip = fırsat.</p>
+    <p class="help" id="prefs"></p>
+    <div class="grid" id="grid"></div>
+  </div>
+  <div id="niche" style="display:none">
+    <p class="help"><b>Arama</b>: kelime Apple otomatik tamamlamasında kaçıncı harfte çıkıyor (100 = 2 harfte). <b>Rakip zayıflığı</b>: ilk 10'un yorum sayısı, güncelleme yaşı, başlıkta kelime, puan, ekran görüntüsü sayısı. <b>Fırsat</b> = ikisinin geometrik ortalaması. <b>Reklam</b>: iPhone'da App Store'da ara; en üstte "Ad" yoksa "Yok" işaretle (+10). <b>Rakip</b>: ilk 10'da adında bu kelime geçen app sayısı (parantezde 50+ yorumlu olanlar). <b>🏆 Altın niş</b> = rakip ≤ 1, arama ≥ 30, rakip zayıflığı ≥ 35; Jev varsa ayrıca gerçek bir ihtiyaç ve ret riski &lt; %50. <b>Jev ✓</b>: rakipleri Jev tek tek okudu (sadece bu ihtiyaca gerçekten hizmet edenler sayılır); meslek / ödeme / yapılabilirlik 0–1. "marka?" = kelime büyük ihtimalle tek bir app'in adı, gerçek talep değil. Satıra tıkla → ilk 10 rakibin ekran görüntüleri.</p>
+    <div class="nbar">
+      <textarea id="terms" placeholder="Kelimeler (virgül ya da satırla): magnifier, white noise, jet lag…"></textarea>
+      <button class="btn primary" id="nrun">Analiz et</button>
+      <button class="btn" id="nauto">Otomatik (beğendiklerim + fikirler)</button>
+    </div>
+    <div class="nbar">
+      <textarea id="seeds" placeholder="Meslekler (boş bırakırsan 50 meslekten hazır liste): chiropractic, welding, acupuncture, hvac…"></textarea>
+      <button class="btn primary" id="mine">Meslek nişi tara</button>
+      <label class="stat" style="align-self:center"><input type="checkbox" id="goldonly"> Sadece altın nişler</label>
+    </div>
+    <div class="twrap"><table><thead><tr><th>Kelime</th><th>Fırsat</th><th>Arama</th><th>Rakip</th><th>Jev</th><th>Rakip zayıflığı</th><th>Reklam</th><th>Medyan yorum</th><th>En güçlü</th><th>Eski (1y+)</th><th>Başlıkta kelime</th><th>Ort. puan</th><th></th></tr></thead><tbody id="ntb"></tbody></table></div>
+  </div>
+</main>
+<div id="toast"></div>
+<script>
+let DATA=[],tab='new',shown=60,later=new Set(),NICHE=[],openRow=null;
+const $=s=>document.querySelector(s);
+const el=(t,c,txt)=>{const e=document.createElement(t);if(c)e.className=c;if(txt!=null)e.textContent=txt;return e};
+const fmt=n=>n>=1000?(n/1000).toFixed(n>=10000?0:1)+'K':n;
+const REASONS=['Alakasız','Çok rekabet / doygun','Yapması zor','Para yapmaz','Kalitesiz / eski','Çok benzer','Ret riski','Sıkıcı fikir'];
+const SRC={dev:'listenden',ref:'referans',similar:'Apple benzeri',discovered:'keşif'};
+function toast(t){const e=$('#toast');e.textContent=t;e.style.display='block';clearTimeout(e._t);e._t=setTimeout(()=>e.style.display='none',4500)}
+
+async function load(){const r=await (await fetch('/api/apps')).json();DATA=r.apps;stat();showPrefs(r.prefs);if(tab!=='niche')render()}
+function showPrefs(p){const e=$('#prefs');e.textContent='';if(!p||!p.weights)return;
+  e.append(el('b',null,p.n>=4?`Jev'in senden öğrendiği tercihler (${p.n} etiketli app): `:'Jev başlangıç tercihleri (etiketledikçe sana göre değişir): '));
+  p.weights.forEach((w,i)=>{const s=el('span',null,`${w.t} ${w.w>0?'+':''}${w.w}`);s.style.color=w.w>0?'var(--good)':'var(--bad)';e.append(s,i<p.weights.length-1?' · ':'')})}
+function stat(){const g=DATA.filter(a=>a.label==='good').length,b=DATA.filter(a=>a.label==='bad').length;
+  $('#stat').textContent=`${g} iyi · ${b} kötü · ${DATA.filter(a=>!a.label).length} bekliyor`+(g+b<6?' · öğrenmek için 3 iyi + 3 kötü':'')}
+function list(){
+  const src=$('#src').value,q=$('#q').value.toLowerCase(),so=$('#sort').value;
+  let l=DATA.filter(a=>(tab==='new'?!a.label&&!later.has(a.id):a.label===tab)&&(!src||a.source===src));
+  if(q)l=l.filter(a=>(a.name+' '+a.dev+' '+a.genre+' '+a.niche).toLowerCase().includes(q));
+  if(so==='ratings')l=[...l].sort((a,b)=>b.ratings-a.ratings);
+  if(so==='new')l=[...l].sort((a,b)=>b.released.localeCompare(a.released));
+  if(so==='few')l=l.filter(a=>a.ratings<100);
+  if(tab==='new'){ // max 2 per niche cluster in view; the rest go to the end
+    const n={},head=[],rest=[];
+    l.forEach(a=>((n[a.cluster]=(n[a.cluster]||0)+1)<=2?head:rest).push(a));l=head.concat(rest)}
+  return l}
+function render(){
+  const g=$('#grid');g.innerHTML='';const l=list();
+  if(!l.length){g.appendChild(el('div','empty','Burada app yok.'));return}
+  l.slice(0,shown).forEach(a=>g.appendChild(card(a)));
+  if(l.length>shown){const m=el('div','empty');const b=el('button','btn',`Daha fazla (${l.length-shown})`);b.onclick=()=>{shown+=60;render()};m.appendChild(b);g.appendChild(m)}
+  focusFirst()}
+function focusFirst(){document.querySelectorAll('.card.focus').forEach(c=>c.classList.remove('focus'));const c=$('#grid .card');if(c)c.classList.add('focus')}
+function card(a){
+  const d=el('div','card');d._a=a;
+  const top=el('div','top');const img=new Image();img.src=a.icon;img.loading='lazy';
+  const info=el('div');info.append(el('div','name',a.name),el('div','meta',`${a.dev} · ${a.genre} · ★${a.rating} (${fmt(a.ratings)}) · ${a.price?'$'+a.price:'Ücretsiz'} · ${a.released.slice(0,4)}`));
+  top.append(img,info,el('div','score',Math.round(a.score*100)+'%'));d.appendChild(top);
+  if(a.shots.length){const s=el('div','shots');a.shots.forEach(u=>{const i=new Image();i.src=u;i.loading='lazy';s.appendChild(i)});d.appendChild(s)}
+  const ds=el('div','desc',a.desc);ds.onclick=()=>ds.classList.toggle('open');d.appendChild(ds);
+  const pills=el('div','pills');
+  (a.badges||[]).forEach(b=>pills.appendChild(el('span',b.k||'',b.t)));
+  (a.why||[]).forEach(x=>pills.appendChild(el('span',x.w>0?'p':'n',(x.w>0?'+ ':'− ')+x.t)));
+  if(pills.children.length)d.appendChild(pills);
+  if(a.label==='bad'&&(a.reasons.length||a.note))d.appendChild(el('div','note',[...a.reasons,a.note].filter(Boolean).join(' · ')));
+  const row=el('div');row.style.cssText='display:flex;gap:10px;align-items:center;flex-wrap:wrap';
+  const l=el('a',null,'App Store ↗');l.href=a.url;l.target='_blank';
+  const nb=el('button','link',`Niş analizi: "${a.niche}"`);nb.onclick=()=>runNiche([a.niche]);
+  row.append(l,nb,el('span','tag',SRC[a.source]||a.source));d.appendChild(row);
+  const acts=el('div','acts');
+  const gb=el('button','g','İyi 👍');gb.onclick=()=>setLabel(a,'good',d);
+  const bb=el('button','b','Kötü 👎');bb.onclick=()=>badPanel(a,d);
+  acts.append(gb,bb);
+  if(a.label){const u=el('button','u','Geri al');u.onclick=()=>setLabel(a,null,d);acts.appendChild(u)}
+  d._acts=acts;d.appendChild(acts);return d}
+function badPanel(a,card){
+  if(card.querySelector('.panel'))return;
+  const p=el('div','panel');const ch=el('div','chips');const sel=new Set();
+  REASONS.forEach((r,i)=>{const b=el('button');const k=el('kbd',null,String(i+1));b.append(k,r);b.onclick=()=>{sel.has(r)?sel.delete(r):sel.add(r);b.classList.toggle('on')};ch.appendChild(b)});
+  const t=el('textarea');t.placeholder='Neden kötü? (isteğe bağlı not)';
+  const row=el('div');row.style.cssText='display:flex;gap:8px';
+  const ok=el('button','btn primary','Kötü olarak kaydet (Enter)');ok.onclick=()=>setLabel(a,'bad',card,[...sel],t.value);
+  const no=el('button','btn','Vazgeç');no.onclick=()=>p.remove();
+  row.append(ok,no);p.append(ch,t,row);card.insertBefore(p,card._acts);p._ok=ok;p._chips=ch;
+  t.onkeydown=e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();ok.click()}if(e.key==='Escape'){p.remove();t.blur()}};
+  document.querySelectorAll('.card.focus').forEach(c=>c.classList.remove('focus'));card.classList.add('focus')}
+async function setLabel(a,lab,elc,reasons=[],note=''){
+  await fetch('/api/label',{method:'POST',body:JSON.stringify({id:a.id,label:lab,reasons,note,name:a.name})});
+  a.label=lab;a.reasons=reasons;a.note=note;elc.remove();stat();
+  if(!$('#grid .card'))render();else focusFirst()}
+
+document.addEventListener('keydown',e=>{
+  if(tab==='niche'||e.metaKey||e.ctrlKey||e.altKey)return;
+  const c=$('#grid .card.focus');if(!c)return;
+  const p=c.querySelector('.panel');
+  if(p){ if(document.activeElement.tagName==='TEXTAREA')return;
+    if(/^[1-8]$/.test(e.key)){p._chips.children[+e.key-1].click();e.preventDefault()}
+    else if(e.key==='Enter'){p._ok.click();e.preventDefault()}
+    else if(e.key==='Escape')p.remove();
+    return}
+  if(['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName))return;
+  const k=e.key.toLowerCase();
+  if(k==='g')setLabel(c._a,'good',c);
+  else if(k==='b'){badPanel(c._a,c);document.activeElement.blur()}
+  else if(k==='s'){later.add(c._a.id);c.remove();focusFirst()}
+  else return;
+  e.preventDefault();const f=$('#grid .card.focus');if(f)f.scrollIntoView({block:'nearest'})});
+
+document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('on'));b.classList.add('on');tab=b.dataset.t;shown=60;
+  const n=tab==='niche';$('#apps').style.display=n?'none':'';$('#niche').style.display=n?'':'none';$('#appctl').style.display=n?'none':'contents';
+  n?loadNiche():render()});
+['src','sort'].forEach(i=>$('#'+i).onchange=()=>{shown=60;render()});$('#q').oninput=()=>{shown=60;render()};
+
+let jevWasRunning=false;
+// GitHub mode: heavy jobs are dispatched to GitHub Actions; results arrive with the next sync
+function ghHandled(r){if(!r.github)return false;
+  toast(r.started?'GitHub\'da başlatıldı. Bitince sonuçlar otomatik gelir (birkaç dk, eşitleme 3 dk\'da bir).':'GitHub hatası: '+(r.message||''));return true}
+async function poll(after){
+  const s=await (await fetch('/api/status')).json();
+  $('#job').textContent=[s.running?'⏳ '+s.progress:'',s.jev.running?'🧠 '+s.jev.progress:'',
+    s.github&&s.gh.run?'☁️ '+s.gh.run:'',s.github&&s.gh.last_sync?'son eşitleme '+s.gh.last_sync:''].filter(Boolean).join('  ·  ');
+  if(s.github&&!s.running&&!s.jev.running){setTimeout(()=>poll(),60000);if(s.gh.last_sync&&s.gh.last_sync!==window._ls){if(window._ls)load();window._ls=s.gh.last_sync}}
+  $('#disc').disabled=s.running;$('#jevbtn').disabled=s.jev.running;
+  if(!s.jevKey)$('#jevbtn').title='TYPESAFE_API_KEY yok (.env)';
+  if(jevWasRunning&&!s.jev.running){toast(s.jev.result&&s.jev.result.error?'Jev hatası: '+s.jev.result.error:'Jev puanlaması bitti');load();if(tab==='niche')loadNiche()}
+  jevWasRunning=s.jev.running;
+  if(s.running||s.jev.running){setTimeout(()=>poll(s.running?after:null),2000);if(tab==='niche')loadNiche();if(!s.running&&after&&s.result){after(s.result);}return}
+  if(after&&s.result)after(s.result)}
+$('#jevbtn').onclick=async()=>{const r=await (await fetch('/api/jev',{method:'POST',body:'{}'})).json();
+  if(ghHandled(r))return;
+  if(!r.started)return toast('Jev zaten çalışıyor');toast('Jev nişleri ve app\'leri puanlıyor…');poll()};
+$('#disc').onclick=async()=>{
+  const r=await (await fetch('/api/discover',{method:'POST',body:'{}'})).json();
+  if(ghHandled(r))return;
+  if(!r.started)return toast('Zaten bir iş çalışıyor');
+  poll(res=>{toast(res.error?'Hata: '+res.error:`${res.added} yeni app (${res.similar} tanesi Apple'ın "benzer app'ler" listesinden)`);load()})};
+
+async function runNiche(terms,auto=false){
+  const r=await (await fetch('/api/niche',{method:'POST',body:JSON.stringify({terms,auto})})).json();
+  if(ghHandled(r))return;
+  if(!r.started)return toast('Zaten bir iş çalışıyor, bitince tekrar dene');
+  toast(auto?'Otomatik niş analizi başladı (kelime başı ~6 sn)':`"${terms.join(', ')}" analiz ediliyor…`);
+  poll(res=>{toast(res.error?'Hata: '+res.error:`${res.analyzed} kelime analiz edildi`);if(tab==='niche')loadNiche();load()})}
+$('#nrun').onclick=()=>{const t=$('#terms').value.split(/[,\n]/).map(s=>s.trim()).filter(Boolean);if(t.length){runNiche(t);$('#terms').value=''}};
+$('#nauto').onclick=()=>runNiche([],true);
+$('#goldonly').onchange=renderNiche;
+$('#mine').onclick=async()=>{
+  const seeds=$('#seeds').value.split(/[,\n]/).map(s=>s.trim()).filter(Boolean);
+  const r=await (await fetch('/api/mine',{method:'POST',body:JSON.stringify({seeds})})).json();
+  if(ghHandled(r))return;
+  if(!r.started)return toast('Zaten bir iş çalışıyor, bitince tekrar dene');
+  toast(`Meslek taraması başladı (${seeds.length||50} meslek, meslek başı ~1-2 dk). Sonuçlar tabloya canlı düşer.`);
+  poll(()=>{toast('Meslek taraması bitti');loadNiche()})};
+async function loadNiche(){NICHE=await (await fetch('/api/niche')).json();renderNiche()}
+function bar(v){const s=el('span');const b=el('span','bar');const i=el('i');i.style.width=Math.max(0,Math.min(100,v))+'%';b.appendChild(i);s.append(b,String(v));return s}
+function renderNiche(){
+  const tb=$('#ntb');tb.innerHTML='';
+  if(!NICHE.length){const tr=el('tr');const td=el('td','empty','Henüz analiz yok. Kelime yaz ya da "Otomatik"e bas.');td.colSpan=13;tr.appendChild(td);tb.appendChild(tr);return}
+  NICHE.filter(k=>!$('#goldonly').checked||k.gold).forEach(k=>{
+    const tr=el('tr','row');
+    const c=(v,cls)=>{const td=el('td',cls);if(v instanceof Node)td.appendChild(v);else td.textContent=v;tr.appendChild(td);return td};
+    const nm=el('div');nm.append(el('b',null,(k.gold?'🏆 ':'')+k.term));
+    const INT={need:'',brand:'marka',local_business:'yerel işletme',game:'oyun',jobs:'iş ilanı',other:'belirsiz'};
+    const tagTxt=k.jev?INT[k.intent]:(k.brand?'marka?':'');
+    if(k.seed||tagTxt){const m=el('div','meta',[k.seed?'meslek: '+k.seed:'',tagTxt].filter(Boolean).join(' · '));nm.appendChild(m)}
+    c(nm);
+    c(bar(k.score),'num');c(bar(k.pop),'num');c(`${k.rivals} (${k.serious})`+(k.jev?' ✓':''),'num');
+    if(k.jev){const j=k.jev;const d=el('div','meta',`meslek ${j.audience.toFixed(1)} · ödeme ${j.pay.toFixed(1)} · yapılır ${j.build.toFixed(1)}`);
+      const r=el('div','meta',`ret riski ${Math.round(j.risk*100)}%`);if(j.risk>=0.5)r.style.color='var(--bad)';const w=el('div');w.append(d,r);c(w)}else c('—');
+    c(bar(k.weak),'num');
+    const ads=el('span','ads');[['no','Yok'],['yes','Var']].forEach(([v,t])=>{const b=el('button',(k.ads===v?'on ':'')+v,t);b.onclick=async e=>{e.stopPropagation();await fetch('/api/niche/ads',{method:'POST',body:JSON.stringify({term:k.term,ads:k.ads===v?null:v})});loadNiche()};ads.append(b,' ')});c(ads);
+    c(fmt(k.median),'num');c(fmt(k.max),'num');c(Math.round(k.stale*100)+'%','num');c(Math.round(k.title*100)+'%','num');c(k.avg,'num');
+    const x=el('button','x','✕');x.title='Sil';x.onclick=async e=>{e.stopPropagation();await fetch('/api/niche/delete',{method:'POST',body:JSON.stringify({term:k.term})});loadNiche()};c(x);
+    tr.onclick=()=>{openRow=openRow===k.term?null:k.term;renderNiche()};
+    tb.appendChild(tr);
+    if(openRow===k.term){
+      const dr=el('tr','detail');const td=el('td');td.colSpan=13;
+      if(k.tails.length){const t=el('div','tails','Uzun kuyruk (tıkla → analiz): ');k.tails.forEach((s,i)=>{const b=el('button','link',s);b.onclick=()=>runNiche([s]);t.append(b,i<k.tails.length-1?' · ':'')});td.appendChild(t)}
+      const rv=el('div','rivals');
+      k.top.forEach((a,i)=>{const r=el('div','rival');
+        const sh=new Image();sh.className='sh';sh.loading='lazy';if(a.shots&&a.shots[0])sh.src=a.shots[0];
+        const ic=new Image();ic.className='ic';ic.src=a.icon;
+        const t=el('div');t.style.marginTop='5px';t.append(ic,`${i+1}. ${a.name}`);
+        const rp=k.jev?k.jev.rivalP[i]:null;
+        const m=el('div','meta',`★${a.rating} · ${fmt(a.ratings)} yorum · ${a.updated}`+(a.stale?' · eski':'')+(rp!=null?` · Jev: ${rp>=0.5?'gerçek rakip':'alakasız'} (${Math.round(rp*100)}%)`:''));
+        const l=el('a',null,'App Store ↗');l.href=a.url;l.target='_blank';
+        r.append(sh,t,m,l);rv.appendChild(r)});
+      td.appendChild(rv);dr.appendChild(td);tb.appendChild(dr)}
+  })}
+load();poll();
+</script>
+</body>
+</html>

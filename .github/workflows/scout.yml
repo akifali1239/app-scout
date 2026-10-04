@@ -1,0 +1,54 @@
+name: scout
+run-name: "scout: ${{ inputs.task || 'autopilot' }}"
+
+on:
+  schedule:
+    - cron: "0 3 * * *"        # every day 03:00 UTC (06:00 Türkiye)
+  workflow_dispatch:           # buttons on the Mac UI call this via `gh workflow run`
+    inputs:
+      task:
+        description: "autopilot | discover | mine | niche | jev | rejudge"
+        default: autopilot
+        required: false
+      arg:
+        description: "JSON list (meslekler ya da kelimeler); boş = otomatik"
+        default: ""
+        required: false
+
+concurrency:
+  group: scout                 # one run at a time; later runs queue instead of clobbering files
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install numpy==2.0.2
+
+      - name: Run task
+        timeout-minutes: 320    # leaves time for the save step even if the task runs long
+        continue-on-error: true
+        env:
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+          TASK: ${{ inputs.task || 'autopilot' }}
+          ARG: ${{ inputs.arg }}
+        run: python server.py --task "$TASK" --arg "$ARG"
+
+      - name: Save results
+        if: always()
+        run: |
+          git config user.name "app-scout-bot"
+          git config user.email "app-scout-bot@users.noreply.github.com"
+          git add candidates.json keywords.json jev_apps.json mine_queue.json autopilot.json 2>/dev/null || true
+          git diff --cached --quiet && { echo "değişiklik yok"; exit 0; }
+          git commit -q -m "scout: ${{ inputs.task || 'autopilot' }} sonuçları"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && exit 0; sleep 10; done
+          exit 1

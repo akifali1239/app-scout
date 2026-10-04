@@ -1,0 +1,9 @@
+.env
+embed_bin
+words_in.txt
+words_out.tsv
+*.tmp
+*.log
+raw_dev_apps.json
+__pycache__/
+.DS_Store

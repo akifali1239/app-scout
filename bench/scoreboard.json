@@ -4,9 +4,9 @@
    "version": "v3",
    "dev_acc": 0.9167,
    "test_acc": 1.0,
-   "dev_obj": 0.8565,
-   "test_obj": 0.9924,
-   "brier": 0.0153,
+   "dev_obj": 0.854,
+   "test_obj": 0.9916,
+   "brier": 0.0169,
    "n": 50,
    "versions": 3,
    "tried": 52,
@@ -14,34 +14,34 @@
   },
   "brand": {
    "version": "v3",
-   "dev_acc": 0.8947,
-   "test_acc": 0.8974,
-   "dev_obj": 0.8298,
-   "test_obj": 0.8454,
-   "brier": 0.1041,
-   "n": 77,
+   "dev_acc": 0.9048,
+   "test_acc": 0.907,
+   "dev_obj": 0.8476,
+   "test_obj": 0.8597,
+   "brier": 0.0945,
+   "n": 85,
    "versions": 3,
-   "tried": 57,
+   "tried": 61,
    "test_errors": [
     [
      "pharmacy technician letter",
      true,
-     0.24
+     0.23
     ],
     [
      "paramedic coach",
      true,
-     0.31
+     0.3
     ],
     [
      "pilot driver app",
      true,
-     0.25
+     0.26
     ],
     [
      "personal trainer prep: test",
      true,
-     0.22
+     0.2
     ]
    ]
   },
@@ -49,9 +49,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9973,
-   "test_obj": 0.9954,
-   "brier": 0.0092,
+   "dev_obj": 0.9974,
+   "test_obj": 0.9955,
+   "brier": 0.009,
    "n": 65,
    "versions": 1,
    "tried": 1,
@@ -61,9 +61,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9933,
-   "test_obj": 0.9929,
-   "brier": 0.0143,
+   "dev_obj": 0.9927,
+   "test_obj": 0.9932,
+   "brier": 0.0137,
    "n": 27,
    "versions": 1,
    "tried": 16,
@@ -73,8 +73,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0388,
-   "test_obj": 1.0402,
+   "dev_obj": 1.0392,
+   "test_obj": 1.0399,
    "brier": null,
    "n": 10,
    "versions": 1,
@@ -85,8 +85,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0374,
-   "test_obj": 1.038,
+   "dev_obj": 1.038,
+   "test_obj": 1.0377,
    "brier": null,
    "n": 8,
    "versions": 1,
@@ -97,8 +97,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0349,
-   "test_obj": 1.0385,
+   "dev_obj": 1.0346,
+   "test_obj": 1.0384,
    "brier": null,
    "n": 9,
    "versions": 1,
@@ -107,9 +107,9 @@
   },
   "kind": {
    "version": "v2",
-   "dev_acc": 1.0,
+   "dev_acc": 0.9167,
    "test_acc": 1.0,
-   "dev_obj": 0.9812,
+   "dev_obj": 0.8937,
    "test_obj": 1.0,
    "brier": 0.0,
    "n": 22,
@@ -121,7 +121,7 @@
    "version": "v2",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9972,
+   "dev_obj": 0.9956,
    "test_obj": 1.0,
    "brier": 0.0001,
    "n": 16,
@@ -580,17 +580,107 @@
    "dev_obj": 0.9972,
    "test_obj": 1.0,
    "n": 16
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "intent",
+   "version": "v3",
+   "dev_acc": 0.9167,
+   "test_acc": 1.0,
+   "dev_obj": 0.854,
+   "test_obj": 0.9916,
+   "n": 50
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "brand",
+   "version": "v3",
+   "dev_acc": 0.9048,
+   "test_acc": 0.907,
+   "dev_obj": 0.8476,
+   "test_obj": 0.8597,
+   "n": 85
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9974,
+   "test_obj": 0.9955,
+   "n": 65
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9927,
+   "test_obj": 0.9932,
+   "n": 27
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0392,
+   "test_obj": 1.0399,
+   "n": 10
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.038,
+   "test_obj": 1.0377,
+   "n": 8
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0346,
+   "test_obj": 1.0384,
+   "n": 9
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "kind",
+   "version": "v2",
+   "dev_acc": 0.9167,
+   "test_acc": 1.0,
+   "dev_obj": 0.8937,
+   "test_obj": 1.0,
+   "n": 22
+  },
+  {
+   "ts": "2026-10-05T18:41:49+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9956,
+   "test_obj": 1.0,
+   "n": 16
   }
  ],
- "updated": "2026-10-05T18:31:36+00:00",
+ "updated": "2026-10-05T18:41:49+00:00",
  "raw": {
   "intent": {
    "version": "v3",
    "dev": {
     "n": 24,
     "acc": 0.9167,
-    "brier": 0.1202,
-    "obj": 0.8565,
+    "brier": 0.1254,
+    "obj": 0.854,
     "errors": [
      [
       "e6b flight computer",
@@ -607,66 +697,66 @@
    "test": {
     "n": 26,
     "acc": 1.0,
-    "brier": 0.0153,
-    "obj": 0.9924,
+    "brier": 0.0169,
+    "obj": 0.9916,
     "errors": []
    }
   },
   "brand": {
    "version": "v3",
    "dev": {
-    "n": 38,
-    "acc": 0.8947,
-    "brier": 0.1299,
-    "obj": 0.8298,
+    "n": 42,
+    "acc": 0.9048,
+    "brier": 0.1143,
+    "obj": 0.8476,
     "errors": [
      [
       "speech therapy delhi",
       true,
-      0.17
+      0.16
      ],
      [
       "miller weld setting calculator",
       true,
-      0.24
+      0.28
      ],
      [
       "plumber license prep: exam",
       true,
-      0.16
+      0.17
      ],
      [
       "acupuncture atlas 3d",
       false,
-      0.74
+      0.72
      ]
     ]
    },
    "test": {
-    "n": 39,
-    "acc": 0.8974,
-    "brier": 0.1041,
-    "obj": 0.8454,
+    "n": 43,
+    "acc": 0.907,
+    "brier": 0.0945,
+    "obj": 0.8597,
     "errors": [
      [
       "pharmacy technician letter",
       true,
-      0.24
+      0.23
      ],
      [
       "paramedic coach",
       true,
-      0.31
+      0.3
      ],
      [
       "pilot driver app",
       true,
-      0.25
+      0.26
      ],
      [
       "personal trainer prep: test",
       true,
-      0.22
+      0.2
      ]
     ]
    }
@@ -676,15 +766,15 @@
    "dev": {
     "n": 32,
     "acc": 1.0,
-    "brier": 0.0055,
-    "obj": 0.9973,
+    "brier": 0.0053,
+    "obj": 0.9974,
     "errors": []
    },
    "test": {
     "n": 33,
     "acc": 1.0,
-    "brier": 0.0092,
-    "obj": 0.9954,
+    "brier": 0.009,
+    "obj": 0.9955,
     "errors": []
    }
   },
@@ -693,15 +783,15 @@
    "dev": {
     "n": 14,
     "acc": 1.0,
-    "brier": 0.0133,
-    "obj": 0.9933,
+    "brier": 0.0146,
+    "obj": 0.9927,
     "errors": []
    },
    "test": {
     "n": 13,
     "acc": 1.0,
-    "brier": 0.0143,
-    "obj": 0.9929,
+    "brier": 0.0137,
+    "obj": 0.9932,
     "errors": []
    }
   },
@@ -711,16 +801,16 @@
     "n": 4,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.775,
-    "obj": 1.0388,
+    "margin": 0.7843,
+    "obj": 1.0392,
     "errors": []
    },
    "test": {
     "n": 6,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8035,
-    "obj": 1.0402,
+    "margin": 0.7983,
+    "obj": 1.0399,
     "errors": []
    }
   },
@@ -730,16 +820,16 @@
     "n": 2,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7475,
-    "obj": 1.0374,
+    "margin": 0.76,
+    "obj": 1.038,
     "errors": []
    },
    "test": {
     "n": 6,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.76,
-    "obj": 1.038,
+    "margin": 0.755,
+    "obj": 1.0377,
     "errors": []
    }
   },
@@ -749,16 +839,16 @@
     "n": 5,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.6988,
-    "obj": 1.0349,
+    "margin": 0.6926,
+    "obj": 1.0346,
     "errors": []
    },
    "test": {
     "n": 4,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7707,
-    "obj": 1.0385,
+    "margin": 0.7675,
+    "obj": 1.0384,
     "errors": []
    }
   },
@@ -766,10 +856,16 @@
    "version": "v2",
    "dev": {
     "n": 12,
-    "acc": 1.0,
-    "brier": 0.0376,
-    "obj": 0.9812,
-    "errors": []
+    "acc": 0.9167,
+    "brier": 0.0459,
+    "obj": 0.8937,
+    "errors": [
+     [
+      "Find my Friends, Family Phone",
+      "service",
+      "utility"
+     ]
+    ]
    },
    "test": {
     "n": 10,
@@ -784,8 +880,8 @@
    "dev": {
     "n": 8,
     "acc": 1.0,
-    "brier": 0.0056,
-    "obj": 0.9972,
+    "brier": 0.0089,
+    "obj": 0.9956,
     "errors": []
    },
    "test": {
@@ -797,5 +893,5 @@
    }
   }
  },
- "fingerprint": "d86abe20b2c8"
+ "fingerprint": "66be1677f685"
 }

@@ -34,5 +34,9 @@
  "nsw geology maps": {
   "verdict": "reject",
   "note": "Yeni Güney Galler jeoloji kurumunun resmi harita verisi; kurumsal/kamu ürünü, tek geliştirici için veri ve telif sorunu, çok dar pazar."
+ },
+ "modern acupuncture usa": {
+  "verdict": "brand",
+  "note": "Modern Acupuncture adlı bir klinik zincirinin markası; mesleki ihtiyaç değil, marka/yerel işletme araması."
  }
 }

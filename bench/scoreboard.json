@@ -4,24 +4,24 @@
    "version": "v3",
    "dev_acc": 0.9167,
    "test_acc": 1.0,
-   "dev_obj": 0.854,
-   "test_obj": 0.9916,
-   "brier": 0.0169,
+   "dev_obj": 0.8546,
+   "test_obj": 0.9927,
+   "brier": 0.0146,
    "n": 50,
    "versions": 3,
-   "tried": 52,
+   "tried": 56,
    "test_errors": []
   },
   "brand": {
    "version": "v3",
    "dev_acc": 0.9048,
-   "test_acc": 0.907,
-   "dev_obj": 0.8476,
-   "test_obj": 0.8597,
-   "brier": 0.0945,
+   "test_acc": 0.8837,
+   "dev_obj": 0.8456,
+   "test_obj": 0.8361,
+   "brier": 0.0952,
    "n": 85,
    "versions": 3,
-   "tried": 61,
+   "tried": 62,
    "test_errors": [
     [
      "pharmacy technician letter",
@@ -31,7 +31,7 @@
     [
      "paramedic coach",
      true,
-     0.3
+     0.31
     ],
     [
      "pilot driver app",
@@ -42,27 +42,39 @@
      "personal trainer prep: test",
      true,
      0.2
+    ],
+    [
+     "esab welding parameters set-up guide",
+     true,
+     0.49
     ]
    ]
   },
   "rival": {
    "version": "v1",
    "dev_acc": 1.0,
-   "test_acc": 1.0,
-   "dev_obj": 0.9974,
-   "test_obj": 0.9955,
-   "brier": 0.009,
-   "n": 65,
+   "test_acc": 0.9778,
+   "dev_obj": 0.996,
+   "test_obj": 0.9669,
+   "brier": 0.0217,
+   "n": 83,
    "versions": 1,
    "tried": 1,
-   "test_errors": []
+   "test_errors": [
+    [
+     "welding calculator",
+     "WELDING PRO",
+     0,
+     0.64
+    ]
+   ]
   },
   "risk": {
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9927,
-   "test_obj": 0.9932,
+   "dev_obj": 0.9928,
+   "test_obj": 0.9931,
    "brier": 0.0137,
    "n": 27,
    "versions": 1,
@@ -73,8 +85,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0392,
-   "test_obj": 1.0399,
+   "dev_obj": 1.039,
+   "test_obj": 1.0402,
    "brier": null,
    "n": 10,
    "versions": 1,
@@ -85,8 +97,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.038,
-   "test_obj": 1.0377,
+   "dev_obj": 1.0374,
+   "test_obj": 1.0376,
    "brier": null,
    "n": 8,
    "versions": 1,
@@ -97,7 +109,7 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0346,
+   "dev_obj": 1.034,
    "test_obj": 1.0384,
    "brier": null,
    "n": 9,
@@ -107,12 +119,12 @@
   },
   "kind": {
    "version": "v2",
-   "dev_acc": 0.9167,
+   "dev_acc": 0.9286,
    "test_acc": 1.0,
-   "dev_obj": 0.8937,
+   "dev_obj": 0.9082,
    "test_obj": 1.0,
    "brier": 0.0,
-   "n": 22,
+   "n": 27,
    "versions": 2,
    "tried": 18,
    "test_errors": []
@@ -121,9 +133,9 @@
    "version": "v2",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9956,
-   "test_obj": 1.0,
-   "brier": 0.0001,
+   "dev_obj": 0.9982,
+   "test_obj": 0.9999,
+   "brier": 0.0002,
    "n": 16,
    "versions": 2,
    "tried": 5,
@@ -670,17 +682,107 @@
    "dev_obj": 0.9956,
    "test_obj": 1.0,
    "n": 16
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "intent",
+   "version": "v3",
+   "dev_acc": 0.9167,
+   "test_acc": 1.0,
+   "dev_obj": 0.8546,
+   "test_obj": 0.9927,
+   "n": 50
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "brand",
+   "version": "v3",
+   "dev_acc": 0.9048,
+   "test_acc": 0.8837,
+   "dev_obj": 0.8456,
+   "test_obj": 0.8361,
+   "n": 85
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 0.9778,
+   "dev_obj": 0.996,
+   "test_obj": 0.9669,
+   "n": 83
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9928,
+   "test_obj": 0.9931,
+   "n": 27
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.039,
+   "test_obj": 1.0402,
+   "n": 10
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0374,
+   "test_obj": 1.0376,
+   "n": 8
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.034,
+   "test_obj": 1.0384,
+   "n": 9
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "kind",
+   "version": "v2",
+   "dev_acc": 0.9286,
+   "test_acc": 1.0,
+   "dev_obj": 0.9082,
+   "test_obj": 1.0,
+   "n": 27
+  },
+  {
+   "ts": "2026-10-05T21:41:50+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9982,
+   "test_obj": 0.9999,
+   "n": 16
   }
  ],
- "updated": "2026-10-05T18:41:49+00:00",
+ "updated": "2026-10-05T21:41:50+00:00",
  "raw": {
   "intent": {
    "version": "v3",
    "dev": {
     "n": 24,
     "acc": 0.9167,
-    "brier": 0.1254,
-    "obj": 0.854,
+    "brier": 0.1241,
+    "obj": 0.8546,
     "errors": [
      [
       "e6b flight computer",
@@ -697,8 +799,8 @@
    "test": {
     "n": 26,
     "acc": 1.0,
-    "brier": 0.0169,
-    "obj": 0.9916,
+    "brier": 0.0146,
+    "obj": 0.9927,
     "errors": []
    }
   },
@@ -707,18 +809,18 @@
    "dev": {
     "n": 42,
     "acc": 0.9048,
-    "brier": 0.1143,
-    "obj": 0.8476,
+    "brier": 0.1184,
+    "obj": 0.8456,
     "errors": [
      [
       "speech therapy delhi",
       true,
-      0.16
+      0.17
      ],
      [
       "miller weld setting calculator",
       true,
-      0.28
+      0.25
      ],
      [
       "plumber license prep: exam",
@@ -728,15 +830,15 @@
      [
       "acupuncture atlas 3d",
       false,
-      0.72
+      0.74
      ]
     ]
    },
    "test": {
     "n": 43,
-    "acc": 0.907,
-    "brier": 0.0945,
-    "obj": 0.8597,
+    "acc": 0.8837,
+    "brier": 0.0952,
+    "obj": 0.8361,
     "errors": [
      [
       "pharmacy technician letter",
@@ -746,7 +848,7 @@
      [
       "paramedic coach",
       true,
-      0.3
+      0.31
      ],
      [
       "pilot driver app",
@@ -757,6 +859,11 @@
       "personal trainer prep: test",
       true,
       0.2
+     ],
+     [
+      "esab welding parameters set-up guide",
+      true,
+      0.49
      ]
     ]
    }
@@ -764,18 +871,25 @@
   "rival": {
    "version": "v1",
    "dev": {
-    "n": 32,
+    "n": 38,
     "acc": 1.0,
-    "brier": 0.0053,
-    "obj": 0.9974,
+    "brier": 0.0081,
+    "obj": 0.996,
     "errors": []
    },
    "test": {
-    "n": 33,
-    "acc": 1.0,
-    "brier": 0.009,
-    "obj": 0.9955,
-    "errors": []
+    "n": 45,
+    "acc": 0.9778,
+    "brier": 0.0217,
+    "obj": 0.9669,
+    "errors": [
+     [
+      "welding calculator",
+      "WELDING PRO",
+      0,
+      0.64
+     ]
+    ]
    }
   },
   "risk": {
@@ -783,15 +897,15 @@
    "dev": {
     "n": 14,
     "acc": 1.0,
-    "brier": 0.0146,
-    "obj": 0.9927,
+    "brier": 0.0143,
+    "obj": 0.9928,
     "errors": []
    },
    "test": {
     "n": 13,
     "acc": 1.0,
     "brier": 0.0137,
-    "obj": 0.9932,
+    "obj": 0.9931,
     "errors": []
    }
   },
@@ -801,16 +915,16 @@
     "n": 4,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7843,
-    "obj": 1.0392,
+    "margin": 0.7802,
+    "obj": 1.039,
     "errors": []
    },
    "test": {
     "n": 6,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7983,
-    "obj": 1.0399,
+    "margin": 0.8048,
+    "obj": 1.0402,
     "errors": []
    }
   },
@@ -820,16 +934,16 @@
     "n": 2,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.76,
-    "obj": 1.038,
+    "margin": 0.7475,
+    "obj": 1.0374,
     "errors": []
    },
    "test": {
     "n": 6,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.755,
-    "obj": 1.0377,
+    "margin": 0.7525,
+    "obj": 1.0376,
     "errors": []
    }
   },
@@ -839,15 +953,15 @@
     "n": 5,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.6926,
-    "obj": 1.0346,
+    "margin": 0.6794,
+    "obj": 1.034,
     "errors": []
    },
    "test": {
     "n": 4,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7675,
+    "margin": 0.767,
     "obj": 1.0384,
     "errors": []
    }
@@ -855,10 +969,10 @@
   "kind": {
    "version": "v2",
    "dev": {
-    "n": 12,
-    "acc": 0.9167,
-    "brier": 0.0459,
-    "obj": 0.8937,
+    "n": 14,
+    "acc": 0.9286,
+    "brier": 0.0408,
+    "obj": 0.9082,
     "errors": [
      [
       "Find my Friends, Family Phone",
@@ -868,7 +982,7 @@
     ]
    },
    "test": {
-    "n": 10,
+    "n": 13,
     "acc": 1.0,
     "brier": 0.0,
     "obj": 1.0,
@@ -880,18 +994,18 @@
    "dev": {
     "n": 8,
     "acc": 1.0,
-    "brier": 0.0089,
-    "obj": 0.9956,
+    "brier": 0.0035,
+    "obj": 0.9982,
     "errors": []
    },
    "test": {
     "n": 8,
     "acc": 1.0,
-    "brier": 0.0001,
-    "obj": 1.0,
+    "brier": 0.0002,
+    "obj": 0.9999,
     "errors": []
    }
   }
  },
- "fingerprint": "66be1677f685"
+ "fingerprint": "dce953a908aa"
 }

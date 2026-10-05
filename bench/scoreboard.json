@@ -60,7 +60,7 @@
    "brier": 0.0218,
    "n": 83,
    "versions": 1,
-   "tried": 5,
+   "tried": 9,
    "test_errors": [
     [
      "welding calculator",
@@ -127,7 +127,7 @@
    "brier": 0.0,
    "n": 27,
    "versions": 2,
-   "tried": 20,
+   "tried": 24,
    "test_errors": []
   },
   "note": {
@@ -865,7 +865,7 @@
    "n": 16
   }
  ],
- "updated": "2026-10-05T22:42:07+00:00",
+ "updated": "2026-10-05T23:41:55+00:00",
  "raw": {
   "intent": {
    "version": "v3",

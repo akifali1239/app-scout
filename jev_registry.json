@@ -84,7 +84,12 @@
     "404af0c0b538",
     "70a020d677f1",
     "7d706cb038d7",
-    "0d94c319df0d"
+    "0d94c319df0d",
+    "537a0faeb41c",
+    "f56a07fc32d3",
+    "a4252e773ee3",
+    "3eb2919dd414",
+    "ensemble:v2+v1"
    ],
    "prev": [
     "v1"
@@ -189,7 +194,11 @@
     "8347f8d60089",
     "c3cf57f3e197",
     "dfb0a33b8916",
-    "ensemble:v3+v2"
+    "ensemble:v3+v2",
+    "9a1837610024",
+    "d38683220d91",
+    "5c18dc8084ba",
+    "ee6d549d3c04"
    ],
    "prev": [
     "v2"
@@ -243,7 +252,10 @@
     "a811d543ff41",
     "27712c2099cd",
     "94dbb9ea4c1c",
-    "92d003980924"
+    "92d003980924",
+    "2253b56eb5a2",
+    "4339886ee3f2",
+    "82ce14bf1cae"
    ],
    "prev": null,
    "promoted_at": null
@@ -322,7 +334,7 @@
   "kind": {
    "type": "choice",
    "prod": [
-    "v1"
+    "v2"
    ],
    "versions": {
     "v1": {
@@ -337,6 +349,49 @@
      },
      "origin": "v1 (elle yazıldı)",
      "created": "2026-10-04T14:48:11+00:00"
+    },
+    "v2": {
+     "instructions": "What kind of app is `app`?",
+     "criteria": {
+      "utility": {
+       "description": "A single-purpose tool (scanner, meter, timer, tracker, converter, identifier, reminder) that works on the device",
+       "examples": [
+        "Color Pick Camera: HEX RGB: See the HEX code of the color you aim the camera at.",
+        "Zero: Fasting & Food Tracker: Fasting timer and nutrition tracker.",
+        "Stud Finder App: Wall Scanner: Before you drill, know what's behind the wall. Stud Finder uses your phone's built-in magnetometer to detect metal hidden in your walls — the nails and screws that mark a stud's edge, and the pipes, r"
+       ]
+      },
+      "reference": {
+       "description": "Organised knowledge to look up or learn: guides, atlases, drug references, exam-prep question banks",
+       "examples": [
+        "Davis's Drug Guide: Monographs for 5,000+ drugs: dosing, interactions and nursing considerations.",
+        "Instant ECG - Mastery of EKG: Instant ECG was designed as an ECG / EKG / Electrocardiogram guide for physicians, nurses, paramedics and other health care professionals. It is an excellent learning tool as well as a quick reference"
+       ]
+      },
+      "content": {
+       "description": "Media to consume: video, music, radio, books, comics, daily verses, social feeds or news",
+       "examples": [
+        "Daily Bible Verse: A verse and a prayer every day in a calm feed."
+       ]
+      },
+      "game": "A game to play",
+      "ai_wrapper": {
+       "description": "Its core is chatting with or generating text, images or playlists with AI",
+       "examples": [
+        "Music AI: Playlist Maker: Describe a mood and AI generates a Spotify playlist for you."
+       ]
+      },
+      "service": {
+       "description": "The app of a company, bank, employer benefit, marketplace or online account the user signs into",
+       "examples": [
+        "Uber Eats: Order food delivery from local restaurants."
+       ]
+      }
+     },
+     "origin": "talimat#0 tanım#1 örnek×4",
+     "created": "2026-10-05T09:09:18+00:00",
+     "dev_obj": 0.9812,
+     "test_obj": 1.0
     }
    },
    "tried": [
@@ -348,10 +403,16 @@
     "5098267bdb35",
     "703e01f1165e",
     "71e27cb7cefe",
-    "8dc72b155b74"
+    "8dc72b155b74",
+    "1f3e94e341c4",
+    "458ac13fff62",
+    "a24659fb91d2",
+    "ea5d239683f3"
    ],
-   "prev": null,
-   "promoted_at": null
+   "prev": [
+    "v1"
+   ],
+   "promoted_at": "2026-10-05T09:09:18+00:00"
   },
   "note": {
    "type": "choice",
@@ -407,5 +468,5 @@
    "promoted_at": "2026-10-04T14:48:11+00:00"
   }
  },
- "rejudge_after": "2026-10-04T22:21:13+00:00"
+ "rejudge_after": "2026-10-05T09:09:18+00:00"
 }

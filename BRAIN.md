@@ -57,6 +57,9 @@ Sen App Scout'un beynisin. Bu repoda her saat bir kez çalışıyorsun. Amacın:
    - Gönder: `git pull --rebase && git push` (çakışmada 3 kez dene).
    - Yalnızca şu dosyalara dokun: `bench/data.json`, `bench/components.json`, `reviews.json`, `bench/audit_brain.jsonl`; geri alma gerekirse `jev_registry.json`.
 
+## Saat sensin
+Her çalışmanın sonunda `bench/audit_brain.jsonl` dosyasına en az bir satır yaz, commit at ve `main`'e gönder. Hiçbir şey değişmediyse kısa bir `brain_review` satırı yeterli. Bu commit, GitHub'da optimizasyon döngüsünü ve (20 saat dolduysa) günlük keşfi tetikleyen saattir. GitHub'ın kendi zamanlaması saatlerce gecikebiliyor.
+
 ## Yasaklar
 - `.github/`, gizli anahtarlar, `labels.json`, `notes.json`, `ads.json`, `hidden.json` ve kod dosyaları (`*.py`, `index.html`) değiştirilmez. Kod değişikliği gerekirse yalnızca `bench/audit_brain.jsonl` dosyasına `action: "brain_suggest_code"` önerisi yaz.
 - Jev API anahtarın yok, Jev'i çağırma. Ölçüm optimizasyon döngüsünün işi.

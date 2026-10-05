@@ -4,6 +4,9 @@ run-name: "scout: ${{ inputs.task || 'autopilot' }}"
 on:
   schedule:
     - cron: "0 3 * * *"        # every day 03:00 UTC (06:00 Türkiye)
+  push:                        # heartbeat from the hourly brain commit; runs only if the daily job is due
+    branches: [main]
+    paths: ["bench/audit_brain.jsonl"]
   workflow_dispatch:           # buttons on the Mac UI call this via `gh workflow run`
     inputs:
       task:
@@ -40,7 +43,10 @@ jobs:
           TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
           TASK: ${{ inputs.task || 'autopilot' }}
           ARG: ${{ inputs.arg }}
-        run: python server.py --task "$TASK" --arg "$ARG"
+          EVENT: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT" = "push" ]; then python server.py --task autopilot --due-hours 20
+          else python server.py --task "$TASK" --arg "$ARG"; fi
 
       - name: Save results
         if: always()

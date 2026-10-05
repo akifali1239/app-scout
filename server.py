@@ -1084,6 +1084,12 @@ if __name__ == "__main__":
         task = sys.argv[sys.argv.index("--task") + 1]
         raw = sys.argv[sys.argv.index("--arg") + 1] if "--arg" in sys.argv else ""
         arg = json.loads(raw) if raw.strip() else None
+        if "--due-hours" in sys.argv:   # heartbeat trigger: skip unless the job is due
+            due = float(sys.argv[sys.argv.index("--due-hours") + 1])
+            last = load("autopilot.json", {}).get("last")
+            if last and (datetime.datetime.now() - datetime.datetime.fromisoformat(last)).total_seconds() < due * 3600:
+                print(f"autopilot henüz zamanı değil (son: {last})", flush=True)
+                sys.exit(0)
         print(json.dumps(run_task(task, arg), ensure_ascii=False)[:2000], flush=True)
         sys.exit(0)
     port = int(os.environ.get("PORT", 8765))

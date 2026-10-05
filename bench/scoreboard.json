@@ -9,7 +9,7 @@
    "brier": 0.0514,
    "n": 50,
    "versions": 2,
-   "tried": 27,
+   "tried": 31,
    "test_errors": [
     [
      "elite physical therapy clinic",
@@ -27,7 +27,7 @@
    "brier": 0.1041,
    "n": 77,
    "versions": 3,
-   "tried": 33,
+   "tried": 37,
    "test_errors": [
     [
      "pharmacy technician letter",
@@ -588,7 +588,7 @@
    "n": 16
   }
  ],
- "updated": "2026-10-05T12:41:28+00:00",
+ "updated": "2026-10-05T13:41:29+00:00",
  "raw": {
   "intent": {
    "version": "v2",

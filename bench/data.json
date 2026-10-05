@@ -6391,6 +6391,646 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "chiropractic federal credit union mobile",
+   "top": [
+    {
+     "name": "Chiropractic FCU",
+     "dev": "Chiropractic Federal Credit Union Mobile",
+     "ratings": 6,
+     "desc": "Chiropractic Federal Credit Union Mobile provides members convenient access to our website, mobile check deposit, mobile banking, branch and contact information."
+    },
+    {
+     "name": "SAFE Federal Credit Union",
+     "dev": "SAFE Federal Credit Union",
+     "ratings": 9342,
+     "desc": "SAFE FCU members can easily access their money anytime, anywhere from a mobile device. It is fast, secure, and free.\n\n*Check your account balances\n*View recent transactions\n*Transfer money between you"
+    },
+    {
+     "name": "HawaiiUSA FCU Mobile Banking",
+     "dev": "HawaiiUSA Federal Credit Union",
+     "ratings": 22656,
+     "desc": "HawaiiUSA FCU’s Mobile Banking App has been redesigned to give members a better banking experience. Available on iPhone®, iPad®, and iPod touch®k. Available on latest 2 versions of iOS.\n\nFEATURES\n\nSim"
+    },
+    {
+     "name": "Navy Federal Credit Union",
+     "dev": "Navy Federal Credit Union",
+     "ratings": 814847,
+     "desc": "Bank easy with the Navy Federal mobile app! With a great look and feel, we’ve made the mobile app easier to find information on your accounts and transactions. Breeze through payments, transfers, and "
+    },
+    {
+     "name": "SC Federal Credit Union",
+     "dev": "South Carolina Federal Credit Union",
+     "ratings": 20735,
+     "desc": "Our Mobile Banking app puts your accounts in the palm of your hand and offers:\n\n•\tAnytime convenience - Take care of financial matters wherever you go.\n•\tBetter organization - View all of your transac"
+    },
+    {
+     "name": "Visions FCU Mobile",
+     "dev": "Visions Federal Credit Union",
+     "ratings": 8466,
+     "desc": "As a Visions member, it is important that you’re able to access your accounts at your convenience. This intuitive App does all that – and more! \n\nSave yourself the trip to a Visions office or ATM by u"
+    },
+    {
+     "name": "Call Federal Credit Union",
+     "dev": "Call Federal Credit Union",
+     "ratings": 2257,
+     "desc": "With Call Federal Mobile Banking, you can securely and conveniently manage your accounts anywhere at any time.  Access your information on the go with the same secure credentials as Online Banking, an"
+    },
+    {
+     "name": "Southern Energy Credit Union",
+     "dev": "APCO Employees CU",
+     "ratings": 4481,
+     "desc": "Convenient to use and there when you need it, Mobile Banking from Southern Energy Credit Union is a safe and secure way to access your Credit Union accounts on the go. The Southern Energy Credit Union"
+    },
+    {
+     "name": "Meritrust Mobile",
+     "dev": "Meritrust Credit Union",
+     "ratings": 7755,
+     "desc": "Meritrust is dedicated to improving your life through our mobile banking experience. Stay connected to your money anytime, anywhere with Meritrust Mobile. Experience the convenience and security that "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "noc chiropractic & wellness",
+   "top": [
+    {
+     "name": "NOC Chiropractic & Wellness",
+     "dev": "NOC Chiropractic & Wellness",
+     "ratings": 0,
+     "desc": "Welcome to the NOC Chiropractic & Wellness App! Log on to access your personalized Home Exercise Program on your mobile device.\n\nUsing this app, you can access your personalized Home Exercise Program "
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Soothe: Wellness On Demand",
+     "dev": "Soothe LLC",
+     "ratings": 13607,
+     "desc": "Spa-quality wellness and personal care services delivered to you, on your schedule –– at home, at the office, or on the go.\n\nSoothe is the largest and most trusted on-demand wellness platform in the w"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Oneleaf: Health & Relaxation",
+     "dev": "Oneleaf",
+     "ratings": 1348,
+     "desc": "Bringing Neuroscience to Your Health\n\nOneleaf is the all-in one app that empowers you to take control of your life and health using neuroscience. It offers personalized experiences carefully crafted b"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "JustStretch | Flex & Mobility",
+     "dev": "TechPioneers Limited",
+     "ratings": 2407,
+     "desc": "Make Stretching a Daily Habit for a Healthier You\nWelcome to JustStretch, your go-to app for making stretching a seamless part of your daily routine. Our app is designed to help you enhance your flexi"
+    },
+    {
+     "name": "Norview Family Chiropractic",
+     "dev": "NORVIEW FAMILY CHIROPRACTIC, PC",
+     "ratings": 13,
+     "desc": "Norview Family Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as\n- Requesting an Appointment\n- Loya"
+    },
+    {
+     "name": "Hands of Hope Chiropractic",
+     "dev": "Hands of Hope Chiropractic & Wellness Center L.L.C.",
+     "ratings": 14,
+     "desc": "The Hands of Hope Chiropractic and Wellness Center's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as\n- Requestin"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "chiropractic plus newcastle",
+   "top": [
+    {
+     "name": "Chiropractic Plus Newcastle",
+     "dev": "Chiropractic Plus Newcastle",
+     "ratings": 0,
+     "desc": "The Chiropractic Plus mobile app allows you to book appointments, check-in and view our helpful content. \n\nUse the barcode in the app on your first visit to our clinic, and then check in easily on sub"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Askenas Chiropractic",
+     "dev": "ASKENAS CHIROPRACTOR",
+     "ratings": 4,
+     "desc": "Askenas Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as:\n- Requesting an Appointment\n- Loyalty Re"
+    },
+    {
+     "name": "Hurst Chiropractic",
+     "dev": "HURST CHIROPRACTIC, P.C.",
+     "ratings": 4,
+     "desc": "Hurst Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as:\nRequesting an Appointment\nLoyalty Reward P"
+    },
+    {
+     "name": "Norview Family Chiropractic",
+     "dev": "NORVIEW FAMILY CHIROPRACTIC, PC",
+     "ratings": 13,
+     "desc": "Norview Family Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as\n- Requesting an Appointment\n- Loya"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "home. chiropractic studio",
+   "top": [
+    {
+     "name": "Home. Chiropractic Studio",
+     "dev": "E Hawken Health Pty Ltd",
+     "ratings": 0,
+     "desc": "Our purpose built app complements your fast paced life by allowing:\n\n+ flexibility - reschedule your own appointments within 12hrs without any fees\n+ keep track of your upcoming adjustment schedule \n+"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Mindbody: Fitness & Wellness",
+     "dev": "MINDBODY Inc.",
+     "ratings": 272084,
+     "desc": "Mindbody is the world’s #1 booking platform for fitness, beauty, and wellness experiences. We encourage people to try new things and find what makes them feel physically, mentally, and spiritually the"
+    },
+    {
+     "name": "Studio Pro Portal",
+     "dev": "Studio Pro, LLC",
+     "ratings": 40,
+     "desc": "Access your studio's Customer Portal with an easy-to-use app! Powered by Studio Pro, this app gives you push notifications, so you don't miss a thing. Depending on your studio's enabled settings, you "
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Bobclass Studio Manager",
+     "dev": "Court Four Ltd.",
+     "ratings": 92,
+     "desc": "Bobclass is the all-in-one class scheduling and studio management app built for independent instructors and boutique studios.\n\nWhether you run a Pilates studio, fitness studio, yoga studio, dance scho"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "chiropractic connection",
+   "top": [
+    {
+     "name": "Chiropractic Connection",
+     "dev": "Chiropractic Connection BV",
+     "ratings": 0,
+     "desc": "Stay connected throughout your healthcare journey with the Chiropractic Connection App. Our app offers a comprehensive list of features to help streamline your experience.\n\nManage Your Appointments: E"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "KCA Connect",
+     "dev": "Kansas Chiropractic Association",
+     "ratings": 2,
+     "desc": "KCA Connect is the official mobile app of the Kansas Chiropractic Association. It gives Kansas chiropractors direct access to the news, events, and advocacy work that matter most to their practices an"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "My Rehab Connection",
+     "dev": "Jason Gray",
+     "ratings": 7,
+     "desc": "The My Rehab Connection app allows healthcare practitioners to connect with their patients via their mobile device.\n\nSend patients their home exercise program - including step-by-step pictures and vid"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "pharmacology",
+   "top": [
+    {
+     "name": "Pharmacology Mnemonics - Tips",
+     "dev": "Dignaben Sakariya",
+     "ratings": 5,
+     "desc": "Preparing for Medical Exams? Then this app is perfectly made for you. Study with fun & remember more in less time with pharmacology mnemonics covering topic. Unbelievably effective. Ridiculously effic"
+    },
+    {
+     "name": "Pharmacy Shift",
+     "dev": "Nikita Bulygin",
+     "ratings": 3,
+     "desc": "Pharmacy Shift makes studying pharmacology feel like a game.\n\nLearn drug uses and classes, review what you miss, and build confidence through short, focused shifts.\n\nLEARN BY PLAYING\n\nSort medications"
+    },
+    {
+     "name": "Davis Drug Guide For Nurses",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 8780,
+     "desc": "The medical information that nurses need - when, where, and how they need it!\n\nDavis's Drug Guide for Nurses, Twentieth Edition, always puts safety first, emphasizing the medical information nurses ne"
+    },
+    {
+     "name": "Pharmacology for Nursing 2026",
+     "dev": "和荣 叶",
+     "ratings": 60,
+     "desc": "Pharmacology for Nursing 2026 is a test prep app that will help you pass the Pharmacology exam with a high score on your first attempt!\n\nPharmacology for Nursing 2026 will not only help you gain insig"
+    },
+    {
+     "name": "Flashcard Pharmacology",
+     "dev": "Edward Rippe",
+     "ratings": 13,
+     "desc": "Flashcard Pharmacology is an essential resource designed for first and second year Medical students studying pharmacology.  PA students, Pharmacy students and Nursing students will find it useful as w"
+    },
+    {
+     "name": "Picmonic Nursing School Study",
+     "dev": "Picmonic - The Visual Learning Community",
+     "ratings": 21205,
+     "desc": "Prepare for nursing school and pass your nursing exams with Picmonic! For FREE you can access our most popular Videos, Multiple Choice Quiz Questions, and Daily Quiz with Spaced Repetition for 5 days."
+    },
+    {
+     "name": "epocrates: Drug Info & Pill ID",
+     "dev": "Epocrates",
+     "ratings": 7213,
+     "desc": "Make safer, faster clinical decisions – anywhere you practice.\n\nepocrates is the trusted clinical reference app for U.S. physicians (MDs/DOs), nurse practitioners (NPs), physician associates (PAs), ph"
+    },
+    {
+     "name": "Drugs.com Medication Guide",
+     "dev": "Drugs.com",
+     "ratings": 17209,
+     "desc": "Manage meds, identify pills, check interactions, compare prices and more. Discover detailed, peer-reviewed info on over 24,000 prescription drugs, OTC meds, and natural products all in one place.\n\nKey"
+    },
+    {
+     "name": "RXQuiz",
+     "dev": "Althia Ford",
+     "ratings": 2,
+     "desc": "Test your pharmacology knowledge in a fast-paced race against the clock with RXQuiz! Challenge yourself with timed quizzes where every second counts!\n \nKey Features:\n60-Second Challenges: Put your pha"
+    },
+    {
+     "name": "Pharmacology: USMLE & NAPLEX",
+     "dev": "Higher Learning Technologies",
+     "ratings": 118,
+     "desc": "Take control of your study schedule with these pharmacology practice questions based on the highly respected textbook, “Lippincott’s Illustrated Q&A Review of Pharmacology”. \n\nInstall the free version"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "nclex",
+   "top": [
+    {
+     "name": "NCLEX RN Mastery Exam - 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 31222,
+     "desc": "Pass the NCLEX-RN® or Triple Your Money Back! NCLEX Mastery is the most trusted NCLEX prep app. Used by over 3 million future nurses. Built by U.S. registered nurses who’ve been where you are.\n\nStart "
+    },
+    {
+     "name": "Saunders Comp Review NCLEX RN",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 12534,
+     "desc": "Often called the ‘the best NCLEX® exam review book ever,’ Saunders Comprehensive Review for the NCLEX-RN® Examination,  provides everything you need to prepare for the NCLEX exam — complete content re"
+    },
+    {
+     "name": "Archer Review NCLEX",
+     "dev": "Archer Review",
+     "ratings": 22616,
+     "desc": "Archer Next-Generation NCLEX – with a single motto to Make Quality Test Prep Affordable & Effective!\n\nOver several years, Archer Review has provided affordable and successful courses to nursing studen"
+    },
+    {
+     "name": "NCLEX 2026 Simple Exam Prep",
+     "dev": "ExamReady",
+     "ratings": 1518,
+     "desc": "Pass Your NCLEX-RN & NCLEX-PN with Help That Works - Fully Updated for 2026\n\nPreparing for the NCLEX can feel overwhelming, but you're not alone. This exam prep app is built by licensed nurse educator"
+    },
+    {
+     "name": "UWorld Nursing",
+     "dev": "UWorld LLC",
+     "ratings": 2112,
+     "desc": "Discover a better way to pass your nursing exams. The UWorld Nursing app connects your digital course features to your mobile device for a seamless study experience. Visit nursing.uworld.com to begin "
+    },
+    {
+     "name": "Nursing School & NCLEX Prep",
+     "dev": "SmartFit Investments, INc",
+     "ratings": 2262,
+     "desc": "Engage with over 1 million nursing students who have successfully prepared for their NCLEX exams using SimpleNursing. Our app offers comprehensive resources crafted by seasoned healthcare professional"
+    },
+    {
+     "name": "Bootcamp.com",
+     "dev": "Bootcamp Prep LLC",
+     "ratings": 17477,
+     "desc": "The Bootcamp.com app requires an active Bootcamp.com upgraded membership.\n\nAccess your question banks, video lessons, Bites, tagged questions, custom tests, and personalized study schedule anytime, an"
+    },
+    {
+     "name": "Picmonic Nursing School Study",
+     "dev": "Picmonic - The Visual Learning Community",
+     "ratings": 21205,
+     "desc": "Prepare for nursing school and pass your nursing exams with Picmonic! For FREE you can access our most popular Videos, Multiple Choice Quiz Questions, and Daily Quiz with Spaced Repetition for 5 days."
+    },
+    {
+     "name": "NCLEX PN Mastery Prep - 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 10766,
+     "desc": "Pass the NCLEX-PN® or Triple Your Money Back! The most popular NCLEX-PN prep app. Developed by US-based registered nurses.\n\nStart free today and get 10 NCLEX-style questions every single day. No credi"
+    },
+    {
+     "name": "NCLEX RN Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 195,
+     "desc": "NCLEX RN Test Prep 2026 is an application that has been carefully designed and developed by industry exam experts. With more than 1,500 high-quality test questions and answer explanations, multiple te"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "eye chart",
+   "top": [
+    {
+     "name": "Eye Chart HD",
+     "dev": "Dok LLC",
+     "ratings": 7,
+     "desc": "Easy to use, clinically evaluated visual acuity screening app. Over 1M people have downloaded our mobile electronic eye charts for iOS. Read below for more information on the clinical evaluations. \n\nU"
+    },
+    {
+     "name": "EyeChart - Vision Screening",
+     "dev": "Dok LLC",
+     "ratings": 17,
+     "desc": "The most accurate, advanced visual acuity screening app for iPhone and iPod Touch. Over 1,000,000 people have downloaded our mobile electronic eye charts for iOS. \n\nThis version is our best for iPhone"
+    },
+    {
+     "name": "Virtual Vision Test",
+     "dev": "Warby Parker Inc",
+     "ratings": 18999,
+     "desc": "Still seeing well out of your current glasses or contacts prescription, but now it's expired? Virtual Vision Test by Warby Parker lets you renew it from home in 10 minutes using just your phone! And i"
+    },
+    {
+     "name": "ChartEye: Eye Chart",
+     "dev": "Jhomar Maravillas",
+     "ratings": 0,
+     "desc": "Need a Snellen eye chart for a quick at-home vision check or a classroom? ChartEye makes a true-size Snellen-style eye chart for your viewing distance, on screen and as a printable PDF.\n\nSet the viewi"
+    },
+    {
+     "name": "OcularCheck: Acuity Exam",
+     "dev": "Project ORBIS International Inc",
+     "ratings": 15,
+     "desc": "OcularCheck is a powerful mobile tool to improve the accessibility of healthcare by empowering individuals and communities to be able to accurately check their vision for free, for signs of myopia and"
+    },
+    {
+     "name": "UbiVision Eye Chart",
+     "dev": "Ingenieurbüro Edelmann",
+     "ratings": 0,
+     "desc": "Welcome to 'UbiVision Eye Chart'. UbiVision Eye Chart displays a snellen eye chart to 'Check your Vision':\n\nDisclaimer: This does not replace a visit and professional eye test by an optician or ophtha"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "Eye Chart Pro Remote Control",
+     "dev": "Dok LLC",
+     "ratings": 4,
+     "desc": "Want to test vision? The Eye Chart Pro Remote Control works in tandem with the popular Eye Chart Pro iPad app to turn your iPhone or iPod Touch into a real life remote control for your iPad! \n\nThis re"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "muscle anatomy",
+   "top": [
+    {
+     "name": "3D Bones and Muscles (Anatomy)",
+     "dev": "Education Mobile",
+     "ratings": 2589,
+     "desc": "A true and totally 3D free app for studying human anatomy, built on an advanced interactive 3D touch interface. It is completely free (NO in-app purchase)!\n***From the creator of Visual Anatomy app.\n\n"
+    },
+    {
+     "name": "Visual Anatomy Lite",
+     "dev": "Education Mobile",
+     "ratings": 3372,
+     "desc": "Interactive anatomy reference with muscle action movies, 3D rotational models, 1247 Gray's anatomy images add-on, Latin names, a muscle highlighting tool and full description!\n\n• No.1 free anatomical "
+    },
+    {
+     "name": "Muscle & Motion: Anatomy",
+     "dev": "Muscle & Motion LTD",
+     "ratings": 653,
+     "desc": "Understand the human body from the inside out.\nThe Anatomy App by Muscle & Motion transforms your device into a powerful 3D learning platform focused entirely on muscles, joints, and movement mechanic"
+    },
+    {
+     "name": "Daily Anatomy Flashcards",
+     "dev": "Kenhub",
+     "ratings": 7532,
+     "desc": "New topics, more content! Daily Anatomy Flashcards teaches healthcare students the 500 most important anatomical structures in a beginner-friendly format. The perfect entry into the world of anatomy!\n"
+    },
+    {
+     "name": "TeachMe Anatomy: 3D Human Body",
+     "dev": "TeachMeSeries Limited",
+     "ratings": 2637,
+     "desc": "Teach Me Anatomy provides students, doctors, and health professionals with the world’s most comprehensive anatomy learning platform. Includes integrated textbook, 3D anatomy models and a bank of over "
+    },
+    {
+     "name": "Muscle & Motion: Strength",
+     "dev": "Muscle & Motion LTD",
+     "ratings": 7773,
+     "desc": "Build strength with guided workout plans, gym routines, and in-depth biomechanics. Muscle & Motion brings training to life with 3D visuals that show how your body moves.\n\nThe Strength Training app is "
+    },
+    {
+     "name": "Anatomy Learning - 3D Atlas",
+     "dev": "3DMedical OU",
+     "ratings": 1349,
+     "desc": "\"Anatomy Learning is an interactive 3D atlas of human anatomy for students of medicine, nursing, physiotherapy and dentistry. Over 6,000 labeled anatomical points on a real 3D model, and it works offl"
+    },
+    {
+     "name": "Muscular System 3D (anatomy)",
+     "dev": "Victor Gonzalez Galvan",
+     "ratings": 96,
+     "desc": "Do you want to learn about the muscles of the human body in a fun and educational way? Our new mobile application is the perfect solution for you.\n\nWith our high-definition 3D model, you can explore t"
+    },
+    {
+     "name": "Complete Anatomy for iPhone",
+     "dev": "3D4Medical from Elsevier",
+     "ratings": 3664,
+     "desc": "Built for medical students, teaching professionals and practicing clinicians, Complete Anatomy is the most advanced 3D anatomy platform available on the market. Take your anatomy learning to the next "
+    },
+    {
+     "name": "Anatomy: AI Diet & Food Scan",
+     "dev": "Hassan Raza",
+     "ratings": 0,
+     "desc": "nderstand your body, then feed it right.\n\nAnatomy: AI Diet & Food Scan combines an interactive muscle atlas with an AI food scanner and a personal diet planner — one app to learn how your body works a"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "ecg interpretation",
+   "top": [
+    {
+     "name": "ECG EKG Interpretation Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 718,
+     "desc": "The simplest way to learn ECG interpretation. Study on-the-go with ECG strips, full-color graphics, up-to-date information tables, core clinical facts, and never again be confused by a 12-lead ECG or "
+    },
+    {
+     "name": "ECG Pro | Road to Mastery",
+     "dev": "WMS, Inc",
+     "ratings": 3619,
+     "desc": "ECG Pro | 12-Lead ECG Cases & Reference\nReal ECGs. Real cases. Real confidence.\n\nWhether you're a medical student finding your feet or a seasoned clinician keeping your skills sharp, ECG Pro gives you"
+    },
+    {
+     "name": "ECG Trainer: Monitor & 12-Lead",
+     "dev": "Tsunehiro Takeuchi",
+     "ratings": 58,
+     "desc": "Make learning ECGs more enjoyable—and easier to continue.\n\nThis is a new kind of ECG learning app that lets you build your skills through game-like practice.\n\nMonitor ECG Mode includes a wide range of"
+    },
+    {
+     "name": "PMcardio for Individuals",
+     "dev": "Powerful Medical",
+     "ratings": 326,
+     "desc": "PMcardio – AI ECG Interpretation Assistant.\n\nGet instant AI-powered ECG interpretations that offer reassurance anytime, anywhere. Trusted by over 100,000 healthcare professionals, PMcardio provides ra"
+    },
+    {
+     "name": "Qaly | ECG Reader",
+     "dev": "Qaly, Inc.",
+     "ratings": 867,
+     "desc": "Heart feels off? Inconclusive ECG?\n\nGet your ECGs read by certified experts within minutes, for peace of mind. 500,000+ ECGs read so far. Qaly is the leading ECG app for Apple Watch, Fitbit, Kardia, a"
+    },
+    {
+     "name": "ECG Buddy",
+     "dev": "ARPI Inc",
+     "ratings": 1,
+     "desc": "Your eyes see Rhythm. AI sees Risk.\n\nECG Buddy is an AI-powered ECG analysis medical device developed for healthcare professionals in hospitals and emergency settings. With just a single scan from you"
+    },
+    {
+     "name": "Géodésie de poche",
+     "dev": "IGN",
+     "ratings": 0,
+     "desc": "A découvrir sans tarder !\nLa \"Géodésie de poche\", c'est un vrai serveur de fiches signalétiques de points géodésiques et de repères de nivellement. Tout le temps, partout, par tout temps...\nCette appl"
+    },
+    {
+     "name": "ECG Interpretation: Pkt Guide",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 2,
+     "desc": "\"Try before you buy\" - Download the FREE App, which includes sample content. In-App purchase required to unlock all content.\n\nNew at ECG interpretation! No need to go it alone—keep the basic skills an"
+    },
+    {
+     "name": "ECG+ | Your Watch ECG Reader",
+     "dev": "Heartworks Pty Ltd",
+     "ratings": 2494,
+     "desc": "REAL STORIES, IN THEIR OWN WORDS\n\nI had an appointment with a cardiologist today. I printed my ECGs from this ECG+ app. The cardiologist's response was: \"wow, this just saved us such an amount of time"
+    },
+    {
+     "name": "Instant ECG - Mastery of EKG",
+     "dev": "iAnesthesia LLC",
+     "ratings": 525,
+     "desc": "Instant ECG was designed as an ECG / EKG / Electrocardiogram guide for physicians, nurses, paramedics and other health care professionals. It is an excellent learning tool as well as a quick reference"
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

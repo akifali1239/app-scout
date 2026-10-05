@@ -8670,6 +8670,60 @@
    },
    "label": "utility",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Unit Converter Plus",
+    "category": "Utilities",
+    "desc": "Convert length, weight, temperature and volume units offline."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Nurse's Drug Guide",
+    "category": "Medical",
+    "desc": "Searchable reference of drug dosages, interactions and side effects for nurses."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chase Mobile",
+    "category": "Finance",
+    "desc": "Check balances, deposit checks and pay bills with your Chase accounts."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "AI Homework Helper: Ask Anything",
+    "category": "Education",
+    "desc": "Chat with GPT and get instant answers to any question you type."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Block Puzzle Jewel Saga",
+    "category": "Games",
+    "desc": "Match colorful jewels and clear levels in this relaxing puzzle game."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Daily Stoic Quotes",
+    "category": "Lifestyle",
+    "desc": "A new Stoic quote and short reflection delivered every morning."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

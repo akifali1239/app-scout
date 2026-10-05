@@ -3,7 +3,7 @@
   "intent": {
    "type": "choice",
    "prod": [
-    "v2"
+    "v3"
    ],
    "versions": {
     "v1": {
@@ -64,6 +64,21 @@
      "created": "2026-10-04T22:21:13+00:00",
      "dev_obj": 0.7843,
      "test_obj": 0.9293
+    },
+    "v3": {
+     "instructions": "What is a person who types `search_term` into the App Store search box looking for?",
+     "criteria": {
+      "need": "Plain words for a topic, task, exam or tool that many apps could serve (e.g. 'welding symbols', 'white noise', 'nclex practice questions'); not a proper name",
+      "brand": "A proper name of one product, app, publisher or company, possibly with generic words added (e.g. 'foreflight', 'hinge health', 'pocket prep', 'miller weld setting calculator')",
+      "local_business": "Names one specific local clinic, practice, shop, studio, school, hospital or credit union, including ordinary words used as a business name (e.g. 'elite physical therapy clinic', 'smith family dental'), or with LLC, PC, a city or a person's name",
+      "game": "Wants a game, simulator or something to play",
+      "jobs": "Wants job listings or to be hired",
+      "other": "None of the above"
+     },
+     "origin": "talimat#0 tanım#2 örnek×0",
+     "created": "2026-10-05T14:42:07+00:00",
+     "dev_obj": 0.8565,
+     "test_obj": 0.9924
     }
    },
    "tried": [
@@ -97,12 +112,16 @@
     "644021dc6cfc",
     "c09688258e98",
     "ad912378e83c",
-    "c84524c698e2"
+    "c84524c698e2",
+    "6a6fd10146f0",
+    "851661f38406",
+    "08192635cfa2",
+    "e30e496f2ede"
    ],
    "prev": [
-    "v1"
+    "v2"
    ],
-   "promoted_at": "2026-10-04T22:21:13+00:00"
+   "promoted_at": "2026-10-05T14:42:07+00:00"
   },
   "brand": {
    "type": "noul",
@@ -214,7 +233,11 @@
     "2f48fa8d4c48",
     "4ef56bf91358",
     "4563843f3c2d",
-    "e665ba1e75e8"
+    "e665ba1e75e8",
+    "0920e9f12fe8",
+    "f66cc14fd075",
+    "9758e1659c92",
+    "b29b1e205bc0"
    ],
    "prev": [
     "v2"
@@ -493,5 +516,5 @@
    "promoted_at": "2026-10-04T14:48:11+00:00"
   }
  },
- "rejudge_after": "2026-10-05T09:09:18+00:00"
+ "rejudge_after": "2026-10-05T14:42:07+00:00"
 }

@@ -1,22 +1,16 @@
 {
  "current": {
   "intent": {
-   "version": "v2",
-   "dev_acc": 0.875,
-   "test_acc": 0.9615,
-   "dev_obj": 0.8087,
-   "test_obj": 0.9358,
-   "brier": 0.0514,
+   "version": "v3",
+   "dev_acc": 0.9167,
+   "test_acc": 1.0,
+   "dev_obj": 0.8565,
+   "test_obj": 0.9924,
+   "brier": 0.0153,
    "n": 50,
-   "versions": 2,
-   "tried": 31,
-   "test_errors": [
-    [
-     "elite physical therapy clinic",
-     "local_business",
-     "need"
-    ]
-   ]
+   "versions": 3,
+   "tried": 35,
+   "test_errors": []
   },
   "brand": {
    "version": "v3",
@@ -27,7 +21,7 @@
    "brier": 0.1041,
    "n": 77,
    "versions": 3,
-   "tried": 37,
+   "tried": 41,
    "test_errors": [
     [
      "pharmacy technician letter",
@@ -588,25 +582,20 @@
    "n": 16
   }
  ],
- "updated": "2026-10-05T13:41:29+00:00",
+ "updated": "2026-10-05T14:42:07+00:00",
  "raw": {
   "intent": {
-   "version": "v2",
+   "version": "v3",
    "dev": {
     "n": 24,
-    "acc": 0.875,
-    "brier": 0.1327,
-    "obj": 0.8087,
+    "acc": 0.9167,
+    "brier": 0.1202,
+    "obj": 0.8565,
     "errors": [
      [
       "e6b flight computer",
       "need",
       "brand"
-     ],
-     [
-      "speech therapy delhi",
-      "local_business",
-      "need"
      ],
      [
       "trucker path",
@@ -617,16 +606,10 @@
    },
    "test": {
     "n": 26,
-    "acc": 0.9615,
-    "brier": 0.0514,
-    "obj": 0.9358,
-    "errors": [
-     [
-      "elite physical therapy clinic",
-      "local_business",
-      "need"
-     ]
-    ]
+    "acc": 1.0,
+    "brier": 0.0153,
+    "obj": 0.9924,
+    "errors": []
    }
   },
   "brand": {
@@ -814,5 +797,5 @@
    }
   }
  },
- "fingerprint": "fb4b1fcf1cbb"
+ "fingerprint": "d86abe20b2c8"
 }

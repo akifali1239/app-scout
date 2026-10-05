@@ -7900,6 +7900,238 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "lab values",
+   "apps": [
+    {
+     "name": "Lab Values Reference Guide",
+     "dev": "William Wyatt",
+     "ratings": 10,
+     "desc": "The best pocket guide for reference ranges!\n\n***\n\nLab values is a quick reference tool for all normal lab values as well as PRO tips for need-to-know information to help interpretation! \n\nIt is excell"
+    },
+    {
+     "name": "Lab Values+ Medical Reference",
+     "dev": "Hipposoft, LLC",
+     "ratings": 47,
+     "desc": "A study reference for laboratory values, medical abbreviations, and the word roots medical vocabulary is built from — for nursing and medical students, and for anyone reviewing the material. It works "
+    },
+    {
+     "name": "Lab Test Values",
+     "dev": "Ahmad Nakore",
+     "ratings": 318,
+     "desc": "For Educational purpose!!!\nThis app is designed to provide general informations on the commonly using (BLOOD AND OTHER BODY FLUIDS) test in the laboratory. It includes the normal ranges of various tes"
+    },
+    {
+     "name": "Medical Lab Tests",
+     "dev": "Medicon Apps",
+     "ratings": 1141,
+     "desc": "The go-to lab reference for healthcare professionals, medical students, and nurses — trusted on hospital wards, in classrooms, and during clinical rotations.\n\nINSTANT LAB TEST LOOKUP\n\nSearch or browse"
+    },
+    {
+     "name": "Lab Values: 63 Must Know Labs",
+     "dev": "TazKai, LLC",
+     "ratings": 0,
+     "desc": "Nursing labs just got easier! \n\nThe Lab Values  app by NURSING.com is your go-to resource for mastering the most essential labs nursing students need to know. \n\nWhether you're preparing for the NCLEX "
+    },
+    {
+     "name": "Blood Test Results: Lab Values",
+     "dev": "Krzysztof Gwiazda",
+     "ratings": 1,
+     "desc": "Blood Diagnostics App provides descriptions and explanations of over 300 laboratory blood tests. It is a perfect pocket guide for all healthcare professionals, including medical students, graduates, a"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "silent alarm",
+   "apps": [
+    {
+     "name": "VibeAlarm",
+     "dev": "Tatsuya Kojima",
+     "ratings": 2130,
+     "desc": "VibeAlarm is a quick, easy and simple alarm clock that notifies only by vibration without sound.\n\n・Two types of features: Alarm and Timer\n・Can also specify seconds, so it can be used for various purpo"
+    },
+    {
+     "name": "Vibrating Alarm Clock & Timer",
+     "dev": "manabu ueda",
+     "ratings": 104,
+     "desc": "Notifications without sound, only with vibration. Even if your iPhone is set to sound, no sound will be played. It works almost the same as the iPhone's clock app, so you can use it right away. Howeve"
+    },
+    {
+     "name": "Silent Wake: Vibrate Alarm",
+     "dev": "Mehdi El Moussali",
+     "ratings": 14,
+     "desc": "Wake up without waking anyone.\n\nSilent Wake wakes you with vibration on your nightstand, or sound in your headphones  while your partner, kids, or roommates stay asleep.\n\nChoose how you wake\n- Headpho"
+    },
+    {
+     "name": "Vibration Alarm Clock & Timer",
+     "dev": "FugaPiyo Inc.",
+     "ratings": 73,
+     "desc": "It's an alarm & timer app with no sound & only vibration.\nAll features are completely free to use.\n\nFeatures:\n- Quick start-up, comfortable operability\n- Any number of preset alarms and timers\n- Repea"
+    },
+    {
+     "name": "Vibe Alarm - Silent Timer",
+     "dev": "Kosuke Shimada",
+     "ratings": 0,
+     "desc": "＊Silent time notifications with vibration! From wake-up alarms to timers - completely silent＊\n\nSafe to use anywhere sound isn’t allowed. This innovative vibration app tells the time using only vibrati"
+    },
+    {
+     "name": "Sleepwave: Alarm & Tracker",
+     "dev": "Reviva Softworks Ltd",
+     "ratings": 6595,
+     "desc": "Using patented motion-sensing technology, Sleepwave tracks your sleep from a phone beside your bed and wakes you at the perfect moment for a more refreshed morning.\n\nKey features:\n\nACCURATE AND CONTAC"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "welding calculator",
+   "apps": [
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "WelderCalc: Welding Calculator",
+     "dev": "Double Vision USA LLC",
+     "ratings": 0,
+     "desc": "The welding calculator that picks amperage on the first shot — TIG, MIG, stick, flux-core — heat input, travel speed, electrode sizing, all offline.\n\nTired of dialing in by feel? Tired of running test"
+    },
+    {
+     "name": "WeldCalc Pro - Welding Calc",
+     "dev": "Ersel Tarhan",
+     "ratings": 0,
+     "desc": "WeldCalc Pro turns your iPhone into a complete welding calculator for every welder, fabricator, and engineer on the shop floor — brand-neutral, 100% offline, no Wi-Fi required. Get accurate parameters"
+    },
+    {
+     "name": "Feet and Inches Calculator",
+     "dev": "Evan Winograd",
+     "ratings": 416,
+     "desc": "Master your trade with a powerful construction calculator built for contractors, carpenters, builders, electricians, and tradespeople.\n\nTutorial: https://www.youtube.com/watch?v=PZugBX9o-8E&t=0s\nQuest"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Vice: safe open chat",
+     "dev": "CRAYCRAY",
+     "ratings": 0,
+     "desc": "Vice is your safe space to speak freely about the things you really want to talk about. In just a few minutes, you're connected with a verified person who wants to talk about the same things as you. \n"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "suture",
+   "apps": [
+    {
+     "name": "Suture: Laceration Repair App",
+     "dev": "Tom Fadial",
+     "ratings": 16,
+     "desc": "Figuring out how to manage a laceration just got a lot easier. With Suture.app, you'll have all the information you could need at your fingertips. Our easy-to-use interface will guide you from start t"
+    },
+    {
+     "name": "Fractures: Splinting App",
+     "dev": "Tom Fadial",
+     "ratings": 23,
+     "desc": "Say hello to Fractures.app - your new best friend when it comes to dealing with fractures and bony injuries! This awesome (and free) app is here to make life easier for emergency physicians and health"
+    },
+    {
+     "name": "Surgical Suture Material",
+     "dev": "Roman Moiseev",
+     "ratings": 0,
+     "desc": "Surgical Suture Materials is a comprehensive visual guide to suture threads and surgical needles, structured by their type and practical use.\n\nKey features:\n1) High-quality images of surgical needles "
+    },
+    {
+     "name": "WikEM",
+     "dev": "OpenEM Foundation",
+     "ratings": 4731,
+     "desc": "WikEM is an online wiki and database of emergency medicine knowledge to assist physicians with their daily practice. The content is continuously updated from WikEM.org allowing for rapid reference of "
+    },
+    {
+     "name": "Suture Selector",
+     "dev": "Amy Chung",
+     "ratings": 1,
+     "desc": "Suture Selector is a comprehensive resource designed to conveniently and succinctly summarize information regarding suture characteristics. This App is ideal as a reference for healthcare professional"
+    },
+    {
+     "name": "Teach Me Surgery",
+     "dev": "TeachMeSeries Limited",
+     "ratings": 226,
+     "desc": "Teach Me Surgery provides students, doctors, and health professionals with a comprehensive surgical learning platform. Includes an integrated surgical encyclopaedia, 3D models of surgical anatomy and "
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "adjacent",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

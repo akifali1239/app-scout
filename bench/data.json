@@ -349,6 +349,41 @@
    "term": "orthopedic tests",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "occupational therapy exam prep",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "sonography practice test",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "welding heat input calculator",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "asis physical therapy, inc.",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "true sports physical therapy, llc",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "welding game",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy games",
+   "label": "game",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -10626,6 +10661,250 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "welding reference pro",
+   "top": [
+    {
+     "name": "Welding Reference Pro",
+     "dev": "ZIma Logistics LLC",
+     "ratings": 1,
+     "desc": "Welding Reference Pro puts every tool a welder needs in one app — calculators, reference guides, training, and QA checklists. No internet required. No subscription. One price, everything unlocked.\n\nCA"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Weldbend Field Reference App",
+     "dev": "Weldbend Corporation",
+     "ratings": 38,
+     "desc": "The Weldbend Field Reference Digital Companion is an app which contains dimensional data for carbon steel butt-weld fittings and flanges, as well and technical and general information pertaining to ca"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "Weldmonger",
+     "dev": "Weldmonger Enterprises LLC",
+     "ratings": 276,
+     "desc": "Hey Jody here, Thanks for visiting my online store!  \n\nEvery product has been thoroughly tested by myself and I'm confident that you'll enjoy what you buy. If not, just reach out to us and we'll take "
+    },
+    {
+     "name": "Fabora: Steel & Metal Tools",
+     "dev": "jason bennett",
+     "ratings": 8,
+     "desc": "Fabora puts 27 fabrication and welding tools in one app: steel and metal weight, weld settings and a weld fault finder, a rebar calculator, fixed ladder and ship ladder design, stair stringers, steel "
+    },
+    {
+     "name": "WeldConnect",
+     "dev": "Fronius International GmbH",
+     "ratings": 17,
+     "desc": "WeldConnect, the new welding app from Fronius, provides you with a whole host of options for functional use and wireless interaction with the current generation of Fronius systems in many different la"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "kiro: chiropractic adjustments",
+   "top": [
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "UPRIGHT",
+     "dev": "Upright Technologies Ltd",
+     "ratings": 3938,
+     "desc": "**This app works with the UPRIGHT posture trainer.\n\n\nStand tall, strengthen your core, and breathe better with UPRIGHT.\n\n\nWish someone would give you a heads up when you’re slouching and remind you to"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Airrosti",
+     "dev": "Airrosti Rehab Centers, LLC",
+     "ratings": 4300,
+     "desc": "Airrosti Remote Recovery connects you with an experienced provider who will help you understand your condition, prescribe an individualized recovery plan, and give you the tools you need to live pain "
+    },
+    {
+     "name": "JustStretch | Flex & Mobility",
+     "dev": "TechPioneers Limited",
+     "ratings": 2407,
+     "desc": "Make Stretching a Daily Habit for a Healthier You\nWelcome to JustStretch, your go-to app for making stretching a seamless part of your daily routine. Our app is designed to help you enhance your flexi"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "speech therapy toddler",
+   "top": [
+    {
+     "name": "Speech Blubs: Language Therapy",
+     "dev": "Blub Blub Inc.",
+     "ratings": 57079,
+     "desc": "WHAT DOES SPEECH BLUBS OFFER?\n\nSpeech Blubs is a voice-controlled speech therapy app designed to help your child learn new sounds and words, and to practice speaking in a stimulating, educational envi"
+    },
+    {
+     "name": "Speech Therapy 3 – 500+ Words",
+     "dev": "ImagiRation LLC",
+     "ratings": 103,
+     "desc": "From the developers of the only clinically-validated language therapy application MITA that was downloaded by over 3 million families, ImagiRation brings you a series of Speech Therapy apps:\n+ Speech "
+    },
+    {
+     "name": "Toddler Games For 2 Year Olds.",
+     "dev": "22LEARN Toddler and Baby Learning Games, LLC",
+     "ratings": 133220,
+     "desc": "***** Brought to you by 22LEARN, the creator of Abby Basic Skills Preschool – a winner of Parents‘ Choice Awards\n***** A title from our extremely successful Abby series -- all TEN (!) RANKED #1 APP FO"
+    },
+    {
+     "name": "Sago Mini First Words: Kids 1+",
+     "dev": "Piknik",
+     "ratings": 2731,
+     "desc": "THE BEST SPEECH COMPANION FOR KIDS\nSago Mini First Words is the most playful way to support your little one’s speech development! Discover thoughtfully designed learning games developed with the guida"
+    },
+    {
+     "name": "Speech Therapy - Help Me Talk",
+     "dev": "Yousef Zuriqi",
+     "ratings": 38,
+     "desc": "Help Me Talk is a speech practice app that parents and speech-language therapists use to help your child express needs and feelings easily by choosing the right picture. This method of accelerated lea"
+    },
+    {
+     "name": "Speech Therapy For Autism Kids",
+     "dev": "Pixit Labs Private Limited",
+     "ratings": 37,
+     "desc": "Is your child struggling with speech delay, articulation, or communication skills? Our play-based speech therapy app is designed for children with autism spectrum disorder (ASD), late talkers, and kid"
+    },
+    {
+     "name": "Speech Therapy - Mio For Kids",
+     "dev": "Mioris LTD",
+     "ratings": 3399,
+     "desc": "MIO is an educational app for children aged 1 to 8, created by educators and speech therapists. It contributes to diversified child development in a fun, fascinating, and professional manner.\n\nPLAYFUL"
+    },
+    {
+     "name": "My Words: Kids Speech Therapy",
+     "dev": "Hossam M. Mustafa",
+     "ratings": 57,
+     "desc": "Is your toddler not talking yet? My Words is a toddler speech and first words app that helps late talkers build everyday communication — one word at a time.\n\nDeveloped by a speech-language therapist, "
+    },
+    {
+     "name": "Speech Therapy 1 – Preverbal",
+     "dev": "ImagiRation LLC",
+     "ratings": 133,
+     "desc": "ImagiRation brings you a series of Speech and Language Therapy apps:\nSpeech Therapy Step 1 – Preverbal exercises \nSpeech Therapy Step 2 – Learn to sequence sounds\nSpeech Therapy Step 3 – Learn to say "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "occupational therapy exam prep",
+   "top": [
+    {
+     "name": "Occupational Therapy Exam Prep",
+     "dev": "Tourkia CHIHI",
+     "ratings": 2,
+     "desc": "With this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our 5 study modes embedded in this app.\nThis app is a combination of sets"
+    },
+    {
+     "name": "Occupational Therapy Exam 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 58,
+     "desc": "Crush the OT Exam Without Losing Your Grip on Reality\n\nYou picked occupational therapy to make a difference, change lives, and maybe wear scrubs to work. But before you can do any of that, there’s the"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    },
+    {
+     "name": "OTR Occupational Therapy Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "The OTR (Occupational Therapist, Registered) credential, earned through the NBCOT certification exam, qualifies you to practice as an occupational therapist. This app helps you pass with realistic pra"
+    },
+    {
+     "name": "Pocket Prep MSW 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6735,
+     "desc": "Unlock 1,000 MSW practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key MSW "
+    },
+    {
+     "name": "COTA OT Assistant Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "The Certified Occupational Therapy Assistant (COTA) credential from the NBCOT certifies OT assistants to deliver client-centered care under occupational therapist supervision. This app helps you pass "
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

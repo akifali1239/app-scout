@@ -50,7 +50,8 @@
    {
     "question": "Does `search_term` read like the exact title or name of ONE app, company or publisher, rather than a phrase a person would type to find any app for a task?",
     "steps": "1) If the first result's title (or its developer name) equals `search_term` or nearly equals it, answer true. 2) A title with a colon, dash, tagline, 'app' suffix or a trailing word like 'driver', 'coach', 'letter' still counts as a title. 3) If many results repeat the same words in different titles, answer false."
-   }
+   },
+   "Imagine the App Store search results for `search_term`. If one result is clearly 'the' app being asked for (its title or publisher repeats the distinctive words of `search_term`, even with a tagline, an 'app' suffix or a word like coach, driver or letter), answer true. If the words are an exam name, a year, 'prep', 'practice test', 'flashcards', a topic or a tool type that many results share, answer false."
   ],
   "criteria": [
    {
@@ -68,6 +69,10 @@
    {
     "true": "The words are the exact title of one app or the name of one organization, including titles with a colon/tagline or an 'app' suffix (e.g. 'pilot driver app', 'personal trainer prep: test', 'paramedic coach')",
     "false": "The words are a search phrase that many different apps match: exam names, years, 'prep/practice test/flashcards', a topic or a tool type (e.g. 'real estate exam', 'barber exam prep', 'epa 608 practice test')"
+   },
+   {
+    "true": "A name: the title of one app, or the name of a company, publisher, publication, clinic or person (e.g. 'pharmacy technician letter', 'paramedic coach', 'pilot driver app'), including names made of ordinary words",
+    "false": "A generic phrase many apps could match: exam names, certifications, years, 'prep', 'practice test', 'flashcards', topics and tool types (e.g. 'welding symbols', 'epa 608 practice test')"
    }
   ]
  },

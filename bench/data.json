@@ -8760,6 +8760,240 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "notary ejournal",
+   "apps": [
+    {
+     "name": "Notary eJournal",
+     "dev": "Jurat",
+     "ratings": 190,
+     "desc": "The Notary eJournal by Jurat INC is an electronic notary journal created to provide a digital replacement for the standard hard-bound notary journals that exist in the market. Designed by notaries in the State of California and trusted by notaries in over 45 states, it adheres to the most strict and"
+    },
+    {
+     "name": "NotaryAct - Electronic Journal",
+     "dev": "NotaryAct",
+     "ratings": 98,
+     "desc": "Replace the Paper Journal. Stay Compliant. Save Hours Every Week.\n\nNotaryAct is the original and most trusted electronic notary journal built by notaries, for notaries. Since 2012, over 25,000 notary professionals and more than 1 million journal entries later, no other app comes close.\n\nScan. Tap. D"
+    },
+    {
+     "name": "Notary Journal: Record Book",
+     "dev": "JASON TENG YAO",
+     "ratings": 1,
+     "desc": "Keep your notarial record the way your state expects, right on your phone.\n\nNotary Journal gives you a sequential, append-only log that mirrors a bound paper book. Every entry gets a number that is never reused. You can void an entry with a reason, but you cannot edit or delete one, so the record st"
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is less than one minute.\n\nTraveling abroad and need a document notarized? Can’t find a notary near you"
+    },
+    {
+     "name": "Remote Notary Ninjas",
+     "dev": "Notary Ninjas, LLC",
+     "ratings": 2,
+     "desc": "Our app makes it easier than ever for clients, businesses, title agencies, and notaries to book remote online notarization, mobile notary, document uploads, secure messaging, session scheduling, status updates, and apostille service requests from one convenient platform. Whether you need a document "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "trigger points",
+   "apps": [
+    {
+     "name": "Muscle Trigger Points",
+     "dev": "Real Bodywork",
+     "ratings": 552,
+     "desc": "A reference for trigger points and referral patterns for 108 muscles. Features 160 trigger points with their corresponding referral patterns, 80 conditions that can be caused by trigger points, and 25 videos that show how to release specific muscles. Each muscle includes the visual referral pattern "
+    },
+    {
+     "name": "TriggerPoints3D",
+     "dev": "simeon niel-asher",
+     "ratings": 9,
+     "desc": "Looking for a 3D trigger point software? Advanced and powerful trigger point tools for therapists and practitioners, Triggerpoints3D is now the Gold Standard for training and teaching. \n\nFind the muscle behind the pain.\n- Search muscles.\n- Search symptoms.\n- Explore it all in glorious 3D.\n- Ask our "
+    },
+    {
+     "name": "Trigger Points - Guide & Reference",
+     "dev": "Body Culture",
+     "ratings": 57,
+     "desc": "Find the source of your pain! This app is a comprehensive guide to myofascial trigger points and the pain the create. Covering over 80 muscles with more than 150 trigger points.\n\nMyofascial trigger points are one of the most common sources of pain, and are often overlooked by health professionals. \n"
+    },
+    {
+     "name": "Complete Anatomy for iPhone",
+     "dev": "3D4Medical from Elsevier",
+     "ratings": 3664,
+     "desc": "Built for medical students, teaching professionals and practicing clinicians, Complete Anatomy is the most advanced 3D anatomy platform available on the market. Take your anatomy learning to the next level exploring thousands of interactive anatomical structures in full 3D. Study with guided courses"
+    },
+    {
+     "name": "3D Bones and Muscles (Anatomy)",
+     "dev": "Education Mobile",
+     "ratings": 2589,
+     "desc": "A true and totally 3D free app for studying human anatomy, built on an advanced interactive 3D touch interface. It is completely free (NO in-app purchase)!\n***From the creator of Visual Anatomy app.\n\nFeatures:\n- You can rotate models to any angle and zoom in and out \n- Easy to navigate and explore h"
+    },
+    {
+     "name": "Trigger Point Mobile",
+     "dev": "Trigger Point Stretch Studio, LLC",
+     "ratings": 1,
+     "desc": "Trigger Point Studios Mobile App lets you book and edit appointments, manage account details, exclusive access to informative blog and sales, refer friends and family, earn reward points and MORE!!!"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "phlebotomy order of draw",
+   "apps": [
+    {
+     "name": "Phlebotomy Order of Draw",
+     "dev": "Anil Gullapalli",
+     "ratings": 10,
+     "desc": "Phlebotomy Order of Draw is the fast, reliable reference tool for phlebotomists, nurses and lab professionals- built around CLSI GP41 guidelines.\n\n  Search any lab test by name and instantly get the correct tube type and order of draw. No guessing. No fumbling       \n  through reference cards mid-dr"
+    },
+    {
+     "name": "Mobile Phlebotomy App",
+     "dev": "Do-Ya Medical Services, LLC",
+     "ratings": 0,
+     "desc": "Mobile Phlebotomy App is the all-in-one operations app for mobile phlebotomy businesses — the owners and staff who draw labs at patients' homes and offices.\n\nRun your whole operation from one screen:\n\n• TODAY — Every appointment for the day at a glance: who's assigned and what's next.\n• CALENDAR — A"
+    },
+    {
+     "name": "Phlebotomy Technician Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Prepare for the NHA Certified Phlebotomy Technician (CPT) exam with hundreds of realistic practice questions covering venipuncture, order of draw, specimen handling, safety, anatomy, and patient care.\n\nDisclaimer: This app is an independent study tool and is not affiliated with, endorsed by, or asso"
+    },
+    {
+     "name": "NHA",
+     "dev": "MastrAPI",
+     "ratings": 427,
+     "desc": "Pass your NHA CPT Exam with flying colors! Updated for the 2026 exam cycle, boost your confidence in passing on the first attempt with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe NHA CPT exam is an industry certification developed by the National Healt"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hair color formula",
+   "apps": [
+    {
+     "name": "Color Coach Hair Formulation",
+     "dev": "Color Coach LLC",
+     "ratings": 18,
+     "desc": "Color coach App will help save you time and money ! \nThis  app will formulate and translate hair color across many brands. By using the science of color theory, this app will generate the perfect formula every time!\n\nUse this smart tool to formulate a custom shade of hair color for each client in se"
+    },
+    {
+     "name": "Blendsor: Hair Color Formulas",
+     "dev": "Oscar Cortijo Villanueva",
+     "ratings": 0,
+     "desc": "The color is in your head.\nBut between the idea and the formulation, there are too many variables.\nAnd any one of them can ruin the result.\n\nBlendsor is your AI color assistant.\nIt handles what you don't have time to work out.\nIt builds the formula for your case.\nAnd explains the why.\n\nYou bring the"
+    },
+    {
+     "name": "ColorBowl: Hair Formulas",
+     "dev": "TECK SOON NG",
+     "ratings": 0,
+     "desc": "ColorBowl is a local-first hair formula book and cost lab for professional hair colorists, salon colorists, booth renters, and independent stylists.\n\nKeep clients, visits, zone-level formulas, product usage and service costs in one workspace. Revisit a previous formula as the starting point for toda"
+    },
+    {
+     "name": "Redken Style Station",
+     "dev": "L'Oreal",
+     "ratings": 1145,
+     "desc": "Redken Style Station: Your Ultimate Hair Color Partner, Behind the Chair! \n\nElevate your artistry and empower your clients with Redken Style Station – the essential mobile companion for every colorist. Access all the resources you need, exactly where you need them: right behind the chair! Redken Sty"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "hvac pt chart",
+   "apps": [
+    {
+     "name": "HVAC PT Chart",
+     "dev": "Carmel Software Corporation",
+     "ratings": 8,
+     "desc": "HVAC PT Chart is an electronic pressure temperature calculator that allows HVAC technicians and contractors to quickly look up the temperature and corresponding pressure for 100+ common HVAC refrigerants including both bubble and dew versions of azeotropic (mixture) refrigerants. This is the only PT"
+    },
+    {
+     "name": "P-T Calculator",
+     "dev": "National Refrigerants Inc.",
+     "ratings": 52,
+     "desc": "This comprehensive Pressure/Temperature calculation tool from National Refrigerants provides several unique features designed to make the HVAC/R technician’s job easier. This app can calculate a simple pressure/temperature relationship or calculate superheat/subcool temperatures. The user can input "
+    },
+    {
+     "name": "Honeywell PT Chart",
+     "dev": "Honeywell International, Inc.",
+     "ratings": 19,
+     "desc": "HVAC mechanics have a new option when it comes to the standard paper pressure-temperature (PT) chart they currently carry. Honeywell offers a colorful display in which users can select a refrigerant and get all of the data they need to perform their tasks in the field. Using the touch screen, users "
+    },
+    {
+     "name": "HVAC Tools PT Chart - Gauge",
+     "dev": "Karol Jaworski",
+     "ratings": 0,
+     "desc": "Gauge is the field reference app built for HVAC and refrigeration technicians. Every diagnostic tool you reach for on the job - pressure-temperature charts, superheat and subcooling calculators, airflow, duct sizing, Ohm's Law, capacitor check, voltage drop, and AI-powered diagnostics - in one fast,"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

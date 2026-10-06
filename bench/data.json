@@ -13920,6 +13920,31 @@
    "note": "konu benim mesleğimle ilgisiz, bir sosyal medya app'i",
    "label": "Alakasız",
    "split": "test"
+  },
+  {
+   "note": "bu fikir hiç heyecan vermiyor, sıradan bir araç",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "az önce gördüğüm app'in kopyası gibi, farkı yok",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "gerçek zamanlı video işleme ve yapay zeka modeli eğitmem gerekir, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "train"
+  },
+  {
+   "note": "App Store tıbbi tavsiye verdiği için reddeder, sağlık iddiası riskli",
+   "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "insanlar bunu bedava arıyor, ödeme yapmaz",
+   "label": "Para yapmaz",
+   "split": "dev"
   }
  ],
  "kind": [

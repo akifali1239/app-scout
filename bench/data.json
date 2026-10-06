@@ -8506,6 +8506,207 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "paramedic protocol provider",
+   "top": [
+    {
+     "name": "Paramedic Protocol Provider",
+     "dev": "Acid Remap LLC",
+     "ratings": 53,
+     "desc": "Paramedic Protocol Provider provides quick offline access to over 350 field treatment protocols from the USA and Canada.\n\nAn annual in-app subscription will be required to download or update protocols"
+    },
+    {
+     "name": "PPP Agency",
+     "dev": "Acid Remap LLC",
+     "ratings": 22,
+     "desc": "For the standard version of Paramedic Protocol Provider with over 350 available protocols, please visit http://itunes.apple.com/app/paramedic-protocol-provider/id323130614?mt=8\n\nPPP Agency is a sponso"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us f"
+    },
+    {
+     "name": "Paramedic Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 40,
+     "desc": "Paramedic Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It has more than 700 high quality test questions with answer explanations, multiple "
+    },
+    {
+     "name": "Handtevy Mobile",
+     "dev": "Pediatric Emergency Standards Inc.",
+     "ratings": 667,
+     "desc": "Handtevy Mobile brings precision dosing, real-time protocols or algorithms, and connected documentation to more than 200,000 clinicians across EMS, hospitals, air medical, and military installations.\n"
+    },
+    {
+     "name": "Paramedic Mastery",
+     "dev": "Cargo Teleport Inc",
+     "ratings": 0,
+     "desc": "Dominate Your Paramedic Exam with Paramedic Mastery!\n\nParamedic Mastery is your essential companion for acing the NREMT Paramedic exam and other paramedic certification tests. Whether you’re honing yo"
+    },
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobil"
+    },
+    {
+     "name": "EMS Guidebook",
+     "dev": "Larry Owens",
+     "ratings": 113,
+     "desc": "EMS Guidebook allows the user to view the medical protocols of specific EMS agencies.  This guidebook is meant to be a replacement of the traditional flip book guides that EMTs and Paramedics carry fo"
+    },
+    {
+     "name": "EMS Protocol Reference",
+     "dev": "RespondersAI LLC",
+     "ratings": 0,
+     "desc": "EMS Protocol Guide helps you find the right statewide EMS protocol fast. Pick your state or region, your certification level (including Critical Care where the manual defines it), enter a short chief "
+    },
+    {
+     "name": "Paramedic Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 14,
+     "desc": "Ready to become a paramedic? Practice 400+ practice questions, mock tests & AI analysis to pass the NREMT Paramedic 2026 exam the first time.\n\nOur Paramedic Practice Tests NREMT is specifically design"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "esthetician practice test 2026",
+   "top": [
+    {
+     "name": "Esthetician Practice Test 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 19,
+     "desc": "3000+ exam-like questions, 1000+ flashcards, over a dozen practice tests and real-life scenarios make Ultraprep a must-have tool to prepare for the Esthetician exam.\n\nThe NIC-Esthetics Exam represents"
+    },
+    {
+     "name": "Esthetician Exam Prep Practice",
+     "dev": "秀娟 周",
+     "ratings": 57,
+     "desc": "Esthetician Exam Prep Practice is an application carefully designed and developed by industry test experts. With over 900 high-quality questions and answers, multiple test modes, and a scientific anal"
+    },
+    {
+     "name": "Esthetician Exam Practice 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 374,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "Esthetician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 13954,
+     "desc": "Pass your State Board of Esthetics exam with the help of the new Esthetician Exam Center app! \n\nThousands of Esthetics questions, and their detailed explanations are now available at your fingertips.\n"
+    },
+    {
+     "name": "Esthetician Exam Prep Test",
+     "dev": "Best Fun Games",
+     "ratings": 573,
+     "desc": "Pass your Esthetician State Board exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ questions written by experts, "
+    },
+    {
+     "name": "Esthetician & Cosmetology 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 271,
+     "desc": "**Pass Your Esthetician Exam Without Having a Meltdown in the Waxing Room**\n\nYou’ve learned the difference between a dermis and a disaster. You’ve mastered the art of smiling politely while someone pa"
+    },
+    {
+     "name": "Cosmetology Exam Prep Test",
+     "dev": "Best Fun Games",
+     "ratings": 533,
+     "desc": "Pass your Cosmetology State Board Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written by experts, d"
+    },
+    {
+     "name": "Esthetician Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 181,
+     "desc": "Esthetician Exam Prep 2026 is an exam preparation app that will help you pass Esthetics State Board Exams with a high score on your first attempt.\n\nEsthetician Exam Prep 2026 not only helps you gain i"
+    },
+    {
+     "name": "Esthetician: Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 1115,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the state boards material with 1500+ exam-like questions and 800+ flashcards that help you remember more. Get access to over a dozen practice exams that will help you pa"
+    },
+    {
+     "name": "Cosmetology Exam Prep Practice",
+     "dev": "Pixel Pioneers LLC",
+     "ratings": 154,
+     "desc": "Pass your Cosmetology State Board Exam confidently on your first attempt! Prepare with realistic practice exams and quizzes that mirror the actual test format, helping you build confidence and accurac"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "nail technician exam",
+   "top": [
+    {
+     "name": "Nail Technician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 1805,
+     "desc": "Pass your State Board of Nail Technology exam with the help of the new Nail Technician Exam Center app! \n\nThousands of Nail Tech questions and their detailed explanations are now available at your fin"
+    },
+    {
+     "name": "Nail Technician Exam",
+     "dev": "Nghia Dinh",
+     "ratings": 1,
+     "desc": "Elevate your nail technician skills with Nail Technician Exam , the ultimate app for mastering nail exams and achieving certification. Whether you're a student, a professional, or simply passionate ab"
+    },
+    {
+     "name": "Nail Technician Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 110,
+     "desc": "PASS YOUR EXAM FIRST TRY\nConquer the Nail Technician exam with our extensive study kit, featuring over 1500 exam-style questions and 500+ flashcards designed to boost your memory and retention. You’ll"
+    },
+    {
+     "name": "Nail Technician Exam Prep",
+     "dev": "Edu Prep",
+     "ratings": 13,
+     "desc": "Helping you pass your Nail Technician licensing exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first"
+    },
+    {
+     "name": "Nail Technician Practice 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 2,
+     "desc": "Zen Prep is the #1 app for passing your Nail Technician exam — WITHOUT stress and anxiety.\nWith step-by-step training, realistic exam simulators, motivation programs, resources, and expert tips, you’l"
+    },
+    {
+     "name": "Nail Tech State Board Prep",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 3,
+     "desc": "3000+ exam-like questions, 1000+ flashcards, over a dozen practice tests and real-life scenarios make Ultraprep a must-have tool to prepare for the Nail Technician exam.\n\nThe Nail Technician Exam is a"
+    },
+    {
+     "name": "Nail Technician Exam Test Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare to excel in your Nail Technician certification exam 2026 with our comprehensive Nail Technician Exam Test Prep app. Developed by industry experts, this app offers the ultimate test preparation"
+    },
+    {
+     "name": "Milady Exam Prep",
+     "dev": "Cengage Learning",
+     "ratings": 1470,
+     "desc": "Preparing for your state board licensing exam doesn't have to be stressful when you use the #1 test prep tool from Milady. Whether you’re studying for Cosmetology, Esthetics, Advanced Esthetics, Barbe"
+    },
+    {
+     "name": "Nails Exam: Nail Tech Prep",
+     "dev": "LineCentury",
+     "ratings": 490,
+     "desc": "Pass the California nail technician exam — first try.\n\nCalifornia rewrote this exam on April 1, 2026. Safety and Infection Control went from 38% to\n50% of the paper, and Skin Care is an entirely new c"
+    },
+    {
+     "name": "Nail Technician Practice Test",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Are you preparing for your Nail Technician Exam Prep certification exam? Equip yourself with the right tools and boost your confidence with the Nail Technician Exam Prep app. Tailored to match the sty"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -10031,6 +10232,172 @@
     "direct",
     "direct",
     "adjacent"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "cogo surveying",
+   "apps": [
+    {
+     "name": "COGO Survey Calculator",
+     "dev": "Gabriel John Fordan",
+     "ratings": 1,
+     "desc": "Native COGO calculator for surveyors and field crews — traverse, closure, curves, intersections, area, and CAD export. Fully offline.\n\nWHAT YOU CAN DO\n• Bearing-and-distance traverse with running coordinates; edit any leg in place; enter legs in metres, feet, US survey feet, or links\n• Inverse / joi"
+    },
+    {
+     "name": "HARLO SurveySuite",
+     "dev": "Harlo Industries, LLC",
+     "ratings": 2,
+     "desc": "HARLO SurveySuite — Field COGO + FS/PS Exam Prep\n\nBuilt by surveyors, for surveyors. HARLO SurveySuite is the professional-grade mobile toolkit that combines field-ready coordinate geometry calculations with the most comprehensive FS and PS licensure exam preparation available on iOS.\nWhether you’re"
+    },
+    {
+     "name": "Cogo Surveying",
+     "dev": "Thomas Blaxland",
+     "ratings": 9,
+     "desc": "Cogo Surveying is a surveying application that includes:\n\nPoints Database---> Import a .cogo  points file or add points manually. Points form the database can be used in all the other modules by calling the point number with a comma in front of the point number.(ie  \",pt105\"  in the easting field). "
+    },
+    {
+     "name": "Avenza Maps: Offline Mapping",
+     "dev": "Avenza Systems Inc.",
+     "ratings": 128016,
+     "desc": "New Description: \n\nAvenza Maps is a powerful offline navigation app for professional field work. Use offline maps with GPS navigation to stay on track anywhere—no signal required, so you can navigate confidently with precise location awareness.\nDiscover and download trail, topographic, land use, uti"
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment tracking, land inspection or issue logging.\n\n\nDesigned for:\n-------------\n• Farmers & agronomists (field "
+    },
+    {
+     "name": "ArcGIS Survey123",
+     "dev": "ESRI",
+     "ratings": 216,
+     "desc": "Smart forms and surveys for digital data collection.\n\nArcGIS Survey123 helps mobile workers collect field data with speed and precision. Capture location-aware survey responses anytime, anywhere—even offline—and sync seamlessly with your ArcGIS platform for real-time analysis and decision-making. Fr"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nail technician exam",
+   "apps": [
+    {
+     "name": "Nail Technician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 1805,
+     "desc": "Pass your State Board of Nail Technology exam with the help of the new Nail Technician Exam Center app! \n\nThousands of Nail Tech questions and their detailed explanations are now available at your fingertips.\n\nPrepare for your State Board of Nail Technology exam by answering thousands of questions w"
+    },
+    {
+     "name": "Nail Technician Exam",
+     "dev": "Nghia Dinh",
+     "ratings": 1,
+     "desc": "Elevate your nail technician skills with Nail Technician Exam , the ultimate app for mastering nail exams and achieving certification. Whether you're a student, a professional, or simply passionate about nail art, our app offers comprehensive tools and resources to help you succeed.\n\nKey Features:\n\n"
+    },
+    {
+     "name": "Nail Technician Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 110,
+     "desc": "PASS YOUR EXAM FIRST TRY\nConquer the Nail Technician exam with our extensive study kit, featuring over 1500 exam-style questions and 500+ flashcards designed to boost your memory and retention. You’ll also get access to numerous full-length practice exams, meticulously crafted to help you pass on yo"
+    },
+    {
+     "name": "Nail Technician Exam Prep",
+     "dev": "Edu Prep",
+     "ratings": 13,
+     "desc": "Helping you pass your Nail Technician licensing exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first try!\n\nThe Nail Technician exam is a certification test designed to assess the knowledge and skills "
+    },
+    {
+     "name": "Nail Technician Practice 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 2,
+     "desc": "Zen Prep is the #1 app for passing your Nail Technician exam — WITHOUT stress and anxiety.\nWith step-by-step training, realistic exam simulators, motivation programs, resources, and expert tips, you’ll prepare smarter, reduce anxiety, and feel confident on exam day. Zen Prep is recommended by top ed"
+    },
+    {
+     "name": "Nail Technician Practice Test",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Are you preparing for your Nail Technician Exam Prep certification exam? Equip yourself with the right tools and boost your confidence with the Nail Technician Exam Prep app. Tailored to match the style and difficulty of the actual abc certification exams, this app offers everything you need to pass"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "paramedic protocol provider",
+   "apps": [
+    {
+     "name": "Paramedic Protocol Provider",
+     "dev": "Acid Remap LLC",
+     "ratings": 53,
+     "desc": "Paramedic Protocol Provider provides quick offline access to over 350 field treatment protocols from the USA and Canada.\n\nAn annual in-app subscription will be required to download or update protocols app starting in 2018. Downloaded protocols will not be updatable without a subscription.\n\nUse of th"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us feature\n• The National Registry store is available via the app for the first time. Now you can purcha"
+    },
+    {
+     "name": "Paramedic Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 40,
+     "desc": "Paramedic Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It has more than 700 high quality test questions with answer explanations, multiple test modes and a scientific analysis system to help you practice efficiently anytime, anywhere and g"
+    },
+    {
+     "name": "EMS Guidebook",
+     "dev": "Larry Owens",
+     "ratings": 113,
+     "desc": "EMS Guidebook allows the user to view the medical protocols of specific EMS agencies.  This guidebook is meant to be a replacement of the traditional flip book guides that EMTs and Paramedics carry for reference on emergency calls.\n\nThe specific agencies protocols require passwords to download.  Tho"
+    },
+    {
+     "name": "EMS Protocol Reference",
+     "dev": "RespondersAI LLC",
+     "ratings": 0,
+     "desc": "EMS Protocol Guide helps you find the right statewide EMS protocol fast. Pick your state or region, your certification level (including Critical Care where the manual defines it), enter a short chief complaint or scenario, and get a structured summary with suggested protocols and links into the offi"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "direct",
+    "direct"
    ],
    "split": "train"
   }

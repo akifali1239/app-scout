@@ -384,6 +384,36 @@
    "term": "phlebotomy games",
    "label": "game",
    "split": "dev"
+  },
+  {
+   "term": "bartender jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "temp dental assistant jobs app",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "dental assistant temp jobs",
+   "label": "jobs",
+   "split": "train"
+  },
+  {
+   "term": "miller welding calculator",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "hobart welding calculator",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "hvac hero",
+   "label": "brand",
+   "split": "test"
   }
  ],
  "brand": [

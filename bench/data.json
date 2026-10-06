@@ -8707,6 +8707,408 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "physical therapy fit for life",
+   "top": [
+    {
+     "name": "Physical Therapy Fit For Life",
+     "dev": "Physical Therapy Fit For Life, Inc",
+     "ratings": 0,
+     "desc": "Welcome to the Physical Therapy Fit For Life App! Log on to access your personalized Home Exercise Program on your mobile device.\n\nUsing this app, you can access your personalized Home Exercise Progra"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "PTX Therapy - 24/7 Pain Relief",
+     "dev": "PTX Therapy, LLC",
+     "ratings": 622,
+     "desc": "*Sign-up for a PTX Therapy subscription online, then login to the companion app to access your therapy anytime, anywhere.\n\nGet completely personalized, science-backed physical therapy routines in the "
+    },
+    {
+     "name": "Forever Fit Physical Therapy",
+     "dev": "Forever Fit Physical Therapy",
+     "ratings": 9,
+     "desc": "Welcome to the Forever Fit Physical Therapy App! Log on to access your personalized Home Exercise Program on your mobile device.\n \nUsing this app, you can access your personalized Home Exercise Progra"
+    },
+    {
+     "name": "Jen: Physical Therapy Workouts",
+     "dev": "The Mobility Method LLC",
+     "ratings": 484,
+     "desc": "Jen: Your Physical Therapy App\nRevolutionize Your Health with Expert-Led Physical Therapy\n\nJen is not just an app; it's your personal gateway to enhanced mobility, reduced pain, and increased strength"
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "chiropractic first",
+   "top": [
+    {
+     "name": "Chiropractic First",
+     "dev": "Chiropractic First Group Private Limited",
+     "ratings": 0,
+     "desc": "Chiropractic First is a group of specialist clinics with more than 18 years of experience focusing on the spine and nerves. Our approach is to get to the root of the problem, resolve or reverse them. "
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Excell Sports Chiropractic",
+     "dev": "Marcus Mccray",
+     "ratings": 0,
+     "desc": "An all-in-one app for Excell Sports Chiropractic. You can schedule visits, access chiropractic resources, access billing information, and more with this new app experience."
+    },
+    {
+     "name": "One Chiro Studio",
+     "dev": "One Chiropractic Studio B.V.",
+     "ratings": 0,
+     "desc": "Stay connected with your healthcare journey like never before with the One Chiro Studio App. Seamlessly designed to empower you, our app offers a comprehensive suite of features to enhance your studio"
+    },
+    {
+     "name": "SF Custom Chiropractic",
+     "dev": "Adam Jacobs Chiropractic Corp",
+     "ratings": 0,
+     "desc": "Improve Your Body. Get Pain Free.    \n\nSF Custom Chiropractic provides reliable care for your unique health needs. Download our mobile app to access these features for free:\n\n- Learn in-depth about th"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "hands of hope chiropractic",
+   "top": [
+    {
+     "name": "Hands of Hope Chiropractic",
+     "dev": "Hands of Hope Chiropractic & Wellness Center L.L.C.",
+     "ratings": 14,
+     "desc": "The Hands of Hope Chiropractic and Wellness Center's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as\n- Requestin"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "The Tapping Solution",
+     "dev": "The Tapping Solution, LLC",
+     "ratings": 23753,
+     "desc": "Lower your stress levels, reduce anxiety, overcome fears, relieve pain, get better sleep, and so much more. All made possible with access to hundreds of meditations in the Tapping Solution App. You'll"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Perfect mobile massager +",
+     "dev": "Ryuichi Tanaka",
+     "ratings": 25248,
+     "desc": "**********************************************\nPlease spend a good day with this App!\n**********************************************\n\nNew mobile massager Debut !!\nPlease have a wonderful life with thi"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Airrosti",
+     "dev": "Airrosti Rehab Centers, LLC",
+     "ratings": 4300,
+     "desc": "Airrosti Remote Recovery connects you with an experienced provider who will help you understand your condition, prescribe an individualized recovery plan, and give you the tools you need to live pain "
+    },
+    {
+     "name": "Zeel In-Home Massage Therapist",
+     "dev": "Zeel",
+     "ratings": 10762,
+     "desc": "Book massage therapy for pain relief, athletic recovery, or relaxation to your home, hotel, or office. Health and wellness have never been more accessible or essential to your well-being.\n\nNamed one o"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "welding simulator",
+   "top": [
+    {
+     "name": "Weld It 3D",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 20504,
+     "desc": "Weld, smooth and paint objects to your heart's content! Each level is designed as a relaxing puzzle. First you have to weld the objects from their seperation areas, than rand the excess weld and lastl"
+    },
+    {
+     "name": "Welding Master 3D",
+     "dev": "kadir ulucay",
+     "ratings": 0,
+     "desc": "Master the art of welding! Drag, fit, and weld metal pieces together to assemble realistic objects in this satisfying casual puzzle game.\n\nFEATURES\n- 20+ challenging levels with unique objects to weld"
+    },
+    {
+     "name": "Welducation Basic",
+     "dev": "Fronius International GmbH",
+     "ratings": 26,
+     "desc": "What is the benefit of Fronius Welducation Basic?\n\nFinally it is possible to playfully gain welding know-how. Exhausting study of theoretical knowledge is a thing of the past, now that Welducation Bas"
+    },
+    {
+     "name": "Weld Master!",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 6,
+     "desc": "A super fun game that offers an end-to-end repair shop operating experience.\n\nKeep your shop \"open\" all the time. Customers will come with mystery boxes. Accept broken items and unbox at your counter."
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Engine Lab: Simulator & Sound",
+     "dev": "Jan Sokol",
+     "ratings": 0,
+     "desc": "Engine Lab is a touch-first engine simulator for exploring how throttle, RPM, torque, manifold pressure, AFR, crank angle, firing order, and drivetrain state move together. Drive five native engine-si"
+    },
+    {
+     "name": "Construction Simulator 3 Lite",
+     "dev": "astragon Entertainment GmbH",
+     "ratings": 1693,
+     "desc": "In the Construction Simulator 3 Lite Edition you can get a first taste of the newest instalment of the Construction Simulator series. Get behind the wheel of originally licensed machines and experienc"
+    },
+    {
+     "name": "Junkyard Builder Simulator",
+     "dev": "FreeMind SA",
+     "ratings": 245,
+     "desc": "GAMEPLAY\n\nIn the beginning there was a deserted junkyard. Abandoned and despised by most people. But not you! Since you’re the owner, the business is booming! See that rusty car over there? Let’s do s"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    },
+    {
+     "name": "WB II Panel Simulator",
+     "dev": "DAIHEN Corporation",
+     "ratings": 0,
+     "desc": "An application that allows you to experience the front panel operation of a Welbee II welder"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "acupuncture points",
+   "top": [
+    {
+     "name": "Visual Acupuncture 3D",
+     "dev": "GraphicVizion",
+     "ratings": 152,
+     "desc": "Study acupuncture visually and interactively.  \nGet a good feel for the flow of meridian pathways and their (anatomical) point locations. \n \nIncludes a complete interactive anatomy model (muscles, bon"
+    },
+    {
+     "name": "Acupuncture Points, cool index",
+     "dev": "云胜 刘",
+     "ratings": 4,
+     "desc": "Acupuncture index, a nice knowledge base dedicated to be your learning assist for acupuncture from traditional Chinese medicine (known as TCM).\n\n=== Content Includes ===\n* 20 meridians, with 422 acupu"
+    },
+    {
+     "name": "A Manual of Acupuncture 2025",
+     "dev": "The Journal of Chinese Medicine Publications Ltd.",
+     "ratings": 169,
+     "desc": "A Manual of Acupuncture – The Definitive App for Students & Practitioners.\n\n\nThis is the latest mobile app (iPhone/iPad) version of the foremost points textbook in the Western world - A Manual of Acup"
+    },
+    {
+     "name": "The Meridian Inside Lite",
+     "dev": "Kim June-Hyun",
+     "ratings": 2,
+     "desc": "‘The Meridian Inside of The VerdeRoot’ was created by integrating  the 12 Main Meridian, 8 Extra Meridian and 12 Meridian Divergences, while applying it to the 3D human body model with 14 Main Acupunc"
+    },
+    {
+     "name": "Acupuncture Points",
+     "dev": "Miridia Technology, Inc.",
+     "ratings": 94,
+     "desc": "Acupuncture Mastery Software\nVideo Demo!  View it here: http://www.miridiatech.com/products/points/iphone.php\n\n\"Just wanted to let you know I really like the points program.  I am a student in TCM and"
+    },
+    {
+     "name": "Tsubook",
+     "dev": "Studio Levart",
+     "ratings": 49,
+     "desc": "Tsubook is a mobile application with instant access to all the information you need about points, meridians and other content related to Traditional Chinese Medicine. It is both a reference book and a"
+    },
+    {
+     "name": "Meridian: Acupressure Atlas",
+     "dev": "Chumphon Jan Toolseram",
+     "ratings": 0,
+     "desc": "Meridian is a calm, beautifully simple guide to the meridians and acupressure points of Traditional Chinese Medicine — made for curiosity and self-care, not as medical treatment.\n\nExplore all 12 prima"
+    },
+    {
+     "name": "Shen-Acupuncture",
+     "dev": "Juergen Bschaden",
+     "ratings": 4,
+     "desc": "Shen-Acupuncture\n\nDiscover the ancient art of acupuncture with the most comprehensive TCM app.\n\nACUPUNCTURE ATLAS\nOver 1,000 pages with more than 400 high-quality, detailed acupuncture charts. Every p"
+    },
+    {
+     "name": "Acupuncture Atlas 3D",
+     "dev": "GraphicVizion",
+     "ratings": 0,
+     "desc": "Visualize all points and meridians mapped directly onto an interactive 3D model, giving you an immediate, intuitive sense of their locations and relationships. Tap any point to get rich, detailed info"
+    },
+    {
+     "name": "The Combinations For Acupoint",
+     "dev": "Kim June-Hyun",
+     "ratings": 0,
+     "desc": "The Combinations For Acupoint is a bundle of commercial acupuncture points corresponding to a specific disease.\nIt is a acupuncture point collection method that has been handed down for a long time, a"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "physical therapy exercises",
+   "top": [
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "movewise: Physical Therapy",
+     "dev": "Thatchnology LLC",
+     "ratings": 20,
+     "desc": "movewise: Physical Therapy in Your Pocket\n\nTransform your wellness journey with movewise, the premier at home physical therapy app designed by Doctors of Physical Therapy to deliver personalized daily"
+    },
+    {
+     "name": "Jen: Physical Therapy Workouts",
+     "dev": "The Mobility Method LLC",
+     "ratings": 484,
+     "desc": "Jen: Your Physical Therapy App\nRevolutionize Your Health with Expert-Led Physical Therapy\n\nJen is not just an app; it's your personal gateway to enhanced mobility, reduced pain, and increased strength"
+    },
+    {
+     "name": "ROM Coach (Mobility Workouts)",
+     "dev": "Mixed Martial Media Inc.",
+     "ratings": 1573,
+     "desc": "ROM Coach is your #1 resource to eliminate pain and get back to and keep doing the active things you love. Designed by Kinesiologist Eric Wong (aka \"Coach E\"), who has been helping people move freely "
+    },
+    {
+     "name": "Carver Bank Mobile",
+     "dev": "Carver Federal Savings Bank",
+     "ratings": 1787,
+     "desc": "Carver Federal Savings Bank is your personal financial advocate. It’s fast, secure and makes life easier by empowering you with the tools you need to manage your finances.\nHere’s what else you can do "
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "Physiotheraphy Movements",
+     "dev": "Ozberk Ozturk",
+     "ratings": 4,
+     "desc": "An workout guide that will help you with the physical discomforts in your muscles, skeletons and joints caused by \"inactivity\" which is the general problem of today's age.\n\nIndividual physical therapy"
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

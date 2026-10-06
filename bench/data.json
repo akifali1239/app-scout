@@ -12516,6 +12516,46 @@
    "app": "Diagnoses ear infections by looking into your child's ear with the phone camera.",
    "label": true,
    "split": "train"
+  },
+  {
+   "app": "Tells you how much chemotherapy drug to give a patient based on body weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Real-money poker with cash deposits and withdrawals.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Detects atrial fibrillation from your fingertip on the camera and tells you if you have a heart condition.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Crypto margin trading with 100x leverage and automatic copy of top traders.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Flashcards for the electrician journeyman exam.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Unit converter for cooking measurements.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Reference chart of common drug classes for pharmacy technician students.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Timer for interval workouts.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -13358,6 +13398,60 @@
     "desc": "Check balances, deposit checks and pay bills with your Wells Fargo accounts."
    },
    "label": "service",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Flashlight: LED Torch",
+    "category": "Utilities",
+    "desc": "Turns on your phone's LED flash as a torch."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chase Mobile",
+    "category": "Finance",
+    "desc": "Check balances, pay bills and deposit checks with your Chase accounts."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Block Puzzle Legend",
+    "category": "Games",
+    "desc": "Drop blocks and clear lines in this classic puzzle game."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ChatPal: AI Assistant",
+    "category": "Productivity",
+    "desc": "Ask anything and get answers from GPT-powered chatbot."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Periodic Table Reference",
+    "category": "Education",
+    "desc": "Complete element data, isotopes and properties for chemistry students."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Daily Yoga Videos",
+    "category": "Health & Fitness",
+    "desc": "Video classes and guided routines streamed by instructors."
+   },
+   "label": "content",
    "split": "train"
   }
  ]

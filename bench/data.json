@@ -13373,6 +13373,42 @@
    "hi": "qr code scanner",
    "lo": "stock trading brokerage",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "pediatric nurse practitioner board review",
+   "lo": "ringtone maker",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl hazmat endorsement practice test",
+   "lo": "fidget spinner",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "paramedic nremt exam prep",
+   "lo": "cat sounds",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "phlebotomy technician certification practice",
+   "lo": "sticker maker",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "stopwatch",
+   "lo": "ride hailing like lyft",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "sound level meter",
+   "lo": "video chat dating app",
+   "split": "dev"
   }
  ],
  "note": [
@@ -13962,6 +13998,42 @@
    },
    "label": "content",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Blood Pressure Log",
+    "category": "Health & Fitness",
+    "desc": "Record and chart daily blood pressure readings and export a report."
+   },
+   "label": "utility",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pocket Drug Guide",
+    "category": "Medical",
+    "desc": "Searchable reference of drug doses, interactions and contraindications."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chat AI Assistant GPT",
+    "category": "Productivity",
+    "desc": "Ask the AI chatbot anything; powered by GPT, weekly subscription."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Block Puzzle Master",
+    "category": "Games",
+    "desc": "Drop and match colorful blocks across 500 levels."
+   },
+   "label": "game",
+   "split": "test"
   }
  ]
 }

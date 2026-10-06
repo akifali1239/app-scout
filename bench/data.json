@@ -8305,6 +8305,207 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "family acupuncture & wellness",
+   "top": [
+    {
+     "name": "Family Acupuncture & Wellness",
+     "dev": "MB360, LLC",
+     "ratings": 1,
+     "desc": "Combining the wisdom of Traditional Chinese Medicine with the cutting edge science of Functional Medicine, we partner with patients to help them take control of their health, eliminate symptoms, and o"
+    },
+    {
+     "name": "Soothe: Wellness On Demand",
+     "dev": "Soothe LLC",
+     "ratings": 13607,
+     "desc": "Spa-quality wellness and personal care services delivered to you, on your schedule –– at home, at the office, or on the go.\n\nSoothe is the largest and most trusted on-demand wellness platform in the w"
+    },
+    {
+     "name": "Lake Life Wellness & Yoga",
+     "dev": "Lake Life Acupuncture, LLC",
+     "ratings": 0,
+     "desc": "Experience balance, vitality, and connection with the Lake Life Wellness and Yoga Studio App—your all-in-one gateway to holistic health and wellness in Sandpoint, Idaho.\n\nWhether you’re here for acupu"
+    },
+    {
+     "name": "The Tapping Solution",
+     "dev": "The Tapping Solution, LLC",
+     "ratings": 23753,
+     "desc": "Lower your stress levels, reduce anxiety, overcome fears, relieve pain, get better sleep, and so much more. All made possible with access to hundreds of meditations in the Tapping Solution App. You'll"
+    },
+    {
+     "name": "Oneleaf: Health & Relaxation",
+     "dev": "Oneleaf",
+     "ratings": 1348,
+     "desc": "Bringing Neuroscience to Your Health\n\nOneleaf is the all-in one app that empowers you to take control of your life and health using neuroscience. It offers personalized experiences carefully crafted b"
+    },
+    {
+     "name": "Frequency: Healing Sounds",
+     "dev": "BrainPower Inc",
+     "ratings": 2384,
+     "desc": "Frequency Healing Sounds: Whole Body Recovery\n\nFrequency Healing Sounds delivers natural healing frequency sound therapy for pain relief, deep sleep, relaxation, and calm. If your joints feel stiff in"
+    },
+    {
+     "name": "Heal.me: Book Holistic Care",
+     "dev": "Heal.me",
+     "ratings": 89,
+     "desc": "Book trusted holistic practitioners near you. Browse wellness practitioners by specialty and book an appointment with a certified professional today.\n\nWhere?\nThe Heal.me app connects you with wellness"
+    },
+    {
+     "name": "Modern Acupuncture USA",
+     "dev": "ACU Development Inc",
+     "ratings": 3,
+     "desc": "Modern Acupuncture wants to help make your life better!  This free app helps you manage your plans, find nearby locations and schedule appointments when it’s most convenient for you. Optimize your tim"
+    },
+    {
+     "name": "Visual Acupuncture 3D",
+     "dev": "GraphicVizion",
+     "ratings": 152,
+     "desc": "Study acupuncture visually and interactively.  \nGet a good feel for the flow of meridian pathways and their (anatomical) point locations. \n \nIncludes a complete interactive anatomy model (muscles, bon"
+    },
+    {
+     "name": "ARTHA, a Wellness Sanctuary",
+     "dev": "Seasia Infotech",
+     "ratings": 8,
+     "desc": "ARTHA is a state-of-the-art wellness sanctuary that provides the best in class equipment and teachers in order for our members to have the most comprehensive holistic rejuvenation experience available"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nbdhe dental hygiene boards",
+   "top": [
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Boards",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "Stressed about the NBDHE Dental Hygiene Boards? You're not alone.\n\nFour years of dental hygiene school. Hundreds of clinical hours. All of it comes down to one exam.\n\nJoin 20,000+ dental hygiene stude"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep",
+     "dev": "Get Exam",
+     "ratings": 92,
+     "desc": "Give your studying method a major upgrade. \nImprove your knowledge with 700+ exam-like questions and 700+ flashcards. Remember more using Flashcards. Get access to over a dozen practice exams that wil"
+    },
+    {
+     "name": "DHS Board Review",
+     "dev": "Dental Hygiene Seminars Inc.",
+     "ratings": 34,
+     "desc": "Confidence grows one answer at a time. Build yours with the DHS Board Review App. \n\nJoin the thousands of dental hygiene students who’ve passed their NBDHE with confidence. DHS is the trusted leader i"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    },
+    {
+     "name": "Dental Hygiene Academy Seminar",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 22,
+     "desc": "This app is exclusively for students who have attended a Dental Hygiene Academy Board Review seminar at www.DentalHygieneAcademy.com\n\nPlease be sure you know your Dental Hygiene Academy pin number to "
+    },
+    {
+     "name": "StudentRDH Dental Hygiene",
+     "dev": "StudentRDH Learning Inc.",
+     "ratings": 19,
+     "desc": "Pass the NBDHE (National Dental Hygiene Board Exam) with confidence! \n\nStudentRDH app includes everything you need: \n• 5000+ practice questions \n• 17+ study guides \n• Mock exams \n\nWhat’s NEW? I’m glad"
+    },
+    {
+     "name": "NBDHE Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 29,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the state boards material with 700+ exam-like questions and 700+ flashcards that help you remember more. Get access to over a dozen practice exams that will help you pas"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Test",
+     "dev": "Cargo Teleport Inc",
+     "ratings": 0,
+     "desc": "Set your sights on acing the National Board Dental Hygiene Examination with NBDHE Dental Hygiene Test! \n\nOur app is tailored to provide a comprehensive and immersive test preparation experience, offer"
+    },
+    {
+     "name": "Dental Clinical Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 83,
+     "desc": "Dental Clinical Mastery provides essential information and skills training to empower new and practicing dentists. Get up-to-date information and practice guidelines available to give your patients th"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "dental anatomy",
+   "top": [
+    {
+     "name": "BoneBox™ - Dental Lite",
+     "dev": "iSO-FORM, LLC",
+     "ratings": 69,
+     "desc": "BoneBox™ - Dental Lite is the pocket-sized iPhone version of our BoneBox ™ - Dental iPad app. This real-time 3D medical education and patient communication tool, featuring incredibly detailed anatomic"
+    },
+    {
+     "name": "ToothView™",
+     "dev": "ACA Dental",
+     "ratings": 11,
+     "desc": "ToothView™ is a 3D animation software that can be used to study tooth anatomy. Users can view all internal and external features from multiple angles. Easily navigate to select tooth histology and cla"
+    },
+    {
+     "name": "Dental 3D Illustrations",
+     "dev": "Alexandr Mitiuc",
+     "ratings": 9,
+     "desc": "This dental application is designed for professional dentists who want to advise their patients more effectively. A large collection of 3D illustrations of dental treatment is sorted into groups and l"
+    },
+    {
+     "name": "Dental Anatomy Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 200,
+     "desc": "Master the tooth morphology and occlusion concepts. Save time and study smarter with a tool designed for your busy life.\n\nREAL USER REVIEWS\n\n“I’ve always struggled with dental anatomy concepts and thi"
+    },
+    {
+     "name": "DentaCore: 3D Dental Anatomy",
+     "dev": "Ngoc Anh Pham Thi",
+     "ratings": 5,
+     "desc": "DentaCore: 3D Dental Anatomy Learning Tool. Master dental anatomy visually – in 3D.\nDentaCore is the ultimate interactive tool for learning tooth anatomy, designed for dental students, assistants, and"
+    },
+    {
+     "name": "Dental Tool, Smart Aid",
+     "dev": "Dental App Lab Oy",
+     "ratings": 82,
+     "desc": "Dentalk provides smart aid for dental professionals. It facilitates communication between you and your clients and improves the efficiency of your dental practice. Just sign up for one account and bec"
+    },
+    {
+     "name": "Dental Drugs",
+     "dev": "Apps 4 Dentist",
+     "ratings": 1226,
+     "desc": "Designed by a dentist for dental professionals, this app provides an easy-to-use platform for quick medication references, anesthetic dose calculations, and emergency protocols. Whether you’re prescri"
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "i-DENTify: Dental Anatomy",
+     "dev": "Nathan Eshoiee",
+     "ratings": 22,
+     "desc": "Congratulations on your discovery of the BEST dental anatomy application… in 3D! How can we make this claim? Well, simply put, this application was specifically made for dental students (and hygiene s"
+    },
+    {
+     "name": "Dental Clinical Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 83,
+     "desc": "Dental Clinical Mastery provides essential information and skills training to empower new and practicing dentists. Get up-to-date information and practice guidelines available to give your patients th"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -9640,6 +9841,198 @@
     "direct"
    ],
    "split": "test"
+  },
+  {
+   "term": "dental anatomy",
+   "apps": [
+    {
+     "name": "ToothView™",
+     "dev": "ACA Dental",
+     "ratings": 11,
+     "desc": "ToothView™ is a 3D animation software that can be used to study tooth anatomy. Users can view all internal and external features from multiple angles. Easily navigate to select tooth histology and classification. The enamel, dentin, and pulp relationship are clearly defined in the 3D field. Learning"
+    },
+    {
+     "name": "Dental Anatomy Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 200,
+     "desc": "Master the tooth morphology and occlusion concepts. Save time and study smarter with a tool designed for your busy life.\n\nREAL USER REVIEWS\n\n“I’ve always struggled with dental anatomy concepts and this gave me the confidence I needed in my classes. I wouldn’t be where I am without the dental anatomy"
+    },
+    {
+     "name": "DentaCore: 3D Dental Anatomy",
+     "dev": "Ngoc Anh Pham Thi",
+     "ratings": 5,
+     "desc": "DentaCore: 3D Dental Anatomy Learning Tool. Master dental anatomy visually – in 3D.\nDentaCore is the ultimate interactive tool for learning tooth anatomy, designed for dental students, assistants, and professionals looking to explore oral structures in high precision.\n\nWith lifelike 3D models, you c"
+    },
+    {
+     "name": "Dental Drugs",
+     "dev": "Apps 4 Dentist",
+     "ratings": 1226,
+     "desc": "Designed by a dentist for dental professionals, this app provides an easy-to-use platform for quick medication references, anesthetic dose calculations, and emergency protocols. Whether you’re prescribing medications or managing critical situations in the dental chair, this app is your reliable part"
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive results tracking. Join over 6,000 graduating Dental Hygienists who studied with us this year alone "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "forklift test",
+   "apps": [
+    {
+     "name": "Forklift Practice Test",
+     "dev": "Ben Wallenberg",
+     "ratings": 4,
+     "desc": "Forklift Practice Test — Free Practice Tests & Exam Prep\n\nPass your Forklift Practice Test on the first try with hundreds of real practice questions, detailed answer explanations, and instant scoring.\n\nFEATURES:\n• Hundreds of practice questions with detailed explanations\n• Instant scoring and perfor"
+    },
+    {
+     "name": "OSHA Forklift Cert",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Get ready to pass your OSHA powered industrial truck (forklift) operator knowledge evaluation with confidence. This app covers the safety topics behind OSHA 29 CFR 1910.178 — the stability triangle, load capacity and the data plate, pre-operation inspection, safe travel, pedestrian safety, refueling"
+    },
+    {
+     "name": "Forklift Theory Essentials",
+     "dev": "Deep River Development Ltd",
+     "ratings": 3,
+     "desc": "FORKLIFT THEORY ESSENTIALS – Your complete companion for mastering forklift theory and passing your Forklift Operator Test!\n\nKey Features:\n\nExpert-Written Questions: Created by RTITB and ITSSAR accredited instructors.\n\nDetailed Explanations: Clear, simple answers that explain the knowledge behind ea"
+    },
+    {
+     "name": "123Forklift",
+     "dev": "LeadVision LLC",
+     "ratings": 1,
+     "desc": "123Forklift has Hundreds of leads for new and used lift equipment every day. Our team connects you with the right prospect in your area. We generate leads for forklifts, telehandlers, reach trucks, order pickers, rough terrain, boom lifts, scissor lifts, piggyback riders in all of the US daily. Star"
+    },
+    {
+     "name": "Forklift Extreme Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 307,
+     "desc": "Drive powerful forklifts and master warehouse logistics in one of the most advanced forklift simulators on mobile.\n\nTransport cargo, upgrade machines and manage warehouse operations across detailed industrial environments. Precision driving, realistic physics and deep progression systems make every "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "welding heat input calculator",
+   "apps": [
+    {
+     "name": "Welding Heat Input Calculator",
+     "dev": "Shanghai Sheyuan Network Technology Co., Ltd.",
+     "ratings": 0,
+     "desc": "Welding Heat Input Calculator is a focused engineering utility for welding procedure qualification and production control. Enter arc voltage, current, travel speed, and thermal efficiency to calculate arc power (kW), arc energy (kJ/mm), and net heat input in both kJ/mm and kJ/in. The app is built fo"
+    },
+    {
+     "name": "Heat Input",
+     "dev": "FRODE SUNDE HALRYNJO",
+     "ratings": 0,
+     "desc": "Key Features: \nCalculation as heat input or arc energy, \nOptional pass data: filler, gas, polarity etc.\nDocumentation sent directly to your computer."
+    },
+    {
+     "name": "G3 - Heat Input Calculator",
+     "dev": "G3 Inspection Solutions Ltd.",
+     "ratings": 0,
+     "desc": "If you calculate heat input in the field, you already know the problem. Online calculators are awkward on a job site, spreadsheets are easy to break, and manual calculations take time you do not have during an active inspection.\n\nG3 is a purpose-built heat input calculator for welding inspectors and"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions.  Weld calculators are handy references for weld parameters, electrode/wire type, basic techniques,"
+    },
+    {
+     "name": "McCalc Fusion Calculator",
+     "dev": "McElroy Manufacturing, Inc.",
+     "ratings": 18,
+     "desc": "The McCalc Fusion Pressure Calculator is designed to help you quickly find the correct fusion pressure for your job.\n\nTo properly heat-fuse polyethylene pipe, the fusion pressure must be adjusted so the pipe manufacturer's recommended interfacial pressure is achieved.\n\nMcCalc takes the guesswork out"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hvac calculator",
+   "apps": [
+    {
+     "name": "HVAC Calculator - FieldCalc",
+     "dev": "静 李",
+     "ratings": 0,
+     "desc": "The professional HVAC calculator for technicians and contractors. Superheat, subcooling, R-454B PT charts, duct sizing, load estimates, and psychrometrics — six field-ready tools, all offline, in one app.\n\nWhether you're charging a system with R-454B, checking superheat with your manifold gauge, siz"
+    },
+    {
+     "name": "HVAC Calculator: BTU & AC Load",
+     "dev": "Vyacheslav Dovner",
+     "ratings": 0,
+     "desc": "Size any system in seconds. HVAC Calculator gives technicians, installers, and DIY homeowners fast, accurate BTU and load numbers — no spreadsheets, no guesswork.\n\nWHAT YOU CAN CALCULATE\n• BTU & Cooling Load — find the right AC size for any room by square footage, climate, and sun exposure\n• Ductula"
+    },
+    {
+     "name": "HVAC & Sheet Metal Calculator",
+     "dev": "Calculated Industries",
+     "ratings": 82,
+     "desc": "FREE Try Before You Buy trial: Apple does not charge your App Store account during the free trial.\n\nThe ultimate calculator for HVAC professionals and sheet metal specialists. Transform your workflow with precision calculations for ducting offsets and angle measurements. This advanced construction-m"
+    },
+    {
+     "name": "P-T Calculator",
+     "dev": "National Refrigerants Inc.",
+     "ratings": 52,
+     "desc": "This comprehensive Pressure/Temperature calculation tool from National Refrigerants provides several unique features designed to make the HVAC/R technician’s job easier. This app can calculate a simple pressure/temperature relationship or calculate superheat/subcool temperatures. The user can input "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

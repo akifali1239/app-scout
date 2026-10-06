@@ -9136,6 +9136,54 @@
    "hi": "nclex pharmacology flashcards",
    "lo": "emoji sticker pack",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "nremt paramedic exam prep",
+   "lo": "word search puzzle",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumbing journeyman exam prep",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl air brakes test",
+   "lo": "photo collage maker",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "veterinary technician exam vtne",
+   "lo": "fart sounds",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician license exam prep",
+   "lo": "funny ringtones",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam practice questions",
+   "lo": "coloring book for kids",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental hygiene board review",
+   "lo": "live wallpaper",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "level bubble",
+   "lo": "social marketplace like facebook",
+   "split": "test"
   }
  ],
  "note": [

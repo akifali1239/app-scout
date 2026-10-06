@@ -13065,6 +13065,36 @@
    "app": "Timer for interval workouts.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Calculates insulin dose from your blood glucose reading and tells you how many units to inject.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Online casino with real-money slots and instant cash withdrawals.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Scans a mole with the camera and tells you whether it is skin cancer.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Reference list of welding symbols and their meanings for students.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Study flashcards for the HVAC technician certification exam.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Checklist and timer for restaurant kitchen food safety logs.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -13621,6 +13651,26 @@
    "note": "son güncelleme yıllar önce, ekran görüntüleri bozuk ve eski tasarım",
    "label": "Kalitesiz / eski",
    "split": "train"
+  },
+  {
+   "note": "fiyatı çok düşük, kimse ödemek istemez, reklamla bile kazanılmaz",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "bu kategoride yüz binlerce yorumlu üç dev app var",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "uygulama 2019'dan beri güncellenmedi, tasarımı çok eski",
+   "label": "Kalitesiz / eski",
+   "split": "train"
+  },
+  {
+   "note": "konu benim mesleğimle ilgisiz, bir sosyal medya app'i",
+   "label": "Alakasız",
+   "split": "test"
   }
  ],
  "kind": [

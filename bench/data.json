@@ -12776,6 +12776,84 @@
    "hi": "phlebotomy certification practice test",
    "lo": "pizza game",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "nclex pn practice questions",
+   "lo": "tetris game",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "farrier horseshoe sizing guide",
+   "lo": "wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "radiology technologist registry review",
+   "lo": "selfie camera filter",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "journeyman electrician code quiz",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "ccrn critical care nurse exam prep",
+   "lo": "coloring pages for kids",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "fe civil engineering exam practice",
+   "lo": "prank sounds",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cpa exam flashcards",
+   "lo": "slime simulator game",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental assistant dana exam prep",
+   "lo": "funny stickers",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "compass app",
+   "lo": "airline booking marketplace",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "metronome",
+   "lo": "cloud gaming service",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "pomodoro timer",
+   "lo": "ai video generation studio",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "body mass index calculator",
+   "lo": "dating app with video chat",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "qr code scanner",
+   "lo": "stock trading brokerage",
+   "split": "train"
   }
  ],
  "note": [

@@ -239,3 +239,4 @@
 {"ts": "2026-10-06T00:41:50+00:00", "actor": "optimizer", "action": "reject", "cap": "kind", "candidate": "talimat#0 tanım#1 örnek×4", "reason": "dev kazancı yetersiz (0.984 vs 0.9829)"}
 {"ts": "2026-10-06T00:41:50+00:00", "actor": "optimizer", "action": "run", "calls": 143, "tokens": 154942, "cost_usd": 0.00651}
 {"ts": "2026-10-06T00:50:35+00:00", "actor": "optimizer", "action": "run", "calls": 94, "tokens": 93732, "cost_usd": 0.00394}
+{"ts": "2026-10-06T01:41:51+00:00", "actor": "optimizer", "action": "run", "calls": 387, "tokens": 338376, "cost_usd": 0.01421}

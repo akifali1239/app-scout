@@ -9139,6 +9139,713 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "hoofledger: farrier manager",
+   "top": [
+    {
+     "name": "HoofLedger: Farrier Manager",
+     "dev": "Jasko Hodzic",
+     "ratings": 0,
+     "desc": "HoofLedger is the field-first business organizer for independent farriers and barefoot trimmers. Keep every client, yard and horse together. Record each trim or shoeing visit, schedule the next cycle,"
+    },
+    {
+     "name": "Horse Racing Manager 2026",
+     "dev": "Third Time, Inc",
+     "ratings": 6393,
+     "desc": "Online races are here! \n\n• Introducing HRM TV, the hub for online horse racing!\n• Live PVP races occur every 5 minutes!\n• Will you be able to top the global leaderboard?\n\nBecome the number one horse r"
+    },
+    {
+     "name": "EQUINET - Mustad Farrier App",
+     "dev": "Mustad Hoofcare",
+     "ratings": 9,
+     "desc": "EQUINET is an app designed to make every day business management easier for farriers. \n\nApp features:\n1. HORSE & CONTACT LOGS: instant overview of all your contacts and horses in one place.\n\n2. HORSE "
+    },
+    {
+     "name": "Best Farrier",
+     "dev": "Best Mobile Professional, LLC",
+     "ratings": 10,
+     "desc": "Best Farrier is a scheduling and invoicing app for farriers, built for mobile devices, that helps you run your business efficiently on the go. All your business information is in one place, easily and"
+    },
+    {
+     "name": "iHorse™ Racing 2：Horse manager",
+     "dev": "Gamemiracle Company Ltd",
+     "ratings": 65,
+     "desc": "Become the top horse racing stable manager and the best horse trainer in the world! Play the role of a thoroughbred horse owner, stable manager and horse trainer in iHorse™ Racing 2：Horse manager. Fin"
+    },
+    {
+     "name": "American Farrier’s Association",
+     "dev": "American Farrier’s Association",
+     "ratings": 1,
+     "desc": "The American Farrier’s Association app connects you with the most up to date information for members, certification requirements, news and events.  Use the app to connect with members, locate certific"
+    },
+    {
+     "name": "Equestriad World Tour 26",
+     "dev": "EQUUSports Inc.",
+     "ratings": 28222,
+     "desc": "Equestriad World Tour: Embark on a Thrilling Equestrian Adventure!\n\nUnleash the Ultimate Competitive Experience:\n • Ride, jump, and experience family-friendly equine fun.\n • Immerse yourself in realis"
+    },
+    {
+     "name": "DRF Horse Racing News & Data",
+     "dev": "Sports Information Group LLC",
+     "ratings": 4963,
+     "desc": "Horse Racing is a breeze with the DRF App, the official app of the Daily Racing Form! \n\nWinning horseplayers have trusted the Daily Racing Form for more than 130 years. Get access to the same inside i"
+    },
+    {
+     "name": "Horse App: Care - HorseCare",
+     "dev": "Distinct Systems",
+     "ratings": 74,
+     "desc": "HorseCare is the horse home for owners, riders, and barns. Health notes, feeding, diary, training, and records stay with the horse — so you know what today needs.\n\nStart with one photo of YOUR horse, "
+    },
+    {
+     "name": "Keeneland Race Day",
+     "dev": "Keeneland Association, Inc.",
+     "ratings": 6544,
+     "desc": "Keeneland’s free Race Day app is your guide to handicapping and enjoying a day of Keeneland Racing - all at your fingertips!\n\nNew: Beautiful new look and feel with improved user experience and interac"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "beeplus beekeeping manager",
+   "top": [
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Apiarist - Beekeeper Assistant",
+     "dev": "Oleg Soloviev",
+     "ratings": 147,
+     "desc": "Manage your apiary easily and professionally  \n\nThis app is designed specifically for beekeepers — from beginners to experienced professionals. It will help you efficiently manage your beekeeping busi"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    },
+    {
+     "name": "B-hyve",
+     "dev": "Orbit Irrigation",
+     "ratings": 332276,
+     "desc": "The B-hyve smart sprinkler timer app allows you to control or monitor your sprinklers from anywhere in the world with the convenience of your smart device. \n \nSmart Watering\nKnowing how long and how o"
+    },
+    {
+     "name": "Beekeeper - Digital Workplace",
+     "dev": "Beekeeper AG",
+     "ratings": 17696,
+     "desc": "Beekeeper, the all-in-one Frontline Success System, is transforming the way frontline businesses work. Our mobile-first platform helps companies ditch paper and manual processes to improve employee en"
+    },
+    {
+     "name": "Bee Factory!",
+     "dev": "Green Panda Games",
+     "ratings": 245432,
+     "desc": "Welcome to the most exciting Bee idle game! Are you ready to manage your own tycoon factory and become the richest man alive? \n\n- Unlock +100 super fun bees \n- Sell TONS of honey \n- Upgrade your bees "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "g-code guru: cnc machinist kit",
+   "top": [
+    {
+     "name": "G-Code Guru: CNC Machinist Kit",
+     "dev": "Pawel Dembski",
+     "ratings": 7,
+     "desc": "REFERENCE\n- 142 G-Code and M-Code entries with descriptions, examples, and usage notes\n- 7 controllers: Fanuc, Haas, Siemens, Mazak, Okuma, Grbl, Marlin\n- Search, filter by category, and save favorite"
+    },
+    {
+     "name": "G-Codes Cards",
+     "dev": "Noam Durgnat (CH)",
+     "ratings": 0,
+     "desc": "This app helps you learn G codes based on the command you are using !"
+    },
+    {
+     "name": "Sequence :: G-Code editor, CNC",
+     "dev": "Hypercube GFX, Inc.",
+     "ratings": 65,
+     "desc": "Sequence is text editor for editing G-Code and M-Code for machining. \n\nEdit machine code for CNC and lathe machines. Browse, and select G-Codes and M-Codes using the provided command list.\n\nImport, sa"
+    },
+    {
+     "name": "CNC · G-Code — Help",
+     "dev": "silverio valerio brandao",
+     "ratings": 0,
+     "desc": "The complete CNC reference, always in your pocket. Works 100% offline: no network needed on the shop floor.\nWHAT'S INSIDE\n• 149 G-codes and 115 M-codes explained, with syntax, parameters, examples and"
+    },
+    {
+     "name": "Cnc Turning Programming App",
+     "dev": "Shekhar Aggarwal",
+     "ratings": 0,
+     "desc": "CNC Turning Programming App is an advanced program-generating application designed for CNC operators, machinists, students, and professionals working with CNC turning machines. This app simplifies CNC"
+    },
+    {
+     "name": "CNC Machinist Calculator Ultra",
+     "dev": "Shane Anderson",
+     "ratings": 26,
+     "desc": "Unlock the full potential of your CNC machining operations with CNC Machinist Calculator Ultra, the premier tool designed for machinists, engineers, and anyone involved in machining processes. \n\nWith "
+    },
+    {
+     "name": "CNC Lathe calculator",
+     "dev": "宁 金",
+     "ratings": 4,
+     "desc": "This software is very suitable for the practitioners of machining, CNC lathe and ordinary lathe.\nUsing this software, it is convenient to calculate, program and measure the common parts or working con"
+    },
+    {
+     "name": "CNC Lathe Simulator Lite",
+     "dev": "旭 陈",
+     "ratings": 11,
+     "desc": "CNC Lathe Simulator is a software simulator of a numerical control lathe is an educational methodological development intended for basic familiarization of novice machine building specialists with the"
+    },
+    {
+     "name": "CNC Code",
+     "dev": "ANTONIO BENEDETTO",
+     "ratings": 0,
+     "desc": "CNC CODE – The 3D CNC simulator always in your pocket!\n\nNOW IN 3D! 3D CNC milling machine and lathe, with a real operator panel. Write your G-code, press CYCLE START and watch the machine work: tools,"
+    },
+    {
+     "name": "CNCMate: Speeds and Feeds",
+     "dev": "Emil Deak",
+     "ratings": 0,
+     "desc": "Find optimal CNC milling settings in under 10 seconds — the Speeds and Feeds calculator for feed rate, RPM and depth of cut. No more hours of searching forums and spreadsheets.\n\nCNCMate is your digita"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "machinist pocket pal",
+   "top": [
+    {
+     "name": "Machinist Pocket Pal",
+     "dev": "Wesley Pingleton",
+     "ratings": 4,
+     "desc": "Machinist Pocket Pal: Precision Tools & Resources for Machinists and Engineers\n\nWelcome to Machinist Pocket Pal, the all-in-one mobile toolkit created by Wesley Pingleton for machinists and engineers."
+    },
+    {
+     "name": "The Phillips Machinist",
+     "dev": "Phillips Corporation",
+     "ratings": 393,
+     "desc": "The Phillips Machinist is your personalized digital manufacturing assistant, with quick access to essential machine codes and calculators, direct contact with Phillips engineers, and practical resourc"
+    },
+    {
+     "name": "CNC Machinist Calculator Pro",
+     "dev": "Shane Anderson",
+     "ratings": 678,
+     "desc": "CNC Machinist Calculator Pro is a machining calculator designed for manufacturing engineers, machinists, CNC operators, tool & die makers, and at home hobbyists. CNC Machinist Calculator Pro is great "
+    },
+    {
+     "name": "CNC Machinist Calculator Ultra",
+     "dev": "Shane Anderson",
+     "ratings": 26,
+     "desc": "Unlock the full potential of your CNC machining operations with CNC Machinist Calculator Ultra, the premier tool designed for machinists, engineers, and anyone involved in machining processes. \n\nWith "
+    },
+    {
+     "name": "Machinist Tool",
+     "dev": "Allied Machine & Engineering Corp.",
+     "ratings": 6,
+     "desc": "The Machinist Tool from Allied Machine & Engineering provides numerous tools and resources to assist machinists and engineers with their holemaking and finishing applications. Quickly convert cutting "
+    },
+    {
+     "name": "RYOBI",
+     "dev": "One World Technologies, Inc",
+     "ratings": 13026,
+     "desc": "YOUR ALL-IN-ONE TOOL MANAGEMENT APP\nEffortlessly manage, monitor, and maximize your tools with our app, designed to streamline your experience from registration to connected control. Whether you're re"
+    },
+    {
+     "name": "Machinist Journeyman",
+     "dev": "smartcalculations",
+     "ratings": 19,
+     "desc": "Machinist Journeyman was just updated with new features to give you the best app possible. You will be amazed by the amount of \"I Use it Everyday\" content in this app.\n\nFeatured in several Trade Publi"
+    },
+    {
+     "name": "FSWizard",
+     "dev": "Eldar Gerfanov",
+     "ratings": 47,
+     "desc": "CNC Milling and Turning Speed and Feed Calculator (Wizard)\nAbsolutely the best CNC machinist speed and feed calculator around.\nCalculate cutting conditions simply by choosing your work and tool materi"
+    },
+    {
+     "name": "Digi-Pas Machinist Level",
+     "dev": "JSB Tech",
+     "ratings": 58,
+     "desc": "Digi-Pas® Mobile App is a user-friendly and affordable app, designed specifically to be used in conjunction with the brand's latest 2-Axis Digital Machinist Levels. Users can fully utilise the wireles"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "sailflow: sailing forecasts",
+   "top": [
+    {
+     "name": "SailFlow: Sailing Forecasts",
+     "dev": "WeatherFlow",
+     "ratings": 5814,
+     "desc": "Whether you’re racing, cruising, day sailing, you need precise sailing forecasts and real-time wind. SailFlow delivers both.\n\nPowered by 90,000+ exclusive Tempest Weather Stations and 150,000+ total s"
+    },
+    {
+     "name": "Windy.app — Wind, Tides, Radar",
+     "dev": "Windy Weather World Inc",
+     "ratings": 73048,
+     "desc": "Windy.app - wind, waves and weather forecast app for surfers, kitesurfers, windsurfers, sailors, fishermen and other wind sports. \n\nFEATURES:\n•  Wind report, forecast and statistics: wind map, accurat"
+    },
+    {
+     "name": "PredictWind — Marine Forecasts",
+     "dev": "PredictWind Limited",
+     "ratings": 32816,
+     "desc": "Accurate marine weather forecasts and powerful tools utilizing wind, wave and currents, save you time, keep you safe and ensure you get the most out of every day on the water.\n\nAccess the world’s top-"
+    },
+    {
+     "name": "Sailspots",
+     "dev": "Eliri AB",
+     "ratings": 0,
+     "desc": "With Sailspots you get a detailed weather and wind forecast presented in a clear and intuitive way on top of your desired location on map. \n\nThe forecast is presented hour by hour and you can either c"
+    },
+    {
+     "name": "Surfline: Wave & Surf Reports",
+     "dev": "Surfline/Wavetrak",
+     "ratings": 30541,
+     "desc": "Decide when and where to surf with Surfline, the most trusted surf forecasting app in the world.\n\nCheck live surf cams, expert forecasts, wind, tide, swell data, real-time surf reports and track your "
+    },
+    {
+     "name": "Windfinder Pro: Wind & Weather",
+     "dev": "Windfinder",
+     "ratings": 15317,
+     "desc": "Detailed wind and weather forecasts and weather information for your location. \nSee wind, waves, tides and weather reports and current wind measurements for your own weather predictions. Easy to use w"
+    },
+    {
+     "name": "Savvy Navvy: Boat Navigation",
+     "dev": "savvy navvy",
+     "ratings": 8269,
+     "desc": "Savvy Navvy: Your All-in-One Marine Navigation App\n\nSavvy Navvy is the ultimate marine navigation tool that simplifies charts, weather forecasts, tides, GPS tracking, and route planning—right in the p"
+    },
+    {
+     "name": "iNavX: Marine Navigation",
+     "dev": "NavX Studios LLC",
+     "ratings": 21749,
+     "desc": "Marine navigation is made easy with iNavX - the world's #1 handheld Chartplotter. Access marine charts, maps, weather, AIS and more!\n\niNavX is the only app to give you complete worldwide chart coverag"
+    },
+    {
+     "name": "SailGP",
+     "dev": "SailGP",
+     "ratings": 706,
+     "desc": "Get closer to the action with the SailGP app. SailGP is the world's fastest sailing race, created to redefine sailing and give global sports fans a year-round, supercharged version of the sport. Witne"
+    },
+    {
+     "name": "Buoyweather - Marine Forecasts",
+     "dev": "Surfline/Wavetrak",
+     "ratings": 1055,
+     "desc": "Buoyweather is the go-to marine forecast tool built for offshore boating and fishing enthusiasts who need accurate, actionable conditions for any point offshore. Plan smarter. Stay safer. Get out ther"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "dosage calculation",
+   "top": [
+    {
+     "name": "DoseRight: Nursing Dosage Calc",
+     "dev": "GLP-1 Marketing Solutions LLC",
+     "ratings": 11,
+     "desc": "Master dosage calculations before they matter most — on exam day and at the bedside.\n\nDoseRight is a focused med-math practice app built for nursing students, new RNs, and anyone preparing for the NCL"
+    },
+    {
+     "name": "CalcuDose",
+     "dev": "Quentin ROLLAND",
+     "ratings": 0,
+     "desc": "A few clicks are all it takes to confidently perform your cross-product calculations related to liquid dosages and flow rate calculations in ml/h and drops/min.\n\nDose Calculation:\n\n1. Select the base "
+    },
+    {
+     "name": "Dosage Calculations Made Easy",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 41,
+     "desc": "\"Try before you buy\" - Download the FREE App, which includes sample content. In-App purchase required to unlock all content.\n\nCalculate correct dosages with safety and confidence, with the easy-to-fol"
+    },
+    {
+     "name": "Peptide Calculator & Dosage",
+     "dev": "Heat Studio LLC",
+     "ratings": 137,
+     "desc": "A simple peptide calculator for fast, accurate dosing. Enter peptide amount, concentration, and vial size to instantly calculate reconstitution ratios and injection volumes. Track your inventory, plan"
+    },
+    {
+     "name": "IV Dosage and Rate Calculator",
+     "dev": "MediWeb LLC",
+     "ratings": 6,
+     "desc": "The 'IV Medication Dosage and Rate Calculators' App is a quick and simple reference tool for Critical Care Nurses, CRNAs, NPs, PAs, and Physicians to calculate IV Medication Dosages and Rates. This al"
+    },
+    {
+     "name": "MDCalc Medical Calculator",
+     "dev": "MD Aware, LLC",
+     "ratings": 51990,
+     "desc": "MDCalc is the leading clinical decision support app providing 900+ evidence-based calculators, risk scores, and clinical tools to support patient care at the bedside. MDCalc has been trusted by millio"
+    },
+    {
+     "name": "Pediatric dosage calculator",
+     "dev": "Rimon",
+     "ratings": 4,
+     "desc": "With the pediatric dosage calculator you can easily and safely calculate the right amount of medication for a child. \nEnter the dose per kg per day and the dosing frequency and the app will calulate t"
+    },
+    {
+     "name": "Peptide Calculator: PepCalc",
+     "dev": "David Dzeveckij",
+     "ratings": 479,
+     "desc": "Master your peptide protocols with Peptide Calculator: PepCalc, the essential tool for accurate dosage and reconstitution. Stop the guesswork, avoid costly errors, and dose with confidence every time."
+    },
+    {
+     "name": "Edibles Calculators",
+     "dev": "Z-Dog Media, Limited Liability Company",
+     "ratings": 2,
+     "desc": "The Edibles Calculators provides you with the measurements you need when cooking with cannabis.  With this app, you will know the amount of cannabis in your edibles. \n\nThis is one of the trickiest and"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "veterinary anatomy",
+   "top": [
+    {
+     "name": "Vetflow - Learn Anatomy",
+     "dev": "Vetflow GmbH",
+     "ratings": 9,
+     "desc": "Vetflow - your interactive anatomy atlas for veterinary medicine.\n\nWith 3D models, articles, and quizzes you will learn skeletons, bones, joints, muscles, nerves, vessels, and much more - faster and m"
+    },
+    {
+     "name": "IMAIOS vet-Anatomy",
+     "dev": "IMAIOS",
+     "ratings": 160,
+     "desc": "vet-Anatomy is an atlas of veterinary anatomy based on medical imaging examinations and illustrations. This atlas was created on the same framework as e-Anatomy which is one of the most popular human "
+    },
+    {
+     "name": "Vetty 3D mobile",
+     "dev": "research app",
+     "ratings": 0,
+     "desc": "Learn veterinary anatomy beyond flat textbook illustrations.\nExplore interactive 3D models of the horse, cow, pig, dog, cat, rat, chicken, fish and honeybee. Rotate, zoom and isolate anatomical struct"
+    },
+    {
+     "name": "Complete Canine Anatomy 3D",
+     "dev": "GraphicVizion",
+     "ratings": 9,
+     "desc": "**The free version provides access to the ligament and skeletal systems. Upgrade to the premium version to unlock all additional systems and features.**\n\nMake learning more efficient and engaging with"
+    },
+    {
+     "name": "Veterinary Dictionary app",
+     "dev": "Jushkinbek Bekniyozov",
+     "ratings": 0,
+     "desc": "Veterinary Offline Dictionary – Your Complete Veterinary Reference\n\nVeterinary Dictionary is a comprehensive veterinary reference designed for veterinary students, veterinarians, veterinary technician"
+    },
+    {
+     "name": "Bivia: Veterinary Anatomy",
+     "dev": "Higor Rodrigues Torres da Silva",
+     "ratings": 1,
+     "desc": "Bivia is a visual and interactive study app built for veterinary students who want to learn faster, review smarter, and build long-term confidence from the basics to advanced topics.\n\nStart with Veter"
+    },
+    {
+     "name": "Veterinary Cases: VTNE Exam",
+     "dev": "KBT MedTech Ltd",
+     "ratings": 1,
+     "desc": "Veterinary Cases: VTNE Exam is a veterinary education application created to provide a structured and in-depth approach to veterinary clinical practice and VTNE exam preparation. The app is designed f"
+    },
+    {
+     "name": "VetDeck",
+     "dev": "Gregory Dawes",
+     "ratings": 0,
+     "desc": "VetDeck is a veterinary clinical reference tool built for the exam room. Quickly calculate weight-based drug doses for emergency and anesthetic protocols, track vaccine lot numbers and expiration date"
+    },
+    {
+     "name": "Vetcalculators",
+     "dev": "LifeLearn USA",
+     "ratings": 615,
+     "desc": "The Ultimate Veterinary Calculator App \nVetcalculators is a Monthly Subscription. First Month is Free\n\nVetcalculators is the number one Veterinary Calculator App for veterinarians, veterinary technici"
+    },
+    {
+     "name": "EasyAnatomy: 3D Canine Anatomy",
+     "dev": "EasyAnatomy Interactive Inc.",
+     "ratings": 28,
+     "desc": "AWARD-WINNING 3D CANINE ANATOMY FOR VETERINARY STUDIES!\n\nTrusted by veterinary students, professors, and professionals in over 120 countries, EasyAnatomy was built in partnership with leading universi"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "speech therapy for children",
+   "top": [
+    {
+     "name": "Speech Blubs: Language Therapy",
+     "dev": "Blub Blub Inc.",
+     "ratings": 57079,
+     "desc": "WHAT DOES SPEECH BLUBS OFFER?\n\nSpeech Blubs is a voice-controlled speech therapy app designed to help your child learn new sounds and words, and to practice speaking in a stimulating, educational envi"
+    },
+    {
+     "name": "Articulation Station Hive",
+     "dev": "Little Bee Speech",
+     "ratings": 597,
+     "desc": "Articulation Station Hive is the most comprehensive speech therapy app on the App Store. It has all the tools and activities needed to teach learners of all ages how to speak more clearly. To start wi"
+    },
+    {
+     "name": "Speech Therapy 3 – 500+ Words",
+     "dev": "ImagiRation LLC",
+     "ratings": 103,
+     "desc": "From the developers of the only clinically-validated language therapy application MITA that was downloaded by over 3 million families, ImagiRation brings you a series of Speech Therapy apps:\n+ Speech "
+    },
+    {
+     "name": "Articulation Teacher - Speech",
+     "dev": "SpeakEasy Community",
+     "ratings": 211,
+     "desc": "Improve your child's articulation and pronunciation! Brought to you by a Speech Language Pathologist and the creator of the SpeakEasy: Home Speech Therapy app which has accelerated early language deve"
+    },
+    {
+     "name": "SpeechLP: Speech Therapy Games",
+     "dev": "ParagraphAI",
+     "ratings": 59,
+     "desc": "Speech therapy practice for kids that actually works — AI-powered articulation games used by 1,000+ speech-language pathologists and the families they refer.\n\nIs your child working on their R sound? A"
+    },
+    {
+     "name": "Speech Therapy For Autism Kids",
+     "dev": "Pixit Labs Private Limited",
+     "ratings": 37,
+     "desc": "Is your child struggling with speech delay, articulation, or communication skills? Our play-based speech therapy app is designed for children with autism spectrum disorder (ASD), late talkers, and kid"
+    },
+    {
+     "name": "Word Vault Essential",
+     "dev": "HomeSpeechHome PLLC",
+     "ratings": 2173,
+     "desc": "Pro features let you...\n• Play engaging games and track data in them\n• Use time saving tools for the monotonous tasks of therapy \n• Sync content and data between devices & view/print data online\n(Note"
+    },
+    {
+     "name": "Speech Therapy 1 – Preverbal",
+     "dev": "ImagiRation LLC",
+     "ratings": 133,
+     "desc": "ImagiRation brings you a series of Speech and Language Therapy apps:\nSpeech Therapy Step 1 – Preverbal exercises \nSpeech Therapy Step 2 – Learn to sequence sounds\nSpeech Therapy Step 3 – Learn to say "
+    },
+    {
+     "name": "Speech Therapy - Mio For Kids",
+     "dev": "Mioris LTD",
+     "ratings": 3399,
+     "desc": "MIO is an educational app for children aged 1 to 8, created by educators and speech therapists. It contributes to diversified child development in a fun, fascinating, and professional manner.\n\nPLAYFUL"
+    },
+    {
+     "name": "Speech Therapy - Help Me Talk",
+     "dev": "Yousef Zuriqi",
+     "ratings": 38,
+     "desc": "Help Me Talk is a speech practice app that parents and speech-language therapists use to help your child express needs and feelings easily by choosing the right picture. This method of accelerated lea"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "sailing navigation",
+   "top": [
+    {
+     "name": "iNavX: Marine Navigation",
+     "dev": "NavX Studios LLC",
+     "ratings": 21749,
+     "desc": "Marine navigation is made easy with iNavX - the world's #1 handheld Chartplotter. Access marine charts, maps, weather, AIS and more!\n\niNavX is the only app to give you complete worldwide chart coverag"
+    },
+    {
+     "name": "SailFreeGPS",
+     "dev": "Frederic BRO",
+     "ratings": 11,
+     "desc": "Hello,\n\n* SailFreeGPS displays current location, course (COG), speed (SOG), max speed, Trip distance, speed average and magnetic compass.\n* SailFreeGPS displays COG and SOG history (6h) to help you to"
+    },
+    {
+     "name": "Navionics® Boating",
+     "dev": "Garmin",
+     "ratings": 2350,
+     "desc": "Get up-to-date, detailed charts you can use offline plus a boatload of features on your mobile device, so they’re on hand wherever you go. The Boating app is a must-have for cruising, fishing, sailing"
+    },
+    {
+     "name": "Savvy Navvy: Boat Navigation",
+     "dev": "savvy navvy",
+     "ratings": 8269,
+     "desc": "Savvy Navvy: Your All-in-One Marine Navigation App\n\nSavvy Navvy is the ultimate marine navigation tool that simplifies charts, weather forecasts, tides, GPS tracking, and route planning—right in the p"
+    },
+    {
+     "name": "Windy.app — Wind, Tides, Radar",
+     "dev": "Windy Weather World Inc",
+     "ratings": 73048,
+     "desc": "Windy.app - wind, waves and weather forecast app for surfers, kitesurfers, windsurfers, sailors, fishermen and other wind sports. \n\nFEATURES:\n•  Wind report, forecast and statistics: wind map, accurat"
+    },
+    {
+     "name": "i-Boating: Marine Charts & Gps",
+     "dev": "Bist LLC",
+     "ratings": 14901,
+     "desc": "This App offers access to Marine Charts for USA,Canada,UK/Ireland,Germany,Netherlands/Holland &\nEurope Rivers (Danube,Drava,Rhein etc). Coverage includes NOAA marine vector\ncharts,freshwater lake maps"
+    },
+    {
+     "name": "Aqua Map Boating",
+     "dev": "GEC s.r.l.",
+     "ratings": 13718,
+     "desc": "Free 14-day trial for all subscriptions\n \nAqua Map offers weekly updated OFFICIAL NAUTICAL CHARTS (NOAA) for marine navigation. Purchase a chart subscription for the area of your interest, download th"
+    },
+    {
+     "name": "PredictWind — Marine Forecasts",
+     "dev": "PredictWind Limited",
+     "ratings": 32816,
+     "desc": "Accurate marine weather forecasts and powerful tools utilizing wind, wave and currents, save you time, keep you safe and ensure you get the most out of every day on the water.\n\nAccess the world’s top-"
+    },
+    {
+     "name": "Wavve Boating: GPS, Map, Chart",
+     "dev": "Wavve Boating INC",
+     "ratings": 6533,
+     "desc": "Ever have a stressful day navigating on the water? Wanted to know more about the conditions you are about to head into? Are you looking for exciting places to explore, the best place to refuel, or jus"
+    },
+    {
+     "name": "Sextant Navigation",
+     "dev": "Linh Phan Nhat Khanh",
+     "ratings": 0,
+     "desc": "Sextant Navigation is a celestial navigation primer for sailors, students, and maritime enthusiasts who want to understand the ancient art of finding position by the stars.\n\nThe app covers the complet"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "tattoo ideas",
+   "top": [
+    {
+     "name": "Tattooed: Design & Artists",
+     "dev": "Stellar Ventures, LLC",
+     "ratings": 105,
+     "desc": "Design your next tattoo with AI — describe any idea and generate custom concepts in seconds. Then find the perfect artist to bring it to life. Tattooed is the all-in-one app for tattoo inspiration, di"
+    },
+    {
+     "name": "Pinterest",
+     "dev": "Pinterest, Inc.",
+     "ratings": 5786403,
+     "desc": "Pinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your ins"
+    },
+    {
+     "name": "Tattoo AI - Tattoo Design",
+     "dev": "HUBX",
+     "ratings": 51004,
+     "desc": "Tattoo AI: Your Go-To App for Creating Unique Tattoos Effortlessly! Whether you’re a tattoo enthusiast, a first-timer considering getting inked, or a tattoo artist looking for inspiration, Tattoo AI h"
+    },
+    {
+     "name": "Tattoodo: Book Tattoo Artists",
+     "dev": "TATTOODO",
+     "ratings": 7178,
+     "desc": "Find and book your next tattoo artist. Browse verified artists near you, get matched to the right one for your style, and book your appointment — all in one app.\n\n\nDISCOVER AND BOOK TOP TATTOO ARTISTS"
+    },
+    {
+     "name": "INKHUNTER - AI Tattoo Design",
+     "dev": "InkHunter",
+     "ratings": 25002,
+     "desc": "Try on virtual tattoos with AUGMENTED REALITY before it’s inked forever. The app projects any tattoo design on any part of your body so you can see how it will look.\n\n- Try on your own tattoo design, "
+    },
+    {
+     "name": "ElementInk: Tattoo Ideas",
+     "dev": "Xing Yang",
+     "ratings": 0,
+     "desc": "ElementInk helps you explore tattoo ideas through symbols, meanings, and body placement previews.\n\nDiscover characters, phrases, and classical expressions with carefully designed interpretations. Prev"
+    },
+    {
+     "name": "Ai Tattoo Ideas-Art Generator",
+     "dev": "Shenzhen Yunduoduo Technology Co., Ltd",
+     "ratings": 3822,
+     "desc": "Heads up: we’re switching to a new tattoo generator. Older endpoints will be sunset after Sep 20, 2025, which may cause failures on outdated versions. Update now to keep generating.\n\nWelcome to the Ta"
+    },
+    {
+     "name": "Next Ink: AI Tattoo Design",
+     "dev": "IdeaLabs",
+     "ratings": 1913,
+     "desc": "Welcome to your personal tattoo design guide! Whether you're dreaming of a bold new piece or something uniquely yours, Next Ink is here to help you create the perfect tattoo.\n\nExplore a Variety of Sty"
+    },
+    {
+     "name": "Tattoo Designs - Tattoo Maker",
+     "dev": "Muhammad Faizan Ali Khan",
+     "ratings": 9,
+     "desc": "Elevate Your Tattoo Journey with Our Exquisite Tattoo Designs and Tattoo on my photo App.\n\nAre you passionate about expressing your individuality through tattoos? Look no further! Our Tattoo Design Id"
+    },
+    {
+     "name": "AI Tattoo Generator - INKDNA",
+     "dev": "Meijing Mechanical & Electrical Environmental Protection (Shanghai) Co., Ltd.",
+     "ratings": 5782,
+     "desc": "InkDNA - AI Tattoo Generator \n\nWith the AI Tattoo Generator, you can instantly generate unique tattoo designs and unlock endless tattoo inspiration. You can also share your designs with your friends a"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "transcribe audio to text",
+   "top": [
+    {
+     "name": "Otter Transcribe Voice Notes",
+     "dev": "Otter.ai, Inc.",
+     "ratings": 83171,
+     "desc": "Never take meeting notes again. Otter AI is the fastest way to transcribe voice in real time. Get a meeting assistant that records audio, writes notes, automatically captures slides, and generates sum"
+    },
+    {
+     "name": "Transcribe - Speech to Text",
+     "dev": "DENIVIP",
+     "ratings": 10864,
+     "desc": "Transcribe audio and video to text with Transcribe – your AI-powered transcription assistant. Get instant, high-quality transcripts, right from your phone.\n\nWhether you need to transcribe voice notes,"
+    },
+    {
+     "name": "iTranscribe - Audio to Text",
+     "dev": "TALENT ME TECHNOLOGY PTE. LTD. ",
+     "ratings": 6818,
+     "desc": "Transcribe, Translate, Record, Search, Playback, Manage & Share in one app. Download now for free.\n\niTranscribe will turn your cell phone into a powerful voice recorder and real-time transcriber. \n\nFu"
+    },
+    {
+     "name": "Voice Recorder & Audio Editor",
+     "dev": "TapMedia Ltd",
+     "ratings": 452997,
+     "desc": "Voice Recorder for the iPhone and iPad - download now for FREE!\n\nUNLIMITED RECORDINGS\nRecord for as long as you want and as many times as you want. (No restrictions as long as you have enough availabl"
+    },
+    {
+     "name": "Summary - AI Note Taker",
+     "dev": "Labhouse Mobile",
+     "ratings": 53164,
+     "desc": "Summary AI makes meetings more productive by automatically recording, transcribing, and summarizing conversations. Whether it’s a business meeting, interview, classroom lecture, or podcast, Summary AI"
+    },
+    {
+     "name": "94.1 Duke FM",
+     "dev": "Midwest Communications",
+     "ratings": 165,
+     "desc": "Take 94.1 Duke FM anywhere!"
+    },
+    {
+     "name": "Transcribe Audio to Text Notes",
+     "dev": "WBS",
+     "ratings": 3760,
+     "desc": "From lectures to meetings, interviews to videos, Transcriber is your smart AI notes taker. With advanced AI transcription audio to text, you can transcribe audio to text, create summaries, or rewrite "
+    },
+    {
+     "name": "Live Transcribe",
+     "dev": "Mighty Fine Apps LLC",
+     "ratings": 7869,
+     "desc": "Live Transcribe by Mighty Fine Apps. Accurate live captions for d/Deaf and hard of hearing. Reliable in noisy places and group settings. Perfect alongside hearing aids when they aren’t enough.\n\nBUILT "
+    },
+    {
+     "name": "Speechify – Text to Speech PDF",
+     "dev": "Speechify Inc.",
+     "ratings": 525420,
+     "desc": "Text to speech from Speechify lets you listen to docs, articles, PDFs, email, and various other formats — anything you read. With 50M+ users, it is the top rated TTS app in the AppStore.\n\nSir Richard "
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

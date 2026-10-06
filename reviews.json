@@ -38,5 +38,9 @@
  "modern acupuncture usa": {
   "verdict": "brand",
   "note": "Modern Acupuncture adlı bir klinik zincirinin markası; mesleki ihtiyaç değil, marka/yerel işletme araması."
+ },
+ "forklift, llc": {
+  "verdict": "reject",
+  "note": "Bir firmanın şirket adı (LLC); gerçek bir meslek ihtiyacı değil, kurumsal arama."
  }
 }

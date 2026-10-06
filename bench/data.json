@@ -13246,6 +13246,36 @@
    "note": "en üstte çok yorumlu dev rakipler var, girilmez",
    "label": "Çok rekabet / doygun",
    "split": "test"
+  },
+  {
+   "note": "kimse bunun için abonelik ödemez, bedava alternatifler yeter",
+   "label": "Para yapmaz",
+   "split": "train"
+  },
+  {
+   "note": "gerçek zamanlı video işleme ve sunucu altyapısı gerekir, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "teşhis ve ilaç dozu öneriyor, apple tıbbi cihaz belgesi ister",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "ilk sıralarda yüz binlerce yorumlu büyük şirket app'leri var",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "bu app'in konusu benim hedef kitlemle ilgisi yok, eğlence içeriği",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "son güncelleme yıllar önce, ekran görüntüleri bozuk ve eski tasarım",
+   "label": "Kalitesiz / eski",
+   "split": "train"
   }
  ],
  "kind": [

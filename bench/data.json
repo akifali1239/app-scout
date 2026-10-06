@@ -14424,6 +14424,51 @@
    },
    "label": "game",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pocket Rebar Weight Chart",
+    "category": "Reference",
+    "desc": "Look up rebar sizes, weights per foot and bend allowances on site."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Welder's Amp Setting Calculator",
+    "category": "Utilities",
+    "desc": "Enter metal thickness and electrode to get the recommended amperage."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Hire a Local Electrician",
+    "category": "Lifestyle",
+    "desc": "Book vetted electricians near you and get same-day visits."
+   },
+   "label": "service",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Tarot AI Chat Oracle",
+    "category": "Entertainment",
+    "desc": "Ask the AI oracle anything and get a personalized reading."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Health Tips Magazine",
+    "category": "Health & Fitness",
+    "desc": "Fresh articles and videos on nutrition and wellbeing every day."
+   },
+   "label": "content",
+   "split": "dev"
   }
  ]
 }

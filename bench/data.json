@@ -7659,6 +7659,262 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "the joint chiropractic",
+   "top": [
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Treat Yourself: Spine & Joint",
+     "dev": "TY WELLNESS LLC",
+     "ratings": 0,
+     "desc": "Most apps for back, neck, and joint pain give you a list of stretches and hope something works. Treat Yourself helps you find the one movement that actually eases your pain.\n\nIt uses guided response t"
+    },
+    {
+     "name": "Joint Academy",
+     "dev": "Arthro Therapeutics AB",
+     "ratings": 898,
+     "desc": "Manage joint, muscle, and back pain with guided exercises, education, progress tracking, and clinician support.\n\nMore than 200,000 patients have used the Joint Academy app and 99% say they are satisfi"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "colorado chiropractic assn.",
+   "top": [
+    {
+     "name": "Colorado Chiropractic Assn.",
+     "dev": "THE COLORADO CHIROPRACTIC ASSOCIATION",
+     "ratings": 0,
+     "desc": "The Colorado Chiropractic Association has been providing advocacy and support for chiropractors statewide for over 100 years, and we can help you grow your practice.\n\nAt Colorado Chiropractic Associat"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Zeel In-Home Massage Therapist",
+     "dev": "Zeel",
+     "ratings": 10762,
+     "desc": "Book massage therapy for pain relief, athletic recovery, or relaxation to your home, hotel, or office. Health and wellness have never been more accessible or essential to your well-being.\n\nNamed one o"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "hvac hero",
+   "top": [
+    {
+     "name": "HVAC Hero",
+     "dev": "HVAC Hero",
+     "ratings": 3,
+     "desc": "Welcome to HVAC Hero – the future of field service for HVAC professionals. Whether you're troubleshooting a complex problem or need quick access to manuals and warranty information, HVAC Hero is here "
+    },
+    {
+     "name": "AC  Service Tech LLC",
+     "dev": "AC Service Tech, LLC",
+     "ratings": 5,
+     "desc": "Access all of your HVAC/R education needs in one place with the AC Service Tech App!\n\nFor HVAC/R techs and students of all levels, the AC Service Tech App offers an easy-access pathway to all of our O"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "Daikin HERO Cloud Services",
+     "dev": "Daikin North America",
+     "ratings": 2,
+     "desc": "Daikin HERO Cloud Services is a remote monitoring service for HVAC systems. When integrated, data visualization of connected indoor and outdoor unit data and animated piping diagrams displaying operat"
+    },
+    {
+     "name": "FMHero",
+     "dev": "FMHero",
+     "ratings": 14,
+     "desc": "Unleash Your HVAC Superpowers with FMHero\nCut your documentation time in half. Stay compliant. Keep your records for life.\nBuilt by techs, for techs, FMHero is the mobile tool that fits right into you"
+    },
+    {
+     "name": "Service Hero Academy",
+     "dev": "Service Hero Consulting, LLC",
+     "ratings": 18,
+     "desc": "Maximize your HVAC business's potential with the Service Hero Academy app – your comprehensive guide to mastering HVAC sales and technical skills. This is not just an app, but a revolution in on-the-g"
+    },
+    {
+     "name": "HVAC Expert Advisor",
+     "dev": "ROCATECH LLC",
+     "ratings": 0,
+     "desc": "Get instant HVAC support and answers with our AI-powered chat assistant. Whether you’re a homeowner, technician, or business owner, our app makes it easy to find reliable information and troubleshooti"
+    },
+    {
+     "name": "CE HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 1590,
+     "desc": "CE HVAC PRO is 100% free for HVAC technicians and always will be. Easily check warranty entitlement, available inventory, order status, manuals, and tech specs for all the HVAC models we carry. Our mi"
+    },
+    {
+     "name": "measureQuick HVAC",
+     "dev": "measureQuick",
+     "ratings": 8,
+     "desc": "Ready to work smarter, not harder? The measureQuick HVAC App gives you everything you need to diagnose HVAC systems quickly and accurately. With powerful new tools and features, you can solve any job "
+    },
+    {
+     "name": "Gemaire HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 820,
+     "desc": "Gemaire’s mobile app is your HVAC “Easy Button”. It can make your life easier and save time by providing access to product information useful tools whether you’re on-site, in the drive-thru, or just s"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "welding jobs",
+   "top": [
+    {
+     "name": "Glassdoor | Jobs & Careers",
+     "dev": "Glassdoor",
+     "ratings": 786077,
+     "desc": "Get personalized job matches, explore open roles, and make smarter career moves.\n\nShare what matters most in your next role — from your career goals to your ideal manager to the culture where you thri"
+    },
+    {
+     "name": "Bluecrew - Find Flexible Work",
+     "dev": "BlueCrew Inc.",
+     "ratings": 8993,
+     "desc": "Install Bluecrew and join our team of more than 900,000 Crew Members who have worked over 1 million shifts!\n\nBluecrew is more than just a job app. Our technology puts you in control by matching you wi"
+    },
+    {
+     "name": "ZipRecruiter Job Search",
+     "dev": "ZipRecruiter, Inc.",
+     "ratings": 588669,
+     "desc": "Search 100+ job boards at once to find your next job fast. It's that easy. \n\nZipRecruiter Job Search is the only app of its kind you will ever need, and it is 100% FREE. \n\n1. Install the free ZipRecru"
+    },
+    {
+     "name": "TradeWorks Jobs",
+     "dev": "Elizabeth Sechrest",
+     "ratings": 0,
+     "desc": "Trade-Works connects skilled professionals and employers in the trades industry. Whether you’re searching for your dream job, hiring top talent, or managing your career, Trade-Works makes the process "
+    },
+    {
+     "name": "Indeed Job Search",
+     "dev": "Indeed Inc.",
+     "ratings": 4075142,
+     "desc": "Discover your next job opportunity on Indeed, the free job search app designed to connect you with better work anytime, anywhere.\n\nForget the other job search apps. With 12 jobs added every second and"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Instawork: Work when you want",
+     "dev": "Instawork",
+     "ratings": 100965,
+     "desc": "Find shift-based work that fits your schedule. Search job postings by local businesses who use Instawork to fill short-term and long-term staffing needs. Set your own schedule and see exactly how much"
+    },
+    {
+     "name": "randstad: jobs for workers",
+     "dev": "swipejobs",
+     "ratings": 17742,
+     "desc": "Tired of wondering who’s on the other end of your job applications? With the Randstad app you can stop waiting for someone to respond and take control of your job search with FREE 24/7 access to jobs "
+    },
+    {
+     "name": "Bead Board: Welding",
+     "dev": "Crux Labs LLC",
+     "ratings": 0,
+     "desc": "The whiteboard replacement for welding shops.\n\nBead Board is job tracking and quoting built for small welding and fabrication shops with 1-10 people. If you track jobs on a whiteboard, quote on napkin"
+    },
+    {
+     "name": "Handshake: Jobs & AI work",
+     "dev": "Stryder Corp.",
+     "ratings": 137501,
+     "desc": "Handshake: where your career starts and grows\n\nHandshake is the #1 career platform built for the AI economy. Whether you want to land your next job, build the skills employers are hiring for, or earn "
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [
@@ -9176,6 +9432,21 @@
    "app": "Guitar tuner that listens through the microphone and shows the pitch.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Tells you the exact dose of insulin to inject based on the carbs you eat.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Quiz app for learning the names of bones in the human body.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Diagnoses ear infections by looking into your child's ear with the phone camera.",
+   "label": true,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -9418,6 +9689,24 @@
    "hi": "level bubble",
    "lo": "social marketplace like facebook",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex rn medication calculation prep",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "dental hygiene board review",
+   "lo": "live wallpaper maker",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "phlebotomy certification practice test",
+   "lo": "pizza game",
+   "split": "train"
   }
  ],
  "note": [
@@ -9865,6 +10154,33 @@
     "desc": "A new Stoic quote and short reflection delivered every morning."
    },
    "label": "content",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Tuner Pro: Ukulele & Bass",
+    "category": "Music",
+    "desc": "Chromatic tuner for ukulele, bass and guitar using the microphone."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chase the Cheese: Maze Run",
+    "category": "Games",
+    "desc": "Guide the mouse through mazes and collect cheese in hundreds of levels."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Wells Fargo Mobile",
+    "category": "Finance",
+    "desc": "Check balances, deposit checks and pay bills with your Wells Fargo accounts."
+   },
+   "label": "service",
    "split": "train"
   }
  ]

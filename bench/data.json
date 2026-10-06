@@ -414,6 +414,31 @@
    "term": "hvac hero",
    "label": "brand",
    "split": "test"
+  },
+  {
+   "term": "welding simulator",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "paramedic games",
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "term": "american massage therapy association",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "river north massage therapy center",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "physical therapy of boulder",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -13469,6 +13494,42 @@
    "hi": "sound level meter",
    "lo": "video chat dating app",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "radiologic technologist registry review",
+   "lo": "wallpaper maker",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician journeyman exam prep",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex rn practice questions",
+   "lo": "prank sounds",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate license exam prep",
+   "lo": "ringtone maker",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "online food delivery marketplace",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "flashlight",
+   "lo": "social network like instagram",
+   "split": "dev"
   }
  ],
  "note": [
@@ -14114,6 +14175,42 @@
    },
    "label": "game",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Weld Symbol Quiz Cards",
+    "category": "Education",
+    "desc": "Flashcards of AWS weld symbols with a study mode and a quiz."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Torque Converter Pro",
+    "category": "Utilities",
+    "desc": "Convert between Nm, ft-lb and in-lb in one tap."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Mechanic GPT",
+    "category": "Productivity",
+    "desc": "Ask our AI assistant anything about car repair and get instant answers powered by GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Truck Stop Racer",
+    "category": "Games",
+    "desc": "Race your truck across 40 levels and collect coins."
+   },
+   "label": "game",
+   "split": "train"
   }
  ]
 }

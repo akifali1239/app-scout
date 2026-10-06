@@ -7915,6 +7915,396 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "georgia chiropractic assoc.",
+   "top": [
+    {
+     "name": "Georgia Chiropractic Assoc.",
+     "dev": "Georgia Chiropractic Assn.",
+     "ratings": 0,
+     "desc": "The Georgia Chiropractic Association is YOUR partner in success. Since 1912, GCA has been fighting for chiropractic rights and providing the education doctors and chiropractic assistants need to ensur"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "chiropractic fcu",
+   "top": [
+    {
+     "name": "Chiropractic FCU",
+     "dev": "Chiropractic Federal Credit Union Mobile",
+     "ratings": 6,
+     "desc": "Chiropractic Federal Credit Union Mobile provides members convenient access to our website, mobile check deposit, mobile banking, branch and contact information."
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Partners FCU Mobile Banking",
+     "dev": "Partners Federal Credit Union",
+     "ratings": 5608,
+     "desc": "Partners Mobile Banking (v8/9) is a completely new app with more capabilities and features than ever before!\n\n\t• NEW All New Look - Our updated organization makes it quick and easy to find what you ne"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "bubble level",
+   "top": [
+    {
+     "name": "Bubble Level for iPhone",
+     "dev": "Lemondo Apps LLc",
+     "ratings": 111710,
+     "desc": "NEW and UNIQUE features and functionalities:\n\n    1. Classic water-level + Object alignment\n    2. Angle measurement \n    3. Surface flatness\n    4. Metal detection - detect wire inside the wall befor"
+    },
+    {
+     "name": "Pocket Bubble Level XXL",
+     "dev": "ExaMobile S.A.",
+     "ratings": 16775,
+     "desc": "Pocket Bubble Level - perfect app for every handyman, DIY and smartphone holder. Accurate, nice and easy to use, at the same time very functional.\nInstall this application and you will have a spirit l"
+    },
+    {
+     "name": "Bubble Level 2022",
+     "dev": "Andrew Neal",
+     "ratings": 6545,
+     "desc": "This app turns your smartphone into a bubble level! \n\nWith 3 different viewing options, this level can calibrate with all 4 sides as well as show the angle and slope in percentage or roof pitch. Comes"
+    },
+    {
+     "name": "Bubble Level Plus+",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 15320,
+     "desc": "Bubble Level (one of the 12 tools in iMetalBox) is now free! Take this chance to download!\n\n======== User reviews ========\n\n• \"Works great and stylish!\" - HellofromtheFeeworld746\n• \"Just what I need i"
+    },
+    {
+     "name": "Bubble Level: AR, Angle Finder",
+     "dev": "Jens Rieckhof",
+     "ratings": 706,
+     "desc": "Transform Your Phone into a Precision Leveling Tool!\n\nOver 450K users - 4.5 Star Average Rating\n\nIntroducing the Super-Easy Level: Turn your device into a highly accurate bubble level (spirit level) w"
+    },
+    {
+     "name": "Bubble Level - Simple",
+     "dev": "Stijn Aa",
+     "ratings": 311,
+     "desc": "Need to check if a something is straight? Use this level tool. It helps you see if shelves and pictures are flat. The level shows angles on your phone.\n\n• Use AR laser for walls\n• See angles as you ro"
+    },
+    {
+     "name": "Bubble Level Tool - Digital",
+     "dev": "Rihab Mehboob",
+     "ratings": 2482,
+     "desc": "Bubble Level Tool - Digital lets you see the current angle of your device, along with reseting and locking the angle too.\n\nTilt the device to measure the precise angle and easily switch between portra"
+    },
+    {
+     "name": "Bubble Level - Spirit Level",
+     "dev": "Netviking AB",
+     "ratings": 3061,
+     "desc": "Bubble Level is an accurate and simple to use spirit level for your iPhone, iPad and iPod touch.\n\nIt's great for aligning picture frames or for angle measurements.\n\nFeatures:\n◉ Measure the level of an"
+    },
+    {
+     "name": "Bubble Level: Ruler & Measure",
+     "dev": "Bahtiyar Polat",
+     "ratings": 0,
+     "desc": "Bubble Level & Ruler turns your iPhone or iPad into a precise, easy-to-read spirit level and pocket measuring tool. Hang pictures perfectly straight, align shelves and furniture, check the slope of an"
+    },
+    {
+     "name": "Bubble Level ( Water level )",
+     "dev": "EONSOFT",
+     "ratings": 235,
+     "desc": "The application level. \n\nDo you want to set the horizontal frame you? \nWant to know what TV or vertical building? \n\nHere, here! Use, spirit level, the application level. \n\nYou can use a circular preci"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "voice recorder",
+   "top": [
+    {
+     "name": "Voice Memos",
+     "dev": "Apple",
+     "ratings": 1099102,
+     "desc": "Voice Memos turns your iPhone, iPad, or Apple Watch into a portable audio recorder, making it easy to capture and share personal notes, song ideas, family moments, classroom lectures, and more. Editin"
+    },
+    {
+     "name": "Voice Recorder & Audio Editor",
+     "dev": "TapMedia Ltd",
+     "ratings": 452907,
+     "desc": "Voice Recorder for the iPhone and iPad - download now for FREE!\n\nUNLIMITED RECORDINGS\nRecord for as long as you want and as many times as you want. (No restrictions as long as you have enough availabl"
+    },
+    {
+     "name": "Voice recorder - Voz",
+     "dev": "Hieu Nguyen",
+     "ratings": 25550,
+     "desc": "Voice recorder is a great recording application that easily records audio, voice,  of the song, speech, lecture, meeting, and save in the device's internal storage. So, you can play back whenever you "
+    },
+    {
+     "name": "Voice Recorder & Transcribe",
+     "dev": "Jakub Bartus",
+     "ratings": 2079,
+     "desc": "Record, transcribe, and turn audio into notes, summaries, and action items.\n\nVoice Recorder is a smart voice recorder, audio recorder, and dictaphone built for meetings, lectures, interviews, podcasts"
+    },
+    {
+     "name": "Voice Record Pro",
+     "dev": "Dayana Networks Ltd",
+     "ratings": 16345,
+     "desc": "Professional Voice Recorder for iPhone, iPad and iWatch! No limitation, Completely FREE!\n\nVoice Record Pro is a professional voice recorder. It allows you to record voice memos and on-site sounds at u"
+    },
+    {
+     "name": "Scan to PDF－Document Scanner",
+     "dev": "Scanner App PDF Tool",
+     "ratings": 61681,
+     "desc": "Scan Shot turns your phone into a powerful digital office! Scan, sign and export any document to PDF, JPG, DOCX, PPTX and TXT format. \n\nSave time and become more productive in your work and daily life"
+    },
+    {
+     "name": "Voice Recorder Lite: Record HD",
+     "dev": "LiveBird Technologies Private Limited",
+     "ratings": 73813,
+     "desc": "Live sound with its true feelings. Enjoy recording, playback and audio editing with Voice Recorder. We have fine tuned it for your day-to-day activities. Attending something important and want to reco"
+    },
+    {
+     "name": "ACIM Original Edition",
+     "dev": "COURSE IN MIRACLES SOCIETY",
+     "ratings": 39,
+     "desc": "This application is not affiliated with nor endorsed by the Foundation for Inner Peace.\n\nThe ACIM OE APP is three applications in one.\n\nEBOOK: Read all three books of A Course in Miracles---TEXT, WORK"
+    },
+    {
+     "name": "Voice Recorder — Audio Memos",
+     "dev": "PrimeForm OU",
+     "ratings": 3893,
+     "desc": "Voice Recorder — Audio Memos is a versatile tool for capturing high-quality audio recordings, managing your recordings effortlessly, and transforming your audio into other formats. Whether you're taki"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "decibel meter",
+   "top": [
+    {
+     "name": "Decibel X:dB Sound Level Meter",
+     "dev": "SkyPaw Co., Limited",
+     "ratings": 162564,
+     "desc": "\"Decibel X\" is one of very few noise meter apps on the market that has highly reliable, pre-calibrated measurements and supports dBA, dBC. It turns your iOS device into a professional sound level mete"
+    },
+    {
+     "name": "Decibel Meter Sound Detector",
+     "dev": "Ashraf Thoppukadavil",
+     "ratings": 55317,
+     "desc": "Track Environmental Noise with Ease\nMonitor your surroundings with this professional-grade decibel meter app, featuring clear visual noise analysis.\n\nThe Decibel Meter app uses your device’s built-in "
+    },
+    {
+     "name": "NIOSH Sound Level Meter",
+     "dev": "EA LAB",
+     "ratings": 16825,
+     "desc": "This award-winning app combines the best features of professional sound level meters and noise dosimeters into a simple, easy-to-use package.\n- Developed by experienced acoustics engineers and hearing"
+    },
+    {
+     "name": "Sound Meter (Decibel)",
+     "dev": "UniCom Technology",
+     "ratings": 3185,
+     "desc": "Sound level meter app is shows a decibel values by measure the environmental noise, displays measured dB values in various forms. \nYou can experience tidy graphic design with high frame by this smart "
+    },
+    {
+     "name": "Decibel : dB sound level meter",
+     "dev": "Vlad Polyanskiy",
+     "ratings": 36138,
+     "desc": "Decibel turns your device into a powerful sound level meter without any extra hardware. Measure ambient noise in real time, monitor sound levels (dB), and explore frequencies with the built-in Spectru"
+    },
+    {
+     "name": "Noise Meter - Sound & Decibel",
+     "dev": "MINGUK JANG",
+     "ratings": 3,
+     "desc": "Noise Meter turns your iPhone into a simple, real-time sound level meter. Using your device's microphone, it measures ambient noise in decibels (dB) and shows the reading on an easy-to-read gauge.\n\nFe"
+    },
+    {
+     "name": "Decibel Meter Ultra",
+     "dev": "Ultrafine",
+     "ratings": 2532,
+     "desc": "Measure, record and track sound levels in your environment with Decibel Meter Ultra, the all-in-one sound level meter, dosimeter and real-time analyzer.\n\nFrom monitoring sound levels at home, noise le"
+    },
+    {
+     "name": "Decibel Meter - Sound Level.",
+     "dev": "Luka Gomez",
+     "ratings": 3,
+     "desc": "Decibel Meter: Smart Noise Level Detector\n\nProtect your hearing and stay aware of your surroundings with Our App  – the ultimate sound measurement tool for everyday use. Whether you’re at a concert, i"
+    },
+    {
+     "name": "Decibel Meter Master",
+     "dev": "燕辉 冯",
+     "ratings": 3200,
+     "desc": "Decibel Meter Master makes your iPhone as a sound level meter，it can measure noise level."
+    },
+    {
+     "name": "Decibel - sound level meter",
+     "dev": "App Rover",
+     "ratings": 4699,
+     "desc": "Decibel is the perfect app to evaluate the noise around you : measure the sound pressure, see the spectrum variation, and then compare your recording to the reference chart included in the app. Is it "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "guitar tuner",
+   "top": [
+    {
+     "name": "GuitarTuna: Tune & Play Guitar",
+     "dev": "Yousician Ltd",
+     "ratings": 147934,
+     "desc": "GuitarTuna is your go-to guitar app, with over 100 million downloads and counting! Tune your guitar in seconds with the free guitar tuner, explore guitar chords & tabs for 20,000+ songs, and learn how"
+    },
+    {
+     "name": "Guitar Tuner - Simply Tune",
+     "dev": "Simply Ltd",
+     "ratings": 104808,
+     "desc": "World's #1 best-reviewed guitar tuner app!\n100% free premium tuner with chords & songs\nWith lots of different instruments to choose from, you can be tuning your guitar, bass or ukulele with fun and ea"
+    },
+    {
+     "name": "Fender Tune: Guitar Tuner App",
+     "dev": "Fender Digital",
+     "ratings": 151276,
+     "desc": "Fender Tune is the top-rated, precision tuner app for guitar, bass and ukulele from the most trusted name in guitars, Fender®. Accurately tune your instrument with Fender Tune’s easy-to-use interface,"
+    },
+    {
+     "name": "Guitar Tuner - Chromatic",
+     "dev": "Last Harmonic LLC",
+     "ratings": 8212,
+     "desc": "A simple, free tuner that works.\n\nWhat the users are saying:\n\"This is the only chromatic tuner that I tried on here that actually works.\" - dharris (USA)\n\n\"Great app, love the noise cancellation thing"
+    },
+    {
+     "name": "Tuner Pro: Guitar Tuner & Tab",
+     "dev": "MWM",
+     "ratings": 45688,
+     "desc": "Unlock perfect guitar tuning in seconds! Nail every note with our easy-to-use tuner, now powered by AI. Learn chords and play your favorite songs instantly.\n\nNo cables, no fuss. Just your phone and yo"
+    },
+    {
+     "name": "Pano Tuner Lite",
+     "dev": "Kaleloft Limited Liability Company",
+     "ratings": 7717,
+     "desc": "Pano Tuner listens, finds your pitch, and shows you exactly how far you are — sharp or flat — clearly enough to trust. Simple to open, accurate enough to rely on, and a favorite of players and teacher"
+    },
+    {
+     "name": "Pro Guitar Tuner",
+     "dev": "Pro Guitar Sweden AB",
+     "ratings": 10225,
+     "desc": "The guitar tuner app used by professional guitar makers, guitar repair shops and musicians around the world. \n\nThe app listen and analyze the sound in real time from the built-in mic, headset, guitar "
+    },
+    {
+     "name": "Guitar Tuner Easy tune chords",
+     "dev": "Manomaya SA",
+     "ratings": 45925,
+     "desc": "CoachTuner is a FREE chromatic instrument tuner that allows you to quickly tune your guitar, bass and ukulele using the built-in mic of your iPhone/iPad/iPod. CoachTuner can tune acoustic or electric "
+    },
+    {
+     "name": "Guitar Tuner - LikeTones",
+     "dev": "Vladislav Sonkin",
+     "ratings": 1249,
+     "desc": "Free. No Ads. Professional guitar tuner with high precision. A simple and very effective way to tune your guitar because of its many features.\n\nProfessional Guitar Tuner\nWe created a unique algorithm "
+    },
+    {
+     "name": "Yousician: Learn & Play Guitar",
+     "dev": "Yousician Ltd",
+     "ratings": 138538,
+     "desc": "YOUSICIAN — THE FASTEST WAY TO LEARN GUITAR, BASS & SINGING\n\nWhether you want to learn guitar from scratch, improve your bass guitar technique, or finally learn to sing, Yousician is your personal, an"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -9829,6 +10219,36 @@
    "note": "çok sıradan, heyecan yok",
    "label": "Sıkıcı fikir",
    "split": "dev"
+  },
+  {
+   "note": "bu app'in konusu benim mesleğimle hiçbir bağlantısı yok",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "reklam geliri bile çıkmaz, kimse ödemez",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "yapay zeka modeli eğitmem gerekir, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "train"
+  },
+  {
+   "note": "yıllardır güncelleme almamış, arayüz çok eski",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "apple sağlık tavsiyesi veren app'leri onaylamaz",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "en üstte çok yorumlu dev rakipler var, girilmez",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
   }
  ],
  "kind": [

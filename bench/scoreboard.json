@@ -2,11 +2,11 @@
  "current": {
   "intent": {
    "version": "v3",
-   "dev_acc": 0.9231,
+   "dev_acc": 0.8846,
    "test_acc": 1.0,
-   "dev_obj": 0.8612,
-   "test_obj": 0.991,
-   "brier": 0.0181,
+   "dev_obj": 0.8269,
+   "test_obj": 0.9933,
+   "brier": 0.0134,
    "n": 54,
    "versions": 3,
    "tried": 59,
@@ -14,19 +14,19 @@
   },
   "brand": {
    "version": "v3",
-   "dev_acc": 0.9231,
-   "test_acc": 0.931,
-   "dev_obj": 0.8733,
-   "test_obj": 0.8921,
-   "brier": 0.0778,
-   "n": 110,
+   "dev_acc": 0.9286,
+   "test_acc": 0.9206,
+   "dev_obj": 0.8825,
+   "test_obj": 0.8853,
+   "brier": 0.0707,
+   "n": 119,
    "versions": 3,
-   "tried": 82,
+   "tried": 83,
    "test_errors": [
     [
      "pharmacy technician letter",
      true,
-     0.22
+     0.23
     ],
     [
      "paramedic coach",
@@ -36,12 +36,17 @@
     [
      "pilot driver app",
      true,
-     0.26
+     0.28
     ],
     [
      "personal trainer prep: test",
      true,
      0.2
+    ],
+    [
+     "esab welding parameters set-up guide",
+     true,
+     0.48
     ]
    ]
   },
@@ -49,9 +54,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 0.9857,
-   "dev_obj": 0.9939,
-   "test_obj": 0.9767,
-   "brier": 0.018,
+   "dev_obj": 0.9941,
+   "test_obj": 0.9769,
+   "brier": 0.0177,
    "n": 129,
    "versions": 1,
    "tried": 12,
@@ -60,7 +65,7 @@
      "welding calculator",
      "WELDING PRO",
      0,
-     0.67
+     0.66
     ]
    ]
   },
@@ -68,9 +73,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9932,
-   "test_obj": 0.9928,
-   "brier": 0.0144,
+   "dev_obj": 0.9935,
+   "test_obj": 0.9925,
+   "brier": 0.015,
    "n": 29,
    "versions": 1,
    "tried": 16,
@@ -80,8 +85,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0387,
-   "test_obj": 1.0394,
+   "dev_obj": 1.0392,
+   "test_obj": 1.0397,
    "brier": null,
    "n": 13,
    "versions": 1,
@@ -92,7 +97,7 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0353,
+   "dev_obj": 1.0357,
    "test_obj": 1.0389,
    "brier": null,
    "n": 11,
@@ -104,8 +109,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0362,
-   "test_obj": 1.0367,
+   "dev_obj": 1.0365,
+   "test_obj": 1.0371,
    "brier": null,
    "n": 11,
    "versions": 1,
@@ -116,9 +121,9 @@
    "version": "v2",
    "dev_acc": 0.9333,
    "test_acc": 1.0,
-   "dev_obj": 0.916,
-   "test_obj": 0.9999,
-   "brier": 0.0001,
+   "dev_obj": 0.9157,
+   "test_obj": 1.0,
+   "brier": 0.0,
    "n": 29,
    "versions": 2,
    "tried": 30,
@@ -128,9 +133,9 @@
    "version": "v2",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9977,
-   "test_obj": 0.9999,
-   "brier": 0.0002,
+   "dev_obj": 0.9981,
+   "test_obj": 1.0,
+   "brier": 0.0001,
    "n": 21,
    "versions": 2,
    "tried": 5,
@@ -1577,22 +1582,117 @@
    "dev_obj": 0.9977,
    "test_obj": 0.9999,
    "n": 21
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "intent",
+   "version": "v3",
+   "dev_acc": 0.8846,
+   "test_acc": 1.0,
+   "dev_obj": 0.8269,
+   "test_obj": 0.9933,
+   "n": 54
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "brand",
+   "version": "v3",
+   "dev_acc": 0.9286,
+   "test_acc": 0.9206,
+   "dev_obj": 0.8825,
+   "test_obj": 0.8853,
+   "n": 119
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 0.9857,
+   "dev_obj": 0.9941,
+   "test_obj": 0.9769,
+   "n": 129
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9935,
+   "test_obj": 0.9925,
+   "n": 29
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0392,
+   "test_obj": 1.0397,
+   "n": 13
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0357,
+   "test_obj": 1.0389,
+   "n": 11
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0365,
+   "test_obj": 1.0371,
+   "n": 11
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "kind",
+   "version": "v2",
+   "dev_acc": 0.9333,
+   "test_acc": 1.0,
+   "dev_obj": 0.9157,
+   "test_obj": 1.0,
+   "n": 29
+  },
+  {
+   "ts": "2026-10-06T09:41:53+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9981,
+   "test_obj": 1.0,
+   "n": 21
   }
  ],
- "updated": "2026-10-06T08:43:34+00:00",
+ "updated": "2026-10-06T09:41:53+00:00",
  "raw": {
   "intent": {
    "version": "v3",
    "dev": {
     "n": 26,
-    "acc": 0.9231,
-    "brier": 0.1237,
-    "obj": 0.8612,
+    "acc": 0.8846,
+    "brier": 0.1155,
+    "obj": 0.8269,
     "errors": [
      [
       "e6b flight computer",
       "need",
       "brand"
+     ],
+     [
+      "speech therapy delhi",
+      "local_business",
+      "need"
      ],
      [
       "trucker path",
@@ -1604,51 +1704,51 @@
    "test": {
     "n": 28,
     "acc": 1.0,
-    "brier": 0.0181,
-    "obj": 0.991,
+    "brier": 0.0134,
+    "obj": 0.9933,
     "errors": []
    }
   },
   "brand": {
    "version": "v3",
    "dev": {
-    "n": 52,
-    "acc": 0.9231,
-    "brier": 0.0996,
-    "obj": 0.8733,
+    "n": 56,
+    "acc": 0.9286,
+    "brier": 0.0921,
+    "obj": 0.8825,
     "errors": [
      [
       "speech therapy delhi",
       true,
-      0.17
+      0.16
      ],
      [
       "miller weld setting calculator",
       true,
-      0.25
+      0.24
      ],
      [
       "plumber license prep: exam",
       true,
-      0.17
+      0.19
      ],
      [
       "acupuncture atlas 3d",
       false,
-      0.72
+      0.71
      ]
     ]
    },
    "test": {
-    "n": 58,
-    "acc": 0.931,
-    "brier": 0.0778,
-    "obj": 0.8921,
+    "n": 63,
+    "acc": 0.9206,
+    "brier": 0.0707,
+    "obj": 0.8853,
     "errors": [
      [
       "pharmacy technician letter",
       true,
-      0.22
+      0.23
      ],
      [
       "paramedic coach",
@@ -1658,12 +1758,17 @@
      [
       "pilot driver app",
       true,
-      0.26
+      0.28
      ],
      [
       "personal trainer prep: test",
       true,
       0.2
+     ],
+     [
+      "esab welding parameters set-up guide",
+      true,
+      0.48
      ]
     ]
    }
@@ -1673,21 +1778,21 @@
    "dev": {
     "n": 59,
     "acc": 1.0,
-    "brier": 0.0121,
-    "obj": 0.9939,
+    "brier": 0.0118,
+    "obj": 0.9941,
     "errors": []
    },
    "test": {
     "n": 70,
     "acc": 0.9857,
-    "brier": 0.018,
-    "obj": 0.9767,
+    "brier": 0.0177,
+    "obj": 0.9769,
     "errors": [
      [
       "welding calculator",
       "WELDING PRO",
       0,
-      0.67
+      0.66
      ]
     ]
    }
@@ -1697,15 +1802,15 @@
    "dev": {
     "n": 15,
     "acc": 1.0,
-    "brier": 0.0136,
-    "obj": 0.9932,
+    "brier": 0.0131,
+    "obj": 0.9935,
     "errors": []
    },
    "test": {
     "n": 14,
     "acc": 1.0,
-    "brier": 0.0144,
-    "obj": 0.9928,
+    "brier": 0.015,
+    "obj": 0.9925,
     "errors": []
    }
   },
@@ -1715,16 +1820,16 @@
     "n": 6,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7733,
-    "obj": 1.0387,
+    "margin": 0.7833,
+    "obj": 1.0392,
     "errors": []
    },
    "test": {
     "n": 7,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7886,
-    "obj": 1.0394,
+    "margin": 0.794,
+    "obj": 1.0397,
     "errors": []
    }
   },
@@ -1734,15 +1839,15 @@
     "n": 3,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.705,
-    "obj": 1.0353,
+    "margin": 0.715,
+    "obj": 1.0357,
     "errors": []
    },
    "test": {
     "n": 8,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7787,
+    "margin": 0.7781,
     "obj": 1.0389,
     "errors": []
    }
@@ -1753,16 +1858,16 @@
     "n": 6,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7233,
-    "obj": 1.0362,
+    "margin": 0.7293,
+    "obj": 1.0365,
     "errors": []
    },
    "test": {
     "n": 5,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7338,
-    "obj": 1.0367,
+    "margin": 0.7428,
+    "obj": 1.0371,
     "errors": []
    }
   },
@@ -1771,8 +1876,8 @@
    "dev": {
     "n": 15,
     "acc": 0.9333,
-    "brier": 0.0347,
-    "obj": 0.916,
+    "brier": 0.0353,
+    "obj": 0.9157,
     "errors": [
      [
       "Find my Friends, Family Phone",
@@ -1784,8 +1889,8 @@
    "test": {
     "n": 14,
     "acc": 1.0,
-    "brier": 0.0001,
-    "obj": 0.9999,
+    "brier": 0.0,
+    "obj": 1.0,
     "errors": []
    }
   },
@@ -1794,18 +1899,18 @@
    "dev": {
     "n": 10,
     "acc": 1.0,
-    "brier": 0.0046,
-    "obj": 0.9977,
+    "brier": 0.0038,
+    "obj": 0.9981,
     "errors": []
    },
    "test": {
     "n": 11,
     "acc": 1.0,
-    "brier": 0.0002,
-    "obj": 0.9999,
+    "brier": 0.0001,
+    "obj": 1.0,
     "errors": []
    }
   }
  },
- "fingerprint": "7260c20ab428"
+ "fingerprint": "18fc1ff58807"
 }

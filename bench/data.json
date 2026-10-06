@@ -9846,6 +9846,786 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "solidifi notary network",
+   "top": [
+    {
+     "name": "Solidifi Notary Network",
+     "dev": "Solidifi U.S. Inc.",
+     "ratings": 24,
+     "desc": "The Solidifi Notary Network app for iOS allows Solidifi Notaries to have quick and easy access to all of their Solidifi orders. You can accept or decline signings, manage your calendar, get travel and"
+    },
+    {
+     "name": "Bancserv App",
+     "dev": "Chris Lizar",
+     "ratings": 3,
+     "desc": "Bancserv's notary application allows our notaries to view their assignments, confirm the exact scheduled time, and complete orders faster than ever before.  Save time and effort by downloading the Ban"
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "NSC Notary Suite",
+     "dev": "Nations Holding Company",
+     "ratings": 0,
+     "desc": "Nations Signature Closers offers this app as a simplified solution for notaries to interact with our orders.  If you are not a notary in our system and would like to be, please register for a new Vend"
+    },
+    {
+     "name": "NotaryGadget",
+     "dev": "Realtyzam, LLC",
+     "ratings": 729,
+     "desc": "NotaryGadget  is the ultimate app for notary signing agents. It makes just about everything you do easier - sending invoices, tracking payments, tracking mileage, tracking notarial acts, managing your"
+    },
+    {
+     "name": "NotaryAssist",
+     "dev": "LavaTurtle Software Inc.",
+     "ratings": 215,
+     "desc": "NotaryAssist is the simplest way to run your notary business like a professional.\nForward confirmation emails to create appointments in seconds. Sync across devices and calendars. Track income, expens"
+    },
+    {
+     "name": "My Signings",
+     "dev": "Rocket Close, LLC",
+     "ratings": 108,
+     "desc": "Manage your business on the fly using the My Signings app! My Signings is the app created by Rocket Close for Partner Signing Agents to accept and provide status updates for new closing appointments f"
+    },
+    {
+     "name": "Instant Notary App",
+     "dev": "OnlineNotary.net/Instant Notary LLC",
+     "ratings": 8069,
+     "desc": "OnlineNotary.net is a Virginia based company that can legally perform online notary to any US Citizen or US Resident. Our experienced and friendly, professionally licensed and certified notaries can h"
+    },
+    {
+     "name": "NotaryAct - Electronic Journal",
+     "dev": "NotaryAct",
+     "ratings": 98,
+     "desc": "Replace the Paper Journal. Stay Compliant. Save Hours Every Week.\n\nNotaryAct is the original and most trusted electronic notary journal built by notaries, for notaries. Since 2012, over 25,000 notary "
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "equinet - mustad farrier app",
+   "top": [
+    {
+     "name": "EQUINET - Mustad Farrier App",
+     "dev": "Mustad Hoofcare",
+     "ratings": 9,
+     "desc": "EQUINET is an app designed to make every day business management easier for farriers. \n\nApp features:\n1. HORSE & CONTACT LOGS: instant overview of all your contacts and horses in one place.\n\n2. HORSE "
+    },
+    {
+     "name": "Best Farrier",
+     "dev": "Best Mobile Professional, LLC",
+     "ratings": 10,
+     "desc": "Best Farrier is a scheduling and invoicing app for farriers, built for mobile devices, that helps you run your business efficiently on the go. All your business information is in one place, easily and"
+    },
+    {
+     "name": "DRF Horse Racing News & Data",
+     "dev": "Sports Information Group LLC",
+     "ratings": 4963,
+     "desc": "Horse Racing is a breeze with the DRF App, the official app of the Daily Racing Form! \n\nWinning horseplayers have trusted the Daily Racing Form for more than 130 years. Get access to the same inside i"
+    },
+    {
+     "name": "Equilab: Horse Riding Tracker",
+     "dev": "Equestrian Insights AB",
+     "ratings": 5156,
+     "desc": "Start tracking your rides with the world’s leading app for equestrians. Equilab lets you track the distance, speed, gaits, and turns of your sessions — all using your smartphone (or Apple Watch). Then"
+    },
+    {
+     "name": "Equestrian App",
+     "dev": "Patrick Husting",
+     "ratings": 73,
+     "desc": "The Equestrian App manages day-to-day horse activities like stall management, boarding, leasing rules, training plans, veterinarian exams, farrier visits, invoicing, ride tracking, a marketplace, and "
+    },
+    {
+     "name": "Horse App: Care - HorseCare",
+     "dev": "Distinct Systems",
+     "ratings": 74,
+     "desc": "HorseCare is the horse home for owners, riders, and barns. Health notes, feeding, diary, training, and records stay with the horse — so you know what today needs.\n\nStart with one photo of YOUR horse, "
+    },
+    {
+     "name": "QData App",
+     "dev": "AQHA",
+     "ratings": 10,
+     "desc": "QData Catalog App is an innovative electronic organizational tool for equine auction catalogs, offering: \n\nTruly interactive, crystal clear catalog pages \n\nThe ability to save, sort and email favorite"
+    },
+    {
+     "name": "LiveEQ",
+     "dev": "Live EQ LLC",
+     "ratings": 752,
+     "desc": "LiveEQ is the leading mobile equestrian app! Find horses, stables, equine jobs, trainers, events, service providers and more on LiveEQ for FREE. List your stable, horse, job, business listing and more"
+    },
+    {
+     "name": "Equestrian the Game",
+     "dev": "Kavalri Games",
+     "ratings": 10651,
+     "desc": "Live the horse dream! Equestrian the game is a horse riding- & management game. Ride and compete with horses of different breeds and personalities! Breed horses and get a genetically correct foals! Fe"
+    },
+    {
+     "name": "Anvil Brand App",
+     "dev": "Flight Path Creative LLC",
+     "ratings": 2,
+     "desc": "Anvil Brand products are made and inspected by active farriers who understand the need of our customers. Our quality shoes and tools meet the expectations of special customers, including the Budweiser"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "shoein': farrier client book",
+   "top": [
+    {
+     "name": "Shoein': Farrier Client Book",
+     "dev": "Auaha App Development LLC",
+     "ratings": 0,
+     "desc": "Shoein' is the client and trim-cycle manager built for working farriers. Instead of juggling a notebook, texts, and your memory, you get one place that tells you exactly which horses are due and makes"
+    },
+    {
+     "name": "EQUINET - Mustad Farrier App",
+     "dev": "Mustad Hoofcare",
+     "ratings": 9,
+     "desc": "EQUINET is an app designed to make every day business management easier for farriers. \n\nApp features:\n1. HORSE & CONTACT LOGS: instant overview of all your contacts and horses in one place.\n\n2. HORSE "
+    },
+    {
+     "name": "Best Farrier",
+     "dev": "Best Mobile Professional, LLC",
+     "ratings": 10,
+     "desc": "Best Farrier is a scheduling and invoicing app for farriers, built for mobile devices, that helps you run your business efficiently on the go. All your business information is in one place, easily and"
+    },
+    {
+     "name": "Farrier Fleet",
+     "dev": "Simon Fleet",
+     "ratings": 0,
+     "desc": "Farrier Fleet helps farriers keep clients, horses, appointments, shoeing records, hoof photos, and loadouts organised in one place.\n\nDesigned around the day-to-day needs of working farriers, Farrier F"
+    },
+    {
+     "name": "American Farrier’s Association",
+     "dev": "American Farrier’s Association",
+     "ratings": 1,
+     "desc": "The American Farrier’s Association app connects you with the most up to date information for members, certification requirements, news and events.  Use the app to connect with members, locate certific"
+    },
+    {
+     "name": "LiveEQ",
+     "dev": "Live EQ LLC",
+     "ratings": 752,
+     "desc": "LiveEQ is the leading mobile equestrian app! Find horses, stables, equine jobs, trainers, events, service providers and more on LiveEQ for FREE. List your stable, horse, job, business listing and more"
+    },
+    {
+     "name": "The Shoeing Lab",
+     "dev": "MATKIT YAZILIM TEKNOLOJILERI ANONIM SIRKETI",
+     "ratings": 3,
+     "desc": "The Shoeing Lab is a supplier of farrier and horse owner products. We design new innovative products to bring to the market and stock major brands."
+    },
+    {
+     "name": "Anvil Brand App",
+     "dev": "Flight Path Creative LLC",
+     "ratings": 2,
+     "desc": "Anvil Brand products are made and inspected by active farriers who understand the need of our customers. Our quality shoes and tools meet the expectations of special customers, including the Budweiser"
+    },
+    {
+     "name": "Proper Strides",
+     "dev": "Proper Miles LLC",
+     "ratings": 5,
+     "desc": "Proper Strides - Horse Management, Ride Tracker, Equine Records\n\nProper Strides is an all-in-one horse management app for horse owners, riders, trainers, and barns. Track rides, manage horse records, "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "thepour: ai bartender vesper",
+   "top": [
+    {
+     "name": "thepour: AI Bartender Vesper",
+     "dev": "Intent Studios LLC",
+     "ratings": 2,
+     "desc": "thepour is the cocktail app with a bartender who knows your bar.\nMost drink apps are just searchable databases. thepour is different. Meet Vesper — an AI bartender with opinions, taste, and a direct l"
+    },
+    {
+     "name": "Barsys AI",
+     "dev": "Barsys LLC",
+     "ratings": 159,
+     "desc": "BARSYS AI APP \n\nYour AI bartender. Infinite cocktails, instant recipes, and personalized drinks based on what you already have at home, powered by AI. Host like a pro, one prompt away.\nMeet Barsys AI "
+    },
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Kindroid: Your Personal AI",
+     "dev": "Beautifully Incorporated",
+     "ratings": 9077,
+     "desc": "Kindroid enables you to build a digital friend so realistic, it feels like conversing with a human. Welcome to a world where cutting-edge AI blends seamlessly with human empathy.\n\nCreate Your Unique A"
+    },
+    {
+     "name": "Be a Bartender!",
+     "dev": "Pernod Ricard Europe",
+     "ratings": 934,
+     "desc": "18 +\n\nEver wanted to be on the other side of the bar? Battle your way through hectic nights serving great drinks to enthusiastic and unpredictable guests! Take control of your station and learn how to"
+    },
+    {
+     "name": "TokkingHeads AI Magic Avatars",
+     "dev": "Rosebud AI",
+     "ratings": 26293,
+     "desc": "Introducing TokkingHeads, the Ultimate App for Faceplay and AI Character Chat\n\nTokkingHeads isn’t just an app; it’s a creative universe where you can animate faces, generate AI-driven videos, and now,"
+    },
+    {
+     "name": "Drinks and Cocktails",
+     "dev": "Genetic Mistakes Software Inc.",
+     "ratings": 85,
+     "desc": "Free drink and cocktail recipes at the spin of a dial. Browse the list to discover new drinks, or search for a specific one.\n\nQuickly add and remove cocktails to your favorites to easily find that per"
+    },
+    {
+     "name": "Cantina: AI Video & Characters",
+     "dev": "Cantina, Inc",
+     "ratings": 95907,
+     "desc": "Build expressive AI characters and turn them into shareable videos in seconds.\n\nCantina is a social AI platform where characters become a new creative medium. Create characters with personality, voice"
+    },
+    {
+     "name": "Tavo - AI Roleplay Frontend",
+     "dev": "Bitbear Limited",
+     "ratings": 370,
+     "desc": "Tavo is a chat client specifically designed for AI role-playing enthusiasts, offering an intuitive, powerful, and unrestricted LLM front-end.\n\nAll features are completely free!\n\nJoin our community of "
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "us sailing bookstore",
+   "top": [
+    {
+     "name": "US Sailing Bookstore",
+     "dev": "US SAILING",
+     "ratings": 14,
+     "desc": "The US Sailing Bookstore provides you access to the digital publications of US Sailing through your mobile devices. We offer a wide variety of sailing-related publications, including The Racing Rules "
+    },
+    {
+     "name": "US Sailing Racing Rules",
+     "dev": "US SAILING",
+     "ratings": 29,
+     "desc": "When it comes to The Racing Rules of Sailing, US Sailing makes the rules available whenever and wherever you want. Our premier product, the Racing Rules App, ensures that you have access to the rules "
+    },
+    {
+     "name": "SailFlow: Sailing Forecasts",
+     "dev": "WeatherFlow",
+     "ratings": 5814,
+     "desc": "Whether you’re racing, cruising, day sailing, you need precise sailing forecasts and real-time wind. SailFlow delivers both.\n\nPowered by 90,000+ exclusive Tempest Weather Stations and 150,000+ total s"
+    },
+    {
+     "name": "US Sailing Skill Up",
+     "dev": "US SAILING",
+     "ratings": 13,
+     "desc": "Designed to connect sailors, parents, instructors and coaches with skill development resources for every level, the Skill Up app brings US Sailing's curriculum to your fingertips. Beginning sailors wi"
+    },
+    {
+     "name": "US Sailing Events",
+     "dev": "US SAILING",
+     "ratings": 0,
+     "desc": "View the schedule, network with attendees, learn about sponsors and be in the know on all things Sailing Leadership Forum with this exclusive event app."
+    },
+    {
+     "name": "SailGP",
+     "dev": "SailGP",
+     "ratings": 706,
+     "desc": "Get closer to the action with the SailGP app. SailGP is the world's fastest sailing race, created to redefine sailing and give global sports fans a year-round, supercharged version of the sport. Witne"
+    },
+    {
+     "name": "iNavX: Marine Navigation",
+     "dev": "NavX Studios LLC",
+     "ratings": 21749,
+     "desc": "Marine navigation is made easy with iNavX - the world's #1 handheld Chartplotter. Access marine charts, maps, weather, AIS and more!\n\niNavX is the only app to give you complete worldwide chart coverag"
+    },
+    {
+     "name": "Windy.com",
+     "dev": "Windyty, SE",
+     "ratings": 79629,
+     "desc": "A UNIQUE WEATHER FORECAST VISUALISATION\nWhile most weather forecasting apps rely solely on free global models, Windy has gone a step further by investing heavily in the most accurate weather models av"
+    },
+    {
+     "name": "My Tide Times - Tables & Chart",
+     "dev": "JRustonApps B.V.",
+     "ratings": 17395,
+     "desc": "My Tide Times is the only tide times application you'll ever need. Whether you're surfing, fishing or just going to the beach you'll be able to use it to get quick and easy access to the times. We thi"
+    },
+    {
+     "name": "Go Sailing",
+     "dev": "American Sailing Association",
+     "ratings": 46,
+     "desc": "Welcome to Go Sailing, the best way to connect to the sailing community. Go Sailing lets you share your passion for sailing with others, allowing you to create or join sailing trips, meet new friends "
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "pocket sommelier: wine pairing",
+   "top": [
+    {
+     "name": "Pocket Sommelier: Wine Pairing",
+     "dev": "Moonbeam Tech Limted",
+     "ratings": 9,
+     "desc": "Find the perfect wine for every meal with Pocket Sommelier, your AI-powered wine pairing assistant.\n\nWhether you're cooking at home, ordering in a restaurant, or browsing a wine shop, Pocket Sommelier"
+    },
+    {
+     "name": "Pocket Wine Pairing: Sommelier",
+     "dev": "Time Marketing Limited",
+     "ratings": 359,
+     "desc": "Featured as one of the “Best New Apps” on the App Store!\n\nFood and wine pairing has never been so clear, accessible and easy to understand. The app gives you a detailed index of hundreds of meal types"
+    },
+    {
+     "name": "Vivino: Drink The Right Wine",
+     "dev": "Vivino ApS",
+     "ratings": 138108,
+     "desc": "Vivino helps you discover, choose, and buy the right wine.\n\nJoin over 70 million wine lovers who use Vivino to scan labels, track their tastes with ratings,  and buy wines directly in the app.\n\nFrom c"
+    },
+    {
+     "name": "Hello Vino: Wine Assistant",
+     "dev": "Hello Vino",
+     "ratings": 6715,
+     "desc": "Hello Vino is your virtual wine assistant. Buying wine is fun and easy with Hello Vino's recommendations for food and wine pairings, special occasions and personalized wine picks based on your taste p"
+    },
+    {
+     "name": "Total Wine & More",
+     "dev": "Retail Services & Systems, Inc.",
+     "ratings": 120367,
+     "desc": "Take Total Wine & More with you wherever you go! Our new app makes it easy to search our incredible product selections, shop and pickup in store, enjoy special offers and much more. Make your shopping"
+    },
+    {
+     "name": "InVintory: Wine Cellar Manager",
+     "dev": "InVintory Wines Incorporated",
+     "ratings": 4822,
+     "desc": "The best wine cellar management app for collectors. Track every bottle with a powerful wine tracker and label scanner, get advice from your built-in AI sommelier, and keep a tasting journal — organize"
+    },
+    {
+     "name": "nakedwines.com",
+     "dev": "NAKEDWINES.COM, INC.",
+     "ratings": 61276,
+     "desc": "Naked Wines supports independent winemakers from around the world to make world-class wine just for you.\n\nDownload the Naked app to:\n\nShop wine, your way\nBrowse 100s of wines in our digital wine cella"
+    },
+    {
+     "name": "Last Bottle Wines",
+     "dev": "Last Bottle Wines",
+     "ratings": 20373,
+     "desc": "“Regardless of what I'm doing, I always get excited when I get a notification about a new wine on Last Bottle”\n\nRated one of the best places to buy wine online by Food & Wine!\n\nFinding exciting new wi"
+    },
+    {
+     "name": "Delectable - Scan & Rate Wine",
+     "dev": "Delectable",
+     "ratings": 25968,
+     "desc": "“The Essential Wine App” — James Beard award winner Jordan Mackay\n\nTake a photo of a wine label and instantly get ratings and descriptions with Delectable, the critically-acclaimed free app that helps"
+    },
+    {
+     "name": "CellarTracker: #1 Wine Tracker",
+     "dev": "CellarTracker",
+     "ratings": 13095,
+     "desc": "CellarTracker is the top-rated wine app with 4.9 of 5 stars, over 13.6 million wine ratings and reviews, and over 8.8 million users globally, collectively tracking $21 billion of wine and millions of "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "jet lag",
+   "top": [
+    {
+     "name": "Timeshifter",
+     "dev": "Timeshifter Inc.",
+     "ratings": 2645,
+     "desc": "Reduce jet lag with personalized plans based on the latest sleep and circadian science. Timeshifter creates a plan for every flight and time zone, tailored to your chronotype, sleep pattern, itinerary"
+    },
+    {
+     "name": "Skiplagged - Travel Hacks",
+     "dev": "Skiplagged LLC",
+     "ratings": 335843,
+     "desc": "We are the original and best hidden city booking engine. Find cheap flights and hotel rates you won’t see anywhere else. Save hundreds of dollars compared to other travel sites.\n\nDiscover extraordinar"
+    },
+    {
+     "name": "Reclock: Jet Lag Planner",
+     "dev": "BetterCampus, Inc.",
+     "ratings": 0,
+     "desc": "Your flights are already on your phone. Your jet lag plan appears automatically.\n\nReclock turns any trip into a clear, personal schedule for sleep, bright light, caffeine, and recovery, so you feel lo"
+    },
+    {
+     "name": "Jetlag - Travel & Timezone",
+     "dev": "Kinokode",
+     "ratings": 42,
+     "desc": "Jetlag is the essential app for travelers who want to anticipate jet lag, organize their days abroad, and visualize their destinations at a glance.\n\n• Clocks and time zones\n\n- Easily compare times bet"
+    },
+    {
+     "name": "Flykitt",
+     "dev": "Kitt Bio Inc.",
+     "ratings": 252,
+     "desc": "Developed based on research with Navy SEALs and fighter pilots, loved by pro sports teams, and optimized for business and leisure travelers, Flykitt's healthy-travel AI leverages unique insights acros"
+    },
+    {
+     "name": "JetShift: Skip Jetlag",
+     "dev": "Jannik Obenhoff",
+     "ratings": 1,
+     "desc": "Whether you're a frequent flyer, international traveler, or planning your first long-haul trip, JetShift helps your body adapt to new time zones quickly and efficiently. Say goodbye to sleepless night"
+    },
+    {
+     "name": "Minut Smart Home Sensor",
+     "dev": "Minut, Inc.",
+     "ratings": 51,
+     "desc": "Let Minut be your co-host and care for your home, guests and community. Prevent unauthorized parties in your rental property, secure your home and enhance guest experience.\n\nAbout this app\nGet your Mi"
+    },
+    {
+     "name": "Sandpiper: Jet Lag App",
+     "dev": "Bayhart Ventures LLC",
+     "ratings": 2,
+     "desc": "Sandpiper helps you reduce jet lag for your trip.\n\nEnter your flight details and Sandpiper builds a personalized hour-by-hour action plan — telling you exactly when to seek sunlight, avoid light, drin"
+    },
+    {
+     "name": "Jet Lag Time Zone Shifter",
+     "dev": "Burak Guner",
+     "ratings": 3,
+     "desc": "Land ready, not wrecked. Jet Lag Time Zone Shifter builds you a personalized plan to beat jet lag before it starts, so you arrive sharp and sleep on local time faster.\n\nCrossing time zones throws your"
+    },
+    {
+     "name": "FlyWell - beat jet lag. Travel",
+     "dev": "T-group",
+     "ratings": 5,
+     "desc": "Key Features:\n\t•\tPersonalized Jet Lag Plan:\nEnter your flight details, sleep schedule, and preferences to get a tailored plan that aligns your body clock with your destination’s time zone.\n\t•\tAI Chat "
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "respiratory therapy",
+   "top": [
+    {
+     "name": "VentRef",
+     "dev": "Rishi Kumar",
+     "ratings": 44,
+     "desc": "VentRef is a focused clinical reference for clinicians managing invasive and noninvasive mechanical ventilation and oxygen therapy, grounded in core respiratory physiology and evidence-based critical "
+    },
+    {
+     "name": "NBRC RRT Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 5,
+     "desc": "Master the NBRC RRT Exam with Flashcards 2026! \nPreparing for the National Board for Respiratory Care (NBRC) Registered Respiratory Therapist (RRT) exam is crucial for aspiring respiratory therapists."
+    },
+    {
+     "name": "Respiratory Therapist NBRC",
+     "dev": "Md Tariqul Islam",
+     "ratings": 0,
+     "desc": "Our app is a comprehensive study tool for both the NBRC credential exams (CRT, TMC, RRT/CSE) and general respiratory therapist topics. We cover all major subjects – patient data collection, chest imag"
+    },
+    {
+     "name": "RTB2 – Respiratory Reference",
+     "dev": "BByte Techworks LLC",
+     "ratings": 2,
+     "desc": "RTβ₂ (RTB2) is a Respiratory Therapy reference and clinical toolset designed for Respiratory Therapists, respiratory therapy students, and healthcare professionals working in ICU and critical care env"
+    },
+    {
+     "name": "NBRC RRT Exam Prep | 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 48,
+     "desc": "NBRC RRT Exam Prep | 2026 is designed to help respiratory care professionals thoroughly prepare for the Registered Respiratory Therapist (RRT) exam, administered by the National Board for Respiratory "
+    },
+    {
+     "name": "Respiratory Diseases",
+     "dev": "Focus Medica",
+     "ratings": 1,
+     "desc": "With this application, you can download animation titles on respiratory diseases that explain the anatomy and functioning of respiratory system, immunopathology of the disease, its causes, signs, symp"
+    },
+    {
+     "name": "Rapid Vent Calculator",
+     "dev": "JENCO LLC",
+     "ratings": 47,
+     "desc": "Rapid Vent Calculator is a clinician-focused field guide and reference tool for adult ventilator setting calculations, RSI medication dosing, and quick respiratory care references.\n\nDesigned for param"
+    },
+    {
+     "name": "ABG Expert",
+     "dev": "Brian Dale Vander Werf MD Inc",
+     "ratings": 9,
+     "desc": "ABG Expert™ is simply the best acid-base analysis tool with features available in no other app. Designed and tested by practicing physicians, ABG Expert is trusted by medical professionals for unparal"
+    },
+    {
+     "name": "Respiratory Notes",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 4,
+     "desc": "\"Try before you buy\"\" - Download the FREE App, which includes sample content. An in-App purchase is required to unlock all content.\n \nProcedure-based format, all the respiratory therapy information yo"
+    },
+    {
+     "name": "Prognosis: Your Diagnosis",
+     "dev": "Medical Joyworks LLC",
+     "ratings": 2950,
+     "desc": "With Prognosis, you can improve your ability to diagnose and immediately manage key clinical presentations associated with a disease, having access to relevant facts and succinct explanations behind t"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "scuba diving",
+   "top": [
+    {
+     "name": "PADI",
+     "dev": "PADI Americas, Inc.",
+     "ratings": 45697,
+     "desc": "The New PADI App\nLearn, log, stay inspired , and book your next adventure\n\n…all in one app.\n\n\n\nLearn Anywhere\nBoth online and offline. \nThe best scuba diving training materials in the world are availa"
+    },
+    {
+     "name": "Scuba Diving Computer Oceanic+",
+     "dev": "Huish Outdoors, LLC",
+     "ratings": 4681,
+     "desc": "Dive into a World of Adventure with Oceanic+ on Your Apple Watch Ultra!\nReady to make every dive or snorkeling experience an unforgettable journey? \nOceanic+ transforms your Apple Watch Ultra into a f"
+    },
+    {
+     "name": "SSI App - Education and Fun",
+     "dev": "HEAD Watersports GmbH",
+     "ratings": 8383,
+     "desc": "DIGITAL DIVE LOG\nFast dive logging for scuba, freediving, extended range & rebreather dives. Sync from Mares, Suunto, Shearwater, Aqualung & more. GPS tagging, QR codes & Dive Site Database included.\n"
+    },
+    {
+     "name": "Scuba Dive Signals",
+     "dev": "Eric Hamiter",
+     "ratings": 3,
+     "desc": "Access a handy list of dive signals to safely communicate underwater while scuba diving. This contains a list of hand signals generally recognized by the Recreational Scuba Training Council and its me"
+    },
+    {
+     "name": "DiveSight: Scuba Forecasts",
+     "dev": "DiveSight LLC",
+     "ratings": 25,
+     "desc": "Know what you'll see before you dive — the first app to forecast both marine life abundance and underwater visibility, at dive sites worldwide.\n\nUpdated daily. Pick the right site, the right day, and "
+    },
+    {
+     "name": "Dive+ World's Diving Community",
+     "dev": "Life Plus Tech (Shenzhen) Co., Ltd.",
+     "ratings": 2571,
+     "desc": "All about diving, all in Dive+ APP!\n\n[ BUDDIES WORLDWIDE ]\nDivers from 200+ countries are sharing their diving experiences and infos of dive sites. You can explore what is happening in dive locations,"
+    },
+    {
+     "name": "Garmin Dive™",
+     "dev": "Garmin",
+     "ratings": 852,
+     "desc": "Whether you’re a beginner or an experienced diver, Garmin Dive is the ultimate diving companion. Once you pair your phone with a Descent™ dive computer or another compatible Garmin device¹, you can en"
+    },
+    {
+     "name": "Diving Simulator 2020",
+     "dev": "Ilia Stepanov",
+     "ratings": 1399,
+     "desc": "FIRST DIVING SIM FOR MOBILE\nGame is completely free!\n\nImmerse yourself in the underwater world of our planet.\nExplore reefs and sunken ships.\nSee amazing marine life.\n\nThis version include 3 diving si"
+    },
+    {
+     "name": "DiveMaps",
+     "dev": "NDL, UCH",
+     "ratings": 3,
+     "desc": "DiveMaps is an app made by divers for divers. Here you can find detailed maps of underwater routes, a free logbook, tests, a diving encyclopedia and much more."
+    },
+    {
+     "name": "Nitrox Buddy",
+     "dev": "Gereon Steffens",
+     "ratings": 487,
+     "desc": "Nitrox Buddy is a no-frills calculator app for nitrox/enriched air divers - use it to quickly calculate the most important data for your dive: Maximum Operating Depth/MOD, Equivalent Air Depth/EAD, Be"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "hvac learning",
+   "top": [
+    {
+     "name": "HVAC Mastery",
+     "dev": "arjan qema",
+     "ratings": 2,
+     "desc": "HVAC Mastery is the hands-on study companion for anyone learning the heating, ventilation, air conditioning, and refrigeration trade — from first-year apprentices to experienced technicians brushing u"
+    },
+    {
+     "name": "HVACR Learning Network by ESCO",
+     "dev": "Esco Institute Ltd",
+     "ratings": 4,
+     "desc": "Extend Your HVACR Learning Network Experience Anytime, Anywhere!\n\nThe HVACR Learning Network App is the perfect companion for HVACR professionals and students who want to stay connected to their learn"
+    },
+    {
+     "name": "SkillCat: EPA 608 & HVAC",
+     "dev": "SkillCat Inc",
+     "ratings": 9986,
+     "desc": "SkillCat helps you build trade skills, earn certifications, and move your career forward - all from your phone.\n\nNo classroom.\nNo big bill.\nNo waiting around for someone to give you permission.\n\nJust "
+    },
+    {
+     "name": "Coolbench: HVAC Toolkit",
+     "dev": "Monirujjaman Monjil",
+     "ratings": 0,
+     "desc": "Coolbench is the all-in-one toolkit for HVAC/R technicians — everything you reach for on a service call, in one fast, offline-first app.\n\nCHARGING ASSISTANT\n• Live superheat and subcooling with instan"
+    },
+    {
+     "name": "RAC Videos",
+     "dev": "UNEP",
+     "ratings": 0,
+     "desc": "A series of short instructional videos on techniques, safety and best practice for refrigeration and air-conditioning technicians\n\nThis application, consisting of short instructional videos on techniq"
+    },
+    {
+     "name": "HVAC Visual Learning Studio",
+     "dev": "Yuhsiu Lai",
+     "ratings": 0,
+     "desc": "HVAC Visual Learning Studio is the engineering toolkit, refrigerant database, animated simulation lab, and visual reference library that working HVAC engineers actually use.\n\nThis is NOT a generic lea"
+    },
+    {
+     "name": "HVAC School",
+     "dev": "Kalos Services Inc.",
+     "ratings": 85,
+     "desc": "The app that helps you remember some things you forgot along the way, as well as helps you remember some things you forgot to know in the first place.\n\nFor all current and aspiring HVAC technicians: H"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "Interplay Learning",
+     "dev": "Interplay Learning Inc.",
+     "ratings": 49,
+     "desc": "Interplay Learning’s career development platform (formerly SkillMill) is a subscription-based solution that delivers always-on training, creating job-ready skilled trades workers and upskilling tenure"
+    },
+    {
+     "name": "CoolCalc - HVAC Tools",
+     "dev": "杰 陈",
+     "ratings": 1,
+     "desc": "CoolCalc is the offline HVAC field toolkit built for service technicians — run the numbers, document the job, and hand your customer a professional PDF report, all without a signal.\n\n  No account. No "
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "naplex prep",
+   "top": [
+    {
+     "name": "NAPLEX Exam Prep Practice Test",
+     "dev": "Best Fun Games",
+     "ratings": 815,
+     "desc": "Pass your NAPLEX exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ questions written by experts, detailed explanat"
+    },
+    {
+     "name": "NAPLEX Exam Prep | 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 8,
+     "desc": "Embark on a comprehensive journey toward success with our NAPLEX Exam Prep 2026 App! Developed by experienced pharmacists and educators, our NAPLEX Exam Prep App is the comprehensive review course you"
+    },
+    {
+     "name": "Naplex Exam Prep by Rocket",
+     "dev": "Darya Pyzhyk",
+     "ratings": 0,
+     "desc": "Prepare for the NAPLEX Exam 2026 with Rocket Prep\n\nAdvance your career in pharmacy with the NAPLEX Exam by Rocket Prep, specifically designed for individuals preparing for the North American Pharmacis"
+    },
+    {
+     "name": "NAPLEX & FPGEE Mastery",
+     "dev": "Learn-Train Inc",
+     "ratings": 0,
+     "desc": "NABP Exam Prep: Complete Guide for Pharmacy Licensure Exams\nPrepare confidently for your pharmacy licensure exams with NABP Exam Prep, the most comprehensive and user-friendly study tool for aspiring "
+    },
+    {
+     "name": "NAPLEX Prep: Pharmacy & Test",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into the NAPLEX pharmacist license exam ready. NAPLEX Prep 2026 gives you 875+ practice questions with a clear explanation for every single answer, so you don't just memorize the right choice - y"
+    },
+    {
+     "name": "NAPLEX Practice Exam Prep 2026",
+     "dev": "Edu Prep",
+     "ratings": 12,
+     "desc": "Helping you pass your NAPLEX exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first try!\n\nThe NAPLEX e"
+    },
+    {
+     "name": "NAPLEX Exam Test Prep App",
+     "dev": "MastrAPI",
+     "ratings": 205,
+     "desc": "NAPLEX Exam Prep app is your way to passing NAPLEX North American Pharmacist Licensure Examination. In NAPLEX Exam Question Bank we have more than 1200+ questions for your successful training.\n\nNew fo"
+    },
+    {
+     "name": "UWorld RxPrep Pharmacy Review",
+     "dev": "UWorld LLC",
+     "ratings": 123,
+     "desc": "WHY UWORLD RXPREP?\n\nTrusted by top institutions and preferred by most graduates, the UWorld RxPrep Pharmacy app prepares you for the NAPLEX, MPJE, and CPJE with exam-like practice and top-tier learnin"
+    },
+    {
+     "name": "NAPLEX Practice Tests 2026",
+     "dev": "Thanh Hung",
+     "ratings": 341,
+     "desc": "Worried before NAPLEX? Conquer the 2026 exam with practice tests, flashcards & AI analysis to help increase the passing rate to 96%.\n\nOur NAPLEX Practice Questions 2026 is specifically designed to ass"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "fe exam prep",
+   "top": [
+    {
+     "name": "Engineering & FE Prep",
+     "dev": "EnginPeers LLC",
+     "ratings": 192,
+     "desc": "Worried about your Fundamentals of Engineering exam? Need to quickly review and prep for Engineering exams or specific subjects? EnginPeer's Prep app will help you pass with flying colors - all on the"
+    },
+    {
+     "name": "FE Exam Prep: NCEES Practice",
+     "dev": "iAPPSSTUDIO",
+     "ratings": 2,
+     "desc": "Master the FE Exam with Confidence\n\nPrepare for the Fundamentals of Engineering (FE) exam administered by NCEES with the most comprehensive study companion available. Designed by engineering educators"
+    },
+    {
+     "name": "FE Exam AI Prep",
+     "dev": "Hangzhou Star Vision Technology Co., Ltd",
+     "ratings": 1,
+     "desc": "FE Exam AI Prep helps engineering students turn practice results into a focused, evidence-based study plan.\n\nCORE FEATURES\n\n• Practice with original questions organized by FE exam topic\n• Take full-le"
+    },
+    {
+     "name": "PassStamp: PE & FE Exam Prep",
+     "dev": "Ingenio Productions LLC",
+     "ratings": 1,
+     "desc": "Studying for the PE or FE while working full time? You don't have 300 spare hours, and you can't afford to walk in unsure. PassStamp is an NCEES-aligned PE and FE exam prep app built for engineers who"
+    },
+    {
+     "name": "PrepFE - FE Civil Exam Prep",
+     "dev": "PrepFE, Inc.",
+     "ratings": 22,
+     "desc": "Don't spend time relearning topics from scratch and using poor resources. Jump right into practice problems and learn by doing! Supplement your learning with flash cards to learn the FE Reference Hand"
+    },
+    {
+     "name": "FE Mechanical Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 1,
+     "desc": "FE Mechanical Exam Prep 2026 is designed to assist candidates in preparing for the Fundamentals of Engineering (FE) Mechanical Exam, offered by the National Council of Examiners for Engineering and Su"
+    },
+    {
+     "name": "FE Exam Prep",
+     "dev": "Kathryn Halterman",
+     "ratings": 0,
+     "desc": "Prepare for the NCEES Fundamentals of Engineering (FE) exam across all seven discipline exams — Civil, Mechanical, Electrical & Computer, Chemical, Environmental, Industrial & Systems, and Other Disci"
+    },
+    {
+     "name": "FE Electrical & Computer Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 1,
+     "desc": "Prepare for the FE Electrical & Computer Exam with Our Comprehensive FE Electrical & Computer Exam Prep App!\nFE Electrical & Computer Exam Prep is designed to help candidates prepare for the Fundament"
+    },
+    {
+     "name": "FE Civil Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 3,
+     "desc": "FE Civil Exam Prep 2026 is specifically designed to help candidates prepare for the Fundamentals of Engineering (FE) Civil Exam, administered by the National Council of Examiners for Engineering and S"
+    },
+    {
+     "name": "FE Civil Exam Prep",
+     "dev": "Shanghai Sheyuan Network Technology Co., Ltd.",
+     "ratings": 0,
+     "desc": "Studying for the FE Civil exam and tired of bouncing between scattered PDFs, half-priced question banks, and reference books that never load when you need them? FE Civil Exam Prep gives you a full, of"
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

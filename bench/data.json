@@ -13288,6 +13288,26 @@
    "app": "Checklist and timer for restaurant kitchen food safety logs.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Converts between cups, grams and ounces for baking recipes.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Tells you which medication doses are lethal and how to adjust chemotherapy drug dosing for patients.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Sports betting app where you wager real money on live matches and withdraw winnings.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Flashcards for memorizing the periodic table of elements.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [

@@ -319,6 +319,36 @@
    "term": "pilates workout at home",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "stud finder",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "speed test",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "breathing exercise",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "cdl pre trip",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "ems protocols",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "orthopedic tests",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

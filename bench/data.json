@@ -12853,6 +12853,174 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "torque wrench conversion",
+   "apps": [
+    {
+     "name": "Torque Converter Pro",
+     "dev": "Dev",
+     "ratings": 340,
+     "desc": "Convert between ft-lb, in-lb, Nm and kgf-m for torque wrench settings with extension adapter correction."
+    },
+    {
+     "name": "Torque Spec Calculator",
+     "dev": "Dev",
+     "ratings": 120,
+     "desc": "Calculate wrench setting with crowfoot extension and look up bolt torque by grade."
+    },
+    {
+     "name": "Torque Stars Fitness",
+     "dev": "Dev",
+     "ratings": 5000,
+     "desc": "Gym workout tracker for strength training and weightlifting logs."
+    },
+    {
+     "name": "Wrench Cleaner Game",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Casual puzzle game where you clean tools."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "nursing drip rate calculator",
+   "apps": [
+    {
+     "name": "IV Drip Rate Calc",
+     "dev": "Dev",
+     "ratings": 800,
+     "desc": "Calculate IV drip rates in gtt/min and mL/hr for nurses, with dose weight and tubing factor."
+    },
+    {
+     "name": "Nurse Dose Calculator",
+     "dev": "Dev",
+     "ratings": 450,
+     "desc": "Drug dosage and IV flow rate calculator for nursing students and clinicians."
+    },
+    {
+     "name": "Nursing Jobs Today",
+     "dev": "Dev",
+     "ratings": 3000,
+     "desc": "Find travel nursing jobs and staffing agencies."
+    },
+    {
+     "name": "Drip Coffee Timer",
+     "dev": "Dev",
+     "ratings": 200,
+     "desc": "Pour-over coffee brew timer."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl practice test",
+   "apps": [
+    {
+     "name": "CDL Prep 2026",
+     "dev": "Dev",
+     "ratings": 15000,
+     "desc": "CDL permit practice tests with general knowledge, air brakes and hazmat questions for truck drivers."
+    },
+    {
+     "name": "CDL Exam Cards",
+     "dev": "Dev",
+     "ratings": 2200,
+     "desc": "Flashcards and practice exams for the commercial driver's license written test."
+    },
+    {
+     "name": "Truck Stop Finder",
+     "dev": "Dev",
+     "ratings": 9000,
+     "desc": "Find truck stops, parking and fuel prices along your route."
+    },
+    {
+     "name": "Driving Simulator Racing",
+     "dev": "Dev",
+     "ratings": 30000,
+     "desc": "Racing game with cars and tracks."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "rebar weight calculator",
+   "apps": [
+    {
+     "name": "Rebar Calc",
+     "dev": "Dev",
+     "ratings": 260,
+     "desc": "Compute rebar weight, length and spacing for concrete slabs and footings."
+    },
+    {
+     "name": "Construction Calculators",
+     "dev": "Dev",
+     "ratings": 3100,
+     "desc": "Concrete, rebar, stairs and roofing calculators for contractors."
+    },
+    {
+     "name": "Rebar Tie Game",
+     "dev": "Dev",
+     "ratings": 50,
+     "desc": "Arcade game about tying rebar."
+    },
+    {
+     "name": "Building Permits Guide",
+     "dev": "Dev",
+     "ratings": 700,
+     "desc": "Overview of how to apply for building permits."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

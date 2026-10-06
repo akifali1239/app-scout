@@ -12319,6 +12319,206 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "voice recorder",
+   "apps": [
+    {
+     "name": "Voice Recorder & Audio Editor",
+     "dev": "TapMedia Ltd",
+     "ratings": 452907,
+     "desc": "Voice Recorder for the iPhone and iPad - download now for FREE!\n\nUNLIMITED RECORDINGS\nRecord for as long as you want and as many times as you want. (No restrictions as long as you have enough availabl"
+    },
+    {
+     "name": "Voice Record Pro",
+     "dev": "Dayana Networks Ltd",
+     "ratings": 16345,
+     "desc": "Professional Voice Recorder for iPhone, iPad and iWatch! No limitation, Completely FREE!\n\nVoice Record Pro is a professional voice recorder. It allows you to record voice memos and on-site sounds at u"
+    },
+    {
+     "name": "Scan to PDF－Document Scanner",
+     "dev": "Scanner App PDF Tool",
+     "ratings": 61681,
+     "desc": "Scan Shot turns your phone into a powerful digital office! Scan, sign and export any document to PDF, JPG, DOCX, PPTX and TXT format. \n\nSave time and become more productive in your work and daily life"
+    },
+    {
+     "name": "ACIM Original Edition",
+     "dev": "COURSE IN MIRACLES SOCIETY",
+     "ratings": 39,
+     "desc": "This application is not affiliated with nor endorsed by the Foundation for Inner Peace.\n\nThe ACIM OE APP is three applications in one.\n\nEBOOK: Read all three books of A Course in Miracles---TEXT, WORK"
+    },
+    {
+     "name": "Voice Recorder — Audio Memos",
+     "dev": "PrimeForm OU",
+     "ratings": 3893,
+     "desc": "Voice Recorder — Audio Memos is a versatile tool for capturing high-quality audio recordings, managing your recordings effortlessly, and transforming your audio into other formats. Whether you're taki"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "unrelated",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "breathing exercise",
+   "apps": [
+    {
+     "name": "iBreathe – Relax and Breathe",
+     "dev": "Jade Lizard Software LLC",
+     "ratings": 17626,
+     "desc": "iBreathe is a simple yet powerful app to guide you through deep breathing exercises and breathwork. Whether you are struggling with stress, anxiety, insomnia, or are trying to meditate and relax, iBre"
+    },
+    {
+     "name": "Breathwrk: Breathing Exercises",
+     "dev": "Peloton Interactive, Inc.",
+     "ratings": 18034,
+     "desc": "Breathwrk, now a part of Peloton, is #1 breathing app for Sleep, Stress, Focus, and Energy. Breathwrk is a simple yet powerful way to improve your mental and physical well-being in just seconds with n"
+    },
+    {
+     "name": "Breathing Zone: Breathwork",
+     "dev": "Tane Langton",
+     "ratings": 3744,
+     "desc": "Slow down, reset, and breathe with purpose. Breathing Zone offers simple guided breathing exercises for calm, focus, relaxation, and sleep.\n\nChoose a breathing pattern, then follow clear visual, voice"
+    },
+    {
+     "name": "Axxess Hospice",
+     "dev": "Axxess Technology Solutions",
+     "ratings": 37,
+     "desc": "The Axxess Hospice app provides a powerful point-of-care documentation solution for hospice agencies. This easy-to-use mobile app helps hospice agencies provide and document compassionate care at the "
+    },
+    {
+     "name": "Praana - Breathing Exercises",
+     "dev": "Amit Shinde",
+     "ratings": 0,
+     "desc": "Find stillness in every breath.  \n\nPraana is your personal breathing guide, helping you calm your mind, reset your energy, and restore balance in just a few minutes a day.\n\nWith guided exercises based"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "unrelated",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "asl sign language",
+   "apps": [
+    {
+     "name": "Ziggy: Learn ASL Sign Language",
+     "dev": "OneDegree Labs",
+     "ratings": 3830,
+     "desc": "Ziggy: Learn ASL Sign Language\n\nLearn American Sign Language through interactive lessons designed to help you sign confidently in everyday life.\n\nPractice real conversations, build your vocabulary, an"
+    },
+    {
+     "name": "Sign ASL",
+     "dev": "Daniel Mitchell",
+     "ratings": 91,
+     "desc": "Search and compare thousands of words and phrases in American Sign Language. Easily find and view signs on your mobile device. Over 20,000 videos in this video dictionary.\nFor more information please "
+    },
+    {
+     "name": "Lingvano - Learn Sign Language",
+     "dev": "Lingvano GmbH",
+     "ratings": 118410,
+     "desc": "Join 5 million people and start building bridges by learning ASL with the most popular sign language learning app.\n\nLingvano is the perfect starting point for beginners, with video lessons made by Dea"
+    },
+    {
+     "name": "Ведомственная охрана",
+     "dev": "Danila Danilenko",
+     "ratings": 3,
+     "desc": "Основные функции:\n\n - Актуальные вопросы: Доступ ко всем обновленным вопросам и правильным ответам.\n - Полный охват тем: Изучайте все блоки и разделы для подготовки.\n - Режим экзамена: Проверьте свои "
+    },
+    {
+     "name": "ASL American Sign Language",
+     "dev": "Saeed Bashir",
+     "ratings": 3048,
+     "desc": "Knowing American sign language (ASL) will enable you to meet and interact with a whole new group of people.\nIt is our goal to deliver a convenient, enjoyable, learning experience that goes beyond the "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "unrelated",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "beekeeping",
+   "apps": [
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "Bees Knees: Hive & Beekeeping",
+     "dev": "James Belcher",
+     "ratings": 0,
+     "desc": "Bees Knees is the simple, reliable way to manage your apiaries from the hive side — built for beekeepers, by beekeepers.\nRecord a full hive inspection in seconds with glove-friendly controls: colony s"
+    },
+    {
+     "name": "Beekeeper - Digital Workplace",
+     "dev": "Beekeeper AG",
+     "ratings": 17696,
+     "desc": "Beekeeper, the all-in-one Frontline Success System, is transforming the way frontline businesses work. Our mobile-first platform helps companies ditch paper and manual processes to improve employee en"
+    },
+    {
+     "name": "ApiNote: Beekeeping Hive Log",
+     "dev": "Petr Drabek",
+     "ratings": 3,
+     "desc": "ApiNote is a beekeeping hive log and apiary manager built for real work at the bee yard. Keep a complete history for every colony and know what needs attention before your next visit.\n\nHIVE RECORDS TH"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

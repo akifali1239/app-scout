@@ -11678,6 +11678,384 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "physical therapy assistant",
+   "top": [
+    {
+     "name": "PTA365",
+     "dev": "Scorebuilders",
+     "ratings": 2454,
+     "desc": "Physical therapist assistants and physical therapist assistant students have a unique daily opportunity to assess their mastery of essential physical therapy content by answering a single multiple-cho"
+    },
+    {
+     "name": "NPTE Exam Prep 2026 | PT & PTA",
+     "dev": "EZ Test Prep",
+     "ratings": 261,
+     "desc": "Pass the NPTE Without Relearning the Krebs Cycle at 2 a.m.\n\nYou’ve memorized origins and insertions, survived practical labs, and can finally pronounce “ischiogluteal bursitis” without choking. Now al"
+    },
+    {
+     "name": "PT365",
+     "dev": "Scorebuilders",
+     "ratings": 5582,
+     "desc": "Physical therapists and physical therapy students have a unique daily opportunity to assess their mastery of essential physical therapy content by answering a single multiple-choice question. Think of"
+    },
+    {
+     "name": "Medbridge",
+     "dev": "MedBridge Education LLC",
+     "ratings": 13291,
+     "desc": "Meet the new Medbridge on iOS! Log in with your Medbridge account to view courses.\n\nMedbridge provides Physical Therapists, Occupational Therapists, Speech-Language Pathologists, Athletic Trainers, Nu"
+    },
+    {
+     "name": "PTA Content Master",
+     "dev": "Scorebuilders",
+     "ratings": 897,
+     "desc": "Make reviewing essential physical therapy academic content enjoyable! Physical Therapist Assistant Content Master is designed to assist physical therapist assistants to possess full command of core ac"
+    },
+    {
+     "name": "Elliott Physical Therapy",
+     "dev": "Elliott Physical Therapy",
+     "ratings": 11,
+     "desc": "Welcome to the Elliott Physical Therapy App! Log on to access your personalized Home Exercise Program on your mobile device.\n\nUsing this app, you can access your personalized Home Exercise Program wit"
+    },
+    {
+     "name": "NPTE",
+     "dev": "MastrAPI",
+     "ratings": 256,
+     "desc": "Updated for the 2026 NPTE PT & PTA exams with refreshed question banks, analytics, and study plans.\n\nPass your NPTE-PT / NPTE-PTA exams with flying colors! Boost your confidence in passing the first t"
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "asl sign language",
+   "top": [
+    {
+     "name": "ASL Sign Language Pocket Sign",
+     "dev": "Trent Ewald",
+     "ratings": 39148,
+     "desc": "Learning sign language will have you connecting with many more people in your community. There are many advantages to learning asl such as making new friends, teaching a baby how to talk and if your f"
+    },
+    {
+     "name": "Ziggy: Learn ASL Sign Language",
+     "dev": "OneDegree Labs",
+     "ratings": 3830,
+     "desc": "Ziggy: Learn ASL Sign Language\n\nLearn American Sign Language through interactive lessons designed to help you sign confidently in everyday life.\n\nPractice real conversations, build your vocabulary, an"
+    },
+    {
+     "name": "ASL Bloom - Sign Language",
+     "dev": "SignLab AS",
+     "ratings": 35750,
+     "desc": "Dive into American Sign Language with ASL Bloom. Learn ASL effortlessly, and sign confidently. Begin your journey today!\n\nDiscover the 10 most important features of ASL Bloom:\n\n1. Comprehensive Curric"
+    },
+    {
+     "name": "Sign ASL",
+     "dev": "Daniel Mitchell",
+     "ratings": 91,
+     "desc": "Search and compare thousands of words and phrases in American Sign Language. Easily find and view signs on your mobile device. Over 20,000 videos in this video dictionary.\nFor more information please "
+    },
+    {
+     "name": "Lingvano - Learn Sign Language",
+     "dev": "Lingvano GmbH",
+     "ratings": 118410,
+     "desc": "Join 5 million people and start building bridges by learning ASL with the most popular sign language learning app.\n\nLingvano is the perfect starting point for beginners, with video lessons made by Dea"
+    },
+    {
+     "name": "Ведомственная охрана",
+     "dev": "Danila Danilenko",
+     "ratings": 3,
+     "desc": "Основные функции:\n\n - Актуальные вопросы: Доступ ко всем обновленным вопросам и правильным ответам.\n - Полный охват тем: Изучайте все блоки и разделы для подготовки.\n - Режим экзамена: Проверьте свои "
+    },
+    {
+     "name": "ASL Otty: Signs Language Learn",
+     "dev": "RAFAL KAROL LECHOWICZ",
+     "ratings": 3587,
+     "desc": "ASL Otty: Signs Language Learning: Learn sign language with ease!\n\nDiscover the fascinating world of American Sign Language (ASL) with Otty ASL: Signs Language Learning! Our app turns a challenging le"
+    },
+    {
+     "name": "ASL -Sign Language. Learn ASL!",
+     "dev": "Educational apps LLC",
+     "ratings": 715,
+     "desc": "Introducing our American Sign Language learning app - the perfect tool for anyone who wants to learn the language of the Deaf community! Our app is designed to help you learn ASL in a fun, engaging an"
+    },
+    {
+     "name": "ASL American Sign Language",
+     "dev": "Saeed Bashir",
+     "ratings": 3048,
+     "desc": "Knowing American sign language (ASL) will enable you to meet and interact with a whole new group of people.\nIt is our goal to deliver a convenient, enjoyable, learning experience that goes beyond the "
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "fasting tracker",
+   "top": [
+    {
+     "name": "Intermittent Fasting Tracker:",
+     "dev": "Kai Oelfke",
+     "ratings": 51356,
+     "desc": "Track fasting periods with Fasty. No account or sign-up required.\n\nStart and stop a fasting timer, set a goal, and review your recorded fasts. Edit entries to correct start and end times and keep a re"
+    },
+    {
+     "name": "Zero: Fasting & Food Tracker",
+     "dev": "Zero Longevity Science, Inc.",
+     "ratings": 445285,
+     "desc": "Zero is the all-in-one fasting tracker and nutrition app built for real results. Most fasting and weight loss apps stop at simply tracking fasts or calories. Zero connects the full picture — fasting, "
+    },
+    {
+     "name": "Intermittent Fasting Tracker -",
+     "dev": "Leap Health",
+     "ratings": 29024,
+     "desc": "Join 60 million happy users! Our all-in-one Intermittent Fasting Tracker & AI Calorie Counter is built for sustainable weight loss. Reach your goals effectively without the yo-yo effect.\n\nDiscover you"
+    },
+    {
+     "name": "Fasting Tracker • Easy Fast",
+     "dev": "Samtark Pty Ltd",
+     "ratings": 8869,
+     "desc": "Start your intermittent fasting journey with Easy Fast — the simple, ad-free fasting app and habit tracker designed for weight loss and lasting results.\n\nTrusted by 2.4M+ fasters and rated 4.9 stars o"
+    },
+    {
+     "name": "Fastic Weight Loss & Fasting",
+     "dev": "HealthVida GmbH & Co. KG.",
+     "ratings": 246107,
+     "desc": "Unlock your weight loss journey with Fastic, the app that tailors fasting and nutrition to fit YOUR lifestyle and goals. Dive into a personalized health experience, where achieving your ideal weight f"
+    },
+    {
+     "name": "BodyFast: Intermittent Fasting",
+     "dev": "BodyFast GmbH",
+     "ratings": 145909,
+     "desc": "The #1 fasting app with more than 50 million installs!\n\nBodyFast accompanies you day by day on your journey to your goals. Reach your goal weight, get healthy and feel full of energy.\n\nTHE BODYFAST AP"
+    },
+    {
+     "name": "Fasting Tracker & Diet App",
+     "dev": "Hendrik Folkerts",
+     "ratings": 12397,
+     "desc": "The Intermittent Fasting 16:8 App helps you to track your fasting diet. This simple Fasting App allows you to easily manage your fasting times.\n\n► TRACK YOUR FASTING\nYou can easily track your own fast"
+    },
+    {
+     "name": "Fasting Tracker App by Numify",
+     "dev": "Municorn Limited",
+     "ratings": 5875,
+     "desc": "Experience a smarter way to reach your weight goals with Fasting Tracker App by Numify — your all-in-one intermittent fasting companion for building healthier habits, staying consistent, and making fa"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "birthday reminder",
+   "top": [
+    {
+     "name": "Birthday Reminder & Countdown",
+     "dev": "New Marketing Lab, Inc",
+     "ratings": 10166,
+     "desc": "Never miss a birthday again with Birthday Reminder, a simple and elegant app that helps you keep track and view a countdown of upcoming birthdays.\n\n15 REASONS TO USE BIRTHDAY REMINDER\n\n• Easily import"
+    },
+    {
+     "name": "hip: Birthday Reminder App",
+     "dev": "Celebrate Labs Inc.",
+     "ratings": 17764,
+     "desc": "Your go-to app for remembering and celebrating. From birthdays & anniversaries to big milestones, hip helps you celebrate on time.\n\nREMEMBER THOSE SPECIAL DAYS\n• Customize your reminders, down to the "
+    },
+    {
+     "name": "Birthday Calendar and Reminder",
+     "dev": "Christopher Wolf",
+     "ratings": 1354,
+     "desc": "Organizes all of your birthdays. See all at a glace and get reminded when you want!\n\n● Year view: Simple year overview to quickly spot everything.\n\n● Reminder: Set several reminders on the days leadin"
+    },
+    {
+     "name": "Birthday Countdown",
+     "dev": "Find Appiness LLC",
+     "ratings": 7936,
+     "desc": "Birthday Countdown is a free, super easy to use countdown and reminder app for the all the important birthdays in your life. Never forget a birthday again!\n\nFeatures:\n• Check your birthdays on the Loc"
+    },
+    {
+     "name": "Birthday Reminder app: BDay+",
+     "dev": "Kamil Biktineyev",
+     "ratings": 17,
+     "desc": "BDay+ is the perfect birthday reminder and calendar that helps you celebrate every important moment. Whether it’s your family, friends, or colleagues, this birthday app ensures you never forget a birt"
+    },
+    {
+     "name": "Birthday Reminder Pro+",
+     "dev": "FunPokes Inc.",
+     "ratings": 6324,
+     "desc": "Birthday Reminder Pro+ is the easiest and most effective way to remind you of your friends' and family members' birthdays so that you never forget another Birthday ever again.  \n\nBe an awesome friend,"
+    },
+    {
+     "name": "Countdown",
+     "dev": "Find Appiness LLC",
+     "ratings": 187312,
+     "desc": "Countdown is a free, super easy to use countdown timer and reminder for the important events & dates in your life.\n\nFeatures:\n• Check your events on the Lock Screen with our widget (Premium feature)\n•"
+    },
+    {
+     "name": "A Birthday Reminder",
+     "dev": "Gavin Rudling",
+     "ratings": 1,
+     "desc": "Keep your favorite people close and never miss a milestone with A Birthday Reminder—the ultimate, modern birthday and event tracker built for iOS. \nFrom birthdays and wedding anniversaries to special "
+    },
+    {
+     "name": "Reminder & Countdown",
+     "dev": "Sergey Astakhov",
+     "ratings": 16476,
+     "desc": "The app is designed to remind you about all your important events, meetings, friends’ birthdays, a long-awaited TV Shows premieres, dentist appointments, coming-soon holidays, a wedding date and any u"
+    },
+    {
+     "name": "Birthday Reminder - NextBday",
+     "dev": "Salam Dawood",
+     "ratings": 30,
+     "desc": "NextBday makes birthdays effortless. Import dates from Contacts in one tap, pick a daily reminder time, and get an optional heads-up 1–7 days before—so you’re always on time with a message or gift.\n\nW"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "the american occupational therapy association inc",
+   "top": [
+    {
+     "name": "AOTA INSPIRE Annual Conference",
+     "dev": "THE AMERICAN OCCUPATIONAL THERAPY ASSOCIATION INC",
+     "ratings": 30,
+     "desc": "Find all you need for AOTA INSPIRE | Annual Conference & Expo – the largest gathering of occupational therapy professionals in the world.  \nView session descriptions, build your schedule, search for s"
+    },
+    {
+     "name": "AOTA-LMS",
+     "dev": "THE AMERICAN OCCUPATIONAL THERAPY ASSOCIATION INC",
+     "ratings": 11,
+     "desc": "The AOTA LMS App is a great learning tool and solution for the students. They can access  courses, new releases,   events notifications and messages, and much more."
+    },
+    {
+     "name": "BetterHelp - Therapy",
+     "dev": "BetterHelp",
+     "ratings": 149773,
+     "desc": "BETTERHELP: INSURANCE OPTIONS MAY BE AVAILABLE\nBetterHelp makes it easy to connect with a licensed therapist online, whether you choose self-pay or explore insurance options that may be available. Whe"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Constant Therapy: Brain+Speech",
+     "dev": "Constant Therapy, Inc.",
+     "ratings": 4102,
+     "desc": "Constant Therapy is an award-winning, science-based exercise app for cognitive, language, and speech practice — built for people living with aphasia, apraxia, dementia, stroke, traumatic brain injury "
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Language Therapy for Kids–MITA",
+     "dev": "ImagiRation LLC",
+     "ratings": 2089,
+     "desc": "• THE FIRST AND ONLY LANGUAGE THERAPY APPLICATION SUPPORTED BY CLINICAL DATA:\nIn a 3-year clinical trial of 6,454 children with autism, language score in children who engaged with MITA has increased t"
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "Providence Virtual Therapy",
+     "dev": "Therainc, Inc.",
+     "ratings": 12,
+     "desc": "Introducing Virtual Therapy by Providence Health Services – a dedicated platform for delivering comprehensive physical, occupational, and speech therapy through virtual means. Our app harnesses advanc"
+    },
+    {
+     "name": "Otsimo | Speech Therapy SLP",
+     "dev": "Otsimo",
+     "ratings": 180,
+     "desc": "From award-winning creators! Otsimo | Speech Therapy SLP is proud to be the only Speech Therapy app that uses voice and speech recognition technology and machine learning; it understands exactly what "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "alabama occupational therapy association",
+   "top": [
+    {
+     "name": "Alabama OT Association",
+     "dev": "Alabama Occupational Therapy Association",
+     "ratings": 0,
+     "desc": "Discover, Connect, and Engage With ALOTA'S Conference App! Seamlessly navigate through our event's schedule, speakers, and sessions with user-friendly features. Stay informed with real-time updates, p"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Medbridge",
+     "dev": "MedBridge Education LLC",
+     "ratings": 13291,
+     "desc": "Meet the new Medbridge on iOS! Log in with your Medbridge account to view courses.\n\nMedbridge provides Physical Therapists, Occupational Therapists, Speech-Language Pathologists, Athletic Trainers, Nu"
+    },
+    {
+     "name": "Constant Therapy: Brain+Speech",
+     "dev": "Constant Therapy, Inc.",
+     "ratings": 4102,
+     "desc": "Constant Therapy is an award-winning, science-based exercise app for cognitive, language, and speech practice — built for people living with aphasia, apraxia, dementia, stroke, traumatic brain injury "
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Providence Virtual Therapy",
+     "dev": "Therainc, Inc.",
+     "ratings": 12,
+     "desc": "Introducing Virtual Therapy by Providence Health Services – a dedicated platform for delivering comprehensive physical, occupational, and speech therapy through virtual means. Our app harnesses advanc"
+    },
+    {
+     "name": "Athletico",
+     "dev": "Athletico",
+     "ratings": 420,
+     "desc": "**PLEASE NOTE: The Athletico app is only available and accessible to current or previously enrolled patients.**\n\nAt Athletico Physical Therapy, we’re committed to providing the highest quality care so"
+    }
+   ],
+   "label": true,
+   "split": "dev"
   }
  ],
  "rival": [

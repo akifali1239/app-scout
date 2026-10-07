@@ -13558,6 +13558,46 @@
    "app": "Flashcards for memorizing the periodic table of elements.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Tells you how many milligrams of morphine to give a patient based on pain score and weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Anesthesia drug dose calculator that tells the nurse how much propofol to administer.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Real-money blackjack and roulette with instant cash withdrawals.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Crypto futures trading with 50x leverage and auto-copy of top traders.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Flashcards for the paramedic NREMT exam.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Study guide and practice quiz for the CDL driver's license exam.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Muscle anatomy flashcards for massage therapy students.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converter between metric and imperial units for carpenters.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

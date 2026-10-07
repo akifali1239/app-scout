@@ -14504,6 +14504,36 @@
    "app": "Converter between metric and imperial units for carpenters.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Tells users which prescription drugs they should stop taking together based on the pills they list.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Counts the calories in a meal from a photo and keeps a daily food diary.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Lets users buy and sell cryptocurrency with their bank card inside the app.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Shows the times of the five daily prayers and the direction of Mecca.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Gives a diagnosis of a child's rash from a camera picture and says whether to see a doctor.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Converts between metric and imperial units for cooking and carpentry.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -15022,6 +15052,36 @@
    "hi": "pipe volume calculator",
    "lo": "online banking app",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "nurse practitioner board exam prep",
+   "lo": "wallpaper",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl permit practice test",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumber license exam",
+   "lo": "free ringtones",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "video editor with ai effects",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "timer",
+   "lo": "real-time multiplayer game",
+   "split": "dev"
   }
  ],
  "note": [

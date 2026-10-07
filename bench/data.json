@@ -13718,6 +13718,42 @@
    "hi": "flashlight",
    "lo": "social network like instagram",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "nremt paramedic exam prep",
+   "lo": "ringtone maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam prep questions",
+   "lo": "funny voice changer",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "metronome",
+   "lo": "video conferencing platform",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe volume calculator",
+   "lo": "online dating network",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician conduit fill calculator",
+   "lo": "horoscope",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "pharmacy technician exam prep",
+   "lo": "meme generator",
+   "split": "test"
   }
  ],
  "note": [

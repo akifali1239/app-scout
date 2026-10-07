@@ -13487,6 +13487,396 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "physical therapy of boulder",
+   "top": [
+    {
+     "name": "Physical Therapy of Boulder",
+     "dev": "Physical Therapy of Boulder",
+     "ratings": 5,
+     "desc": "Welcome to the Physical Therapy of Boulder App! Log on to access your personalized Home Exercise Program on your mobile device.\n\nUsing this app, you can access your personalized Home Exercise Program "
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "PTX Therapy - 24/7 Pain Relief",
+     "dev": "PTX Therapy, LLC",
+     "ratings": 622,
+     "desc": "*Sign-up for a PTX Therapy subscription online, then login to the companion app to access your therapy anytime, anywhere.\n\nGet completely personalized, science-backed physical therapy routines in the "
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "Luna Therapist",
+     "dev": "Luna Care, Inc.",
+     "ratings": 435,
+     "desc": "Luna Therapist App\nTransform the way you deliver physical therapy. With Luna, you can provide exceptional care to patients in their homes, enjoy the flexibility of setting your schedule, and earn comp"
+    },
+    {
+     "name": "PT365",
+     "dev": "Scorebuilders",
+     "ratings": 5582,
+     "desc": "Physical therapists and physical therapy students have a unique daily opportunity to assess their mastery of essential physical therapy content by answering a single multiple-choice question. Think of"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "speechlp: speech therapy games",
+   "top": [
+    {
+     "name": "SpeechLP: Speech Therapy Games",
+     "dev": "ParagraphAI",
+     "ratings": 59,
+     "desc": "Speech therapy practice for kids that actually works — AI-powered articulation games used by 1,000+ speech-language pathologists and the families they refer.\n\nIs your child working on their R sound? A"
+    },
+    {
+     "name": "Speech Blubs: Language Therapy",
+     "dev": "Blub Blub Inc.",
+     "ratings": 57079,
+     "desc": "WHAT DOES SPEECH BLUBS OFFER?\n\nSpeech Blubs is a voice-controlled speech therapy app designed to help your child learn new sounds and words, and to practice speaking in a stimulating, educational envi"
+    },
+    {
+     "name": "ArtikPix - Full",
+     "dev": "Expressive Solutions LLC",
+     "ratings": 2,
+     "desc": "ArtikPix - Full is an engaging articulation app with flashcard and matching activities for children with speech sound delays. Among the many features in ArtikPix - Full, group scoring is available wit"
+    },
+    {
+     "name": "Language Therapy 4-in-1",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1941,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    },
+    {
+     "name": "Speech Start: Language Therapy",
+     "dev": "Gliden Ltd",
+     "ratings": 315,
+     "desc": "Is your child meeting their language milestones?\n\nTake the guesswork out of speech and language development with our comprehensive, child-friendly program! \nMore than just an assessment tool, our app "
+    },
+    {
+     "name": "Otsimo | Speech Therapy SLP",
+     "dev": "Otsimo",
+     "ratings": 180,
+     "desc": "From award-winning creators! Otsimo | Speech Therapy SLP is proud to be the only Speech Therapy app that uses voice and speech recognition technology and machine learning; it understands exactly what "
+    },
+    {
+     "name": "ArtikPix",
+     "dev": "Expressive Solutions LLC",
+     "ratings": 3,
+     "desc": "ArtikPix is an engaging articulation app with flashcard and matching activities for children with speech sound delays. Among the many features in ArtikPix, group scoring is available with an unlimited"
+    },
+    {
+     "name": "Language Therapy for Kids–MITA",
+     "dev": "ImagiRation LLC",
+     "ratings": 2089,
+     "desc": "• THE FIRST AND ONLY LANGUAGE THERAPY APPLICATION SUPPORTED BY CLINICAL DATA:\nIn a 3-year clinical trial of 6,454 children with autism, language score in children who engaged with MITA has increased t"
+    },
+    {
+     "name": "Minimal Pairs for Speech Therapy",
+     "dev": "Innovative Investments Limited",
+     "ratings": 238,
+     "desc": "\"I have no doubt that this will be my most used purchase for years to come. I love working with minimal pairs, and I love all the different games and activities for grab and go therapy, and you have s"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "video volume booster",
+   "top": [
+    {
+     "name": "Video Volume Booster",
+     "dev": "MNB DIGITAL LLC",
+     "ratings": 23,
+     "desc": "Video Volume Booster - Professional Audio Boost\nAmplify, Clarify and Share: Video Volume Booster!\nWe support MP4, MOV, AVI and all popular video formats with up to 1000% volume increase!\n\nHave you eve"
+    },
+    {
+     "name": "Video Volume Booster: Loudify",
+     "dev": "Hina Batool",
+     "ratings": 19,
+     "desc": "Make any video louder instantly. Loudify is the ultimate video volume booster that amplifies quiet videos up to 1000% while keeping audio crystal clear.\n\n- Boost Video Volume\n- Amplify video sound wit"
+    },
+    {
+     "name": "AudioFix: Video Volume Booster",
+     "dev": "Future Moments",
+     "ratings": 1640,
+     "desc": "Get great sounding videos quickly! Instantly improve, boost, extract or mute the audio in your videos. Import a video and AudioFix immediately cleans its sound and maximizes its volume. Add audio and "
+    },
+    {
+     "name": "Extra Volume Booster",
+     "dev": "沄 鱼",
+     "ratings": 1520,
+     "desc": "This is a powerful Volume Booster. It can increase the volume of the low-level audio files to higher quality sound than the default value of the system to obtain additional volume enhancement and soun"
+    },
+    {
+     "name": "Video Loudify",
+     "dev": "同宝 金",
+     "ratings": 1,
+     "desc": "\"Video Loudify\" is an efficient video volume adjusting application. It provides the following features:\n\n1.Analyze the audio in the video and give the best volume adjustment suggestions.\n2.Adjust the "
+    },
+    {
+     "name": "Volume Booster • Bass Booster",
+     "dev": "Ofir Yagil",
+     "ratings": 398,
+     "desc": "Video Volume Booster is a simple yet powerful video editor for boosting volume and improving the sound of your video files.\n\nVOLUME BOOSTER\n\n* Boost the volume of your videos up to 1500%\n* Real-Time p"
+    },
+    {
+     "name": "Video Volume Booster: Amplify",
+     "dev": "Awais Muneer",
+     "ratings": 0,
+     "desc": "Make any video louder. Instantly.\n\nVideo Volume Booster lifts the volume of any video past the system cap, so quiet phone recordings, screen captures, downloads, and old clips sound the way they shoul"
+    },
+    {
+     "name": "Volume Booster Bass Booster",
+     "dev": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+     "ratings": 25470,
+     "desc": "Is your phone volume just not cutting it? Transform your listening experience with Volume Booster, the ultimate sound booster designed to unleash your device's true audio potential! Say goodbye to muf"
+    },
+    {
+     "name": "Loudly: Video Volume Booster",
+     "dev": "Jhomar Maravillas",
+     "ratings": 0,
+     "desc": "Ever recorded a video you can barely hear? A quiet interview, a lecture from the back of the room, a clip where someone mumbled - and no matter how high you crank your phone, it's still too quiet. Lou"
+    },
+    {
+     "name": "Louder Volume: Sound Booster",
+     "dev": "Muhammad Rafly",
+     "ratings": 100,
+     "desc": "Unlock the full potential of your device’s sound with Louder Volume: Sound Booster!\n\nKey Features:\n- Volume Booster — Amplify your audio beyond default limits for louder, crystal-clear sound.\n- Bass B"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "blur photo editor",
+   "top": [
+    {
+     "name": "Blur Photo Editor",
+     "dev": "Sohel Ibna Saad",
+     "ratings": 10571,
+     "desc": "Blur Photo Editor is the best photo blurring and mosaic app for iPhone and iPad, designed to blur backgrounds and create professional-looking photos. Easily blur or pixelate faces, hide license plates"
+    },
+    {
+     "name": "Blur Photo Editor: blur effect",
+     "dev": "Ryoichi Fukugawa",
+     "ratings": 1647,
+     "desc": "You can quickly blur a photo with a few taps.\n\nFeatures\n - Gaussian Blur\n - Pixelate\n - Hexagon Pixelate\n - Glitter Effect\n - Color Brush\n - Eraser\n - Undo & Redo\n - Save & Share"
+    },
+    {
+     "name": "Blur Photo Effect Background",
+     "dev": "Alan Cushway",
+     "ratings": 27294,
+     "desc": "The ultimate Blur & Photo Editing App to blur out unwanted details, remove blemishes, enhance your photos, or create beautiful custom wallpapers — all with precision and ease. Whether you're editing s"
+    },
+    {
+     "name": "Blur Photo Editor & Mosaic",
+     "dev": "Yu Abe",
+     "ratings": 6089,
+     "desc": "This app allows you to blur or pixelate areas of a photo by tracing with your finger.\nSeveral varieties of mosaic are available.\nYou can also select from four different grades of thickness and strengt"
+    },
+    {
+     "name": "Blur Background Photo Effect",
+     "dev": "Shiho Sadamizu",
+     "ratings": 18501,
+     "desc": "Features of Mosaic+\nYou can easily process your photos with the popular blur!\n　Just by tracing with your finger, you can make your photo more attractive.\n\nA wide variety of mosaics and blurs!\n　There a"
+    },
+    {
+     "name": "Blur Photo",
+     "dev": "Grey Desk SA",
+     "ratings": 31528,
+     "desc": "With Photo Bur, quickly blur your pictures with just the touch of your finger! \n\nFeatures :\n■ Custom blur intensity & size\n\n■ Zoom & pan to work in detail\n\n■ Sharing: Photo Blur allows you to share yo"
+    },
+    {
+     "name": "Picsart AI Photo Editor, Video",
+     "dev": "PicsArt, Inc.",
+     "ratings": 1195612,
+     "desc": "Ignite your creative potential with Picsart — the all-in-one AI photo editor, AI video editor, and design studio that’s free and easy to use. From business designs to AI art, go from inspiration to cr"
+    },
+    {
+     "name": "Blur Photo Background",
+     "dev": "SUNWOONG JANG",
+     "ratings": 18731,
+     "desc": "Blur Background instantly with the easiest blur photo editor for iPhone.\n\nBlur faces, portraits, and unwanted objects in seconds.\n\nCreate beautiful DSLR-style background blur photos with simple touch "
+    },
+    {
+     "name": "Lightroom: AI Photo Editor",
+     "dev": "Adobe Inc.",
+     "ratings": 336866,
+     "desc": "Ever wish your photos could really show what makes a moment special? Adobe Lightroom is a free AI photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that too"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "magnifier",
+   "top": [
+    {
+     "name": "Magnifier",
+     "dev": "Apple",
+     "ratings": 1561,
+     "desc": "Magnifier offers convenient tools for users who are blind or have low vision to get more information about physical objects and scenes around them. On Apple Intelligence-capable devices, users can ask"
+    },
+    {
+     "name": "Magnifying Glass + Flashlight",
+     "dev": "RV AppStudios LLC",
+     "ratings": 91122,
+     "desc": "The Simplest, Easiest-to-Use Magnifying Glass in the App Store – Flashlight (LED Torch Light), Digital Magnifier, Restaurant Menu Reader, and Prescription Bottle Reader all-in-one. \n\nHave you ever bee"
+    },
+    {
+     "name": "Magnifying Glass & Mirror",
+     "dev": "SensorBLE",
+     "ratings": 9541,
+     "desc": "Simple app uses your camera to magnify objects.\nYou can switch to the front camera and use as a mirror with light bars for dim lighting. A simple tap on the screen freezes the image for a closer look "
+    },
+    {
+     "name": "Magnifying Glass With Light",
+     "dev": "Falcon In Motion LLC",
+     "ratings": 4078,
+     "desc": "\"Why we like it: It’s incredibly handy! There will always be a time where the menu writing is too small or the room is just too dark – this magnifying app will be just what you need.\" - appsmitten.com"
+    },
+    {
+     "name": "Magnifying glass ++",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 26238,
+     "desc": "Our Magnifying Glass app utilizes the latest iOS features to achieve maximum zooming power and improve sharpness on all devices.\n\nThis app transforms your phone into a magnifying glass with light! \nIt"
+    },
+    {
+     "name": "Magnifier Pro HD Zoom Camera",
+     "dev": "MONOPOLEAPPS K.K.",
+     "ratings": 19,
+     "desc": "A simple, easy-to-use magnifier (loupe) app that makes small text and fine details look clear and sharp. Perfect for newspapers, books, receipts, medicine labels, food packages, and more when text is "
+    },
+    {
+     "name": "Magnifying Glass +++ Magnifier",
+     "dev": "I-Beam",
+     "ratings": 6627,
+     "desc": "The original and still the best.\n*****************************************************\nThe New York Times – Gadgetwise: App of the Week\n“Of the several magnification apps I tried, my favorite is Magni"
+    },
+    {
+     "name": "Magnifying Glass - handy loupe",
+     "dev": "Katoh Atsushi",
+     "ratings": 9289,
+     "desc": "It is a free magnifying glass application with high image quality and easy to use.\nYou can use it quickly when you need it as soon as possible.\nIt is a magnifying glass application that makes it easie"
+    },
+    {
+     "name": "Magnifier 30x Zoom",
+     "dev": "Tigran Mkhitaryan",
+     "ratings": 9,
+     "desc": "Magnifier 30x Zoom brings powerful magnification right to your fingertips. Easily zoom up to 30x for clear close-ups, perfect for reading fine print, inspecting small objects, or capturing detailed ph"
+    },
+    {
+     "name": "Magnifier + Light",
+     "dev": "Herbert Hunt",
+     "ratings": 1,
+     "desc": "Read small text with ease. Magnifier + Light turns your iPhone into a powerful magnifying glass with a built-in flashlight, giving you a clear, bright view of anything you need to see up close.\nWhethe"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "reading light",
+   "top": [
+    {
+     "name": "Reading Light Glowow",
+     "dev": "Aleksei Khaliapin",
+     "ratings": 787,
+     "desc": "Transform your iPhone into the ultimate reading light, vibrant mood lamp, and dynamic torch with Glowow! More than just a simple screen light, Glowow illuminates your world with a stunning array of fe"
+    },
+    {
+     "name": "Reading light: Luma",
+     "dev": "Damir Stuhec",
+     "ratings": 65,
+     "desc": "Luma transforms your device into a gentle, customizable reading light designed for book lovers who crave the perfect glow. Whether you’re diving into a novel at bedtime or studying in the dark, Luma c"
+    },
+    {
+     "name": "Readlight: Night Reading Light",
+     "dev": "Emre Balli",
+     "ratings": 339,
+     "desc": "Love reading in bed but hate straining your eyes or waking your partner? Readlight turns your phone into the perfect, eye-friendly book lamp.\n\nInstead of a harsh screen glare, Readlight emits a soft, "
+    },
+    {
+     "name": "Flashlight | Night Light",
+     "dev": "Sebastian Bub Software Distribution",
+     "ratings": 3330,
+     "desc": "The ultimate Flashlight, Night Light or Reading Lamp. It is free! It glows your Screen And Flashlight. It has a brightness control and a sleep timer!\n\nHow many times do you have the situation that you"
+    },
+    {
+     "name": "Nighty Lighty: Dim Flashlight",
+     "dev": "Shuichi Nagao",
+     "ratings": 399,
+     "desc": "Nighty Lighty: Ultimate Night Light & Flashlight App\n\nTransform your iPhone / iPad into the perfect night light and flashlight companion with Nighty Lighty. This versatile app is your go-to solution f"
+    },
+    {
+     "name": "Loomy Night Light",
+     "dev": "David Hobbs",
+     "ratings": 1461,
+     "desc": "Loomy Night Light uses your phone's screen to illuminate a room using any of 3 different light modes - Night Light, Mood Light and Lava Lamp. \n\nEach mode is customisable and can be set on a timer up t"
+    },
+    {
+     "name": "Reading Lamp",
+     "dev": "Devubha Manek",
+     "ratings": 14,
+     "desc": "Sleeping Screen Light\nIf you don't want your night to be absolutely black, utilize this screen-light table lamp before going to the bed on your iPhone for your lamp app. This light will help you sleep"
+    },
+    {
+     "name": "Reading Light - Nightlight",
+     "dev": "Artiom Yakoventsev",
+     "ratings": 7,
+     "desc": "Transform your iPhone or iPad into a calm reading light and beautiful mood lamp. Reading Light – Nightlight gives you clean, adjustable screen light for bedtime reading, plus soothing visuals to unwin"
+    },
+    {
+     "name": "Glow: White Screen Night Light",
+     "dev": "Vishal Jangid",
+     "ratings": 87,
+     "desc": "The app is 100% free to use and it's best for:-\n\n• Polite Light – A gentle glow instead of a blinding flashlight\n• Perfect for movies, restaurants, or late-night reading\n• Adjustable brightness and so"
+    },
+    {
+     "name": "Book Reading Light - BookLight",
+     "dev": "UMUT ARPAT",
+     "ratings": 0,
+     "desc": "Read more comfortably with BookLight! Are you looking for a book reading light app ? BookLight offers multiple choices for colors to help you read easily at night! Also, you can track your book progre"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

@@ -60,7 +60,8 @@
     "question": "Does `search_term` read like the exact title or name of ONE app, company or publisher, rather than a phrase a person would type to find any app for a task?",
     "steps": "1) If the first result's title (or its developer name) equals `search_term` or nearly equals it, answer true. 2) A title with a colon, dash, tagline, 'app' suffix or a trailing word like 'driver', 'coach', 'letter' still counts as a title. 3) If many results repeat the same words in different titles, answer false."
    },
-   "Imagine the App Store search results for `search_term`. If one result is clearly 'the' app being asked for (its title or publisher repeats the distinctive words of `search_term`, even with a tagline, an 'app' suffix or a word like coach, driver or letter), answer true. If the words are an exam name, a year, 'prep', 'practice test', 'flashcards', a topic or a tool type that many results share, answer false."
+   "Imagine the App Store search results for `search_term`. If one result is clearly 'the' app being asked for (its title or publisher repeats the distinctive words of `search_term`, even with a tagline, an 'app' suffix or a word like coach, driver or letter), answer true. If the words are an exam name, a year, 'prep', 'practice test', 'flashcards', a topic or a tool type that many results share, answer false.",
+   "Is `search_term` the title of ONE app or the name of one publisher? Compare it with the first 3 titles in `top_results`: if one title is `search_term` plus at most a tagline, a number or a word like 'app', 'coach', 'driver', 'letter' or 'test', answer true even if the words look ordinary. If the words are only a topic, tool type or exam that several unrelated developers use in their titles, answer false."
   ],
   "criteria": [
    {

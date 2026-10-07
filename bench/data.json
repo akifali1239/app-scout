@@ -15032,6 +15032,26 @@
    "app": "Converts between metric and imperial units for cooking and carpentry.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Calculates insulin doses from blood sugar readings and tells the user how many units to inject.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Shows a printable checklist for packing a hospital bag before childbirth.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Reads a photo of a mole and says whether it is cancer.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Counts down the days until a user-chosen date.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -15847,6 +15867,26 @@
    "note": "Kullanıcı ücretsiz alternatiflerle yetiniyor, ödeme isteği yok",
    "label": "Para yapmaz",
    "split": "dev"
+  },
+  {
+   "note": "bu da öncekilerin birebir kopyası, ayrım yok",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "tekrar eden aynı fikir, listede dördüncü kez görüyorum",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "ilgimi çekmeyen, sıradan bir fikir",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Apple çocukların verisini toplayan bu tür app'i kesin reddeder",
+   "label": "Ret riski",
+   "split": "train"
   }
  ],
  "kind": [

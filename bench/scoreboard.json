@@ -2,20 +2,15 @@
  "current": {
   "intent": {
    "version": "v3",
-   "dev_acc": 0.9167,
-   "test_acc": 0.95,
-   "dev_obj": 0.874,
-   "test_obj": 0.9179,
-   "brier": 0.0642,
-   "n": 76,
+   "dev_acc": 0.95,
+   "test_acc": 0.9773,
+   "dev_obj": 0.9102,
+   "test_obj": 0.95,
+   "brier": 0.0546,
+   "n": 84,
    "versions": 3,
    "tried": 63,
    "test_errors": [
-    [
-     "hinge health",
-     "brand",
-     "need"
-    ],
     [
      "subway surfers",
      "brand",
@@ -26,10 +21,10 @@
   "brand": {
    "version": "v3",
    "dev_acc": 0.9355,
-   "test_acc": 0.9296,
-   "dev_obj": 0.893,
-   "test_obj": 0.8974,
-   "brier": 0.0643,
+   "test_acc": 0.9437,
+   "dev_obj": 0.8926,
+   "test_obj": 0.9113,
+   "brier": 0.0647,
    "n": 133,
    "versions": 3,
    "tried": 89,
@@ -45,19 +40,14 @@
      0.31
     ],
     [
-     "paramedic special pops review",
-     false,
-     0.5
-    ],
-    [
      "pilot driver app",
      true,
-     0.28
+     0.26
     ],
     [
      "personal trainer prep: test",
      true,
-     0.22
+     0.23
     ]
    ]
   },
@@ -66,8 +56,8 @@
    "dev_acc": 1.0,
    "test_acc": 0.9798,
    "dev_obj": 0.995,
-   "test_obj": 0.9707,
-   "brier": 0.0182,
+   "test_obj": 0.9702,
+   "brier": 0.0193,
    "n": 178,
    "versions": 1,
    "tried": 12,
@@ -76,13 +66,13 @@
      "welding calculator",
      "WELDING PRO",
      0,
-     0.63
+     0.66
     ],
     [
      "torque conversion chart",
      "Bolt Torque Specs",
      1,
-     0.32
+     0.31
     ]
    ]
   },
@@ -90,9 +80,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9925,
-   "test_obj": 0.9923,
-   "brier": 0.0153,
+   "dev_obj": 0.9922,
+   "test_obj": 0.9926,
+   "brier": 0.0149,
    "n": 46,
    "versions": 1,
    "tried": 16,
@@ -102,8 +92,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0406,
-   "test_obj": 1.0374,
+   "dev_obj": 1.0407,
+   "test_obj": 1.0372,
    "brier": null,
    "n": 24,
    "versions": 1,
@@ -114,8 +104,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0405,
-   "test_obj": 1.0393,
+   "dev_obj": 1.0402,
+   "test_obj": 1.0394,
    "brier": null,
    "n": 21,
    "versions": 1,
@@ -127,7 +117,7 @@
    "dev_acc": 1.0,
    "test_acc": 1.0,
    "dev_obj": 1.0341,
-   "test_obj": 1.04,
+   "test_obj": 1.0399,
    "brier": null,
    "n": 24,
    "versions": 1,
@@ -136,12 +126,12 @@
   },
   "kind": {
    "version": "v2",
-   "dev_acc": 0.9545,
+   "dev_acc": 0.9583,
    "test_acc": 1.0,
-   "dev_obj": 0.9408,
+   "dev_obj": 0.9466,
    "test_obj": 1.0,
    "brier": 0.0,
-   "n": 44,
+   "n": 48,
    "versions": 2,
    "tried": 30,
    "test_errors": []
@@ -150,7 +140,7 @@
    "version": "v2",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9963,
+   "dev_obj": 0.9968,
    "test_obj": 0.9986,
    "brier": 0.0027,
    "n": 35,
@@ -2409,27 +2399,112 @@
    "dev_obj": 0.9963,
    "test_obj": 0.9986,
    "n": 35
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "intent",
+   "version": "v3",
+   "dev_acc": 0.95,
+   "test_acc": 0.9773,
+   "dev_obj": 0.9102,
+   "test_obj": 0.95,
+   "n": 84
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "brand",
+   "version": "v3",
+   "dev_acc": 0.9355,
+   "test_acc": 0.9437,
+   "dev_obj": 0.8926,
+   "test_obj": 0.9113,
+   "n": 133
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 0.9798,
+   "dev_obj": 0.995,
+   "test_obj": 0.9702,
+   "n": 178
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9922,
+   "test_obj": 0.9926,
+   "n": 46
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0407,
+   "test_obj": 1.0372,
+   "n": 24
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0402,
+   "test_obj": 1.0394,
+   "n": 21
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0341,
+   "test_obj": 1.0399,
+   "n": 24
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "kind",
+   "version": "v2",
+   "dev_acc": 0.9583,
+   "test_acc": 1.0,
+   "dev_obj": 0.9466,
+   "test_obj": 1.0,
+   "n": 48
+  },
+  {
+   "ts": "2026-10-07T06:42:34+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9968,
+   "test_obj": 0.9986,
+   "n": 35
   }
  ],
- "updated": "2026-10-07T05:41:40+00:00",
+ "updated": "2026-10-07T06:42:34+00:00",
  "raw": {
   "intent": {
    "version": "v3",
    "dev": {
-    "n": 36,
-    "acc": 0.9167,
-    "brier": 0.0853,
-    "obj": 0.874,
+    "n": 40,
+    "acc": 0.95,
+    "brier": 0.0796,
+    "obj": 0.9102,
     "errors": [
      [
       "e6b flight computer",
       "need",
       "brand"
-     ],
-     [
-      "speech therapy delhi",
-      "local_business",
-      "need"
      ],
      [
       "trucker path",
@@ -2439,16 +2514,11 @@
     ]
    },
    "test": {
-    "n": 40,
-    "acc": 0.95,
-    "brier": 0.0642,
-    "obj": 0.9179,
+    "n": 44,
+    "acc": 0.9773,
+    "brier": 0.0546,
+    "obj": 0.95,
     "errors": [
-     [
-      "hinge health",
-      "brand",
-      "need"
-     ],
      [
       "subway surfers",
       "brand",
@@ -2462,13 +2532,13 @@
    "dev": {
     "n": 62,
     "acc": 0.9355,
-    "brier": 0.0849,
-    "obj": 0.893,
+    "brier": 0.0858,
+    "obj": 0.8926,
     "errors": [
      [
       "speech therapy delhi",
       true,
-      0.16
+      0.17
      ],
      [
       "miller weld setting calculator",
@@ -2478,20 +2548,20 @@
      [
       "plumber license prep: exam",
       true,
-      0.18
+      0.16
      ],
      [
       "acupuncture atlas 3d",
       false,
-      0.73
+      0.72
      ]
     ]
    },
    "test": {
     "n": 71,
-    "acc": 0.9296,
-    "brier": 0.0643,
-    "obj": 0.8974,
+    "acc": 0.9437,
+    "brier": 0.0647,
+    "obj": 0.9113,
     "errors": [
      [
       "pharmacy technician letter",
@@ -2504,19 +2574,14 @@
       0.31
      ],
      [
-      "paramedic special pops review",
-      false,
-      0.5
-     ],
-     [
       "pilot driver app",
       true,
-      0.28
+      0.26
      ],
      [
       "personal trainer prep: test",
       true,
-      0.22
+      0.23
      ]
     ]
    }
@@ -2533,20 +2598,20 @@
    "test": {
     "n": 99,
     "acc": 0.9798,
-    "brier": 0.0182,
-    "obj": 0.9707,
+    "brier": 0.0193,
+    "obj": 0.9702,
     "errors": [
      [
       "welding calculator",
       "WELDING PRO",
       0,
-      0.63
+      0.66
      ],
      [
       "torque conversion chart",
       "Bolt Torque Specs",
       1,
-      0.32
+      0.31
      ]
     ]
    }
@@ -2556,15 +2621,15 @@
    "dev": {
     "n": 22,
     "acc": 1.0,
-    "brier": 0.015,
-    "obj": 0.9925,
+    "brier": 0.0155,
+    "obj": 0.9922,
     "errors": []
    },
    "test": {
     "n": 24,
     "acc": 1.0,
-    "brier": 0.0153,
-    "obj": 0.9923,
+    "brier": 0.0149,
+    "obj": 0.9926,
     "errors": []
    }
   },
@@ -2574,16 +2639,16 @@
     "n": 11,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8122,
-    "obj": 1.0406,
+    "margin": 0.8131,
+    "obj": 1.0407,
     "errors": []
    },
    "test": {
     "n": 13,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7488,
-    "obj": 1.0374,
+    "margin": 0.7448,
+    "obj": 1.0372,
     "errors": []
    }
   },
@@ -2593,16 +2658,16 @@
     "n": 8,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8094,
-    "obj": 1.0405,
+    "margin": 0.8037,
+    "obj": 1.0402,
     "errors": []
    },
    "test": {
     "n": 13,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7862,
-    "obj": 1.0393,
+    "margin": 0.7881,
+    "obj": 1.0394,
     "errors": []
    }
   },
@@ -2612,7 +2677,7 @@
     "n": 11,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.6812,
+    "margin": 0.6815,
     "obj": 1.0341,
     "errors": []
    },
@@ -2620,18 +2685,18 @@
     "n": 13,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8002,
-    "obj": 1.04,
+    "margin": 0.7973,
+    "obj": 1.0399,
     "errors": []
    }
   },
   "kind": {
    "version": "v2",
    "dev": {
-    "n": 22,
-    "acc": 0.9545,
-    "brier": 0.0276,
-    "obj": 0.9408,
+    "n": 24,
+    "acc": 0.9583,
+    "brier": 0.0234,
+    "obj": 0.9466,
     "errors": [
      [
       "Find my Friends, Family Phone",
@@ -2641,7 +2706,7 @@
     ]
    },
    "test": {
-    "n": 22,
+    "n": 24,
     "acc": 1.0,
     "brier": 0.0,
     "obj": 1.0,
@@ -2653,8 +2718,8 @@
    "dev": {
     "n": 17,
     "acc": 1.0,
-    "brier": 0.0075,
-    "obj": 0.9963,
+    "brier": 0.0065,
+    "obj": 0.9968,
     "errors": []
    },
    "test": {
@@ -2666,5 +2731,5 @@
    }
   }
  },
- "fingerprint": "56175686c98a"
+ "fingerprint": "df392e6bdc60"
 }

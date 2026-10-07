@@ -9,7 +9,8 @@
     "hint": "Names of clinics, companies, publishers or specific apps mean they want that one entity; plain topic words mean a need that any good app could serve."
    },
    "Decide what the person typing `search_term` wants. If the words identify one particular company, publisher, app, clinic or practice (even when built from ordinary words, or ending in LLC, PC, Inc or a city), they want that one entity. If the words only describe a topic, task, exam or tool that many apps could serve, they want a need. Use `top_results` only as supporting evidence.",
-   "Decide what the person typing `search_term` wants. A query naming one specific practice, clinic, shop or school wants that one organization, even if it is built from ordinary words such as an adjective plus a service plus 'clinic', 'center' or 'studio' (e.g. 'elite physical therapy clinic'). A query that only names a topic, exam or task, with no sign of one particular business, is a need."
+   "Decide what the person typing `search_term` wants. A query naming one specific practice, clinic, shop or school wants that one organization, even if it is built from ordinary words such as an adjective plus a service plus 'clinic', 'center' or 'studio' (e.g. 'elite physical therapy clinic'). A query that only names a topic, exam or task, with no sign of one particular business, is a need.",
+   "Decide what the person typing `search_term` wants. A well-known named product, app, company or publisher (even one whose name is made of ordinary words, like 'hinge health', or a game title, like 'subway surfers') is a brand: they want that one entity. Choose game only for a request to play a type of game or simulator ('welding simulator game'), not for the exact title of one particular game. Plain topic words with no sign of one named entity are a need."
   ],
   "criteria": [
    {
@@ -33,6 +34,14 @@
     "brand": "A proper name of one product, app, publisher or company, possibly with generic words added (e.g. 'foreflight', 'hinge health', 'pocket prep', 'miller weld setting calculator')",
     "local_business": "Names one specific local clinic, practice, shop, studio, school, hospital or credit union, including ordinary words used as a business name (e.g. 'elite physical therapy clinic', 'smith family dental'), or with LLC, PC, a city or a person's name",
     "game": "Wants a game, simulator or something to play",
+    "jobs": "Wants job listings or to be hired",
+    "other": "None of the above"
+   },
+   {
+    "need": "Plain words for a topic, task, exam or tool that many apps could serve (e.g. 'welding symbols', 'white noise', 'nclex practice questions'); not a proper name",
+    "brand": "The name of one specific product, app, publisher or company, including the exact title of one particular game (e.g. 'subway surfers') and names built from ordinary words (e.g. 'hinge health')",
+    "local_business": "Names one specific local clinic, practice, shop, studio, school, hospital or credit union, including ordinary words used as a business name (e.g. 'elite physical therapy clinic', 'smith family dental'), or with LLC, PC, a city or a person's name",
+    "game": "A generic request to play a type of game or simulator (e.g. 'welding simulator game'); not the exact title of one named game",
     "jobs": "Wants job listings or to be hired",
     "other": "None of the above"
    }

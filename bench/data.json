@@ -479,6 +479,56 @@
    "term": "quickbooks",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "rebar weight chart",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "ekg interpretation",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "airbnb",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "photomath",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "block puzzle game",
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "term": "lawn mowing simulator",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "remote nursing jobs",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "jones family dentistry",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "pipe fitting calculator",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "anki",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -14988,6 +15038,42 @@
     "desc": "Fresh articles and videos on nutrition and wellbeing every day."
    },
    "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Conduit Bend Calculator",
+    "category": "Utilities",
+    "desc": "Calculate offsets and bends for EMT conduit."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Nursing Drug Flashcards",
+    "category": "Medical",
+    "desc": "Flashcards with 500 drug monographs and dosages."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Fix It AI: Home Repair Chat",
+    "category": "Productivity",
+    "desc": "Ask our AI chatbot any home repair question and get instant answers."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Smith & Sons Plumbing",
+    "category": "Business",
+    "desc": "Book a plumber, view invoices and track your appointment."
+   },
+   "label": "service",
    "split": "dev"
   }
  ]

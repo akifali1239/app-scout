@@ -14146,6 +14146,78 @@
    "hi": "pharmacy technician exam prep",
    "lo": "meme generator",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "aviation maintenance technician amt exam prep",
+   "lo": "coloring pages",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "ekg rhythm strip practice for nurses",
+   "lo": "photo booth",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "land surveyor fs exam flashcards",
+   "lo": "slime simulator",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "emt basic nremt practice test",
+   "lo": "ringtone maker",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "cna state exam practice test",
+   "lo": "funny sounds",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex pn exam prep",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac epa 608 exam prep",
+   "lo": "live wallpaper",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "ccna exam practice questions",
+   "lo": "fidget spinner",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "level tool",
+   "lo": "ride hailing marketplace like uber",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "countdown timer",
+   "lo": "social network like facebook",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator",
+   "lo": "video streaming platform like netflix",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe volume calculator",
+   "lo": "online banking app",
+   "split": "train"
   }
  ],
  "note": [

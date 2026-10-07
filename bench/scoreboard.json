@@ -4,9 +4,9 @@
    "version": "v3",
    "dev_acc": 0.95,
    "test_acc": 0.9773,
-   "dev_obj": 0.9102,
-   "test_obj": 0.95,
-   "brier": 0.0546,
+   "dev_obj": 0.9122,
+   "test_obj": 0.9499,
+   "brier": 0.0548,
    "n": 84,
    "versions": 3,
    "tried": 67,
@@ -20,12 +20,12 @@
   },
   "brand": {
    "version": "v3",
-   "dev_acc": 0.9355,
-   "test_acc": 0.9437,
-   "dev_obj": 0.8926,
-   "test_obj": 0.9113,
-   "brier": 0.0647,
-   "n": 133,
+   "dev_acc": 0.9394,
+   "test_acc": 0.9467,
+   "dev_obj": 0.8987,
+   "test_obj": 0.916,
+   "brier": 0.0613,
+   "n": 141,
    "versions": 3,
    "tried": 92,
    "test_errors": [
@@ -42,12 +42,12 @@
     [
      "pilot driver app",
      true,
-     0.26
+     0.27
     ],
     [
      "personal trainer prep: test",
      true,
-     0.23
+     0.21
     ]
    ]
   },
@@ -55,9 +55,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 0.9798,
-   "dev_obj": 0.995,
-   "test_obj": 0.9702,
-   "brier": 0.0193,
+   "dev_obj": 0.9949,
+   "test_obj": 0.9704,
+   "brier": 0.0188,
    "n": 178,
    "versions": 1,
    "tried": 12,
@@ -66,13 +66,13 @@
      "welding calculator",
      "WELDING PRO",
      0,
-     0.66
+     0.63
     ],
     [
      "torque conversion chart",
      "Bolt Torque Specs",
      1,
-     0.31
+     0.29
     ]
    ]
   },
@@ -80,9 +80,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9922,
-   "test_obj": 0.9926,
-   "brier": 0.0149,
+   "dev_obj": 0.9927,
+   "test_obj": 0.9924,
+   "brier": 0.0152,
    "n": 46,
    "versions": 1,
    "tried": 16,
@@ -92,8 +92,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0407,
-   "test_obj": 1.0372,
+   "dev_obj": 1.0409,
+   "test_obj": 1.0374,
    "brier": null,
    "n": 24,
    "versions": 1,
@@ -105,7 +105,7 @@
    "dev_acc": 1.0,
    "test_acc": 1.0,
    "dev_obj": 1.0402,
-   "test_obj": 1.0394,
+   "test_obj": 1.0393,
    "brier": null,
    "n": 21,
    "versions": 1,
@@ -116,8 +116,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0341,
-   "test_obj": 1.0399,
+   "dev_obj": 1.0338,
+   "test_obj": 1.0397,
    "brier": null,
    "n": 24,
    "versions": 1,
@@ -128,9 +128,9 @@
    "version": "v2",
    "dev_acc": 0.9583,
    "test_acc": 1.0,
-   "dev_obj": 0.9466,
+   "dev_obj": 0.9463,
    "test_obj": 1.0,
-   "brier": 0.0,
+   "brier": 0.0001,
    "n": 48,
    "versions": 2,
    "tried": 30,
@@ -140,9 +140,9 @@
    "version": "v2",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9968,
-   "test_obj": 0.9986,
-   "brier": 0.0027,
+   "dev_obj": 0.9975,
+   "test_obj": 0.9983,
+   "brier": 0.0033,
    "n": 35,
    "versions": 2,
    "tried": 5,
@@ -2489,17 +2489,107 @@
    "dev_obj": 0.9968,
    "test_obj": 0.9986,
    "n": 35
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "intent",
+   "version": "v3",
+   "dev_acc": 0.95,
+   "test_acc": 0.9773,
+   "dev_obj": 0.9122,
+   "test_obj": 0.9499,
+   "n": 84
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "brand",
+   "version": "v3",
+   "dev_acc": 0.9394,
+   "test_acc": 0.9467,
+   "dev_obj": 0.8987,
+   "test_obj": 0.916,
+   "n": 141
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 0.9798,
+   "dev_obj": 0.9949,
+   "test_obj": 0.9704,
+   "n": 178
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9927,
+   "test_obj": 0.9924,
+   "n": 46
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0409,
+   "test_obj": 1.0374,
+   "n": 24
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0402,
+   "test_obj": 1.0393,
+   "n": 21
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0338,
+   "test_obj": 1.0397,
+   "n": 24
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "kind",
+   "version": "v2",
+   "dev_acc": 0.9583,
+   "test_acc": 1.0,
+   "dev_obj": 0.9463,
+   "test_obj": 1.0,
+   "n": 48
+  },
+  {
+   "ts": "2026-10-07T07:41:55+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9975,
+   "test_obj": 0.9983,
+   "n": 35
   }
  ],
- "updated": "2026-10-07T07:17:09+00:00",
+ "updated": "2026-10-07T07:41:55+00:00",
  "raw": {
   "intent": {
    "version": "v3",
    "dev": {
     "n": 40,
     "acc": 0.95,
-    "brier": 0.0796,
-    "obj": 0.9102,
+    "brier": 0.0757,
+    "obj": 0.9122,
     "errors": [
      [
       "e6b flight computer",
@@ -2516,8 +2606,8 @@
    "test": {
     "n": 44,
     "acc": 0.9773,
-    "brier": 0.0546,
-    "obj": 0.95,
+    "brier": 0.0548,
+    "obj": 0.9499,
     "errors": [
      [
       "subway surfers",
@@ -2530,38 +2620,38 @@
   "brand": {
    "version": "v3",
    "dev": {
-    "n": 62,
-    "acc": 0.9355,
-    "brier": 0.0858,
-    "obj": 0.8926,
+    "n": 66,
+    "acc": 0.9394,
+    "brier": 0.0814,
+    "obj": 0.8987,
     "errors": [
      [
       "speech therapy delhi",
       true,
-      0.17
+      0.18
      ],
      [
       "miller weld setting calculator",
       true,
-      0.24
+      0.25
      ],
      [
       "plumber license prep: exam",
       true,
-      0.16
+      0.17
      ],
      [
       "acupuncture atlas 3d",
       false,
-      0.72
+      0.71
      ]
     ]
    },
    "test": {
-    "n": 71,
-    "acc": 0.9437,
-    "brier": 0.0647,
-    "obj": 0.9113,
+    "n": 75,
+    "acc": 0.9467,
+    "brier": 0.0613,
+    "obj": 0.916,
     "errors": [
      [
       "pharmacy technician letter",
@@ -2576,12 +2666,12 @@
      [
       "pilot driver app",
       true,
-      0.26
+      0.27
      ],
      [
       "personal trainer prep: test",
       true,
-      0.23
+      0.21
      ]
     ]
    }
@@ -2591,27 +2681,27 @@
    "dev": {
     "n": 79,
     "acc": 1.0,
-    "brier": 0.01,
-    "obj": 0.995,
+    "brier": 0.0103,
+    "obj": 0.9949,
     "errors": []
    },
    "test": {
     "n": 99,
     "acc": 0.9798,
-    "brier": 0.0193,
-    "obj": 0.9702,
+    "brier": 0.0188,
+    "obj": 0.9704,
     "errors": [
      [
       "welding calculator",
       "WELDING PRO",
       0,
-      0.66
+      0.63
      ],
      [
       "torque conversion chart",
       "Bolt Torque Specs",
       1,
-      0.31
+      0.29
      ]
     ]
    }
@@ -2621,15 +2711,15 @@
    "dev": {
     "n": 22,
     "acc": 1.0,
-    "brier": 0.0155,
-    "obj": 0.9922,
+    "brier": 0.0145,
+    "obj": 0.9927,
     "errors": []
    },
    "test": {
     "n": 24,
     "acc": 1.0,
-    "brier": 0.0149,
-    "obj": 0.9926,
+    "brier": 0.0152,
+    "obj": 0.9924,
     "errors": []
    }
   },
@@ -2639,16 +2729,16 @@
     "n": 11,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8131,
-    "obj": 1.0407,
+    "margin": 0.8185,
+    "obj": 1.0409,
     "errors": []
    },
    "test": {
     "n": 13,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7448,
-    "obj": 1.0372,
+    "margin": 0.7487,
+    "obj": 1.0374,
     "errors": []
    }
   },
@@ -2658,7 +2748,7 @@
     "n": 8,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8037,
+    "margin": 0.805,
     "obj": 1.0402,
     "errors": []
    },
@@ -2666,8 +2756,8 @@
     "n": 13,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7881,
-    "obj": 1.0394,
+    "margin": 0.7858,
+    "obj": 1.0393,
     "errors": []
    }
   },
@@ -2677,16 +2767,16 @@
     "n": 11,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.6815,
-    "obj": 1.0341,
+    "margin": 0.6767,
+    "obj": 1.0338,
     "errors": []
    },
    "test": {
     "n": 13,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7973,
-    "obj": 1.0399,
+    "margin": 0.7949,
+    "obj": 1.0397,
     "errors": []
    }
   },
@@ -2695,8 +2785,8 @@
    "dev": {
     "n": 24,
     "acc": 0.9583,
-    "brier": 0.0234,
-    "obj": 0.9466,
+    "brier": 0.0242,
+    "obj": 0.9463,
     "errors": [
      [
       "Find my Friends, Family Phone",
@@ -2708,7 +2798,7 @@
    "test": {
     "n": 24,
     "acc": 1.0,
-    "brier": 0.0,
+    "brier": 0.0001,
     "obj": 1.0,
     "errors": []
    }
@@ -2718,18 +2808,18 @@
    "dev": {
     "n": 17,
     "acc": 1.0,
-    "brier": 0.0065,
-    "obj": 0.9968,
+    "brier": 0.005,
+    "obj": 0.9975,
     "errors": []
    },
    "test": {
     "n": 18,
     "acc": 1.0,
-    "brier": 0.0027,
-    "obj": 0.9986,
+    "brier": 0.0033,
+    "obj": 0.9983,
     "errors": []
    }
   }
  },
- "fingerprint": "df392e6bdc60"
+ "fingerprint": "6e3ac8af17dd"
 }

@@ -17965,6 +17965,54 @@
    "hi": "timer",
    "lo": "real-time multiplayer game",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "nbdhe dental hygiene boards",
+   "lo": "weather widget",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "vtne vet tech exam prep",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "notary public practice test",
+   "lo": "wallpaper hd",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumber license prep: exam",
+   "lo": "photo collage maker",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "oat optometry admission prep",
+   "lo": "free ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pharmacy technician exam prep",
+   "lo": "funny sound effects",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "phlebotomy order of draw",
+   "lo": "ride sharing marketplace",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "dosage calculation",
+   "lo": "online multiplayer shooter game",
+   "split": "dev"
   }
  ],
  "note": [

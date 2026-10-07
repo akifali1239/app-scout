@@ -13061,6 +13061,216 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "hvac load calculator",
+   "apps": [
+    {
+     "name": "HVAC Load Calc Pro",
+     "dev": "Dev",
+     "ratings": 420,
+     "desc": "Manual J style heating and cooling load calculator for HVAC contractors."
+    },
+    {
+     "name": "HVAC Tech Guide",
+     "dev": "Dev",
+     "ratings": 1800,
+     "desc": "Refrigerant charts, wiring diagrams and troubleshooting tips for HVAC technicians."
+    },
+    {
+     "name": "Cool Breeze Weather",
+     "dev": "Dev",
+     "ratings": 90,
+     "desc": "Local weather forecast and temperature widgets."
+    },
+    {
+     "name": "Heat Load Estimator",
+     "dev": "Dev",
+     "ratings": 35,
+     "desc": "Estimate room heat load in BTU for sizing air conditioners."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "drug dosage calculator nurse",
+   "apps": [
+    {
+     "name": "Nurse Dose Calc",
+     "dev": "Dev",
+     "ratings": 2200,
+     "desc": "Drug dosage and IV drip rate calculator for nurses."
+    },
+    {
+     "name": "Nursing Study Cards",
+     "dev": "Dev",
+     "ratings": 640,
+     "desc": "Flashcards for nursing students covering pharmacology and anatomy."
+    },
+    {
+     "name": "Pill Reminder Pro",
+     "dev": "Dev",
+     "ratings": 5000,
+     "desc": "Reminds you to take your medication on time."
+    },
+    {
+     "name": "Pharmacy Match Game",
+     "dev": "Dev",
+     "ratings": 12,
+     "desc": "Puzzle game with colorful pills."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "concrete volume calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc",
+     "dev": "Dev",
+     "ratings": 950,
+     "desc": "Calculate cubic yards of concrete for slabs, footings and columns."
+    },
+    {
+     "name": "Concrete Jungle Run",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Endless runner game in a city."
+    },
+    {
+     "name": "Contractor Estimates",
+     "dev": "Dev",
+     "ratings": 2600,
+     "desc": "Invoices and estimates for contractors."
+    },
+    {
+     "name": "Slab & Footing Volume",
+     "dev": "Dev",
+     "ratings": 60,
+     "desc": "Quickly compute concrete volume and bags needed for any slab."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "pilot logbook",
+   "apps": [
+    {
+     "name": "Pilot Logbook Pro",
+     "dev": "Dev",
+     "ratings": 3400,
+     "desc": "Digital flight logbook that tracks hours, endorsements and currency for pilots."
+    },
+    {
+     "name": "Flight Sim Arcade",
+     "dev": "Dev",
+     "ratings": 800,
+     "desc": "Fun arcade flying game."
+    },
+    {
+     "name": "Aviation Weather Brief",
+     "dev": "Dev",
+     "ratings": 1500,
+     "desc": "METARs, TAFs and radar for pilots before flight."
+    },
+    {
+     "name": "Logbook for Pilots",
+     "dev": "Dev",
+     "ratings": 45,
+     "desc": "Simple pilot logbook to record every flight."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "pipe bending calculator",
+   "apps": [
+    {
+     "name": "Conduit Bender Calc",
+     "dev": "Dev",
+     "ratings": 700,
+     "desc": "Calculate offsets, kicks and saddles for EMT conduit bending."
+    },
+    {
+     "name": "Pipefitter Toolbox",
+     "dev": "Dev",
+     "ratings": 1100,
+     "desc": "Pipe fittings, flange charts and formulas for pipefitters."
+    },
+    {
+     "name": "Pipe Dream Puzzle",
+     "dev": "Dev",
+     "ratings": 200,
+     "desc": "Connect the pipes puzzle game."
+    },
+    {
+     "name": "Pipe Bend Angle",
+     "dev": "Dev",
+     "ratings": 20,
+     "desc": "Compute bend deductions and gain for pipe bending."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

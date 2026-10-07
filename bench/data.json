@@ -11050,6 +11050,634 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "hoofcycle: farrier log",
+   "top": [
+    {
+     "name": "HoofCycle: Farrier Log",
+     "dev": "TECK SOON NG",
+     "ratings": 0,
+     "desc": "HoofCycle is a local-first farrier logbook for horse owners, barn managers, and small private stables. Track horse profiles, farrier visits, hoof photo timelines, costs, notes, and due dates in one si"
+    },
+    {
+     "name": "EQUINET - Mustad Farrier App",
+     "dev": "Mustad Hoofcare",
+     "ratings": 9,
+     "desc": "EQUINET is an app designed to make every day business management easier for farriers. \n\nApp features:\n1. HORSE & CONTACT LOGS: instant overview of all your contacts and horses in one place.\n\n2. HORSE "
+    },
+    {
+     "name": "Best Farrier",
+     "dev": "Best Mobile Professional, LLC",
+     "ratings": 10,
+     "desc": "Best Farrier is a scheduling and invoicing app for farriers, built for mobile devices, that helps you run your business efficiently on the go. All your business information is in one place, easily and"
+    },
+    {
+     "name": "Star Equestrian - Horse Ranch",
+     "dev": "Foxie Ventures LLC",
+     "ratings": 21014,
+     "desc": "Snowdrop. A majestic rescue horse. Together, the two of you had the potential to be a perfect duo, real contenders for the much coveted Star Championship title, but life had other plans. One accident "
+    },
+    {
+     "name": "Horse Quest Online 3D Simulator - My Multiplayer Pony Adventure",
+     "dev": "App Holdings",
+     "ratings": 19643,
+     "desc": "Pick your horse and unravel the mystery of Maplewood forest as you make new friends with players from all around the world! \n\nLots of Horses\n\nYou have your own stable where you can choose from differe"
+    },
+    {
+     "name": "American Farrier’s Association",
+     "dev": "American Farrier’s Association",
+     "ratings": 1,
+     "desc": "The American Farrier’s Association app connects you with the most up to date information for members, certification requirements, news and events.  Use the app to connect with members, locate certific"
+    },
+    {
+     "name": "Equilab: Horse Riding Tracker",
+     "dev": "Equestrian Insights AB",
+     "ratings": 5156,
+     "desc": "Start tracking your rides with the world’s leading app for equestrians. Equilab lets you track the distance, speed, gaits, and turns of your sessions — all using your smartphone (or Apple Watch). Then"
+    },
+    {
+     "name": "Proper Strides",
+     "dev": "Proper Miles LLC",
+     "ratings": 5,
+     "desc": "Proper Strides - Horse Management, Ride Tracker, Equine Records\n\nProper Strides is an all-in-one horse management app for horse owners, riders, trainers, and barns. Track rides, manage horse records, "
+    },
+    {
+     "name": "Farrier Fleet",
+     "dev": "Simon Fleet",
+     "ratings": 0,
+     "desc": "Farrier Fleet helps farriers keep clients, horses, appointments, shoeing records, hoof photos, and loadouts organised in one place.\n\nDesigned around the day-to-day needs of working farriers, Farrier F"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "smokebook: beekeeping hive log",
+   "top": [
+    {
+     "name": "Smokebook: Beekeeping Hive Log",
+     "dev": "Yaniv van der Stigchel",
+     "ratings": 0,
+     "desc": "Log a hive inspection with your gloves on, see which colonies need treating for mites, and keep the treatment record your vet office asks for.\n\nAt the hive, queen, brood, temper, stores and queen cell"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Wild Hive - Build & Survive",
+     "dev": "Studio 42",
+     "ratings": 191,
+     "desc": "Wild Hive is a bee colony roguelite driven by a ruthless honey market. Grow your hive, hatch a swarm of worker bees, and sell the honey they make on a realistic stock market. The honey quota climbs ev"
+    },
+    {
+     "name": "Apiarist - Beekeeper Assistant",
+     "dev": "Oleg Soloviev",
+     "ratings": 147,
+     "desc": "Manage your apiary easily and professionally  \n\nThis app is designed specifically for beekeepers — from beginners to experienced professionals. It will help you efficiently manage your beekeeping busi"
+    },
+    {
+     "name": "B-hyve",
+     "dev": "Orbit Irrigation",
+     "ratings": 332276,
+     "desc": "The B-hyve smart sprinkler timer app allows you to control or monitor your sprinklers from anywhere in the world with the convenience of your smart device. \n \nSmart Watering\nKnowing how long and how o"
+    },
+    {
+     "name": "Hive Logger: Beekeeping App",
+     "dev": "Appco LLC (USA)",
+     "ratings": 24,
+     "desc": "Log every hive inspection in 30 seconds or less using QR code scanning and Smart Voice Logs (Pro). Hive Logger keeps records, tasks and reminders organized across every hive and apiary, so you always "
+    },
+    {
+     "name": "Bee Squared Beekeeping",
+     "dev": "OmniChrome",
+     "ratings": 5,
+     "desc": "From the makers of the best selling BeePlus comes Bee Squared, an advanced beekeeping app for the modern beekeeper.\nDesigned from the ground up to be powerful yet easy to use, let Bee² improve your re"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "flowbox: plumber toolkit",
+   "top": [
+    {
+     "name": "Flowbox: Plumber Toolkit",
+     "dev": "GABRIELE CHESI",
+     "ratings": 0,
+     "desc": "Flowbox is a professional toolkit for plumbers — job-site calculators covering drainage, venting, water supply, gas piping, and pipe fitting, all on-device with no account required.\n\nPIPE FUNDAMENTALS"
+    },
+    {
+     "name": "Plumber Master",
+     "dev": "Sergey Mezhakov",
+     "ratings": 2715,
+     "desc": "Plumbing simulator. Craft hypercausal 3D project. The goal is to clean the clog and wash all the dirt. After the surface of the bathtubs, sinks and so on comes clean. Make everything shine!"
+    },
+    {
+     "name": "Roto-Rooter: Plumbing & Drains",
+     "dev": "Roto-Rooter",
+     "ratings": 340,
+     "desc": "Never stress over plumbing problems again! The Roto-Rooter app puts expert plumbing service at your fingertips. \n\nSchedule emergency repairs, track your service order, and get your plumbing back in or"
+    },
+    {
+     "name": "Plumber's Handbook",
+     "dev": "Shital Gorasiya",
+     "ratings": 50,
+     "desc": "All-In-One Plumbing Guide – Learn, Repair, and Install with Confidence\n\nWhether you're a DIY enthusiast, a professional plumber, or simply curious about how plumbing systems work, this app is your go-"
+    },
+    {
+     "name": "Master Plumber Test",
+     "dev": "Cargo Teleport Inc",
+     "ratings": 2,
+     "desc": "Master Plumber Test is your ultimate tool for preparing to ace your plumber licensing exam. Designed for both aspiring journeymen and master plumbers, this app offers a comprehensive range of practice"
+    },
+    {
+     "name": "Journeyman Plumber: IPC & UPC",
+     "dev": "Lumeon Technologies, LLC",
+     "ratings": 13,
+     "desc": "You know the trade. Let's get you certified.\n\nCertifyIQ is the only plumber exam prep app that lets you filter practice questions by your state's code — IPC or UPC. Texas, Florida, New York, North Car"
+    },
+    {
+     "name": "Journeyman Plumber Exam 2026",
+     "dev": "Prepia Inc",
+     "ratings": 80,
+     "desc": "Developed by experienced educators and based on proven study methods, our NITC Journey Level Plumber Exam Prep App is recommended by top instructors nationwide!\n\nStudy anytime, anywhere. Try it free t"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades i"
+    },
+    {
+     "name": "nice plumber",
+     "dev": "梦 余",
+     "ratings": 2,
+     "desc": "Classic plumber game brand new reissue version! The most fun brainstorming casual game!\nUnblock the pipeline puzzle game, the gameplay is simple, but full of skills.\n\nWater is a scarce resource in hot"
+    },
+    {
+     "name": "Plumber Journeyman Exam Prep",
+     "dev": "Haresh Rathod",
+     "ratings": 12,
+     "desc": "Are you aspiring to become a licensed Journeyman Plumber? Prepare for your plumbing journeyman exam with confidence using the Plumber's Journeyman Exam Prep app! This comprehensive and user-friendly m"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "chipwright: machinist suite",
+   "top": [
+    {
+     "name": "Chipwright: Machinist Suite",
+     "dev": "Robert Corbin",
+     "ratings": 0,
+     "desc": "Chipwright: Machinist Suite is a polished offline calculation and reference desk for milling, turning, threading, fitting, and everyday shop math.\n\nFROM SETUP TO INSPECTION\n- Calculate spindle speed, "
+    },
+    {
+     "name": "The Phillips Machinist",
+     "dev": "Phillips Corporation",
+     "ratings": 393,
+     "desc": "The Phillips Machinist is your personalized digital manufacturing assistant, with quick access to essential machine codes and calculators, direct contact with Phillips engineers, and practical resourc"
+    },
+    {
+     "name": "CNC Machinist Calculator Pro",
+     "dev": "Shane Anderson",
+     "ratings": 678,
+     "desc": "CNC Machinist Calculator Pro is a machining calculator designed for manufacturing engineers, machinists, CNC operators, tool & die makers, and at home hobbyists. CNC Machinist Calculator Pro is great "
+    },
+    {
+     "name": "Machinist Tool",
+     "dev": "Allied Machine & Engineering Corp.",
+     "ratings": 6,
+     "desc": "The Machinist Tool from Allied Machine & Engineering provides numerous tools and resources to assist machinists and engineers with their holemaking and finishing applications. Quickly convert cutting "
+    },
+    {
+     "name": "FSWizard",
+     "dev": "Eldar Gerfanov",
+     "ratings": 47,
+     "desc": "CNC Milling and Turning Speed and Feed Calculator (Wizard)\nAbsolutely the best CNC machinist speed and feed calculator around.\nCalculate cutting conditions simply by choosing your work and tool materi"
+    },
+    {
+     "name": "CNC Machinist Calculator Ultra",
+     "dev": "Shane Anderson",
+     "ratings": 26,
+     "desc": "Unlock the full potential of your CNC machining operations with CNC Machinist Calculator Ultra, the premier tool designed for machinists, engineers, and anyone involved in machining processes. \n\nWith "
+    },
+    {
+     "name": "Machinist Journeyman",
+     "dev": "smartcalculations",
+     "ratings": 19,
+     "desc": "Machinist Journeyman was just updated with new features to give you the best app possible. You will be amazed by the amount of \"I Use it Everyday\" content in this app.\n\nFeatured in several Trade Publi"
+    },
+    {
+     "name": "Machining Advisor Pro",
+     "dev": "Harvey Tool",
+     "ratings": 163,
+     "desc": "Machining Advisor Pro quickly, seamlessly, and accurately provides recommended running parameters for CNC machining with your Helical Solutions and Harvey Tool products. Generate specialized speeds an"
+    },
+    {
+     "name": "Digi-Pas Machinist Level",
+     "dev": "JSB Tech",
+     "ratings": 58,
+     "desc": "Digi-Pas® Mobile App is a user-friendly and affordable app, designed specifically to be used in conjunction with the brand's latest 2-Axis Digital Machinist Levels. Users can fully utilise the wireles"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "scuba schools international",
+   "top": [
+    {
+     "name": "SSI App - Education and Fun",
+     "dev": "HEAD Watersports GmbH",
+     "ratings": 8383,
+     "desc": "DIGITAL DIVE LOG\nFast dive logging for scuba, freediving, extended range & rebreather dives. Sync from Mares, Suunto, Shearwater, Aqualung & more. GPS tagging, QR codes & Dive Site Database included.\n"
+    },
+    {
+     "name": "PADI",
+     "dev": "PADI Americas, Inc.",
+     "ratings": 45697,
+     "desc": "The New PADI App\nLearn, log, stay inspired , and book your next adventure\n\n…all in one app.\n\n\n\nLearn Anywhere\nBoth online and offline. \nThe best scuba diving training materials in the world are availa"
+    },
+    {
+     "name": "PADI Training",
+     "dev": "PADI Americas, Inc.",
+     "ratings": 18,
+     "desc": "The PADI Training app is specifically designed for downloading your PADI Training materials.\nMore than 70% of the planet is covered in water, providing infinite possibilities for adventure. PADI Diver"
+    },
+    {
+     "name": "Scuba Diving Computer Oceanic+",
+     "dev": "Huish Outdoors, LLC",
+     "ratings": 4681,
+     "desc": "Dive into a World of Adventure with Oceanic+ on Your Apple Watch Ultra!\nReady to make every dive or snorkeling experience an unforgettable journey? \nOceanic+ transforms your Apple Watch Ultra into a f"
+    },
+    {
+     "name": "Garmin Dive™",
+     "dev": "Garmin",
+     "ratings": 852,
+     "desc": "Whether you’re a beginner or an experienced diver, Garmin Dive is the ultimate diving companion. Once you pair your phone with a Descent™ dive computer or another compatible Garmin device¹, you can en"
+    },
+    {
+     "name": "Dive+ World's Diving Community",
+     "dev": "Life Plus Tech (Shenzhen) Co., Ltd.",
+     "ratings": 2571,
+     "desc": "All about diving, all in Dive+ APP!\n\n[ BUDDIES WORLDWIDE ]\nDivers from 200+ countries are sharing their diving experiences and infos of dive sites. You can explore what is happening in dive locations,"
+    },
+    {
+     "name": "NAUI",
+     "dev": "NAUI Worldwide",
+     "ratings": 48,
+     "desc": "Version 4.0 of the NAUI Worldwide ® Mobile App continues to build on the great functionality NAUI divers and dive professionals have come to expect from the NAUI App. Directly linked to NAUI CORE (Cer"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "carpentry calculator",
+   "top": [
+    {
+     "name": "Construction Master Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 40074,
+     "desc": "FREE Try Before You Buy 14 Day Trial; your App Store account is not charged by Apple during the free trial. Rated 4.8 stars with over 1.12M downloads. The trusted construction calculator used by profe"
+    },
+    {
+     "name": "Feet and Inches Calculator",
+     "dev": "Evan Winograd",
+     "ratings": 416,
+     "desc": "Master your trade with a powerful construction calculator built for contractors, carpenters, builders, electricians, and tradespeople.\n\nTutorial: https://www.youtube.com/watch?v=PZugBX9o-8E&t=0s\nQuest"
+    },
+    {
+     "name": "Construction Master 5 Calc",
+     "dev": "Calculated Industries",
+     "ratings": 13284,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nIntroducing the Construction Master 5, an innovative feet-inch-fraction builder's calculator that "
+    },
+    {
+     "name": "Feet & Inches Tape Calculator",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 9264,
+     "desc": "Explore the convenience of Feet & Inches Calculator, your go-to tool for effortless feet and inches calculations with a visual tape measure display!\n\nKey Features:\n\nSwift measurement calculations for "
+    },
+    {
+     "name": "Carpentry Calculator",
+     "dev": "Matthew Spencer",
+     "ratings": 1,
+     "desc": "The Carpentry Calculator is a must-have tool for all carpenters, builders, handymen and DIYers. This handy app makes light work of any tricky calculations, using either metric or imperial units. It is"
+    },
+    {
+     "name": "Carpentry & Trim Calculator",
+     "dev": "Vladislav Zhirnov",
+     "ratings": 7,
+     "desc": "Measure once. Build with confidence.\n\nCarpentry & Trim Calculator puts 24 practical woodworking and framing tools in your pocket. Turn jobsite or workshop measurements into clear layouts, material qua"
+    },
+    {
+     "name": "Construction Calculator ۬",
+     "dev": "Draunt LLC",
+     "ratings": 0,
+     "desc": "Construction Calculator gives you the tools you need to estimate materials, solve jobsite math, convert measurements, and plan construction projects with confidence.\n\nIncludes everything you need to c"
+    },
+    {
+     "name": "Onsite Calculator",
+     "dev": "Cristony Bruno Tomporoski da Silva",
+     "ratings": 0,
+     "desc": "OnSite Calculator is the essential construction calculator designed for builders, contractors, carpenters, and DIY enthusiasts who work with imperial measurements.\nIMPERIAL MATH MADE EASY\n• Calculate "
+    },
+    {
+     "name": "Fraction Calculator Plus #1",
+     "dev": "DigitAlchemy LLC",
+     "ratings": 22379,
+     "desc": "Fraction Calculator Plus - the best and easiest solution for fractions in everyday life. Calculate fractions: add, subtract, divide and multiply. Convert fractions to decimals easily.\n\n - Would you li"
+    },
+    {
+     "name": "Construction Calculator Tool",
+     "dev": "CodePro Studios",
+     "ratings": 0,
+     "desc": "Welcome to Construction Calculator Tool — the all-in-one companion for your building and remodeling projects. Whether you’re a professional contractor or a DIY enthusiast, this app offers robust featu"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "land surveying app",
+   "top": [
+    {
+     "name": "LandGlide: Parcel & Field Maps",
+     "dev": "Real Estate Portal USA, LLC",
+     "ratings": 59552,
+     "desc": "LandGlide® is the original parcel data app, trusted by professionals and property seekers since 2015. With access to 160 million parcel records across 3,229 counties, covering more than 99% of the U.S"
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    },
+    {
+     "name": "Regrid Property App",
+     "dev": "LOVELAND Technologies",
+     "ratings": 8812,
+     "desc": "Loved by millions, land and property information are instantly at your fingertips when you have the Regrid Property App.\n\nEasy access to all of the following info (and more!):\n\n- Lot lines / boundarie"
+    },
+    {
+     "name": "LandMap Property Line Finder",
+     "dev": "Kain Suite Pte. Ltd.",
+     "ratings": 3087,
+     "desc": "Get land property details without conducting a geological survey? Landmap offers land analysis tool with transparent and up-to-date parcel data. With over 165 million parcel records covering 99% of th"
+    },
+    {
+     "name": "Property Line Finder: Land Map",
+     "dev": "Biographics Consultoria e Design LTDA",
+     "ratings": 981,
+     "desc": "Property Survey GPS makes it easy to discover accurate property boundaries, parcel data, and land information directly on your iPhone or iPad. Whether you’re a property owner, real estate agent, devel"
+    },
+    {
+     "name": "Land Survey",
+     "dev": "Land Analysis Lab",
+     "ratings": 0,
+     "desc": "Land Survey is a mobile app that lets you measure areas and distances by placing points directly on Google Maps. Whether you need quick and accurate measurements for land, farmland, building sites, or"
+    },
+    {
+     "name": "Acres: Land Data & Parcel Maps",
+     "dev": "AcreMaps, LLC",
+     "ratings": 1982,
+     "desc": "Acres makes discovering property lines, landowner information, and land for sale easier than ever. Now with route tracking, offline maps, 3D maps, waypoints, and custom maps that sync between your mob"
+    },
+    {
+     "name": "Land id®",
+     "dev": "MapRight, LLC",
+     "ratings": 4206,
+     "desc": "Land id® turns AI-driven parcel insights into shareable property stories that drive real estate decisions. Explore properties, parcel boundaries, land ownership, and data nationwide. Showcase and mark"
+    },
+    {
+     "name": "GPS Land Measurement & Survey",
+     "dev": "LogiSian Technology Solutions",
+     "ratings": 3006,
+     "desc": "GPS Area Measure - Mapulator is a powerful measurement app for iPhone designed for professionals and individuals who need field area measurements, GPS measure distance, and land surveying tools. Wheth"
+    },
+    {
+     "name": "Field Area MeasureーLand Parcel",
+     "dev": "Irina Metelkina",
+     "ratings": 753,
+     "desc": "The area measurement app helps you to measure areas of any size. The app has 4 options of measurement:\n- Measurement on the map allows you to get the rough size of the field or another big area by jus"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "speedometer gps",
+   "top": [
+    {
+     "name": "GPS Speedometer, Speed Tracker",
+     "dev": "Nikhil Kumar",
+     "ratings": 25925,
+     "desc": "Track your speed with GPS accuracy using the ultimate GPS Speedometer & Odometer app. Whether you’re driving a car, riding a bike, or hauling with a truck, this speed tracker gives you real-time speed"
+    },
+    {
+     "name": "Speedometer Simple",
+     "dev": "WATT APPS",
+     "ratings": 129153,
+     "desc": "Speedometer Simple is a simple speedometer that is very easy to use. \n\nThis app uses phone's GPS to accurately determine your speed.\n\nSpeedometer has large fonts and supports mph, km/h, and knots spee"
+    },
+    {
+     "name": "Speedometer 55 GPS Speed & HUD",
+     "dev": "Stanislav Dvoychenko",
+     "ratings": 64671,
+     "desc": "A high quality Speedometer app with the same sophisticated brain inside as our paid version. When you go over a preset speed limit, the large digits change colour from green to red and the device emit"
+    },
+    {
+     "name": "Speedometer GPS: Speed Tracker",
+     "dev": "LightApps OU",
+     "ratings": 8844,
+     "desc": "Speedometer App: The Ultimate GPS Speedometer\n\nSpeedometer app is a cutting-edge speedometer that combines precision with GPS technology to deliver real-time speed tracking. Designed for drivers, cycl"
+    },
+    {
+     "name": "GPS Speedometer: Track Speed",
+     "dev": "AppAspect Technologies Pvt. Ltd.",
+     "ratings": 1483,
+     "desc": "Our Speedometer app offers a comprehensive solution for monitoring your speed and tracking your journeys, whether you're cycling, driving, boating, or flying. With versatile display options, detailed "
+    },
+    {
+     "name": "Speedometer»",
+     "dev": "Tim O's Studios, LLC",
+     "ratings": 50331,
+     "desc": "Speedometer» is a super-large, simple speed display for your iPhone, iPad, and Apple Watch.\n\nThere is no account to create and no login. Download the app, open it, and see your speed in seconds.\n\nSPEE"
+    },
+    {
+     "name": "Speedometer GPS : MPH Tracker",
+     "dev": "WE DAO TECH LIMITED",
+     "ratings": 155,
+     "desc": "SPEEDOMETER GPS: MPH TRACKER – PRECISION ON EVERY MILE\n\nNever guess your speed again! Whether you’re hitting the open road, cycling through the city, or tracking your morning run, Speedometer GPS: Spe"
+    },
+    {
+     "name": "Digital Speed GPS Speedometer",
+     "dev": "BITHAUS.TECH, UNIPESSOAL LDA",
+     "ratings": 5995,
+     "desc": "Turn your device into a GPS speedometer and intelligent trip companion. Whether driving, cycling, boating, or exploring on foot, track every detail of your journey with style.\n\nSPEED & NAVIGATION:\n- G"
+    },
+    {
+     "name": "Speedometer Speed Box Trip Log",
+     "dev": "Hans Schneider",
+     "ratings": 37690,
+     "desc": "Your iPhone as a speedometer - beautiful, accurate, versatile.\n\nSpeedBox turns your iPhone into a GPS speedometer with 17 stunning styles: from classic\nanalog dials and retro LED displays to a vintage"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dog grooming scheduler",
+   "top": [
+    {
+     "name": "Dog Grooming Salon Scheduler",
+     "dev": "Maksym Kavun",
+     "ratings": 0,
+     "desc": "Dog Grooming Scheduler is a simple pet grooming CRM, appointment calendar, and business organizer built for solo dog groomers, mobile groomers, and small grooming salons.\n\nManage clients, dogs, appoin"
+    },
+    {
+     "name": "MoeGo: Pet Business Suite",
+     "dev": "Moement Inc.",
+     "ratings": 296,
+     "desc": "MoeGo is the next-generation operating system designed to revolutionize pet care businesses, including grooming, boarding, daycare, training etc. \n\nBy combining automation and data-driven insights, Mo"
+    },
+    {
+     "name": "Schedule My Groom",
+     "dev": "Schedule My Groom LLC",
+     "ratings": 10,
+     "desc": "Pet grooming software built for solo groomers. Running a grooming business solo doesn’t have to be overwhelming. Schedule appointments, message clients, and run your grooming business in one simple ap"
+    },
+    {
+     "name": "DaySmart Pet Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 1096,
+     "desc": "DaySmart Pet, formerly 123Pet, is an easy to use groomer appointment scheduling app for pet grooming business owners, employees, and independent contractors that lets you manage your grooming business"
+    },
+    {
+     "name": "GrooMore Grooming Software",
+     "dev": "GrooMore, INC.",
+     "ratings": 24,
+     "desc": "[ Flexible Scheduling ]\nDay/Week/Month view and Agenda view provided, you can get the best control of your whole schedule easily.\nYou can easily view and print your appointment list of agenda view.\nYo"
+    },
+    {
+     "name": "TapGroom - Pet Grooming Salon",
+     "dev": "TapStyle Pty Ltd",
+     "ratings": 93,
+     "desc": "Shift to the new STYLISH way,,,, TapGroom makes your pet grooming salon business more efficient and stylish. TapStyle offers all the must have features for pet grooming salon / groomer in one package."
+    },
+    {
+     "name": "GroomLog: Groom Scheduling",
+     "dev": "Thomas Senior",
+     "ratings": 0,
+     "desc": "Stop double booking, chasing no-shows, and hunting for client details. GroomLog is the scheduling app built specifically for dog groomers. Mobile, salon or home-based. Spend less time on admin and mor"
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "Savvy Pet Spa",
+     "dev": "Its All Savvy Ltd",
+     "ratings": 1,
+     "desc": "Savvy Pet Spa is an indispensable business management software designed specifically to meet the needs of busy pet groomers.\nWith Savvy’s automated reminders, ‘no shows’ will become a thing of the pas"
+    },
+    {
+     "name": "DapperTails Mobile Grooming",
+     "dev": "The Ruff Life Mobile Grooming",
+     "ratings": 12,
+     "desc": "An app that connects pet parents with premium pet grooming facilities.\n\n- Instant Booking: Effortlessly schedule appointments with top-notch pet grooming facilities.\n- Manage Easily: Track your past a"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "sailing weather",
+   "top": [
+    {
+     "name": "Windy.app — Wind, Tides, Radar",
+     "dev": "Windy Weather World Inc",
+     "ratings": 73048,
+     "desc": "Windy.app - wind, waves and weather forecast app for surfers, kitesurfers, windsurfers, sailors, fishermen and other wind sports. \n\nFEATURES:\n•  Wind report, forecast and statistics: wind map, accurat"
+    },
+    {
+     "name": "SailFlow: Sailing Forecasts",
+     "dev": "WeatherFlow",
+     "ratings": 5814,
+     "desc": "Whether you’re racing, cruising, day sailing, you need precise sailing forecasts and real-time wind. SailFlow delivers both.\n\nPowered by 90,000+ exclusive Tempest Weather Stations and 150,000+ total s"
+    },
+    {
+     "name": "Marine Weather Forecast Pro",
+     "dev": "LW Brands, LLC",
+     "ratings": 16366,
+     "desc": "Download the most comprehensive NOAA Marine Weather app for iOS.\n\nMAIN FEATURES INCLUDE:\n + Real-time Marine Weather Buoy Data\n + 5-day NWS Marine Weather Forecast\n + 6-hour Historical Wave Trend Repo"
+    },
+    {
+     "name": "PredictWind — Marine Forecasts",
+     "dev": "PredictWind Limited",
+     "ratings": 32816,
+     "desc": "Accurate marine weather forecasts and powerful tools utilizing wind, wave and currents, save you time, keep you safe and ensure you get the most out of every day on the water.\n\nAccess the world’s top-"
+    },
+    {
+     "name": "NOAA Marine Weather & Forecast",
+     "dev": "ZipoApps",
+     "ratings": 5046,
+     "desc": "- Welcome to Marine Weather – Your Ultimate Maritime Companion -\n\nMarine Weather is the essential app for everyone heading out to the water. Whether you’re a sailor navigating the open sea, a fisherma"
+    },
+    {
+     "name": "Windfinder: Wind & Weather map",
+     "dev": "Windfinder",
+     "ratings": 62005,
+     "desc": "Detailed wind and weather forecasts for your location. \nSee wind, waves, tides and weather reports and current wind measurements for your own weather predictions. Easy to use and free of charge.\n\n\nFEA"
+    },
+    {
+     "name": "AccuWeather: Weather Forecast",
+     "dev": "AccuWeather International, Inc.",
+     "ratings": 1496314,
+     "desc": "Download AccuWeather®, The Most Trusted Weather App. Get real-time weather alerts and hyperlocal weather updates with proven Superior Accuracy™ , helping you make the best decisions and be more in the"
+    },
+    {
+     "name": "Chicago Sailing - Lake Weather",
+     "dev": "DevsInCloud, Inc.",
+     "ratings": 5,
+     "desc": "Get the weather information you need for sailing on Lake Michigan!\n\nSailing brings together marine forecasts, buoy data, radar, and camera images in one simple app designed for Chicago area sailors.\n\n"
+    },
+    {
+     "name": "Tide Guide: Charts & Tables",
+     "dev": "Condor Digital",
+     "ratings": 10102,
+     "desc": "The award winning tide app for Apple Watch, iPhone, iPad and Mac. Never miss a tide, sunset, or beautiful day on the water. Tide Guide features tide and marine weather conditions from trusted data pro"
+    },
+    {
+     "name": "NOAA Marine Forecast: Buoycast",
+     "dev": "Skipjack Studios, LLC",
+     "ratings": 13631,
+     "desc": "Know the real conditions on the water before you leave the dock.\n\nOn the water since 2017, with 200,000+ downloads and 10,000+ five-star ratings from boaters, anglers, sailors, kayakers, and coastal h"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

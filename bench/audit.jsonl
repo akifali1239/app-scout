@@ -322,3 +322,13 @@
 {"ts": "2026-10-07T04:41:44+00:00", "actor": "optimizer", "action": "run", "calls": 635, "tokens": 538050, "cost_usd": 0.0226}
 {"ts": "2026-10-07T05:41:40+00:00", "actor": "optimizer", "action": "run", "calls": 651, "tokens": 544248, "cost_usd": 0.02286}
 {"ts": "2026-10-07T06:42:34+00:00", "actor": "optimizer", "action": "run", "calls": 669, "tokens": 555483, "cost_usd": 0.02333}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#5 tanım#2 örnek×0", "dev_obj": 0.6449, "dev_acc": 0.7258, "prod_dev_obj": 0.8926}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#5 tanım#0 örnek×4", "dev_obj": 0.776, "dev_acc": 0.8387, "prod_dev_obj": 0.8926}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#3 tanım#4 örnek×2", "dev_obj": 0.863, "dev_acc": 0.9032, "prod_dev_obj": 0.8926}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "reject", "cap": "brand", "candidate": "talimat#3 tanım#4 örnek×2", "reason": "dev kazancı yetersiz (0.863 vs 0.8926)"}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#1 tanım#3 örnek×0", "dev_obj": 0.8757, "dev_acc": 0.925, "prod_dev_obj": 0.9102}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#0 tanım#3 örnek×4", "dev_obj": 0.8801, "dev_acc": 0.925, "prod_dev_obj": 0.9102}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#2 tanım#0 örnek×4", "dev_obj": 0.8502, "dev_acc": 0.9, "prod_dev_obj": 0.9102}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#5 tanım#2 örnek×2", "dev_obj": 0.8657, "dev_acc": 0.925, "prod_dev_obj": 0.9102}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "reject", "cap": "intent", "candidate": "talimat#0 tanım#3 örnek×4", "reason": "dev kazancı yetersiz (0.8801 vs 0.9102)"}
+{"ts": "2026-10-07T07:17:09+00:00", "actor": "optimizer", "action": "run", "calls": 503, "tokens": 523327, "cost_usd": 0.02198}

@@ -18902,6 +18902,78 @@
    },
    "label": "content",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Stone Miner",
+    "category": "",
+    "desc": "Welcome to Stone Miner: Crush the stones with your truck, Mine the resources, Sell them on the base, and Upgrade your truck to get even more! There are different types of islands you can explore, the "
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "SC Federal Credit Union",
+    "category": "",
+    "desc": "Our Mobile Banking app puts your accounts in the palm of your hand and offers:  •\tAnytime convenience - Take care of financial matters wherever you go. •\tBetter organization - View all of your transac"
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Sommelier India",
+    "category": "",
+    "desc": "Sommelier India is India's premier wine magazine. Filled with news, features, wine profiles and stories about the culture surrounding wine, this bi-monthly (six issues in a 12 month subscription) is w"
+   },
+   "label": "content",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Roto-Rooter: Plumbing & Drains",
+    "category": "",
+    "desc": "Never stress over plumbing problems again! The Roto-Rooter app puts expert plumbing service at your fingertips.   Schedule emergency repairs, track your service order, and get your plumbing back in or"
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Barber Exam Prep",
+    "category": "",
+    "desc": "BARBER PREP: PASS YOUR STATE BOARD WRITTEN EXAM FIRST TRY   The barber state board written exam covers sanitation and infection control, hair cutting theory, scalp and skin science, chemical services,"
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "FSWizard",
+    "category": "",
+    "desc": "CNC Milling and Turning Speed and Feed Calculator (Wizard) Absolutely the best CNC machinist speed and feed calculator around. Calculate cutting conditions simply by choosing your work and tool materi"
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Speed Test SpeedSmart Internet",
+    "category": "",
+    "desc": "SpeedSmart is a free internet speed test app for evaluating your WiFi and Mobile 5G, 4G LTE connection on your iPhone or iPad. Download now!  *** App Features ***  - Test your Download & Upload Speed "
+   },
+   "label": "utility",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Luna Physical Therapy",
+    "category": "",
+    "desc": "Luna: Physical therapy, delivered Get personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+   },
+   "label": "service",
+   "split": "dev"
   }
  ]
 }

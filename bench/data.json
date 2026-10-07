@@ -13271,6 +13271,108 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "torque conversion chart",
+   "apps": [
+    {
+     "name": "Torque Converter Pro",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Convert between Nm, ft-lb and in-lb with a chart."
+    },
+    {
+     "name": "Torque Wrench Tycoon",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Idle game about running a garage."
+    },
+    {
+     "name": "Bolt Torque Specs",
+     "dev": "Dev",
+     "ratings": 450,
+     "desc": "Fastener torque tables by bolt size and grade."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "rebar calculator",
+   "apps": [
+    {
+     "name": "Rebar Calc",
+     "dev": "Dev",
+     "ratings": 650,
+     "desc": "Compute rebar weight, spacing and cut lists for concrete slabs."
+    },
+    {
+     "name": "Concrete Mix Helper",
+     "dev": "Dev",
+     "ratings": 1200,
+     "desc": "Concrete volume and bag calculator."
+    },
+    {
+     "name": "Pet Rebar Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Cute pet dress-up game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "scaffold inspection checklist",
+   "apps": [
+    {
+     "name": "Scaffold Checklist",
+     "dev": "Dev",
+     "ratings": 400,
+     "desc": "Daily scaffold inspection checklist with photos and PDF reports."
+    },
+    {
+     "name": "Tag Scaffolding Log",
+     "dev": "Dev",
+     "ratings": 150,
+     "desc": "Scaffold tag log and inspection records for crews."
+    },
+    {
+     "name": "Scaffold Escape",
+     "dev": "Dev",
+     "ratings": 50,
+     "desc": "Platform puzzle game."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -14270,6 +14372,26 @@
   {
    "note": "insanlar bunu bedava arıyor, ödeme yapmaz",
    "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "herkes bunu telefonda zaten bedava yapıyor, ücret ödeyen olmaz",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "yüzlerce benzer app var, hiçbir fark yaratmıyor",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "bunu ben de binlerce kez gördüm, sıkıcı bir fikir",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Apple sağlık verisi toplayan app'i ek belgeyle reddeder",
+   "label": "Ret riski",
    "split": "dev"
   }
  ],

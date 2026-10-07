@@ -12421,6 +12421,402 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "pinnacle audiology",
+   "top": [
+    {
+     "name": "Pinnacle Audiology",
+     "dev": "Eric Nelson",
+     "ratings": 1,
+     "desc": "Pinnacle Audiology puts trusted hearing education and practical device help in one calm, easy-to-read place—created by the doctors of audiology at Pinnacle Audiology in New York.\n\nHOW-TO VIDEOS FOR YO"
+    },
+    {
+     "name": "ReSound Smart 3D",
+     "dev": "ReSound",
+     "ratings": 92965,
+     "desc": "The ReSound Smart 3D app lets you control your hearing aids directly from your mobile device. You can change programs, and make simple or more advanced sound adjustments and save them as favorites. Th"
+    },
+    {
+     "name": "Oticon Companion",
+     "dev": "Oticon A/S",
+     "ratings": 78945,
+     "desc": "This app lets you control your hearing aids from your mobile device. It comes with an app for Apple Watch helping you discreetly change programs and adjust volume (when within Bluetooth range).\n\nJust "
+    },
+    {
+     "name": "Philips HearLink 2",
+     "dev": "SBO Hearing",
+     "ratings": 47291,
+     "desc": "This app lets you control your hearing aids from your mobile device. It comes with an app for Apple Watch helping you discreetly change programs and adjust volume (when within Bluetooth range).\n\nNote:"
+    },
+    {
+     "name": "Miracle-Ear App",
+     "dev": "Miracle-Ear, Inc.",
+     "ratings": 20750,
+     "desc": "Experience hearing like never before with the Miracle-Ear App — a certified medical device designed to support your hearing health and give you smarter control of your hearing aids.\n\nWhether you're ju"
+    },
+    {
+     "name": "myPhonak",
+     "dev": "Sonova AG",
+     "ratings": 122871,
+     "desc": "The new myPhonak comes with improved functionality and a new design to make your hearing experience as seamless and as tailored to your needs as possible. myPhonak provides you access to enhanced hear"
+    },
+    {
+     "name": "Mimi Hearing Test",
+     "dev": "Mimi Hearing Technologies",
+     "ratings": 43496,
+     "desc": "The Mimi Hearing Test is an easy and reliable assessment of your hearing, delivering understandable results in just 5 minutes.  \n  \n- Modern assessment: Test quickly and thoroughly a wide range of fre"
+    },
+    {
+     "name": "Jabra Enhance Pro",
+     "dev": "GN Hearing",
+     "ratings": 42516,
+     "desc": "The Enhance Pro app lets you control your hearing aids directly from your mobile device. You can change programs, and make simple or more advanced sound adjustments and save them as favorites. The app"
+    },
+    {
+     "name": "My Starkey",
+     "dev": "Starkey Laboratories",
+     "ratings": 206,
+     "desc": "Take control of your hearing experience with My Starkey. Create custom settings. Get personalized tips. Track health goals. Control volume and more. My Starkey puts you in charge of your hearing journ"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "hvac know it all",
+   "top": [
+    {
+     "name": "HVAC Know It All",
+     "dev": "HVAC Know It All Inc.",
+     "ratings": 223,
+     "desc": "HVAC Know It All is a community of HVAC/R professionals. The goal, through educational discussion, is to become better technicians, installers, company owners, educators and students of the trade.\n\nPR"
+    },
+    {
+     "name": "HVAC School",
+     "dev": "Kalos Services Inc.",
+     "ratings": 85,
+     "desc": "The app that helps you remember some things you forgot along the way, as well as helps you remember some things you forgot to know in the first place.\n\nFor all current and aspiring HVAC technicians: H"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "HVACR Check & Charge",
+     "dev": "Copeland LP",
+     "ratings": 17332,
+     "desc": "Instant mobile refrigerant charge calculator for HVACR applications.\n\nThe HVACR Check & Charge™ mobile app from Copeland Climate Technologies provides an on-site refrigerant charge calculator for air "
+    },
+    {
+     "name": "SkillCat: EPA 608 & HVAC",
+     "dev": "SkillCat Inc",
+     "ratings": 9986,
+     "desc": "SkillCat helps you build trade skills, earn certifications, and move your career forward - all from your phone.\n\nNo classroom.\nNo big bill.\nNo waiting around for someone to give you permission.\n\nJust "
+    },
+    {
+     "name": "Daikin Tech Hub",
+     "dev": "Daikin North America",
+     "ratings": 3570,
+     "desc": "Daikin Tech Hub supports service contractors working with Daikin products. It provides all Daikin technical and service information directly at your fingertips. \n\nThe Daikin Tech Hub mobile applicatio"
+    },
+    {
+     "name": "HVAC Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 124,
+     "desc": "Help you prepare for the HVAC technician certification exam and pass it on your first attempt at the actual exam! Use the mobile app HVAC Exam Prep 2026 developed by our exam experts to help prepare f"
+    },
+    {
+     "name": "HVAC practice test, prepare",
+     "dev": "Danila Danilenko",
+     "ratings": 14,
+     "desc": "Prepare thoroughly for your HVAC Certification with our comprehensive app. Features include:\n\n - Complete Q&A for all categories\n - Realistic exam mode simulations\n - Save and review your favorite que"
+    },
+    {
+     "name": "CE HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 1590,
+     "desc": "CE HVAC PRO is 100% free for HVAC technicians and always will be. Easily check warranty entitlement, available inventory, order status, manuals, and tech specs for all the HVAC models we carry. Our mi"
+    },
+    {
+     "name": "Ref Tools",
+     "dev": "Danfoss A/S",
+     "ratings": 52,
+     "desc": "Get the guidance, support, information, and tools you need—on the job and in the field. Ref Tools is a free, powerful app that contains essential tools every HVACR technician needs in their digital to"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "perfectly paralegal",
+   "top": [
+    {
+     "name": "Perfectly Paralegal",
+     "dev": "Linda McGrath-Cruz",
+     "ratings": 0,
+     "desc": "Perfectly Paralegal is your all-in-one resource for continuing legal education, professional development, and connecting with fellow paralegals.\n\nWhether you're just beginning your career, preparing f"
+    },
+    {
+     "name": "Paralegal Prep: NALA CP & Test",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into the NALA Certified Paralegal (CP) exam ready. Paralegal Prep 2026 gives you 875+ practice questions with a clear explanation for every single answer, so you don't just memorize the right cho"
+    },
+    {
+     "name": "Lawline CLE",
+     "dev": "Furthered, Inc.",
+     "ratings": 1392,
+     "desc": "Earn and Track Your CLE Credits Seamlessly with Lawline’s Award-Winning Mobile App\n\nElevate Your Professional Development\n\nLawline’s mobile app makes earning Continuing Legal Education (CLE) credits m"
+    },
+    {
+     "name": "Paralegal ITA",
+     "dev": "PARALEGAL",
+     "ratings": 15,
+     "desc": "¡Bienvenidos a la Plataforma de Estudiantes de\nParalegal Institute of the Americas!"
+    },
+    {
+     "name": "Clio for Law Firms and Lawyers",
+     "dev": "Themis Solutions Inc.",
+     "ratings": 9013,
+     "desc": "The Clio mobile app helps you stay profitable and productive by accessing essential case and client information remotely. Update case statuses, communicate with clients and firm members, and review, s"
+    },
+    {
+     "name": "NALA CP Practice App",
+     "dev": "National Association of Legal Assistants",
+     "ratings": 39,
+     "desc": "Studies have shown that one of the best ways to prepare for an exam is to test yourself repeatedly on the content. The NALA CP Practice App, which is included as a benefit when you purchase the online"
+    },
+    {
+     "name": "Clio for Clients",
+     "dev": "Themis Solutions Inc.",
+     "ratings": 13312,
+     "desc": "Clio for Clients provides a secure and convenient way to communicate with your lawyer. Receive updates, share documents, and access case information from a secure client-attorney portal.\n\nWith Clio fo"
+    },
+    {
+     "name": "Idle Law Firm: Justice Empire",
+     "dev": "Virede",
+     "ratings": 1906,
+     "desc": "Will you be able to successfully run your Law Firm business and become the best at it?\n\nRun the office and manage your lawyers. Provide legal advice for the clients and earn money to become a business"
+    },
+    {
+     "name": "ARAG Legal",
+     "dev": "ARAG Legal",
+     "ratings": 3138,
+     "desc": "The ARAG Legal app helps members easily start a case, create legal documents, search for network attorneys, view attorney ratings and reviews and contact ARAG Customer Care for help with their legal m"
+    },
+    {
+     "name": "Paralegal Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 35,
+     "desc": "Embark on a comprehensive journey toward success with our Paralegal Exam Prep 2026 App! Whether you're a seasoned student or just beginning your Paralegal Certification journey, our feature-rich app i"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "metal detector",
+   "top": [
+    {
+     "name": "Metal Detector EMF",
+     "dev": "ExaMobile S.A.",
+     "ratings": 2393,
+     "desc": "Metal Detector EMF detects the presence of metal nearby.\n\nMetal detectors measure magnetic field value using a magnetic sensor that is built into your smartphone.\n\nNow You can easily find metallic obj"
+    },
+    {
+     "name": "Metal Detector°",
+     "dev": "Arda Sen",
+     "ratings": 252,
+     "desc": "Discover hidden treasures with Metal Detector, the ultimate app that lets you uncover metallic objects concealed underground, behind walls, and more. With its sleek and minimalist design, this app off"
+    },
+    {
+     "name": "Metal Detector for iPhone",
+     "dev": "nakhon phagdeechat",
+     "ratings": 387,
+     "desc": "Turn your iPhone or iPad into a smart metal detector!\n\nThe Metal Detector Pro! app uses your device's built-in magnetic sensor to detect nearby metal objects and magnetic fields in real time.\n\nIdeal f"
+    },
+    {
+     "name": "Metal Detector and Spy Camera",
+     "dev": "Giorgia De Giorgi",
+     "ratings": 10696,
+     "desc": "Unlock the power of a handy detection toolkit with Metal and Spy Camera Detector, an all-in-one mobile app designed to enhance your safety and assist in everyday tasks. This versatile tool is your go-"
+    },
+    {
+     "name": "Metal Detector and EMF Scanner",
+     "dev": "UBAID ULLAH IKRAM",
+     "ratings": 4,
+     "desc": "Turn your phone into a powerful Metal Detector & EMF Scanner. Whether you're trying to find hidden metal, identify objects, or explore your surroundings, this all-in-one app gives you smart tools powe"
+    },
+    {
+     "name": "Metal Detector (PRO)",
+     "dev": "FML Creations",
+     "ratings": 206,
+     "desc": "Note: This app is intended for entertainment purposes only and does not provide true Metal Detector functionality. This apps uses the magnetometer to measure the magnetic field when the iPhone is plac"
+    },
+    {
+     "name": "Metal Detector : Gold Finder",
+     "dev": "OYE TEKNOLOJI ANONIM SIRKETI",
+     "ratings": 10,
+     "desc": "Turn Your Phone into a Powerful Metal Detector\n\nEasily locate hidden metal objects using just your smartphone. Whether you’re searching for coins, keys, pipes, or buried metal, this smart detection to"
+    },
+    {
+     "name": "Metal Detector",
+     "dev": "Nasuf OZGUR",
+     "ratings": 0,
+     "desc": "Metal Detector is a user-friendly app designed for both beginners and experienced treasure hunters to locate metallic objects hidden underground, behind walls, and more. Featuring a sleek, minimalist "
+    },
+    {
+     "name": "Stud Finder - Metal Detector",
+     "dev": "Andrei Nemtsou",
+     "ratings": 527,
+     "desc": "Stud Finder - Metal Detector\n\nThe app is used to find metal elements in the wall: nails, screws, wiring, etc.\n\nHow it works:\n\n1. Turn on the app\n2. Place the back of your phone against a wall\n3. Start"
+    },
+    {
+     "name": "Metal Detector Finder",
+     "dev": "Storq Labs BV",
+     "ratings": 7,
+     "desc": "Find studs. Avoid pipes. Detect hidden steel with confidence.\n\nMetal Detector - Stud Finder turns your iPhone into a real time magnetic field detector using the built in magnetometer. See changes inst"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "qibla finder",
+   "top": [
+    {
+     "name": "Qibla Finder, Qibla Compass AR",
+     "dev": "BEKART TECH BILISIM TEKNOLOJI INSAAT TICARET LIMITED SIRKETI",
+     "ratings": 19983,
+     "desc": "•••••••••••••••••••••••••••••••••••••••••••••••••••••••••\n•••  iQibla - The Most Comprehensive App for All Muslims  •••\n•••••••••••••••••••••••••••••••••••••••••••••••••••••••••\n\nWith this totally FRE"
+    },
+    {
+     "name": "Qibla Compass (Kaaba Locator)",
+     "dev": "FATIMA OMER APPS LLC",
+     "ratings": 40262,
+     "desc": "Beautifully designed Qibla Compass application will give you the most accurate Qibla direction up to a degree's precision on a single screen. It includes a beautiful compass needle pointing to North f"
+    },
+    {
+     "name": "Qibla Finder 100% اتجاه القبلة",
+     "dev": "CNT INTERAKTIF BILGI TEKNOLOJILERI YAZILIM SANAYI VE TICARET ANONIM SIRKETI",
+     "ratings": 21682,
+     "desc": "To find Qibla direction, you don't need an internet connection! Low size app that shows 100% Qibla Direction worldwide. Simple & Smart Qibla compass.\n100% Qibla Finder helps muslims to find Qibla dire"
+    },
+    {
+     "name": "Muslim Pro: Quran & Athan",
+     "dev": "Bitsmedia Pte Ltd",
+     "ratings": 599540,
+     "desc": "Muslim Pro is a prayer and Quran app built for Muslims who want to build a consistent daily prayer habit, read and listen to the Quran, and find their Qibla direction anywhere in the world. It's espec"
+    },
+    {
+     "name": "Qibla Finder and Kaaba Compass",
+     "dev": "Senem Cakıroglu",
+     "ratings": 14868,
+     "desc": "Qibla Finder - Kaaba Compass application will help you to find the Kaaba (Qibla) direction quick and accurately where ever you are in the world.\n\nIf you change your location for a vacation or for a bu"
+    },
+    {
+     "name": "iSalam: Qibla Compass",
+     "dev": "FATIMA OMER APPS LLC",
+     "ratings": 38004,
+     "desc": "Worlds first Qibla Compass with ACCESSIBILITY support for visually impaired people. \n\nThis invaluable App features Compass & Qibla direction finder that points accurately towards the Kaaba'h from prac"
+    },
+    {
+     "name": "Muslim App: Azan, Qibla, Quran",
+     "dev": "Assistant App Teknoloji Anonim Sirketi",
+     "ratings": 88258,
+     "desc": "Join millions who rely on Muslim App, formerly Muslim Assistant, for accurate prayer times, Qibla direction, the Quran, and daily azkar.\n\nWhy Muslim App?\n \n70M+ Users: Trusted by millions of brothers "
+    },
+    {
+     "name": "Qibla Finder – Compass",
+     "dev": "Muzaffer Cebeci",
+     "ratings": 3,
+     "desc": "Qibla Finder helps you find the direction of the Kaaba quickly and accurately, wherever you are in the world.\n\nWith its clean and minimal design, the app focuses on what matters most: showing the corr"
+    },
+    {
+     "name": "Qibla Pro - Kaaba Compass",
+     "dev": "Mohamad Bachir Sidani",
+     "ratings": 1251,
+     "desc": "Qibla Pro has one job: show you the qibla the second it opens. No ads, no accounts, no analytics, nothing to unlock. Free, forever.\n\nFINDING THE QIBLA, MADE BEAUTIFUL\nOpen the app and a living constel"
+    },
+    {
+     "name": "Qibla Compass",
+     "dev": "Faisal Sultan",
+     "ratings": 4176,
+     "desc": "Accurate Qibla Compass – Find the Kaaba Direction Instantly from Anywhere in the World!\n\nQibla Compass is a powerful and beautifully designed app that helps Muslims across the globe accurately find th"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "silent alarm",
+   "top": [
+    {
+     "name": "VibeAlarm",
+     "dev": "Tatsuya Kojima",
+     "ratings": 2130,
+     "desc": "VibeAlarm is a quick, easy and simple alarm clock that notifies only by vibration without sound.\n\n・Two types of features: Alarm and Timer\n・Can also specify seconds, so it can be used for various purpo"
+    },
+    {
+     "name": "Vibrating Alarm Clock & Timer",
+     "dev": "manabu ueda",
+     "ratings": 104,
+     "desc": "Notifications without sound, only with vibration. Even if your iPhone is set to sound, no sound will be played. It works almost the same as the iPhone's clock app, so you can use it right away. Howeve"
+    },
+    {
+     "name": "Silent Wake: Vibrate Alarm",
+     "dev": "Mehdi El Moussali",
+     "ratings": 14,
+     "desc": "Wake up without waking anyone.\n\nSilent Wake wakes you with vibration on your nightstand, or sound in your headphones  while your partner, kids, or roommates stay asleep.\n\nChoose how you wake\n- Headpho"
+    },
+    {
+     "name": "Vibration Alarm Clock & Timer",
+     "dev": "FugaPiyo Inc.",
+     "ratings": 73,
+     "desc": "It's an alarm & timer app with no sound & only vibration.\nAll features are completely free to use.\n\nFeatures:\n- Quick start-up, comfortable operability\n- Any number of preset alarms and timers\n- Repea"
+    },
+    {
+     "name": "Headphone Alarm",
+     "dev": "Yuki Kubota",
+     "ratings": 176,
+     "desc": "This app can wake you up without disturbing other people!\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n■ When sleeping at a Share-Room in the morning, this application can wake you up without disturbing others.\n\n■ This appli"
+    },
+    {
+     "name": "Vibe Alarm - Silent Timer",
+     "dev": "Kosuke Shimada",
+     "ratings": 0,
+     "desc": "＊Silent time notifications with vibration! From wake-up alarms to timers - completely silent＊\n\nSafe to use anywhere sound isn’t allowed. This innovative vibration app tells the time using only vibrati"
+    },
+    {
+     "name": "Sleepwave: Alarm & Tracker",
+     "dev": "Reviva Softworks Ltd",
+     "ratings": 6595,
+     "desc": "Using patented motion-sensing technology, Sleepwave tracks your sleep from a phone beside your bed and wakes you at the perfect moment for a more refreshed morning.\n\nKey features:\n\nACCURATE AND CONTAC"
+    },
+    {
+     "name": "One Touch Alarm Clock",
+     "dev": "HANBUNCO, INC.",
+     "ratings": 10907,
+     "desc": "Set the alarm time in just two seconds.\nThis simple alarm clock app has been designed for maximum ease of use.\n\nSet your favorite music as your alarm and wake up happy!\n\n\nALARM FUNCTIONS:\n\n- Snooze (3"
+    },
+    {
+     "name": "Viberation Alarm",
+     "dev": "SOTOCHA",
+     "ratings": 55,
+     "desc": "Wake up surely, without a sound.\nVibeAlarm is an alarm app that wakes you up solely with your iPhone's vibration, making no sound at all.\n\nWhether on a train, in a library, working a night shift, or s"
+    },
+    {
+     "name": "VibeAlarm: Silent Haptic Alarm",
+     "dev": "ryo muranaka",
+     "ratings": 0,
+     "desc": "VibeAlarm is the smart vibration alarm clock designed for people who prefer silent wake-ups. Instead of loud, jarring sounds, VibeAlarm uses advanced haptic vibration patterns to gently wake you up wi"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

@@ -12817,6 +12817,676 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "welding master 3d",
+   "top": [
+    {
+     "name": "Welding Master 3D",
+     "dev": "kadir ulucay",
+     "ratings": 0,
+     "desc": "Master the art of welding! Drag, fit, and weld metal pieces together to assemble realistic objects in this satisfying casual puzzle game.\n\nFEATURES\n- 20+ challenging levels with unique objects to weld"
+    },
+    {
+     "name": "Weld Master!",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 6,
+     "desc": "A super fun game that offers an end-to-end repair shop operating experience.\n\nKeep your shop \"open\" all the time. Customers will come with mystery boxes. Accept broken items and unbox at your counter."
+    },
+    {
+     "name": "Color Saw 3D",
+     "dev": "AI Games FZ",
+     "ratings": 74518,
+     "desc": "Ever wanted to do carpentry but like to keep your fingers intact?\nWith Color Saw, you can do both! \nShape your rough blocks into various shapes with all kinds of tools. \nCut and smash through countles"
+    },
+    {
+     "name": "3D modeling: Design my model",
+     "dev": "Core five, Inc.",
+     "ratings": 14493,
+     "desc": "3D Modeling App lets you easily design 3D content on the go using gestures on iPhone or iPad. No need to use the Apple Pencil, but you can, if you want to.\n \nTons of features:\n\n1. Fast workflow:\n- Mov"
+    },
+    {
+     "name": "DWG FastView-CAD Viewer&Editor",
+     "dev": "Gstarsoft Co., Ltd",
+     "ratings": 1084,
+     "desc": "Enjoy design anytime anywhere together with more than 100 million users around the world. \n\n[3D Modeling]: Supports BIM, Revit, Solidworks, NX, CATIA, Inventor, SolidEdge, ACIS, Pro/E, and other mains"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "3d Scanner App™",
+     "dev": "AI Photo Editor Lab SRL",
+     "ratings": 16132,
+     "desc": "Transform your device into a powerful 3D scanner using LIDAR or TrueDepth technology.\n\n3D Scanner app, downloaded by 11+ Million users, effortlessly makes you capture spaces and objects in full-color "
+    },
+    {
+     "name": "Autodesk Fusion",
+     "dev": "Autodesk Inc.",
+     "ratings": 4095,
+     "desc": "Autodesk Fusion™ for iPhone and iPad lets you collaborate on 3D designs with anyone inside or outside your company. With the Fusion app, you have the flexibility to view and collaborate on your Fusion"
+    },
+    {
+     "name": "3D Driving Class",
+     "dev": "Ho San Won",
+     "ratings": 1964,
+     "desc": "I'm going to take a driver's license test that will change from December 22nd, 2016\n\nIt is a simulation app that can be practiced through games.\n\nYou can practice the intestinal function test and the "
+    },
+    {
+     "name": "Qlone 3D Scanner",
+     "dev": "EyeCue Vision Tech",
+     "ratings": 1584,
+     "desc": "Qlone is an all-in-one 3D scanner app. We have made it easy and fast to create 3D models from real objects, edit them with built-in editing tools and seamlessly export the result to popular platforms,"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "physical therapy - movemend",
+   "top": [
+    {
+     "name": "Physical Therapy - MoveMend",
+     "dev": "Modestas Baranauskas",
+     "ratings": 3,
+     "desc": "Struggling with hand, wrist, or elbow pain? Start your recovery journey today with MoveMend – your completely FREE personal guide to regaining strength and mobility!\n\nMoveMend is a comprehensive rehab"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "PTX Therapy - 24/7 Pain Relief",
+     "dev": "PTX Therapy, LLC",
+     "ratings": 622,
+     "desc": "*Sign-up for a PTX Therapy subscription online, then login to the companion app to access your therapy anytime, anywhere.\n\nGet completely personalized, science-backed physical therapy routines in the "
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "PhysiApp",
+     "dev": "Physitrack PLC",
+     "ratings": 2274,
+     "desc": "PhysiApp®: Clinical exercises at your fingertips.\n\n* Crystal clear and professionally narrated videos show you how to perform your exercises correctly.\n\n* Always remember when to do your exercises tha"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "speech therapy - speakclearly",
+   "top": [
+    {
+     "name": "Speech Therapy - SpeakClearly",
+     "dev": "Howard Clayton Tinnell Jr",
+     "ratings": 8,
+     "desc": "In 2024, my wife Dawn suffered a brain hemorrhage and subsequent strokes and surgeries. I built SpeakClearly for her during her brain injury recovery after experiencing first-hand the process of speec"
+    },
+    {
+     "name": "Constant Therapy: Brain+Speech",
+     "dev": "Constant Therapy, Inc.",
+     "ratings": 4102,
+     "desc": "Constant Therapy is an award-winning, science-based exercise app for cognitive, language, and speech practice — built for people living with aphasia, apraxia, dementia, stroke, traumatic brain injury "
+    },
+    {
+     "name": "Speech Blubs: Language Therapy",
+     "dev": "Blub Blub Inc.",
+     "ratings": 57079,
+     "desc": "WHAT DOES SPEECH BLUBS OFFER?\n\nSpeech Blubs is a voice-controlled speech therapy app designed to help your child learn new sounds and words, and to practice speaking in a stimulating, educational envi"
+    },
+    {
+     "name": "Vocal Image: Speaking Coach",
+     "dev": "Vocal Image OU",
+     "ratings": 10435,
+     "desc": "Tired of replaying a conversation in your head, then freezing when it happens?\n\nVocal Image is an AI communication and soft skills coach. Every day it builds you a short personalized plan that mixes p"
+    },
+    {
+     "name": "Speak • Speech Synthesizer",
+     "dev": "Loic Verrall",
+     "ratings": 3340,
+     "desc": "Speak brings typed words and sentences to life using your iPhone, iPod or iPad!\n\nFeatures\n• Beautiful, modern and sleek user interface.\n• Sliders to adjust the Volume, Pitch and Rate of the voice.\n• O"
+    },
+    {
+     "name": "Language Therapy 4-in-1",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1941,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    },
+    {
+     "name": "StopStutter Speech Therapy",
+     "dev": "World Stop Stuttering Association",
+     "ratings": 120,
+     "desc": "Stop Stuttering, Love Speaking, and Convert Stuttering into a Blessing.  Our mobile app will enable you to break free from the chains of stuttering and live the fluent life you deserve. Join 100s of E"
+    },
+    {
+     "name": "Otsimo | Speech Therapy SLP",
+     "dev": "Otsimo",
+     "ratings": 180,
+     "desc": "From award-winning creators! Otsimo | Speech Therapy SLP is proud to be the only Speech Therapy app that uses voice and speech recognition technology and machine learning; it understands exactly what "
+    },
+    {
+     "name": "Language Therapy Lite",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1314,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    },
+    {
+     "name": "ArtikPix - Full",
+     "dev": "Expressive Solutions LLC",
+     "ratings": 2,
+     "desc": "ArtikPix - Full is an engaging articulation app with flashcard and matching activities for children with speech sound delays. Among the many features in ArtikPix - Full, group scoring is available wit"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "physical therapy — rehabuddy",
+   "top": [
+    {
+     "name": "Physical Therapy — RehaBuddy",
+     "dev": "Tjard Luedeke",
+     "ratings": 0,
+     "desc": "Rehabilitation between physio sessions is hard to keep up with alone. RehaBuddy is a motivation app built for physiotherapy patients — it helps you stay consistent with your home exercises, set recove"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "PTX Therapy - 24/7 Pain Relief",
+     "dev": "PTX Therapy, LLC",
+     "ratings": 622,
+     "desc": "*Sign-up for a PTX Therapy subscription online, then login to the companion app to access your therapy anytime, anywhere.\n\nGet completely personalized, science-backed physical therapy routines in the "
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "Athletico",
+     "dev": "Athletico",
+     "ratings": 420,
+     "desc": "**PLEASE NOTE: The Athletico app is only available and accessible to current or previously enrolled patients.**\n\nAt Athletico Physical Therapy, we’re committed to providing the highest quality care so"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "caruso physical therapy & nutr",
+   "top": [
+    {
+     "name": "Caruso Physical Therapy & Nutr",
+     "dev": "IPTA MANAGEMENT, LLC",
+     "ratings": 0,
+     "desc": "Welcome to the Caruso Physical Therapy & Nutr App! Log on to access your personalized Home Exercise Program on your mobile device.\n\nUsing this app, you can access your personalized Home Exercise Progr"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "Kaia Health",
+     "dev": "Kaia Health Software GmbH",
+     "ratings": 7088,
+     "desc": "Kaia Health exercise therapy for muscle & joint pain. \n\n▶ WHAT YOU GET WITH KAIA\n• Exercise sessions that take 10-15 minutes to complete.\n• A dedicated (human) health coach who helps you meet your goa"
+    },
+    {
+     "name": "Bodylura: Fitness & Nutrition",
+     "dev": "Body Love Group, LLC",
+     "ratings": 7779,
+     "desc": "Bodylura is a fitness and wellness platform that makes living a strong and healthy lifestyle easy!\nWe specialize in strength and resistance training for women, with over 20 different programs to choos"
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "PTX Therapy - 24/7 Pain Relief",
+     "dev": "PTX Therapy, LLC",
+     "ratings": 622,
+     "desc": "*Sign-up for a PTX Therapy subscription online, then login to the companion app to access your therapy anytime, anywhere.\n\nGet completely personalized, science-backed physical therapy routines in the "
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "sonography",
+   "top": [
+    {
+     "name": "Ultrasound Anatomy Atlas",
+     "dev": "HVALABS, LLC",
+     "ratings": 3,
+     "desc": "The anatomy atlas built for ultrasound.\n244 structures. 12 regions. Real scans paired with detailed diagrams. All in your pocket.\n\nWHAT YOU GET\n\n244 Anatomy Structures: Detailed diagrams for precise l"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RV"
+    },
+    {
+     "name": "RESUS Ultrasound",
+     "dev": "Suthaporn Lumlertgul",
+     "ratings": 29,
+     "desc": "Resuscitation Ultrasound is the most innovative reference app for using ultrasound bedside in emergency and critical care. Available with “offline’’, features hundreds of high quality ultrasound image"
+    },
+    {
+     "name": "Scanbooster Ultrasound Sim",
+     "dev": "Scanbooster UG (haftungsbeschraenkt)",
+     "ratings": 334,
+     "desc": "Start learning sonography today! Many different cases and pathologies. An ever expanding library of new patients for you to practice with. Learn the correct ultrasound probe movements with our scan tu"
+    },
+    {
+     "name": "Sonography Practice Test",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Preparing for your ultrasound certification exam? Whether you’re studying for the SPI, ARDMS, ARRT, or CCI credential, the Sonography Practice Test app is your comprehensive and easy-to-use study tool"
+    },
+    {
+     "name": "SonoSim",
+     "dev": "SonoSim",
+     "ratings": 8,
+     "desc": "The SonoSim App, available exclusively to SonoSim members, provides access to critical ultrasound knowledge quickly - both on- and offline. Get access to ultrasound education, imaging protocols, and s"
+    },
+    {
+     "name": "EchoRef",
+     "dev": "Rishi Kumar",
+     "ratings": 1382,
+     "desc": "EchoRef is a free iOS ultrasonography educational reference covering point-of-care ultrasound (POCUS), transthoracic echocardiography (TTE), and transesophageal echocardiography (TEE). Additionally, i"
+    },
+    {
+     "name": "ScanBaby learn baby ultrasound",
+     "dev": "Scanbooster UG (haftungsbeschraenkt)",
+     "ratings": 3761,
+     "desc": "Experience with us the fascination of newly emerged life. Watch wonderful ultrasound videos of babies in different weeks of pregnancy. If you want, you can get to know the most important structures th"
+    },
+    {
+     "name": "ARDMS SPI Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 21,
+     "desc": "Unlock your potential in the Diagnostic Medical Sonography field with our comprehensive ARDMS SPI Exam Test Prep 2026 course. Designed for aspiring sonographers preparing for the SPI exam, this course"
+    },
+    {
+     "name": "Sonography ARDMS Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Sono Exam with confidence. Sonography ARDMS Prep gives you 700+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nUltrasound Physics, Instr"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "conversion calculator",
+   "top": [
+    {
+     "name": "Unit Converter - Best Unit App",
+     "dev": "Alan Mrvica",
+     "ratings": 196598,
+     "desc": "This is Units Plus Converter\n\nSWAP units by pressing button on keypad (lower left)\n\n\n***Now with LIVE Currency Updates for all major currencies in the world*** \n\nVery simple and beautifully designed u"
+    },
+    {
+     "name": "Currency converter calculator!",
+     "dev": "Aleksei Mezhevikin",
+     "ratings": 71740,
+     "desc": "All world currencies.\nApp works without internet.\nSearch currencies by country.\nMid-market exchange rates.\nAbility to set your own exchange rates.\nUpdates every hour.\nApp size only 9 MB.\nExchange rate"
+    },
+    {
+     "name": "Unit Converter - Convert all",
+     "dev": "oWorld Software",
+     "ratings": 13601,
+     "desc": "Unit Converter: convert any measurement, currency or size in one tap.\n\nIN SHORT\nA fast, offline unit converter that turns any measurement, currency or clothing size into the answer you need — with liv"
+    },
+    {
+     "name": "My Currency Converter & Rates",
+     "dev": "JRustonApps B.V.",
+     "ratings": 131227,
+     "desc": "My Currency Converter is the simplest, most beautiful currency converter you'll ever find. It supports over 150 different currencies from all around the world, ranging from the US Dollar to the Colomb"
+    },
+    {
+     "name": "Convert Any Unit Lite",
+     "dev": "Cider Software LLC",
+     "ratings": 48244,
+     "desc": "Over 4 million downloads! The FASTEST way possible to convert units. Just type in a unit without first selecting the category. As you type, a list of units appear. Tap a unit to select it. For most un"
+    },
+    {
+     "name": "Metric Conversion tool",
+     "dev": "Wight Hat",
+     "ratings": 14626,
+     "desc": "Unit converter App from the most popular metric conversions website in the world, metric-conversions.org. Over a billion visitors have used our website, try our app and see why we're so popular!\n\nFEAT"
+    },
+    {
+     "name": "Units - Conversion Calculator",
+     "dev": "Matys Bouziane",
+     "ratings": 9,
+     "desc": "Convert any unit, instantly.\n\n  Units - Conversion Calculator is a fast, intuitive, and beautifully designed conversion tool with 57 categories covering everything you need  from everyday measurements"
+    },
+    {
+     "name": "Conversion Calculator Plus",
+     "dev": "Adysseus",
+     "ratings": 15216,
+     "desc": "Whether you are measuring ingredients for a recipe, comparing currencies while traveling or working through an everyday calculation, Conversion Calculator Plus brings the tools together in one app. Co"
+    },
+    {
+     "name": "Converter+ (Units, Currencies)",
+     "dev": "TranCreative Software",
+     "ratings": 2422,
+     "desc": "Converter+ is a unit converter with the most extensive list of currencies and units in hundreds of categories.  Converter Plus also comes with many calculators like mortgage, loan, tip, fuel consumpti"
+    },
+    {
+     "name": "Conversion Calculator Units",
+     "dev": "RV AppStudios LLC",
+     "ratings": 4981,
+     "desc": "* Handy Conversion Calculator App For 12 Categories & 140+ Units *\n\nSimple, Powerful & Conversion Calculator app designed for iPhone and iPad! Just tap and convert any units with its clean interface a"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "cdl pre trip",
+   "top": [
+    {
+     "name": "Pre Trip Inspection",
+     "dev": "Advanced Training Systems LLC",
+     "ratings": 94,
+     "desc": "ATS is the preferred Training System for fast, accurate and easy training for your driving needs. With step by step quick active points that will stick in your mind and stay there, ATS is the answer y"
+    },
+    {
+     "name": "CDL Prep",
+     "dev": "Jeffrey Diaz",
+     "ratings": 6924,
+     "desc": "CDL Prep is the best way to prepare for the Commercial Drivers License General Knowledge, and various endorsement exams. CDL Prep contains questions on the following topics: General Commercial, Air Br"
+    },
+    {
+     "name": "CDL Master: Exam Prep",
+     "dev": "Inspectra Software LLC",
+     "ratings": 4,
+     "desc": "CDL Master helps you pass your commercial driver’s license exam faster.\n\n- Practice tests with real CDL-style questions\n- Full pre-trip inspection breakdown (Freightliner-based)\n- Backing and maneuver"
+    },
+    {
+     "name": "Pre-Trip: CDL Inspection",
+     "dev": "Matthew Avant",
+     "ratings": 1,
+     "desc": "Prepare for your CDL pre-trip inspection with guided study, spoken practice, and realistic mock testing.\n\nPre-Trip: CDL Inspection helps Class A CDL students learn what to inspect, what to say, and ho"
+    },
+    {
+     "name": "PreTrip",
+     "dev": "PreTrip",
+     "ratings": 7,
+     "desc": "Pre-Trip - Commercial Vehicle Inspection\nStay compliant with DOT regulations and keep your fleet safe with Pre-Trip, the professional inspection management app designed for commercial truck drivers an"
+    },
+    {
+     "name": "CDL Prep Test 2026: Drivers ed",
+     "dev": "Khai Vuong",
+     "ratings": 7658,
+     "desc": "Struggling to Secure a Better-Paying Job with Your CDL?\n\nNavigating the road to becoming a CDL Permit Holder can be daunting. Traditional methods leave you feeling lost and frustrated, unsure if you'r"
+    },
+    {
+     "name": "CDL Prep Practice Test Genie",
+     "dev": "Elegant eLearning",
+     "ratings": 14412,
+     "desc": "Ace your CDL permit (CLP), HazMat, and all other endorsement tests in 2026. CDL Genie gives you exam-level practice questions for every endorsement.\n\nWhat makes CDL Genie unique:\n- 99.06% verified pas"
+    },
+    {
+     "name": "CDL Prep Truck",
+     "dev": "Tarik Benali",
+     "ratings": 1,
+     "desc": "Pass your CDL test on the first try.\n\nCDL Prep gives you 262 real practice questions, full timed exam simulations, and a complete pre-trip inspection guide - for every U.S. state and every endorsement"
+    },
+    {
+     "name": "CDL Test Prep 2026 Class A B",
+     "dev": "Hanh Le",
+     "ratings": 48032,
+     "desc": "Pass your 2026 CDL exam on the first try. Join over 1M+ drivers with 46,000+ reviews and a 4.9-star rating.\n\nMiss a question and you instantly see WHY: a plain-English breakdown of your specific mista"
+    },
+    {
+     "name": "CDL Prep Test 2026",
+     "dev": "Wei Zhang",
+     "ratings": 15287,
+     "desc": "To obtain a Commerical Driver's License (CDL) requires the driver to first obtain a learner's permit by passing the written driving test. To help you pass the written driving test easily, this app was"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "physical therapy study",
+   "top": [
+    {
+     "name": "NPTE Exam Test Prep: PT & PTA",
+     "dev": "Best Fun Games",
+     "ratings": 563,
+     "desc": "Pass your National Physical Therapy Examination (NPTE) with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 3000+ questions writt"
+    },
+    {
+     "name": "PT365",
+     "dev": "Scorebuilders",
+     "ratings": 5582,
+     "desc": "Physical therapists and physical therapy students have a unique daily opportunity to assess their mastery of essential physical therapy content by answering a single multiple-choice question. Think of"
+    },
+    {
+     "name": "Physical Therapy Sports Cases",
+     "dev": "Expanded Apps",
+     "ratings": 0,
+     "desc": "Think Like a Physical Therapistn - Sports Physical Therapy Case Files helps students and clinicians develop clinical reasoning skills through realistic patient cases and evidence-based treatment plann"
+    },
+    {
+     "name": "TherapyEd",
+     "dev": "Memorang",
+     "ratings": 754,
+     "desc": "Practice Questions | Detailed Progress Tracking | Custom Study Sessions | Explanations | References\n\nThe TherapyEd Mobile App is your best streamlined mobile companion to help you pass your NPTE, PTA,"
+    },
+    {
+     "name": "NPTE",
+     "dev": "MastrAPI",
+     "ratings": 256,
+     "desc": "Updated for the 2026 NPTE PT & PTA exams with refreshed question banks, analytics, and study plans.\n\nPass your NPTE-PT / NPTE-PTA exams with flying colors! Boost your confidence in passing the first t"
+    },
+    {
+     "name": "PTA365",
+     "dev": "Scorebuilders",
+     "ratings": 2454,
+     "desc": "Physical therapist assistants and physical therapist assistant students have a unique daily opportunity to assess their mastery of essential physical therapy content by answering a single multiple-cho"
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "Medbridge",
+     "dev": "MedBridge Education LLC",
+     "ratings": 13291,
+     "desc": "Meet the new Medbridge on iOS! Log in with your Medbridge account to view courses.\n\nMedbridge provides Physical Therapists, Occupational Therapists, Speech-Language Pathologists, Athletic Trainers, Nu"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "PT Content Master",
+     "dev": "Scorebuilders",
+     "ratings": 578,
+     "desc": "Make reviewing essential physical therapy academic content enjoyable! Physical Therapist Content Master is designed to assist physical therapists to possess full command of core academic content. Phys"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "dental assistant study",
+   "top": [
+    {
+     "name": "Dental Assistant Training",
+     "dev": "Milagros Garcia",
+     "ratings": 15,
+     "desc": "Educational lessons and videos for beginner dentists and dental assistants."
+    },
+    {
+     "name": "Dental Assistant | Exam Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 25,
+     "desc": "Prepare for the Dental Assistant Exam with Our Comprehensive Exam Prep App!\nDental Assistant Exam Prep is designed to help candidates excel in the Certified Dental Assistant exam, administered by the "
+    },
+    {
+     "name": "Tooth Sleuth",
+     "dev": "Andrew Margarit",
+     "ratings": 23,
+     "desc": "Master tooth identification through fast, focused practice.\n\nTooth Sleuth is an interactive study game created for dental assisting, dental hygiene, and dental students. Build confidence identifying a"
+    },
+    {
+     "name": "Dental Tool, Smart Aid",
+     "dev": "Dental App Lab Oy",
+     "ratings": 82,
+     "desc": "Dentalk provides smart aid for dental professionals. It facilitates communication between you and your clients and improves the efficiency of your dental practice. Just sign up for one account and bec"
+    },
+    {
+     "name": "Dental Assistant Prep: Exam",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into your dental assistant certification exam ready. Dental Assistant Prep gives you 960 practice questions with a clear explanation for every single answer, so you don't just memorize the right "
+    },
+    {
+     "name": "BoneBox™ - Dental Lite",
+     "dev": "iSO-FORM, LLC",
+     "ratings": 69,
+     "desc": "BoneBox™ - Dental Lite is the pocket-sized iPhone version of our BoneBox ™ - Dental iPad app. This real-time 3D medical education and patient communication tool, featuring incredibly detailed anatomic"
+    },
+    {
+     "name": "RDA Dental Assistant Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 3,
+     "desc": "Prepare effectively for the RDA (Registered Dental Assistant) Exam with our dedicated app, designed to help you achieve certification. This comprehensive application provides essential resources and s"
+    },
+    {
+     "name": "Dental Assistant Exam - Prep",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Pass your DANB exams with confidence. Dental Assistant Exam Prep is the focused, offline study app for the Radiation Health & Safety (RHS), Infection Control (ICE), and General Chairside (GC) componen"
+    },
+    {
+     "name": "Dental Assistant DANB Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Dental Assistant DANB exam with confidence. Dental Assistant DANB Prep gives you hundreds of realistic practice questions with a clear, detailed explanation for every answer.\n\nWHY THIS APP\n•"
+    },
+    {
+     "name": "DANB CDA Test Prep",
+     "dev": "Cargo Teleport Inc",
+     "ratings": 0,
+     "desc": "Supercharge your dental assisting exam preparation with DANB CDA Test Prep! \n\nOur app provides an immersive and comprehensive testing environment tailored to help you excel in the Certified Dental Ass"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

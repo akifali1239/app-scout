@@ -16443,6 +16443,60 @@
    },
    "label": "content",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Mortgage Payment Calculator",
+    "category": "Finance",
+    "desc": "Calculate monthly mortgage payments, interest and amortization schedules."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Spanish Verb Conjugation Guide",
+    "category": "Reference",
+    "desc": "Look up conjugation tables for thousands of Spanish verbs."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Texas Hold'em Poker Tournament",
+    "category": "Games",
+    "desc": "Play poker against opponents and win chips in tournaments."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Harbor Bank Mobile",
+    "category": "Finance",
+    "desc": "Check balances, deposit checks and transfer money with your Harbor Bank account."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "AI Photo Writer: Caption Bot",
+    "category": "Productivity",
+    "desc": "Generate captions and essays with GPT chat, powered by AI."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Daily Meditation Podcast",
+    "category": "Health & Fitness",
+    "desc": "Listen to new guided meditation episodes and sleep stories every day."
+   },
+   "label": "content",
+   "split": "test"
   }
  ]
 }

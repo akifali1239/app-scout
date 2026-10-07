@@ -529,6 +529,36 @@
    "term": "anki",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "moego",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "google earth",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "rockd",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "pill identifier",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "dog nail trimming guide",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "groomit",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -14555,6 +14585,96 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "video volume booster",
+   "apps": [
+    {
+     "name": "Video Volume Booster",
+     "dev": "MNB DIGITAL LLC",
+     "ratings": 23,
+     "desc": "Video Volume Booster - Professional Audio Boost\nAmplify, Clarify and Share: Video Volume Booster!\nWe support MP4, MOV, AVI and all popular video formats with up to 1000% volume increase!\n\nHave you ever captured a perfect video only to find the sound is whisper-quiet? Don't let your most precious mom"
+    },
+    {
+     "name": "Video Volume Booster: Loudify",
+     "dev": "Hina Batool",
+     "ratings": 19,
+     "desc": "Make any video louder instantly. Loudify is the ultimate video volume booster that amplifies quiet videos up to 1000% while keeping audio crystal clear.\n\n- Boost Video Volume\n- Amplify video sound with powerful volume controls. Choose quick presets or fine-tune with precision sliders to make your vi"
+    },
+    {
+     "name": "AudioFix: Video Volume Booster",
+     "dev": "Future Moments",
+     "ratings": 1640,
+     "desc": "Get great sounding videos quickly! Instantly improve, boost, extract or mute the audio in your videos. Import a video and AudioFix immediately cleans its sound and maximizes its volume. Add audio and video fades too! Free to download and try so you can hear the quality of our App.\n\nAn important and "
+    },
+    {
+     "name": "Extra Volume Booster",
+     "dev": "沄 鱼",
+     "ratings": 1520,
+     "desc": "This is a powerful Volume Booster. It can increase the volume of the low-level audio files to higher quality sound than the default value of the system to obtain additional volume enhancement and sound amplification effects.  \n\nExtra Volume Booster ensures that there is no distortion when increasing"
+    },
+    {
+     "name": "Video Loudify",
+     "dev": "同宝 金",
+     "ratings": 1,
+     "desc": "\"Video Loudify\" is an efficient video volume adjusting application. It provides the following features:\n\n1.Analyze the audio in the video and give the best volume adjustment suggestions.\n2.Adjust the volume of the video.\n3.Supports common format video and audio files.\n4.Supports sharing and export.\n"
+    },
+    {
+     "name": "Volume Booster • Bass Booster",
+     "dev": "Ofir Yagil",
+     "ratings": 398,
+     "desc": "Video Volume Booster is a simple yet powerful video editor for boosting volume and improving the sound of your video files.\n\nVOLUME BOOSTER\n\n* Boost the volume of your videos up to 1500%\n* Real-Time processing of the audio parameters\n* Boost the actual video files above their maximum level \n* Saves "
+    },
+    {
+     "name": "Video Volume Booster: Amplify",
+     "dev": "Awais Muneer",
+     "ratings": 0,
+     "desc": "Make any video louder. Instantly.\n\nVideo Volume Booster lifts the volume of any video past the system cap, so quiet phone recordings, screen captures, downloads, and old clips sound the way they should. A built-in soft limiter keeps the audio clean, even at max boost.\n\nWHAT IT DOES\n• Volume boost be"
+    },
+    {
+     "name": "Volume Booster Bass Booster",
+     "dev": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+     "ratings": 25470,
+     "desc": "Is your phone volume just not cutting it? Transform your listening experience with Volume Booster, the ultimate sound booster designed to unleash your device's true audio potential! Say goodbye to muffled sounds and low-quality output, and get ready for a truly immersive sound like never before.\n\nWh"
+    },
+    {
+     "name": "Loudly: Video Volume Booster",
+     "dev": "Jhomar Maravillas",
+     "ratings": 0,
+     "desc": "Ever recorded a video you can barely hear? A quiet interview, a lecture from the back of the room, a clip where someone mumbled - and no matter how high you crank your phone, it's still too quiet. Loudly fixes that.\n\nLoudly makes quiet videos LOUDER. Open your clip, tap once, and Loudly amplifies th"
+    },
+    {
+     "name": "Louder Volume: Sound Booster",
+     "dev": "Muhammad Rafly",
+     "ratings": 100,
+     "desc": "Unlock the full potential of your device’s sound with Louder Volume: Sound Booster!\n\nKey Features:\n- Volume Booster — Amplify your audio beyond default limits for louder, crystal-clear sound.\n- Bass Booster — Enhance low frequencies to enjoy deep, powerful bass that brings your music to life.\n- Cust"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

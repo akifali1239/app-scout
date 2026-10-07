@@ -12086,6 +12086,341 @@
    ],
    "label": true,
    "split": "dev"
+  },
+  {
+   "term": "trucker path",
+   "top": [
+    {
+     "name": "Trucker Path: Truck GPS & Fuel",
+     "dev": "Trucker Path Inc.",
+     "ratings": 153628,
+     "desc": "North America’s most popular app for Truckers. BUILT FOR TRUCKERS, BY TRUCKERS! Get all trucker tools in one FREE APP! Best Trucking APP featured by truckers! Trucker Path is a mapping tool used by mo"
+    },
+    {
+     "name": "TruckMap - Truck GPS Routes",
+     "dev": "Tenstreet",
+     "ratings": 79526,
+     "desc": "TruckMap is the best free mobile app built for Truck Drivers. The only app with truck optimized GPS routes for commercial vehicles, turn-by-turn routing, diesel fuel, weigh stations, overnight parking"
+    },
+    {
+     "name": "Hammer: Truck GPS & Maps",
+     "dev": "TruckersReport.com",
+     "ratings": 36408,
+     "desc": "Smarter Trucking Starts Here.\n\nHammer is a powerful GPS navigation app designed specifically for commercial truck drivers. Built by the community at TruckersReport.com, Hammer Truck GPS delivers preci"
+    },
+    {
+     "name": "Trucker Path Load Board",
+     "dev": "Trucker Path Inc.",
+     "ratings": 2797,
+     "desc": "America’s Most Popular Load Board App. Get loaded faster with Trucker Path Truckloads!\nTruckloads provides access to over 100,000 loads DAILY. Enter your pickup location, deadhead, and equipment type "
+    },
+    {
+     "name": "Love's Rewards",
+     "dev": "Love's Travel Stops & Country Stores, Inc.",
+     "ratings": 5979,
+     "desc": "Find your favorite Love’s Travel Stops, check your Love's Rewards account, secure the next shower with Mobile Shower Check In, activate commercial fuel pumps with Love’s Mobile Pay, view transaction a"
+    },
+    {
+     "name": "Trucker Guide: Truck GPS Maps",
+     "dev": "Trucker Guide LLC",
+     "ratings": 10209,
+     "desc": "Drive smarter with Trucker Guide GPS. Find truck parking, cheapest fuel, weigh stations & real-time routes — all in one app.\nTrucker Guide – the all-in-one GPS navigation tool developed specifically f"
+    },
+    {
+     "name": "My Doge:Puzzle Game",
+     "dev": "Playbox Studio",
+     "ratings": 13472,
+     "desc": "The new version of the popular brain-burning creative theme is here!\nThis time, it's no longer an original puzzle game, it's filled with tons of brain-burning levels, and for every level, there's a do"
+    },
+    {
+     "name": "Pilot",
+     "dev": "Pilot Flying J",
+     "ratings": 220348,
+     "desc": "Whether you're fueling up, grabbing a bite, or earning rewards, the Pilot™ app is your wingman for the road ahead. \n\nWhatever you drive, see how the Pilot app can help you get the most out of every st"
+    },
+    {
+     "name": "MacroPoint For Truckers",
+     "dev": "The Descartes Systems Group",
+     "ratings": 160778,
+     "desc": "Descartes MacroPoint™ for Truckers is the most trusted and secure app used by drivers. Enjoy automated communication of arrival, departure, and in-transit location data to your customers in real time."
+    },
+    {
+     "name": "Trucker Tools",
+     "dev": "Trucker Tools, LLC",
+     "ratings": 2052,
+     "desc": "Trucker Tools is your digital co-driver for smooth operations. Find, book, and track loads, submit PODs, and get paid faster—all from your phone. Access key points of interest, fuel, and weight calcul"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "bartender.live",
+   "top": [
+    {
+     "name": "bartender.live",
+     "dev": "Jacket Industries, LLC",
+     "ratings": 388,
+     "desc": "bartender.live tells you what you can make with what you already have.\n\nCheck off the bottles in your bar and the app narrows a library of more than a thousand cocktails down to the ones you can pour "
+    },
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Be a Bartender!",
+     "dev": "Pernod Ricard Europe",
+     "ratings": 934,
+     "desc": "18 +\n\nEver wanted to be on the other side of the bar? Battle your way through hectic nights serving great drinks to enthusiastic and unpredictable guests! Take control of your station and learn how to"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "Cocktails For Real Bartender",
+     "dev": "Mattia Confalonieri",
+     "ratings": 126,
+     "desc": "Become a real bartender and learn to make over 600 cocktails thanks to simple step-by-step instructions.\n\n• Cocktails divided into practical categories from Non-alcoholic to Zibibbo.\n• Each cocktail h"
+    },
+    {
+     "name": "Barsys AI",
+     "dev": "Barsys LLC",
+     "ratings": 159,
+     "desc": "BARSYS AI APP \n\nYour AI bartender. Infinite cocktails, instant recipes, and personalized drinks based on what you already have at home, powered by AI. Host like a pro, one prompt away.\nMeet Barsys AI "
+    },
+    {
+     "name": "Best Bartender - Mixed Drink",
+     "dev": "melanie thomas",
+     "ratings": 32,
+     "desc": "Welcome to Western saloon bar. Do you want become to Bartender ?\nHelp the bartender mix drinks in the right ratios ! Choose from a shelf full of different drinks that range from Vodka, Whiskey, Vermou"
+    },
+    {
+     "name": "Mixel - Cocktail Recipes",
+     "dev": "Cool Font LLC",
+     "ratings": 1536,
+     "desc": "What cocktails can you make right now? Tell Mixel what's in your bar, and instantly see every drink you can mix, from the classic to modern craft cocktails. Whether you're a home bartender, mixology e"
+    },
+    {
+     "name": "BARTENDER®",
+     "dev": "BARTENDER Media LLC",
+     "ratings": 38,
+     "desc": "The Bartender.com mobile app is your ultimate cocktail companion, whether you're a professional mixologist, an aspiring home bartender, or simply someone who loves great drinks. With a comprehensive c"
+    },
+    {
+     "name": "Bartender Perfect Mix",
+     "dev": "Trong Pham",
+     "ratings": 32,
+     "desc": "Mix drinks and add your best ingredients, then give your concoction a shake and see whether you’ve created the world’s greatest drink or a recipe to avoid. Find the right combinations and earn the hig"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "breathing exercise",
+   "top": [
+    {
+     "name": "iBreathe – Relax and Breathe",
+     "dev": "Jade Lizard Software LLC",
+     "ratings": 17626,
+     "desc": "iBreathe is a simple yet powerful app to guide you through deep breathing exercises and breathwork. Whether you are struggling with stress, anxiety, insomnia, or are trying to meditate and relax, iBre"
+    },
+    {
+     "name": "Breathwrk: Breathing Exercises",
+     "dev": "Peloton Interactive, Inc.",
+     "ratings": 18034,
+     "desc": "Breathwrk, now a part of Peloton, is #1 breathing app for Sleep, Stress, Focus, and Energy. Breathwrk is a simple yet powerful way to improve your mental and physical well-being in just seconds with n"
+    },
+    {
+     "name": "Breathing Zone: Breathwork",
+     "dev": "Tane Langton",
+     "ratings": 3744,
+     "desc": "Slow down, reset, and breathe with purpose. Breathing Zone offers simple guided breathing exercises for calm, focus, relaxation, and sleep.\n\nChoose a breathing pattern, then follow clear visual, voice"
+    },
+    {
+     "name": "Daily Breathing",
+     "dev": "Daily Breathing",
+     "ratings": 1,
+     "desc": "Daily Breathing helps you slow down and reset, without overcomplicating it. Just a few minutes a day can make a real difference.\n\nWhether you want to begin your morning with a clear head, find calm du"
+    },
+    {
+     "name": "Breathing Exercises: Breathe+",
+     "dev": "Dynamic App Design LLC",
+     "ratings": 3447,
+     "desc": "Breathe+ is a beautifully simple way to visualize your breathing.  Use Breathe+ for daily relaxation, meditation or breath training. \n\n\"Relax, de-stress, and find a little peace\" - LifeHacker.com\n\"Rel"
+    },
+    {
+     "name": "Mindllama Breathe Sleep Focus",
+     "dev": "Llama Luna Apps",
+     "ratings": 9366,
+     "desc": "Breathe in... Breathe out...\n5 breaths Widget right on your Home Screen\n\n• 50+ Calming Sounds\n• Variety of sounds to enrich your mindful breaks: Beach, Forest, Birds...\n\n• 40+ Cute Daily Characters\n• "
+    },
+    {
+     "name": "Axxess Hospice",
+     "dev": "Axxess Technology Solutions",
+     "ratings": 37,
+     "desc": "The Axxess Hospice app provides a powerful point-of-care documentation solution for hospice agencies. This easy-to-use mobile app helps hospice agencies provide and document compassionate care at the "
+    },
+    {
+     "name": "Wim Hof Method: Breathwork",
+     "dev": "WHM Services",
+     "ratings": 13406,
+     "desc": "This new comprehensive wellness tool is your guide to daily sessions of breathing exercises, cold exposure, and mind-powering practices. Witness a transformative impact on your life, leading to increa"
+    },
+    {
+     "name": "Praana - Breathing Exercises",
+     "dev": "Amit Shinde",
+     "ratings": 0,
+     "desc": "Find stillness in every breath.  \n\nPraana is your personal breathing guide, helping you calm your mind, reset your energy, and restore balance in just a few minutes a day.\n\nWith guided exercises based"
+    },
+    {
+     "name": "FivePointFive: Breathwork",
+     "dev": "fivepointfive",
+     "ratings": 4737,
+     "desc": "FivePointFive: Breathwork for Athletes\n\nWhat is FivePointFive\nThe world’s first breathwork app built for athletes—used by Elite Athletes and a fast-growing community of Everyday Athletes. We turn cutt"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "notary exam practice",
+   "top": [
+    {
+     "name": "AZ Notary Exam Prep 2026",
+     "dev": "fly sky pty ltd",
+     "ratings": 1,
+     "desc": "Get ready to serve as an Arizona notary public with confidence. This app covers the topics in the Arizona Secretary of State Notary Public Reference Manual and Arizona notary law — notarial acts, ackn"
+    },
+    {
+     "name": "California Notary Exam 2026",
+     "dev": "Rivermap Ai Solutions Ltd",
+     "ratings": 0,
+     "desc": "California Notary Exam 2026 helps you pass the California notary public examination with confidence. Built straight from California law, with hundreds of practice questions and flashcards, timed mock "
+    },
+    {
+     "name": "Pennsylvania Notary Exam",
+     "dev": "Rivermap Ai Solutions Ltd",
+     "ratings": 3,
+     "desc": "Pass the Pennsylvania notary public exam with confidence.\n\nPennsylvania Notary Exam 2026 is a complete, offline study companion for the Commonwealth's notary public examination. Every question and fla"
+    },
+    {
+     "name": "California Notary Exam Prep",
+     "dev": "Best Way Media Group Inc",
+     "ratings": 21,
+     "desc": "California Notary Public Exam Study App\n\nAre you preparing for the California Notary Public exam? The California Notary Public Exam Study App is your ultimate study companion, designed to help you pas"
+    },
+    {
+     "name": "California Notary Exam Coach",
+     "dev": "嘉炜 丰",
+     "ratings": 0,
+     "desc": "Pass the California Notary Public written exam with focused, exam-style practice.\n\nCalifornia Notary Exam Coach turns the handbook topics into a fast, swipeable study flow plus flexible practice sets."
+    },
+    {
+     "name": "New York Notary Public Exam",
+     "dev": "Rivermap Ai Solutions Ltd",
+     "ratings": 3,
+     "desc": "Prepare for the New York State notary public written examination with a large, offline question bank and flashcards built straight from the enacted Notary Public License Law (Executive Law article 6) "
+    },
+    {
+     "name": "Dearborn Real Estate Exam Prep",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13113,
+     "desc": "The #1 Real Estate Exam study tool! Pass your exams with our 500+ questions, quizzes, flashcards, and updated content.\n\nDearborn Real Estate has helped millions earn their Real Estate License. And you"
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "Notary Exam Prep & Practice",
+     "dev": "Viorica Ventures LLC",
+     "ratings": 0,
+     "desc": "Prepare for the California, New York, or Colorado notary exam with 600+ verified questions, detailed explanations, mock exams, and official source citations for every answer.\n\nNotary Exam Prep & Pract"
+    },
+    {
+     "name": "Real Estate Exam For Dummies",
+     "dev": "Higher Learning Technologies",
+     "ratings": 8307,
+     "desc": "PASS your Real Estate Exam guaranteed, or get triple your money back! \n\nAre you ready to ace your Real Estate License exam on the first try? Real Estate For Dummies is here to ensure your success! Wit"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "osha 10 practice test",
+   "top": [
+    {
+     "name": "SafePath OSHA 10 Exam Prep",
+     "dev": "Webrich Software Limited",
+     "ratings": 10,
+     "desc": "OSHA 10 Practice Test helps you study with confidence for the OSHA 10-Hour Construction safety topics, in English and Spanish, on your own schedule.\n\nIMPORTANT: This app is an independent study aid. I"
+    },
+    {
+     "name": "DMV Practice Test - 2026",
+     "dev": "Minh Pham",
+     "ratings": 2885,
+     "desc": "\"DMV Practice Test\" test your knowledge with +1000 DMV practice questions and detailed explanations!\n\nWe have designed this practice tool to make learning process super easy and interesting. It’s prov"
+    },
+    {
+     "name": "CDL Permit: Practice Test 2026",
+     "dev": "Mapola LTD",
+     "ratings": 18161,
+     "desc": "Ace your 2026 CDL exam with a great level of self-assurance!\\n\\nA CDL is a driver's license that allows you to operate commercial motor vehicles. Obtaining a CDL means you have the skills and capabili"
+    },
+    {
+     "name": "OSHA 10 & 30 Exam  2026",
+     "dev": "Mfeliz Web",
+     "ratings": 38,
+     "desc": "Prepare to pass your OSHA 10 or OSHA 30 exam with confidence.\n\nOSHA Coach – Exam Prep is built for workers and professionals in the United States who need reliable OSHA exam preparation. Study smarter"
+    },
+    {
+     "name": "Pass Permit Test DMV -Drivify",
+     "dev": "Onca Studios OU",
+     "ratings": 4163,
+     "desc": "This app contains of hundreds of questions to help you to practice and pass the theory test on the first try.\n\nDrivify's Mock Theory are designed according to the Official DMV Test and the app maintai"
+    },
+    {
+     "name": "CDL Prep Test 2026 Exam",
+     "dev": "Health & Wellness Apps Limited",
+     "ratings": 989,
+     "desc": "CDL Prep — Get ready for your CDL exam with the ultimate preparation tool! \n\nOur CDL Prep Test app provides over 3000 questions for all US states, ensuring that you have access to the most up-to-date "
+    },
+    {
+     "name": "PA Driver’s Practice Test",
+     "dev": "Executive Office of The Commonwealth of Pennsylvania",
+     "ratings": 1616,
+     "desc": "Use this PennDOT app for a realistic representation of the actual driver’s knowledge test. Download the app for practice questions that will help you prepare for your PennDOT driver’s knowledge test, "
+    },
+    {
+     "name": "CDL Prep",
+     "dev": "Jeffrey Diaz",
+     "ratings": 6924,
+     "desc": "CDL Prep is the best way to prepare for the Commercial Drivers License General Knowledge, and various endorsement exams. CDL Prep contains questions on the following topics: General Commercial, Air Br"
+    },
+    {
+     "name": "DMV: Practice Before Exam 2026",
+     "dev": "BENJAMIN PETER LOWRY",
+     "ratings": 215,
+     "desc": "Pass your DMV exam in 2026 on the first try — guaranteed!\n\nStudy effectively with state-specific practice tests, detailed explanations, and smart hints.\n\nOur app is the ultimate DMV test preparation t"
+    },
+    {
+     "name": "CDL Prep Test 2026",
+     "dev": "Wei Zhang",
+     "ratings": 15287,
+     "desc": "To obtain a Commerical Driver's License (CDL) requires the driver to first obtain a learner's permit by passing the written driving test. To help you pass the written driving test easily, this app was"
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

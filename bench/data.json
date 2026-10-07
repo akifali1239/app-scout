@@ -13877,6 +13877,530 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "kmk optometry coaching",
+   "top": [
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "KMK Optometry Pages",
+     "dev": "KMK Optometry",
+     "ratings": 6,
+     "desc": "\"KMK AI Reader is your all-in-one study companion—designed to help you learn more efficiently and engage with your content like never before.\n\nAccess your full library of KMK digital textbooks and mat"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "Smart Optometry",
+     "dev": "Hundred Vision d.o.o.",
+     "ratings": 529,
+     "desc": "Smart Optometry is #1 choice for eye care professionals around the world! Give your patients’ best care with 15 FREE INTERACTIVE, PRECISE and SIMPLE eye exams in 9 languages. Join 100.000+ eye care sp"
+    },
+    {
+     "name": "OcuLearning - Ophthalmology",
+     "dev": "Dylan Hamitouche",
+     "ratings": 15,
+     "desc": "Review ocular pathologies from a curated library of high-yield information with clinical images, build understanding with interactive eye models that make neuro-ophthalmology lesions easier to visuali"
+    },
+    {
+     "name": "Ophthalmology & Optometry",
+     "dev": "My Call Bag LLC",
+     "ratings": 120,
+     "desc": "Designed for healthcare professionals, this app transforms your iPhone into a comprehensive digital call bag, utilizing the True Depth Camera, gyroscope, and accelerometer.\n\nOphthalmology Tools\n• Dist"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "Optometry Boards Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "You are one exam away from becoming a licensed optometrist.\n\nThe NBEO® Part 1 is comprehensive and demanding. It covers the full depth of optometry science. Walking in underprepared is not an option.\n"
+    },
+    {
+     "name": "AAO Ophthalmic Education",
+     "dev": "American Academy of Ophthalmology, Inc.",
+     "ratings": 18,
+     "desc": "The AAO Ophthalmic Education app offers free, easy access to clinical content from the American Academy of Ophthalmology, your source for the most trusted and reliable information on eye disorders and"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "optometry edcelerate",
+   "top": [
+    {
+     "name": "Optometry Edcelerate",
+     "dev": "XPrep Learning Solutions, Inc",
+     "ratings": 3,
+     "desc": "Edcelerate for Optometry is the premier platform designed exclusively for optometry professionals, educators, students, and industry leaders. Whether you're advancing your career, seeking mentorship, "
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "VSP Vision Care",
+     "dev": "VSP Global",
+     "ratings": 47,
+     "desc": "Take your vision benefits with you wherever you go. The VSP Vision Care® app makes it easy to manage your eye care, access your benefits, and get the most from your coverage, all from your phone. \n \nW"
+    },
+    {
+     "name": "Virtual Vision Test",
+     "dev": "Warby Parker Inc",
+     "ratings": 18999,
+     "desc": "Still seeing well out of your current glasses or contacts prescription, but now it's expired? Virtual Vision Test by Warby Parker lets you renew it from home in 10 minutes using just your phone! And i"
+    },
+    {
+     "name": "Ophthalmology & Optometry",
+     "dev": "My Call Bag LLC",
+     "ratings": 120,
+     "desc": "Designed for healthcare professionals, this app transforms your iPhone into a comprehensive digital call bag, utilizing the True Depth Camera, gyroscope, and accelerometer.\n\nOphthalmology Tools\n• Dist"
+    },
+    {
+     "name": "Smart Optometry",
+     "dev": "Hundred Vision d.o.o.",
+     "ratings": 529,
+     "desc": "Smart Optometry is #1 choice for eye care professionals around the world! Give your patients’ best care with 15 FREE INTERACTIVE, PRECISE and SIMPLE eye exams in 9 languages. Join 100.000+ eye care sp"
+    },
+    {
+     "name": "The Framery",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 11248,
+     "desc": "The easiest way to measure your pupillary distance (PD) and get your glasses prescription, right from your iPhone.\n\nReady to buy glasses online but missing a measurement or two? The Framery is your gl"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "otomatic audiology",
+   "top": [
+    {
+     "name": "Otomatic Audiology",
+     "dev": "Ulian Inc (CA)",
+     "ratings": 0,
+     "desc": "Otomatic helps audiologists turn patient conversations into structured clinical documentation.\n\nRecord clinical encounters, generate transcripts, and create organized notes designed for review and com"
+    },
+    {
+     "name": "Mimi Hearing Test",
+     "dev": "Mimi Hearing Technologies",
+     "ratings": 43496,
+     "desc": "The Mimi Hearing Test is an easy and reliable assessment of your hearing, delivering understandable results in just 5 minutes.  \n  \n- Modern assessment: Test quickly and thoroughly a wide range of fre"
+    },
+    {
+     "name": "Oticon Companion",
+     "dev": "Oticon A/S",
+     "ratings": 78945,
+     "desc": "This app lets you control your hearing aids from your mobile device. It comes with an app for Apple Watch helping you discreetly change programs and adjust volume (when within Bluetooth range).\n\nJust "
+    },
+    {
+     "name": "hearingOS - Hearing Aid App",
+     "dev": "hearingOS GmbH",
+     "ratings": 2385,
+     "desc": "hearingOS is the world's leading Hearing Aid App\n\nHear everything clearly\n-hearingOS will support your hearing. Whether young or old, you can benefit from smart algorithms that process and improve ext"
+    },
+    {
+     "name": "ReSound Smart 3D",
+     "dev": "ReSound",
+     "ratings": 92965,
+     "desc": "The ReSound Smart 3D app lets you control your hearing aids directly from your mobile device. You can change programs, and make simple or more advanced sound adjustments and save them as favorites. Th"
+    },
+    {
+     "name": "Miracle-Ear App",
+     "dev": "Miracle-Ear, Inc.",
+     "ratings": 20750,
+     "desc": "Experience hearing like never before with the Miracle-Ear App — a certified medical device designed to support your hearing health and give you smarter control of your hearing aids.\n\nWhether you're ju"
+    },
+    {
+     "name": "myPhonak",
+     "dev": "Sonova AG",
+     "ratings": 122871,
+     "desc": "The new myPhonak comes with improved functionality and a new design to make your hearing experience as seamless and as tailored to your needs as possible. myPhonak provides you access to enhanced hear"
+    },
+    {
+     "name": "Philips HearLink 2",
+     "dev": "SBO Hearing",
+     "ratings": 47291,
+     "desc": "This app lets you control your hearing aids from your mobile device. It comes with an app for Apple Watch helping you discreetly change programs and adjust volume (when within Bluetooth range).\n\nNote:"
+    },
+    {
+     "name": "Signia App",
+     "dev": "Sivantos Pte. Ltd.",
+     "ratings": 16983,
+     "desc": "Disclaimer:This app is intended for download and use by individuals aged 18 years and above only. The information provided through this app is for general informational purposes and is not intended to"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pilates addiction",
+   "top": [
+    {
+     "name": "Pilates Addiction",
+     "dev": "Sequel Brands, LLC",
+     "ratings": 0,
+     "desc": "Discover the new gold standard in Pilates. The Pilates Addiction app makes it easy to book, manage, and track your workouts—so you can build strength, precision, and unstoppable confidence right from "
+    },
+    {
+     "name": "Pilates Addiction - Kite",
+     "dev": "Sequel Brands, LLC",
+     "ratings": 1,
+     "desc": "Your Pilates Addiction. Right in Your Pocket.\n\nBook reformer Pilates classes, private sessions, and more at Pilates Addiction studios across the U.S. Manage your schedule, earn rewards through PA Anon"
+    },
+    {
+     "name": "Pilates Anytime | Workouts",
+     "dev": "Timeshift Media, Inc.",
+     "ratings": 8661,
+     "desc": "A BEAUTIFUL NEW WAY TO EXPERIENCE PILATES ANYTIME\n\nWe have completely redesigned our app with a focus on stunning visuals and seamless navigation, so you can spend less time searching and more time mo"
+    },
+    {
+     "name": "5 Minute Pilates Workout",
+     "dev": "Olson Applications Limited",
+     "ratings": 6740,
+     "desc": "5 Minutes Pilates means quick and regular pilates practice can become a reality  \n\nNo specialist equipment is required - just a soft floor or mat.\n\nTimer function ensures workouts take less than 5 min"
+    },
+    {
+     "name": "Pilates | Down Dog",
+     "dev": "Yoga Buddhi Co.",
+     "ratings": 10489,
+     "desc": "From the developers of the highest rated Yoga App, Down Dog, Pilates gives you a brand new workout every time! Unlike following pre-recorded videos, in this low-impact full body mat workout built arou"
+    },
+    {
+     "name": "BODYBAR Pilates",
+     "dev": "Speak Light LLC",
+     "ratings": 6175,
+     "desc": "The BODYBAR Pilates app allows you to book your BODYBAR classes while on the go and quickly reserve your spot at your favorite Pilates bar! Cheers!"
+    },
+    {
+     "name": "Wall Pilates by Fit & Lean",
+     "dev": "At team LLC",
+     "ratings": 1353,
+     "desc": "If you’re looking for a way to diversify your trainings and try something new and trendy, Wall Pilates is a great option.\n \nThe wall can add resistance to your regular workout routine, and it can also"
+    },
+    {
+     "name": "LazyFit: Workout For Beginners",
+     "dev": "Next Vision Limited",
+     "ratings": 81680,
+     "desc": "Join over 10 million women and seniors around the world who’ve chosen LazyFit to stay active, healthy, and confident.\nNo pressure. No gym required. Just simple, science-based workouts you can do anyti"
+    },
+    {
+     "name": "Alma Pilates",
+     "dev": "Sutra Fitness, Inc.",
+     "ratings": 2,
+     "desc": "Alma Pilates\n\nYour new ritual. Your sanctuary.\n\nWelcome to Alma Pilates, a refined, non-heated mat Pilates studio in Downey, California, and the first of its kind in the area. This app is your gateway"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "the pilates district",
+   "top": [
+    {
+     "name": "The Pilates District",
+     "dev": "Texas Teasers LLC",
+     "ratings": 0,
+     "desc": "Stay connected to your practice with The Pilates District app, your one-stop destination for booking classes, signing up for workshops, tracking attendance, and staying in the loop with studio events."
+    },
+    {
+     "name": "Pilates | Down Dog",
+     "dev": "Yoga Buddhi Co.",
+     "ratings": 10489,
+     "desc": "From the developers of the highest rated Yoga App, Down Dog, Pilates gives you a brand new workout every time! Unlike following pre-recorded videos, in this low-impact full body mat workout built arou"
+    },
+    {
+     "name": "The Pilates Class",
+     "dev": "The Pilates Class Online, LLC",
+     "ratings": 512,
+     "desc": "Transform Your Body, Mind & Lifestyle with The Pilates Class\n\nPilates is one of the most powerful ways to create sustainable, long lasting change, and The Pilates Class (TPC) takes it to the next leve"
+    },
+    {
+     "name": "BODYBAR Pilates",
+     "dev": "Speak Light LLC",
+     "ratings": 6175,
+     "desc": "The BODYBAR Pilates app allows you to book your BODYBAR classes while on the go and quickly reserve your spot at your favorite Pilates bar! Cheers!"
+    },
+    {
+     "name": "JETSET Pilates",
+     "dev": "Geisler Young",
+     "ratings": 6074,
+     "desc": "Download the JETSET Pilates app to maximize your experience. Find and book classes at your favorite studio, view class history, book-a-friend, and purchase packages or memberships."
+    },
+    {
+     "name": "Pilates Anytime | Workouts",
+     "dev": "Timeshift Media, Inc.",
+     "ratings": 8661,
+     "desc": "A BEAUTIFUL NEW WAY TO EXPERIENCE PILATES ANYTIME\n\nWe have completely redesigned our app with a focus on stunning visuals and seamless navigation, so you can spend less time searching and more time mo"
+    },
+    {
+     "name": "Nord Pilates",
+     "dev": "WEST FEES UAB",
+     "ratings": 362,
+     "desc": "Nord Pilates is an all-in-one home Pilates and weight loss app built to make getting in shape gentle, effective, and sustainable. Get a personalized plan that blends core-focused Pilates with balanced"
+    },
+    {
+     "name": "Dynamic Pilates TV",
+     "dev": "Dynamic Pilates TV LLC",
+     "ratings": 94,
+     "desc": "Whether you’re a Pilates trainer looking for new ideas to keep your classes creative and exciting, or if you simply want to take regular Pilates classes with us; we have tons of exciting, results driv"
+    },
+    {
+     "name": "30 Day Pilates Challenge",
+     "dev": "Stefan Roobol",
+     "ratings": 23,
+     "desc": "Pilates is a form of exercise that focuses on balance, posture, strength and flexibility. It's suitable for people of all ages and fitness levels.\n\nOne of the great things about Pilates is that it can"
+    },
+    {
+     "name": "Pilates by Leah",
+     "dev": "Leah Maselli",
+     "ratings": 72,
+     "desc": "Become the Pilates Instructor Clients Request by Name\n\nPilates By Leah is the leading professional development platform for Pilates instructors who want to teach with confidence, save time planning cl"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "louisiana notary intelligence",
+   "top": [
+    {
+     "name": "Louisiana Notary Intelligence",
+     "dev": "Cristy Dore Dauphinet",
+     "ratings": 2,
+     "desc": "Louisiana Notary Intelligence is the first-ever comprehensive mobile tool designed specifically for Louisiana notaries and those aspiring to become one. This app offers an extensive range of resources"
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "LA Wallet",
+     "dev": "Louisiana Division of Administration",
+     "ratings": 1185,
+     "desc": "LA Wallet will allow you to keep a digital representation of your current Louisiana-issued state ID or driver's license. The app will generate a unique image that is 100% Legal for driving purposes pe"
+    },
+    {
+     "name": "Instant Notary App",
+     "dev": "OnlineNotary.net/Instant Notary LLC",
+     "ratings": 8069,
+     "desc": "OnlineNotary.net is a Virginia based company that can legally perform online notary to any US Citizen or US Resident. Our experienced and friendly, professionally licensed and certified notaries can h"
+    },
+    {
+     "name": "NotaryAct - Electronic Journal",
+     "dev": "NotaryAct",
+     "ratings": 98,
+     "desc": "Replace the Paper Journal. Stay Compliant. Save Hours Every Week.\n\nNotaryAct is the original and most trusted electronic notary journal built by notaries, for notaries. Since 2012, over 25,000 notary "
+    },
+    {
+     "name": "NotaryGadget",
+     "dev": "Realtyzam, LLC",
+     "ratings": 729,
+     "desc": "NotaryGadget  is the ultimate app for notary signing agents. It makes just about everything you do easier - sending invoices, tracking payments, tracking mileage, tracking notarial acts, managing your"
+    },
+    {
+     "name": "GeauxVote Mobile",
+     "dev": "Louisiana Secretary of State",
+     "ratings": 175,
+     "desc": "Find out if you are a Louisiana voter, where you vote, what's on your ballot and other summarized voter registration and elections information using this secure application.\n\nThe information contained"
+    },
+    {
+     "name": "Solidifi Notary Network",
+     "dev": "Solidifi U.S. Inc.",
+     "ratings": 24,
+     "desc": "The Solidifi Notary Network app for iOS allows Solidifi Notaries to have quick and easy access to all of their Solidifi orders. You can accept or decline signings, manage your calendar, get travel and"
+    },
+    {
+     "name": "The Advocate",
+     "dev": "Capital City Press, LLC",
+     "ratings": 5167,
+     "desc": "A must-have for south Louisianians!\n \nThe Advocate gives you access to both news/information updated 24/7 AND the daily e-edition in its latest app.\n \nThat means you'll never miss vital information ab"
+    },
+    {
+     "name": "Notary eJournal",
+     "dev": "Jurat",
+     "ratings": 190,
+     "desc": "The Notary eJournal by Jurat INC is an electronic notary journal created to provide a digital replacement for the standard hard-bound notary journals that exist in the market. Designed by notaries in "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "gps measure distance",
+   "top": [
+    {
+     "name": "Distance Tool",
+     "dev": "Applorium Ltd",
+     "ratings": 2195,
+     "desc": "Distance Tool allows for quick and easy calculations to find distances between points on a map, including area calculations for non-overlapping polygons drawn. Includes metric (meters, kilometers) and"
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12821,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    },
+    {
+     "name": "GPS Measure - Area & Length",
+     "dev": "Arthur Eduardo Skaetta Alvarez Desenvolvimento de Software LTDA.",
+     "ratings": 444,
+     "desc": "Have you ever needed to measure a terrain or extract it's area?\nGPS Measure allows you to easily take accurate distance and area measurements using satellite images so you don't need to use a tape mea"
+    },
+    {
+     "name": "Measure Map",
+     "dev": "Xuan Luong Do",
+     "ratings": 5316,
+     "desc": "Measure Map is an application that supports a distance calculator to find out the distance between two or more points anywhere on the earth. In other words, the distance between A and B. Click once on"
+    },
+    {
+     "name": "Distance - Find My Distance",
+     "dev": "Mapnitude Company Limited",
+     "ratings": 2259,
+     "desc": "Introducing our enhanced distance measurement app! With added features such as area measurement and custom coefficients, this app takes accurate measurements to a whole new level.\n\nUsage:\nMeasuring di"
+    },
+    {
+     "name": "My GPS Tape Measure",
+     "dev": "MYSTIC MOBILE APPS LLC",
+     "ratings": 5,
+     "desc": "GPS Tape Measure is an app which calculates the distance from point A to point B. \n\nIt's very simply because everything what you have to do is click on the button and\nsaved current location.\n\nApplicat"
+    },
+    {
+     "name": "GPS Land Measurement & Survey",
+     "dev": "LogiSian Technology Solutions",
+     "ratings": 3006,
+     "desc": "GPS Area Measure - Mapulator is a powerful measurement app for iPhone designed for professionals and individuals who need field area measurements, GPS measure distance, and land surveying tools. Wheth"
+    },
+    {
+     "name": "GeoMark - GPS Measurement Tool",
+     "dev": "Pylonex Labs",
+     "ratings": 399,
+     "desc": "GeoMark helps you measure land areas and distances using GPS and interactive maps. It combines GPS accuracy with detailed satellite imagery to help you measure gardens, fields, properties, walking pat"
+    },
+    {
+     "name": "GPS Measure",
+     "dev": "Shota Utsumi",
+     "ratings": 102,
+     "desc": "What can be measured with this application:\n- Route (displayed on map)\n- Time\n- Speed\n- Distance\n- Direction\n- Altitude\netc.\n\nSet your comfortable units and targets from setting page, and let's measur"
+    },
+    {
+     "name": "Distance and Area Measurement",
+     "dev": "Second Tech AB",
+     "ratings": 3,
+     "desc": "Distance and area measurement.\n\nTurn this application on and walk or drive around a region to measure its area. The path's length is measured as well.\n\nTo start a measurement; wait until the GPS recei"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "electrician calculator",
+   "top": [
+    {
+     "name": "Fraction Calculator Plus #1",
+     "dev": "DigitAlchemy LLC",
+     "ratings": 22379,
+     "desc": "Fraction Calculator Plus - the best and easiest solution for fractions in everyday life. Calculate fractions: add, subtract, divide and multiply. Convert fractions to decimals easily.\n\n - Would you li"
+    },
+    {
+     "name": "Electrician Handy Tool",
+     "dev": "Handy Tool LLC",
+     "ratings": 23,
+     "desc": "A handy conduit bending, calculating and quick reference all-in-one tool for Electricians.\n\nMaking electrical work easier is our goal.\n\n- Voltage drop calculator: determines wire size to meet NEC volt"
+    },
+    {
+     "name": "ElectriCalc Pro",
+     "dev": "Calculated Industries",
+     "ratings": 361,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nElectrical Contractors, Designers, Electricians, and Lighting Specialists solve tough electrical c"
+    },
+    {
+     "name": "Mike Holt's Electrical Toolbox",
+     "dev": "Mike Holt Enterprises",
+     "ratings": 196,
+     "desc": "Mike Holt, the industry leader in the electrical industry (MikeHolt.com) has created an amazing, practical and useful app for the electrician, inspector, instructor, contractor and engineer. The app c"
+    },
+    {
+     "name": "Electrical Calculator Pro",
+     "dev": "Do Tri",
+     "ratings": 0,
+     "desc": "The Ultimate Toolkit for Modern Electricians.\n\nPrecision and speed are non-negotiable on the job site. Electrical Calculator Pro is the comprehensive, professional-grade software designed for installe"
+    },
+    {
+     "name": "Feet and Inches Calculator",
+     "dev": "Evan Winograd",
+     "ratings": 416,
+     "desc": "Master your trade with a powerful construction calculator built for contractors, carpenters, builders, electricians, and tradespeople.\n\nTutorial: https://www.youtube.com/watch?v=PZugBX9o-8E&t=0s\nQuest"
+    },
+    {
+     "name": "Big Button Calculator Pro Lite",
+     "dev": "Cider Software LLC",
+     "ratings": 14131,
+     "desc": "This is THE BEST calculator for iOS with big buttons and colorful backgrounds! This version is ad supported.\n\n・Dual-line display - shows the input and result at the same time\n・Percentage and backspace"
+    },
+    {
+     "name": "Ohms Law Calc.",
+     "dev": "V PUGAZHENTHI",
+     "ratings": 1327,
+     "desc": "Ohm's Law Calc. consists of 60 Electrical Calculators with Formulas and Circuits and 16 Electrical Converters.\n\n•  Voltage Calculator\n•  Current Calculator\n•  Resistance Calculator\n•  Power Calculator"
+    },
+    {
+     "name": "Electrician Calculator Pro 26",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Stop paying monthly for tools you use on the job. Electrician Calculator Pro puts the everyday electrical calculations in your pocket — fast, accurate, and fully offline so they work anywhere on site,"
+    },
+    {
+     "name": "Southwire® Conduit Fill Calc",
+     "dev": "Southwire Company",
+     "ratings": 771,
+     "desc": "Southwire has created this great tool to help electricians, engineers and contractors answer the question, “What size conduit do I use” per the NEC®, includes fill percentages and jam probability.  If"
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

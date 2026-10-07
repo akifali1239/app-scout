@@ -14051,6 +14051,132 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "blood pressure log",
+   "apps": [
+    {
+     "name": "BP Tracker",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Log blood pressure readings with charts and PDF export for your doctor."
+    },
+    {
+     "name": "Pulse & BP Diary",
+     "dev": "Dev",
+     "ratings": 120,
+     "desc": "Record systolic, diastolic and pulse daily; share trends."
+    },
+    {
+     "name": "Heart Rate Monitor",
+     "dev": "Dev",
+     "ratings": 200,
+     "desc": "Measure heart rate with the camera."
+    },
+    {
+     "name": "Blood Pressure Pizza Co",
+     "dev": "Dev",
+     "ratings": 80,
+     "desc": "Order pizza online from local shops."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "tip calculator",
+   "apps": [
+    {
+     "name": "Tip & Split Calc",
+     "dev": "Dev",
+     "ratings": 500,
+     "desc": "Calculate restaurant tip and split the bill between friends."
+    },
+    {
+     "name": "Bill Splitter",
+     "dev": "Dev",
+     "ratings": 250,
+     "desc": "Split group bills and tips fairly."
+    },
+    {
+     "name": "Expense Tracker",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Track daily spending and budgets."
+    },
+    {
+     "name": "Tip Jar Idle Game",
+     "dev": "Dev",
+     "ratings": 60,
+     "desc": "Idle clicker game about coins."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "pregnancy week by week",
+   "apps": [
+    {
+     "name": "Pregnancy Weekly Guide",
+     "dev": "Dev",
+     "ratings": 400,
+     "desc": "See baby size and development for each week of pregnancy."
+    },
+    {
+     "name": "Bump Week Tracker",
+     "dev": "Dev",
+     "ratings": 150,
+     "desc": "Weekly pregnancy tracker with tips and countdown."
+    },
+    {
+     "name": "Baby Name Finder",
+     "dev": "Dev",
+     "ratings": 200,
+     "desc": "Browse thousands of baby names."
+    },
+    {
+     "name": "Week Planner Pro",
+     "dev": "Dev",
+     "ratings": 90,
+     "desc": "Weekly calendar and to-do planner."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -15143,6 +15269,26 @@
    "note": "Apple sağlık verisi toplayan app'i ek belgeyle reddeder",
    "label": "Ret riski",
    "split": "dev"
+  },
+  {
+   "note": "Aynı işi yapan 40 app var, ilk sayfa dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bunu aramaz, hedef kitle yok",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Gerçek zamanlı uydu verisi gerekiyor, tek kişiyle olmaz",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Kullanıcı ücretsiz alternatiflerle yetiniyor, ödeme isteği yok",
+   "label": "Para yapmaz",
+   "split": "dev"
   }
  ],
  "kind": [
@@ -15702,6 +15848,42 @@
     "desc": "Book a plumber, view invoices and track your appointment."
    },
    "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Unit Converter Plus",
+    "category": "Utilities",
+    "desc": "Convert length, weight, temperature and volume offline."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Bible Verse Dictionary",
+    "category": "Reference",
+    "desc": "Look up word meanings and cross references for Bible study."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask AI: Chat Assistant",
+    "category": "Productivity",
+    "desc": "Chat with GPT-powered AI to get answers and write text."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Jazz Radio Daily",
+    "category": "Music",
+    "desc": "Stream curated jazz playlists and podcasts all day."
+   },
+   "label": "content",
    "split": "dev"
   }
  ]

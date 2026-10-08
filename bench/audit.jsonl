@@ -443,3 +443,4 @@
 {"ts": "2026-10-08T14:41:52+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6093 istek)"}
 {"ts": "2026-10-08T15:40:06+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6093 istek)"}
 {"ts": "2026-10-08T15:41:47+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6093 istek)"}
+{"ts": "2026-10-08T16:41:43+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6093 istek)"}

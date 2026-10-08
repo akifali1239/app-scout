@@ -17256,6 +17256,296 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "nail tech appointment app",
+   "apps": [
+    {
+     "name": "Nail Tech Appointment: AppNail",
+     "dev": "Akyno Apps",
+     "ratings": 103,
+     "desc": "AppNail – Appointment Book for Nail Technicians and Beauty Salons\n\nOrganize your appointments, increase your productivity, and professionalize your service with AppNail, the complete appointment book "
+    },
+    {
+     "name": "Nail Tech Booking App",
+     "dev": "Alexander Hitrik",
+     "ratings": 2,
+     "desc": "Nail Tech Booking App is an all-in-one app for nail professionals who want to run their nail business with clarity and confidence.\n\nManage clients, appointments, nail services, notes, photos, finances"
+    },
+    {
+     "name": "Nail Tech Appointment App",
+     "dev": "Andreia Assis Soares da Conceicao",
+     "ratings": 195,
+     "desc": "Nail Tech Appointment App - Manicure Calendar is for all manicurists, with the goal of managing your entire agenda. Simple to work, the application warns you when a schedule is near, bringing reassura"
+    },
+    {
+     "name": "NailTechConnect",
+     "dev": "CHARMED & ARMED INTERNATIONAL INC",
+     "ratings": 19,
+     "desc": "Join thousands of nail technicians who trust MakarttPro to support their journey. Download now and get everything you need to run and grow your nail tech business—all in one place.\n\nYour clients now h"
+    },
+    {
+     "name": "Nailzy.com",
+     "dev": "nailsa2z",
+     "ratings": 1032,
+     "desc": "Nailzy is the all-in-one platform for nail professionals, salon owners, and beauty businesses.\n\nProfessionals can create a free booking website, manage appointments, organize client records, track sta"
+    },
+    {
+     "name": "NailTechConnect for Clients",
+     "dev": "CHARMED & ARMED INTERNATIONAL INC",
+     "ratings": 5,
+     "desc": "Book Smarter with NailTechConnect: Your Personalized Nail Appointment App\n\nNailTechConnect is the easiest way to book appointments with your favorite independent nail technicians. Whether you're a reg"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "paramedic case tracker",
+   "apps": [
+    {
+     "name": "Paramedic Case Tracker",
+     "dev": "Samuel McClelland",
+     "ratings": 0,
+     "desc": "A simple and easy way to keep track of and search what cases you've attended, what medications you've given, and what skills you've done."
+    },
+    {
+     "name": "Case Status",
+     "dev": "https://casestatus.com",
+     "ratings": 44983,
+     "desc": "Stay updated on the status of your case. If your law firm, case manager, or team uses Case Status, you’ll be able to use the app to see your case status in real-time. Communicate with your team, submi"
+    },
+    {
+     "name": "CUBE Tracker",
+     "dev": "Cube Tracker LLC",
+     "ratings": 6567,
+     "desc": "Cube offers small trackers and an easy-to-use app that helps you find everyday items quickly. With Cube GPS track your car, motorcycle, pet, or other valuable items nationwide. Cube also offers Blueto"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us f"
+    },
+    {
+     "name": "MedicTests 2026 EMS Education",
+     "dev": "MedicTests",
+     "ratings": 2067,
+     "desc": "Experience the ultimate EMS Education System, designed exclusively for MedicTests members. \n\nUnlock personalized guidance and engaging learning tools like our personalized learning paths, the Rapid Le"
+    },
+    {
+     "name": "AirGuard - Tracking Protection",
+     "dev": "Technische Universität Darmstadt",
+     "ratings": 6296,
+     "desc": "AirGuard identifies tiny-trackers, like Samsung SmartTags or Tiles, that are following you and forwarding your location to a third-party. \nIf a tracker is detected will get a notification. \n\nThe iPhon"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "beebase: beekeeping & hive log",
+   "apps": [
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "Wild Hive - Build & Survive",
+     "dev": "Studio 42",
+     "ratings": 191,
+     "desc": "Wild Hive is a bee colony roguelite driven by a ruthless honey market. Grow your hive, hatch a swarm of worker bees, and sell the honey they make on a realistic stock market. The honey quota climbs ev"
+    },
+    {
+     "name": "BeeBase: Beekeeping & Hive Log",
+     "dev": "Stepan Bezhuk",
+     "ratings": 0,
+     "desc": "BeeBase: Smart Beekeeping Log\n\nStop losing track of your hives. BeeBase is the ultimate digital logbook designed to help beekeepers manage apiaries, hives, and inspections effortlessly in one place.\n\n"
+    },
+    {
+     "name": "HiveSense: Smart Hive Tracker",
+     "dev": "Jan Rowinski",
+     "ratings": 5,
+     "desc": "THE SMART BEEKEEPING APP — BUILT FOR THE FIELD\n\nHiveSense is the all-in-one hive tracker and apiary manager for hobbyist and commercial beekeepers. Log inspections offline, connect Bluetooth hive sens"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "welding engineer exam prep",
+   "apps": [
+    {
+     "name": "Welding Engineer Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Turn spare minutes into Certified Welding Engineer exam readiness.\n\nPractice 505+ real Welding Engineer Exam Prep questions with clear explanations, realistic mock exams, and progress tracking - free "
+    },
+    {
+     "name": "CWENG Welding Engineer Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare for success with our Welding Engineer Exam Prep Mastery 2025 app. This essential study companion helps you develop the technical knowledge and analytical skills required to pass the CWEng exam"
+    },
+    {
+     "name": "CWI Welding Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 12,
+     "desc": "CWI WELDING EXAM PREP: PASS ALL THREE PARTS OF THE AWS CWI EXAM\n\nThe CWI exam has a 30 percent first-attempt pass rate. Most candidates fail because they treat it as a single test. It is three separat"
+    },
+    {
+     "name": "PSI Test Prep",
+     "dev": "Memorang",
+     "ratings": 4215,
+     "desc": "Practice Questions | Detailed Progress Tracking | Custom Study Sessions | Explanations | References\n\nThe PSI Test Prep app is your best streamlined, mobile companion to prepare for your licensure test"
+    },
+    {
+     "name": "CWI Exam Prep",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 6,
+     "desc": "Master all essential topics for your Certified Welding Inspector(CWI) exam with Fun and Engaging Quizzes! \n\nDive into the world of CWI with our comprehensive quiz app, designed to boost your knowledge"
+    },
+    {
+     "name": "Sparky AI: IBEW Test Prep",
+     "dev": "Michael Briglio",
+     "ratings": 37,
+     "desc": "Pass the IBEW aptitude test. Ace the interview. Start a paid apprenticeship. Set Alerts for EVERY LOCAL, and never miss an Apprenticeship opportunity.\n\nSparky AI is the complete IBEW / NJATC aptitude "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "transcribe video to text free",
+   "apps": [
+    {
+     "name": "Transcribe Video to Text: Vid2",
+     "dev": "Heat Studio LLC",
+     "ratings": 173,
+     "desc": "Transcribe Video to Text – Fast, Accurate, Easy\n\nTurn any video into text instantly with Transcribe Video to Text. Whether you’re a student, content creator, professional, or just need quick captions,"
+    },
+    {
+     "name": "Transcribe-AI",
+     "dev": "单怡 冯",
+     "ratings": 0,
+     "desc": "AI-powered transcription, Transcribe Video/Audio To Text Free"
+    },
+    {
+     "name": "Transcribe - Speech to Text",
+     "dev": "DENIVIP",
+     "ratings": 10855,
+     "desc": "Transcribe audio and video to text with Transcribe – your AI-powered transcription assistant. Get instant, high-quality transcripts, right from your phone.\n\nWhether you need to transcribe voice notes,"
+    },
+    {
+     "name": "Transcribe Video to Text: TIVO",
+     "dev": "Omar Ahmed",
+     "ratings": 0,
+     "desc": "Transcribe Video to Text: TIVO is your ultimate tool to convert videos into text effortlessly. With Transcribe Video to Text: TIVO, you can automatically generate subtitles and transcripts from any vi"
+    },
+    {
+     "name": "VidScribe: Video to Text",
+     "dev": "RUEBEN ANSOLIWEN AKANKOBATENG",
+     "ratings": 0,
+     "desc": "Turn videos and audio into editable text—privately on your iPhone.\n\nVidScribe helps you transcribe videos you already have—pick a clip from your library, extract the audio on-device, and turn it into "
+    },
+    {
+     "name": "Transcribe Video to Text :Zeni",
+     "dev": "BoldScap",
+     "ratings": 0,
+     "desc": "# Zeni — Transcribe Video to Text Instantly\n\nTurn any video into accurate text in seconds with Zeni, the simplest way to transcribe video to text and generate smart AI notes you can actually use.\n\nWhe"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [
@@ -18545,6 +18835,26 @@
   {
    "note": "Apple çocukların verisini toplayan bu tür app'i kesin reddeder",
    "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "hiç kimse bunun için ödeme yapmaz, tamamen ücretsiz alternatifleri var",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "tıbbi teşhis koyduğunu iddia ediyor, Apple kabul etmez",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "gerçek zamanlı video işleme ve kendi sunucularım gerekir, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "konu ne mesleğime ne ilgi alanıma uyuyor, tamamen alakasız",
+   "label": "Alakasız",
    "split": "train"
   }
  ],

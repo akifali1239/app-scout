@@ -609,6 +609,41 @@
    "term": "myintelligem - gemology app",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "hvac pt chart",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "welding settings",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "sonography",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "forklift test",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "fe exam prep",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "nala paralegal",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "sailquiz: sailing exam prep",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [

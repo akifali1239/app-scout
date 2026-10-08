@@ -150,7 +150,8 @@
     "d47fdf7e04bc",
     "8f17d2f8ad82",
     "3c18d25e7de8",
-    "c9dd0833bfd5"
+    "c9dd0833bfd5",
+    "11bb4bcf907d"
    ],
    "prev": [
     "v2"
@@ -330,7 +331,11 @@
     "945e7945d9a3",
     "abbba5879f81",
     "5cb01bdd51d7",
-    "b5cead79fd85"
+    "b5cead79fd85",
+    "1078c8ddb389",
+    "a73fd6c3a9c0",
+    "062d960c7b6f",
+    "3c8c62db07a5"
    ],
    "prev": null,
    "promoted_at": "2026-10-04T18:39:24+00:00"
@@ -627,7 +632,11 @@
     "1b09e0f6c8b2",
     "12536ac58f69",
     "24a21e0112ac",
-    "ensemble:v2+v1"
+    "ensemble:v2+v1",
+    "ccad34bae1e7",
+    "36a9229ef355",
+    "072e7ee735e9",
+    "70ed60f58f4d"
    ],
    "prev": null,
    "promoted_at": "2026-10-04T14:48:11+00:00"

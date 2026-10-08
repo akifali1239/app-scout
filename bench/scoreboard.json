@@ -27,7 +27,7 @@
    "brier": 0.056,
    "n": 175,
    "versions": 3,
-   "tried": 96,
+   "tried": 100,
    "test_errors": [
     [
      "pharmacy technician letter",
@@ -151,7 +151,7 @@
    "brier": 0.0364,
    "n": 45,
    "versions": 2,
-   "tried": 5,
+   "tried": 10,
    "test_errors": [
     [
      "Aynı işi yapan 40 app var, ilk sayfa dolu",
@@ -2773,7 +2773,7 @@
    "n": 45
   }
  ],
- "updated": "2026-10-08T01:42:27+00:00",
+ "updated": "2026-10-08T02:41:35+00:00",
  "raw": {
   "intent": {
    "version": "v3",

@@ -9,7 +9,7 @@
    "brier": 0.05,
    "n": 98,
    "versions": 3,
-   "tried": 76,
+   "tried": 80,
    "test_errors": [
     [
      "subway surfers",
@@ -144,7 +144,7 @@
    "brier": 0.0,
    "n": 63,
    "versions": 2,
-   "tried": 34,
+   "tried": 38,
    "test_errors": []
   },
   "note": {
@@ -2868,7 +2868,7 @@
    "n": 45
   }
  ],
- "updated": "2026-10-08T06:41:37+00:00",
+ "updated": "2026-10-08T07:28:07+00:00",
  "raw": {
   "intent": {
    "version": "v3",

@@ -374,3 +374,4 @@
 {"ts": "2026-10-08T02:41:35+00:00", "actor": "optimizer", "action": "trial", "cap": "note", "candidate": "topluluk v2+v1", "dev_obj": 0.9145, "dev_acc": 0.9524, "prod_dev_obj": 0.9167}
 {"ts": "2026-10-08T02:41:35+00:00", "actor": "optimizer", "action": "reject", "cap": "note", "candidate": "talimat#0 tanım#1 örnek×2", "reason": "dev kazancı yetersiz (0.9223 vs 0.9167)"}
 {"ts": "2026-10-08T02:41:35+00:00", "actor": "optimizer", "action": "run", "calls": 512, "tokens": 600516, "cost_usd": 0.02522}
+{"ts": "2026-10-08T03:41:57+00:00", "actor": "optimizer", "action": "run", "calls": 720, "tokens": 567949, "cost_usd": 0.02385}

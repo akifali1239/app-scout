@@ -17546,6 +17546,132 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "speed test",
+   "apps": [
+    {
+     "name": "Speedtest by Ookla",
+     "dev": "Ookla",
+     "ratings": 28178,
+     "desc": "Use Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n \nExplore mobile network coverage with Speedtest Maps based on real-worl"
+    },
+    {
+     "name": "Internet Speed Test Speedcheck",
+     "dev": "Ookla",
+     "ratings": 98438,
+     "desc": "Use Speedcheck to test the speed of internet connections and add your results to SpeedSpot's WiFi speed database. You can use the companion app, SpeedSpot's WiFi Finder right from with the app to find"
+    },
+    {
+     "name": "Speedometer Simple",
+     "dev": "WATT APPS",
+     "ratings": 128962,
+     "desc": "Speedometer Simple is a simple speedometer that is very easy to use. \n\nThis app uses phone's GPS to accurately determine your speed.\n\nSpeedometer has large fonts and supports mph, km/h, and knots spee"
+    },
+    {
+     "name": "FAST Speed Test",
+     "dev": "Netflix, Inc.",
+     "ratings": 243,
+     "desc": "Use the FAST.com app to help you see how fast your Internet connection is, whether on mobile or broadband, anywhere in the world. It has a streamlined design that is quick and easy to understand. And "
+    },
+    {
+     "name": "Speed Test SpeedSmart Internet",
+     "dev": "IDB LLC",
+     "ratings": 64637,
+     "desc": "SpeedSmart is a free internet speed test app for evaluating your WiFi and Mobile 5G, 4G LTE connection on your iPhone or iPad. Download now!\n\n*** App Features ***\n\n- Test your Download & Upload Speed\n"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "hidden camera detector",
+   "apps": [
+    {
+     "name": "Hidden Camera Detector - Peek",
+     "dev": "88 Tech",
+     "ratings": 16641,
+     "desc": "Take charge of your personal privacy and secure your space with Hidden Camera Detector – Peek. In today’s interconnected world, protecting your personal space in unfamiliar environments is more import"
+    },
+    {
+     "name": "Cam Detector App：Home Security",
+     "dev": "App Nexus",
+     "ratings": 15926,
+     "desc": "This is a secure application that scans local network cameras, connects to them, and plays live camera feeds in real-time.\n\nAre you concerned about personal privacy and want to ensure the security of "
+    },
+    {
+     "name": "Hidden Camera Detector FindSpy",
+     "dev": "Kain Suite Pte. Ltd.",
+     "ratings": 4076,
+     "desc": "Protect your privacy and stay secure with the Camera Detector app.\nThis app allows you to detect suspicious surveillance devices—such as unauthorized cameras, audio bugs, listening tools, or other cov"
+    },
+    {
+     "name": "Spy Camera Detector & Scanner",
+     "dev": "Traffic Factory LTD",
+     "ratings": 2030,
+     "desc": "Protect your privacy with Spy Camera Detector & Scanner, the ultimate tool to detect hidden cameras and suspicious devices. Whether you're in a hotel, dressing room, or any unfamiliar space, our app e"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "magnifier",
+   "apps": [
+    {
+     "name": "Magnifying Glass & Mirror",
+     "dev": "SensorBLE",
+     "ratings": 9541,
+     "desc": "Simple app uses your camera to magnify objects.\nYou can switch to the front camera and use as a mirror with light bars for dim lighting. A simple tap on the screen freezes the image for a closer look "
+    },
+    {
+     "name": "Magnifier Pro HD Zoom Camera",
+     "dev": "MONOPOLEAPPS K.K.",
+     "ratings": 19,
+     "desc": "A simple, easy-to-use magnifier (loupe) app that makes small text and fine details look clear and sharp. Perfect for newspapers, books, receipts, medicine labels, food packages, and more when text is "
+    },
+    {
+     "name": "Magnifying Glass With Light",
+     "dev": "Falcon In Motion LLC",
+     "ratings": 4078,
+     "desc": "\"Why we like it: It’s incredibly handy! There will always be a time where the menu writing is too small or the room is just too dark – this magnifying app will be just what you need.\" - appsmitten.com"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

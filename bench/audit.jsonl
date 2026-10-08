@@ -436,3 +436,4 @@
 {"ts": "2026-10-08T08:41:50+00:00", "actor": "optimizer", "action": "reject", "cap": "intent", "candidate": "talimat#1 tanım#2 örnek×4", "reason": "dev kazancı yetersiz (0.8886 vs 0.8912)"}
 {"ts": "2026-10-08T08:41:50+00:00", "actor": "optimizer", "action": "run", "calls": 286, "tokens": 194711, "cost_usd": 0.00818}
 {"ts": "2026-10-08T09:41:45+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6093 istek)"}
+{"ts": "2026-10-08T10:42:25+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6093 istek)"}

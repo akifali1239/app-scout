@@ -2,12 +2,12 @@
  "current": {
   "intent": {
    "version": "v3",
-   "dev_acc": 0.95,
-   "test_acc": 0.9773,
-   "dev_obj": 0.9122,
-   "test_obj": 0.9499,
-   "brier": 0.0548,
-   "n": 84,
+   "dev_acc": 0.9362,
+   "test_acc": 0.9804,
+   "dev_obj": 0.8955,
+   "test_obj": 0.956,
+   "brier": 0.0488,
+   "n": 98,
    "versions": 3,
    "tried": 67,
    "test_errors": [
@@ -20,45 +20,45 @@
   },
   "brand": {
    "version": "v3",
-   "dev_acc": 0.9394,
-   "test_acc": 0.9467,
-   "dev_obj": 0.8987,
-   "test_obj": 0.916,
-   "brier": 0.0613,
-   "n": 141,
+   "dev_acc": 0.9383,
+   "test_acc": 0.9574,
+   "dev_obj": 0.9017,
+   "test_obj": 0.9296,
+   "brier": 0.0558,
+   "n": 175,
    "versions": 3,
    "tried": 92,
    "test_errors": [
     [
      "pharmacy technician letter",
      true,
-     0.25
+     0.24
     ],
     [
      "paramedic coach",
      true,
-     0.31
+     0.33
     ],
     [
      "pilot driver app",
      true,
-     0.27
+     0.26
     ],
     [
      "personal trainer prep: test",
      true,
-     0.21
+     0.19
     ]
    ]
   },
   "rival": {
    "version": "v1",
    "dev_acc": 1.0,
-   "test_acc": 0.9798,
-   "dev_obj": 0.9949,
-   "test_obj": 0.9704,
-   "brier": 0.0188,
-   "n": 178,
+   "test_acc": 0.9825,
+   "dev_obj": 0.9937,
+   "test_obj": 0.9736,
+   "brier": 0.0177,
+   "n": 212,
    "versions": 1,
    "tried": 12,
    "test_errors": [
@@ -66,7 +66,7 @@
      "welding calculator",
      "WELDING PRO",
      0,
-     0.63
+     0.62
     ],
     [
      "torque conversion chart",
@@ -80,10 +80,10 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9927,
-   "test_obj": 0.9924,
-   "brier": 0.0152,
-   "n": 46,
+   "dev_obj": 0.9918,
+   "test_obj": 0.9911,
+   "brier": 0.0178,
+   "n": 58,
    "versions": 1,
    "tried": 16,
    "test_errors": []
@@ -92,10 +92,10 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0409,
-   "test_obj": 1.0374,
+   "dev_obj": 1.0411,
+   "test_obj": 1.0378,
    "brier": null,
-   "n": 24,
+   "n": 27,
    "versions": 1,
    "tried": 1,
    "test_errors": []
@@ -104,10 +104,10 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0402,
-   "test_obj": 1.0393,
+   "dev_obj": 1.0395,
+   "test_obj": 1.0401,
    "brier": null,
-   "n": 21,
+   "n": 25,
    "versions": 1,
    "tried": 1,
    "test_errors": []
@@ -116,37 +116,43 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0338,
-   "test_obj": 1.0397,
+   "dev_obj": 1.0336,
+   "test_obj": 1.0396,
    "brier": null,
-   "n": 24,
+   "n": 28,
    "versions": 1,
    "tried": 1,
    "test_errors": []
   },
   "kind": {
    "version": "v2",
-   "dev_acc": 0.9583,
+   "dev_acc": 0.9677,
    "test_acc": 1.0,
-   "dev_obj": 0.9463,
+   "dev_obj": 0.9591,
    "test_obj": 1.0,
-   "brier": 0.0001,
-   "n": 48,
+   "brier": 0.0,
+   "n": 63,
    "versions": 2,
    "tried": 30,
    "test_errors": []
   },
   "note": {
    "version": "v2",
-   "dev_acc": 1.0,
-   "test_acc": 1.0,
-   "dev_obj": 0.9975,
-   "test_obj": 0.9983,
-   "brier": 0.0033,
-   "n": 35,
+   "dev_acc": 0.95,
+   "test_acc": 0.9545,
+   "dev_obj": 0.9127,
+   "test_obj": 0.9399,
+   "brier": 0.0292,
+   "n": 42,
    "versions": 2,
    "tried": 5,
-   "test_errors": []
+   "test_errors": [
+    [
+     "Aynı işi yapan 40 app var, ilk sayfa dolu",
+     "Çok rekabet / doygun",
+     "Çok benzer"
+    ]
+   ]
   }
  },
  "history": [
@@ -2579,22 +2585,117 @@
    "dev_obj": 0.9975,
    "test_obj": 0.9983,
    "n": 35
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "intent",
+   "version": "v3",
+   "dev_acc": 0.9362,
+   "test_acc": 0.9804,
+   "dev_obj": 0.8955,
+   "test_obj": 0.956,
+   "n": 98
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "brand",
+   "version": "v3",
+   "dev_acc": 0.9383,
+   "test_acc": 0.9574,
+   "dev_obj": 0.9017,
+   "test_obj": 0.9296,
+   "n": 175
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 0.9825,
+   "dev_obj": 0.9937,
+   "test_obj": 0.9736,
+   "n": 212
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.9918,
+   "test_obj": 0.9911,
+   "n": 58
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0411,
+   "test_obj": 1.0378,
+   "n": 27
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0395,
+   "test_obj": 1.0401,
+   "n": 25
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0336,
+   "test_obj": 1.0396,
+   "n": 28
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "kind",
+   "version": "v2",
+   "dev_acc": 0.9677,
+   "test_acc": 1.0,
+   "dev_obj": 0.9591,
+   "test_obj": 1.0,
+   "n": 63
+  },
+  {
+   "ts": "2026-10-08T00:42:14+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 0.95,
+   "test_acc": 0.9545,
+   "dev_obj": 0.9127,
+   "test_obj": 0.9399,
+   "n": 42
   }
  ],
- "updated": "2026-10-07T07:41:55+00:00",
+ "updated": "2026-10-08T00:42:14+00:00",
  "raw": {
   "intent": {
    "version": "v3",
    "dev": {
-    "n": 40,
-    "acc": 0.95,
-    "brier": 0.0757,
-    "obj": 0.9122,
+    "n": 47,
+    "acc": 0.9362,
+    "brier": 0.0814,
+    "obj": 0.8955,
     "errors": [
      [
       "e6b flight computer",
       "need",
       "brand"
+     ],
+     [
+      "speech therapy delhi",
+      "local_business",
+      "need"
      ],
      [
       "trucker path",
@@ -2604,10 +2705,10 @@
     ]
    },
    "test": {
-    "n": 44,
-    "acc": 0.9773,
-    "brier": 0.0548,
-    "obj": 0.9499,
+    "n": 51,
+    "acc": 0.9804,
+    "brier": 0.0488,
+    "obj": 0.956,
     "errors": [
      [
       "subway surfers",
@@ -2620,10 +2721,10 @@
   "brand": {
    "version": "v3",
    "dev": {
-    "n": 66,
-    "acc": 0.9394,
-    "brier": 0.0814,
-    "obj": 0.8987,
+    "n": 81,
+    "acc": 0.9383,
+    "brier": 0.0731,
+    "obj": 0.9017,
     "errors": [
      [
       "speech therapy delhi",
@@ -2633,45 +2734,50 @@
      [
       "miller weld setting calculator",
       true,
-      0.25
+      0.24
      ],
      [
       "plumber license prep: exam",
       true,
-      0.17
+      0.19
      ],
      [
       "acupuncture atlas 3d",
       false,
       0.71
+     ],
+     [
+      "physical therapy - movemend",
+      true,
+      0.36
      ]
     ]
    },
    "test": {
-    "n": 75,
-    "acc": 0.9467,
-    "brier": 0.0613,
-    "obj": 0.916,
+    "n": 94,
+    "acc": 0.9574,
+    "brier": 0.0558,
+    "obj": 0.9296,
     "errors": [
      [
       "pharmacy technician letter",
       true,
-      0.25
+      0.24
      ],
      [
       "paramedic coach",
       true,
-      0.31
+      0.33
      ],
      [
       "pilot driver app",
       true,
-      0.27
+      0.26
      ],
      [
       "personal trainer prep: test",
       true,
-      0.21
+      0.19
      ]
     ]
    }
@@ -2679,23 +2785,23 @@
   "rival": {
    "version": "v1",
    "dev": {
-    "n": 79,
+    "n": 98,
     "acc": 1.0,
-    "brier": 0.0103,
-    "obj": 0.9949,
+    "brier": 0.0126,
+    "obj": 0.9937,
     "errors": []
    },
    "test": {
-    "n": 99,
-    "acc": 0.9798,
-    "brier": 0.0188,
-    "obj": 0.9704,
+    "n": 114,
+    "acc": 0.9825,
+    "brier": 0.0177,
+    "obj": 0.9736,
     "errors": [
      [
       "welding calculator",
       "WELDING PRO",
       0,
-      0.63
+      0.62
      ],
      [
       "torque conversion chart",
@@ -2709,84 +2815,84 @@
   "risk": {
    "version": "v1",
    "dev": {
-    "n": 22,
+    "n": 28,
     "acc": 1.0,
-    "brier": 0.0145,
-    "obj": 0.9927,
+    "brier": 0.0164,
+    "obj": 0.9918,
     "errors": []
    },
    "test": {
-    "n": 24,
+    "n": 30,
     "acc": 1.0,
-    "brier": 0.0152,
-    "obj": 0.9924,
+    "brier": 0.0178,
+    "obj": 0.9911,
     "errors": []
    }
   },
   "audience": {
    "version": "v1",
    "dev": {
-    "n": 11,
+    "n": 12,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8185,
-    "obj": 1.0409,
+    "margin": 0.822,
+    "obj": 1.0411,
     "errors": []
    },
    "test": {
-    "n": 13,
+    "n": 15,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7487,
-    "obj": 1.0374,
+    "margin": 0.7555,
+    "obj": 1.0378,
     "errors": []
    }
   },
   "pay": {
    "version": "v1",
    "dev": {
-    "n": 8,
+    "n": 10,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.805,
-    "obj": 1.0402,
+    "margin": 0.791,
+    "obj": 1.0395,
     "errors": []
    },
    "test": {
-    "n": 13,
+    "n": 15,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7858,
-    "obj": 1.0393,
+    "margin": 0.802,
+    "obj": 1.0401,
     "errors": []
    }
   },
   "build": {
    "version": "v1",
    "dev": {
-    "n": 11,
-    "acc": 1.0,
-    "brier": null,
-    "margin": 0.6767,
-    "obj": 1.0338,
-    "errors": []
-   },
-   "test": {
     "n": 13,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7949,
-    "obj": 1.0397,
+    "margin": 0.6727,
+    "obj": 1.0336,
+    "errors": []
+   },
+   "test": {
+    "n": 15,
+    "acc": 1.0,
+    "brier": null,
+    "margin": 0.7913,
+    "obj": 1.0396,
     "errors": []
    }
   },
   "kind": {
    "version": "v2",
    "dev": {
-    "n": 24,
-    "acc": 0.9583,
-    "brier": 0.0242,
-    "obj": 0.9463,
+    "n": 31,
+    "acc": 0.9677,
+    "brier": 0.0173,
+    "obj": 0.9591,
     "errors": [
      [
       "Find my Friends, Family Phone",
@@ -2796,9 +2902,9 @@
     ]
    },
    "test": {
-    "n": 24,
+    "n": 32,
     "acc": 1.0,
-    "brier": 0.0001,
+    "brier": 0.0,
     "obj": 1.0,
     "errors": []
    }
@@ -2806,20 +2912,32 @@
   "note": {
    "version": "v2",
    "dev": {
-    "n": 17,
-    "acc": 1.0,
-    "brier": 0.005,
-    "obj": 0.9975,
-    "errors": []
+    "n": 20,
+    "acc": 0.95,
+    "brier": 0.0746,
+    "obj": 0.9127,
+    "errors": [
+     [
+      "Kimse bunu aramaz, hedef kitle yok",
+      "Alakasız",
+      "Diğer"
+     ]
+    ]
    },
    "test": {
-    "n": 18,
-    "acc": 1.0,
-    "brier": 0.0033,
-    "obj": 0.9983,
-    "errors": []
+    "n": 22,
+    "acc": 0.9545,
+    "brier": 0.0292,
+    "obj": 0.9399,
+    "errors": [
+     [
+      "Aynı işi yapan 40 app var, ilk sayfa dolu",
+      "Çok rekabet / doygun",
+      "Çok benzer"
+     ]
+    ]
    }
   }
  },
- "fingerprint": "6e3ac8af17dd"
+ "fingerprint": "43befe3b16aa"
 }

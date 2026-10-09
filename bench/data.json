@@ -15684,6 +15684,640 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "asis physical therapy, inc.",
+   "top": [
+    {
+     "name": "Asis PT",
+     "dev": "Asis Physical Therapy, Inc.",
+     "ratings": 2,
+     "desc": "Welcome to the Asis PT App! Log on to access your personalized Home Exercise Program on your mobile device.\n\nUsing this app, you can access your personalized Home Exercise Program with HD Instructiona"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "PTX Therapy - 24/7 Pain Relief",
+     "dev": "PTX Therapy, LLC",
+     "ratings": 622,
+     "desc": "*Sign-up for a PTX Therapy subscription online, then login to the companion app to access your therapy anytime, anywhere.\n\nGet completely personalized, science-backed physical therapy routines in the "
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    },
+    {
+     "name": "Kins Physical Therapy",
+     "dev": "Kins Health",
+     "ratings": 7,
+     "desc": "Nagging injury? Recovering from surgery? Chronic pain? Kins physical therapy is recovery made easy. Our licensed physical therapists come to you in your home for in person or virtual appointments. Eve"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "true sports physical therapy, llc",
+   "top": [
+    {
+     "name": "True Sports PT",
+     "dev": "True Sports Physical Therapy, LLC",
+     "ratings": 0,
+     "desc": "True Sports Physical Therapy Mobile Application"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "Omada Joint & Muscle Health",
+     "dev": "Omada Health, inc.",
+     "ratings": 3231,
+     "desc": "A better way to prevent and treat pain.\n\nBuild strength and flexibility, or treat aches and injuries—all from your smartphone and on your schedule!  \n\n• Get a personalized care plan and ongoing guidan"
+    },
+    {
+     "name": "PTX Therapy - 24/7 Pain Relief",
+     "dev": "PTX Therapy, LLC",
+     "ratings": 622,
+     "desc": "*Sign-up for a PTX Therapy subscription online, then login to the companion app to access your therapy anytime, anywhere.\n\nGet completely personalized, science-backed physical therapy routines in the "
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "My Select PT",
+     "dev": "Select Medical Corporation",
+     "ratings": 3197,
+     "desc": "Supercharge your rehab therapy experience—and stay digitally connected to your care team—with the My Select PT app. Never misplace paper handouts from your therapist or forget how to complete your hom"
+    },
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "ATI PT CONNECT",
+     "dev": "ATI Physical Therapy",
+     "ratings": 182,
+     "desc": "Welcome to the ATI PT CONNECT App! Log in to access your personalized Home Exercise Program directly on your mobile device. Please note that access is exclusive to ATI PT CONNECT patients.\n\nWith this "
+    },
+    {
+     "name": "Luna Therapist",
+     "dev": "Luna Care, Inc.",
+     "ratings": 435,
+     "desc": "Luna Therapist App\nTransform the way you deliver physical therapy. With Luna, you can provide exceptional care to patients in their homes, enjoy the flexibility of setting your schedule, and earn comp"
+    },
+    {
+     "name": "Limber Health Home Exercise",
+     "dev": "Limber Health, Inc.",
+     "ratings": 488,
+     "desc": "NOTE: The Limber Health Home Exercise app is only accessible and available to eligible patients enrolled by their provider. \n\n\nWhen it comes to your recovery, the home exercise program prescribed by y"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "soma massage therapy, llc",
+   "top": [
+    {
+     "name": "Soma Massage Therapy",
+     "dev": "Soma Massage Therapy, LLC",
+     "ratings": 0,
+     "desc": "Download the Soma Massage Therapy App today to book your appointments! From this mobile App, you can view appointment times and view our multiple locations to find the Soma closest to you!\n\nOptimize y"
+    },
+    {
+     "name": "Massage Envy",
+     "dev": "Massage Envy",
+     "ratings": 52658,
+     "desc": "With the Massage Envy app, access to routine self-care is literally in your hands. Find your favorite massage therapist, stretch provider, or esthetician at any franchised location and easily book a m"
+    },
+    {
+     "name": "Squeeze - Massage",
+     "dev": "GoSaga Squeeze Franchising, LLC",
+     "ratings": 1997,
+     "desc": "Squeeze is a way better massage experience. Why? Because unlike other massage places, you can book, pay, and tip right in the app—so after your massage, you can just float on out. No cashier, no regis"
+    },
+    {
+     "name": "Zeel In-Home Massage Therapist",
+     "dev": "Zeel",
+     "ratings": 10762,
+     "desc": "Book massage therapy for pain relief, athletic recovery, or relaxation to your home, hotel, or office. Health and wellness have never been more accessible or essential to your well-being.\n\nNamed one o"
+    },
+    {
+     "name": "Bigtoe: Massage On Demand",
+     "dev": "BigToe",
+     "ratings": 2356,
+     "desc": "Book an in-home Massage session in seconds!\n\nSay goodbye to back-and-forth. Get a professional massage delivered to your door with just a few taps. \n\nHow it works:\n\nCreate Request\nChoose your preferre"
+    },
+    {
+     "name": "Massage Techniques",
+     "dev": "Real Bodywork",
+     "ratings": 101,
+     "desc": "Learn to give an amazing massage. Featuring 130 massage techniques, 13 full massage routines and an anatomy section.\nEach technique includes a video demonstration, a still image, and a text descriptio"
+    },
+    {
+     "name": "Soothe: Wellness On Demand",
+     "dev": "Soothe LLC",
+     "ratings": 13607,
+     "desc": "Spa-quality wellness and personal care services delivered to you, on your schedule –– at home, at the office, or on the go.\n\nSoothe is the largest and most trusted on-demand wellness platform in the w"
+    },
+    {
+     "name": "AMTA Massage Anatomy Guide",
+     "dev": "American Massage Therapy Association",
+     "ratings": 2381,
+     "desc": "AMTA has partnered with Books of Discovery to provide this musculoskeletal anatomy resource free to AMTA members in an interactive app.\n \nAMTA Massage Anatomy Guide offers a wide array of features to "
+    },
+    {
+     "name": "Home Massage & Beauty | Blys",
+     "dev": "Get Blys Pty Ltd",
+     "ratings": 259,
+     "desc": "On demand massage and beauty services are now available in the United States! Blys is the fastest, easiest and safest way to enjoy professional spa treatments at home, on the go or at work all across "
+    },
+    {
+     "name": "iVibe: Vibrating Massager App",
+     "dev": "Robot Mouse, LLC",
+     "ratings": 6030,
+     "desc": "Relax your body. Calm your mind. Sleep better tonight.\n\niVibe is a powerful vibration massager app designed to help you relax, reduce stress, and fall asleep faster with soothing, customizable pattern"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "river north massage therapy center",
+   "top": [
+    {
+     "name": "RiverNorthMassage",
+     "dev": "River North Massage Therapy Center",
+     "ratings": 2,
+     "desc": "Download the River North Massage Therapy Center App today to plan and schedule your Appointments!  From this mobile App you can view Appointment schedules, as well as view the studio’s location inform"
+    },
+    {
+     "name": "Massage Envy",
+     "dev": "Massage Envy",
+     "ratings": 52658,
+     "desc": "With the Massage Envy app, access to routine self-care is literally in your hands. Find your favorite massage therapist, stretch provider, or esthetician at any franchised location and easily book a m"
+    },
+    {
+     "name": "Squeeze - Massage",
+     "dev": "GoSaga Squeeze Franchising, LLC",
+     "ratings": 1997,
+     "desc": "Squeeze is a way better massage experience. Why? Because unlike other massage places, you can book, pay, and tip right in the app—so after your massage, you can just float on out. No cashier, no regis"
+    },
+    {
+     "name": "Zeel In-Home Massage Therapist",
+     "dev": "Zeel",
+     "ratings": 10762,
+     "desc": "Book massage therapy for pain relief, athletic recovery, or relaxation to your home, hotel, or office. Health and wellness have never been more accessible or essential to your well-being.\n\nNamed one o"
+    },
+    {
+     "name": "Bigtoe: Massage On Demand",
+     "dev": "BigToe",
+     "ratings": 2356,
+     "desc": "Book an in-home Massage session in seconds!\n\nSay goodbye to back-and-forth. Get a professional massage delivered to your door with just a few taps. \n\nHow it works:\n\nCreate Request\nChoose your preferre"
+    },
+    {
+     "name": "Soothe: Wellness On Demand",
+     "dev": "Soothe LLC",
+     "ratings": 13607,
+     "desc": "Spa-quality wellness and personal care services delivered to you, on your schedule –– at home, at the office, or on the go.\n\nSoothe is the largest and most trusted on-demand wellness platform in the w"
+    },
+    {
+     "name": "Massage at home | Urban",
+     "dev": "Urban Massage Ltd",
+     "ratings": 610,
+     "desc": "Relax, you’re home.\nUrban brings a human touch to city life – with massage, beauty and wellness treatments delivered to your door in as little as 60 minutes.\n\nChoose from over 50 services, including d"
+    },
+    {
+     "name": "AMTA Exam Prep",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 8936,
+     "desc": "The official American Massage Therapy Association’s study app will help you prepare for the MBLEx like never before. Study anywhere, anytime with 1000 challenging practice questions and full answer ra"
+    },
+    {
+     "name": "AMTA Massage Anatomy Guide",
+     "dev": "American Massage Therapy Association",
+     "ratings": 2381,
+     "desc": "AMTA has partnered with Books of Discovery to provide this musculoskeletal anatomy resource free to AMTA members in an interactive app.\n \nAMTA Massage Anatomy Guide offers a wide array of features to "
+    },
+    {
+     "name": "Massage Finder: Find In Home & Mobile Therapist",
+     "dev": "Michael Quach",
+     "ratings": 19,
+     "desc": "Find a Massage Therapist in seconds!\n\nEasy-to use, quick, and convenient way to find a masseur or masseuse near you.\n\nA therapeutic and pampering massage can help you unwind and improve your physical,"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "stud finder",
+   "top": [
+    {
+     "name": "Stud Finder®",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 22972,
+     "desc": "Stud Finder App: Locate Metal Studs with Ease\n\nDiscover the power of our Stud Finder app, designed to detect metal studs effortlessly. Utilizing the magnetometer, the app measures the magnetic field w"
+    },
+    {
+     "name": "Stud Finder゜",
+     "dev": "Hanja Devi",
+     "ratings": 4943,
+     "desc": "STUD FINDER / DETECTOR\n\nThis app will help you to detect studs. It uses the magnetometer to measure the magnetic field when your iPhone is placed near any metal objects. You can quickly detect wood st"
+    },
+    {
+     "name": "Stud Finder Pro: Wall Scanner",
+     "dev": "KnotSmith Ltd.",
+     "ratings": 176,
+     "desc": "Turn your iPhone into a wall scanner before you drill.\n\nStud Finder Pro is a stud finder app, wall scanner, metal detector, and drilling toolbox for homeowners, renters, DIY builders, contractors, ins"
+    },
+    {
+     "name": "Stud Finder - Metal Detector",
+     "dev": "Andrei Nemtsou",
+     "ratings": 527,
+     "desc": "Stud Finder - Metal Detector\n\nThe app is used to find metal elements in the wall: nails, screws, wiring, etc.\n\nHow it works:\n\n1. Turn on the app\n2. Place the back of your phone against a wall\n3. Start"
+    },
+    {
+     "name": "Wood Stud Finder",
+     "dev": "Nikhil Kumar",
+     "ratings": 162,
+     "desc": "Wood Stud Finder\nLocate wall studs instantly with professional-grade accuracy! Wood Stud Finder transforms your iPhone into a powerful stud detection tool perfect for contractors, DIY enthusiasts, and"
+    },
+    {
+     "name": "Stud Finder Wall Wood Detector",
+     "dev": "Appcellent",
+     "ratings": 2523,
+     "desc": "Discover Hidden Structures with Stud Finder Wall Wood Detector.\n\nEver been frustrated by the guesswork of hanging a picture or mounting a shelf? Do you wish you had a reliable companion to locate stud"
+    },
+    {
+     "name": "Stud Finder: Metal Detector",
+     "dev": "Cao Tran",
+     "ratings": 2,
+     "desc": "Instantly turn your iPhone into a powerful wall scanner and stud finder!\n\nWhether you’re hanging a picture, mounting a TV, or tackling a DIY project, quickly detect wood studs, metal pipes, screws, bo"
+    },
+    {
+     "name": "Stud Finder Detector",
+     "dev": "KARLIE ALEXIS KOWALSKA",
+     "ratings": 720,
+     "desc": "Stud Finder – Fast, Accurate Wall Stud Detection\n\nStud Finder is your go-to app for quick and precise wall stud detection. Whether you’re mounting a TV, hanging shelves, or tackling a home DIY project"
+    },
+    {
+     "name": "Walabot DIY",
+     "dev": "Vayyar Imaging LTD",
+     "ratings": 321,
+     "desc": "Walabot DIY lets you see through your walls!\n\nConnect your Walabot DIY device (available at www.walabot.com/diy) to your phone for instant “X-Ray” vision. \n\n• Locates studs, pipes, wires, and movement"
+    },
+    {
+     "name": "Stud Finder App: Wall Scanner",
+     "dev": "Ebenezer Oteng",
+     "ratings": 4,
+     "desc": "Before you drill, know what's behind the wall.\n\nStud Finder uses your phone's built-in magnetometer to detect metal hidden in\nyour walls — the nails and screws that mark a stud's edge, and the pipes,\n"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "hidden camera detector",
+   "top": [
+    {
+     "name": "Hidden Spy Camera Finder Pro",
+     "dev": "DREAMTEAM APPS sp. z o.o.",
+     "ratings": 11815,
+     "desc": "Scan for suspicious devices under the current network and find them all with just one tap. Bluetooth scanner is now available! This app can be used for some important occasions, such as hotels, confer"
+    },
+    {
+     "name": "Hidden Camera Detector - Peek",
+     "dev": "88 Tech",
+     "ratings": 16641,
+     "desc": "Take charge of your personal privacy and secure your space with Hidden Camera Detector – Peek. In today’s interconnected world, protecting your personal space in unfamiliar environments is more import"
+    },
+    {
+     "name": "Camera Detector App",
+     "dev": "HMA Mobile LLC",
+     "ratings": 9982,
+     "desc": "Our app helps you scan your surroundings and Wi-Fi networks to check for unusual devices that might affect your privacy, especially in important places such as hotels, bathroom, your home. Stay safe a"
+    },
+    {
+     "name": "Hidden Device－Detector, Camera",
+     "dev": "Piotr Kalita",
+     "ratings": 95,
+     "desc": "Enhance your personal security with Hidden Device－Detector, Camera, the ultimate app designed to protect your privacy. Seamlessly detect hidden cameras and covert devices in your environment, ensuring"
+    },
+    {
+     "name": "#1 Hidden Camera Detector",
+     "dev": "Gibco LTD",
+     "ratings": 3745,
+     "desc": "Hidden Camera Detector if you feel unsafe and unsecured in today’s technology. From hidden camera and hidden microphone. So, this app hidden camera finder will help you to find hidden camera and hidde"
+    },
+    {
+     "name": "Cam Detector App：Home Security",
+     "dev": "App Nexus",
+     "ratings": 15926,
+     "desc": "This is a secure application that scans local network cameras, connects to them, and plays live camera feeds in real-time.\n\nAre you concerned about personal privacy and want to ensure the security of "
+    },
+    {
+     "name": "Hidden Camera Detector FindSpy",
+     "dev": "Kain Suite Pte. Ltd.",
+     "ratings": 4076,
+     "desc": "Protect your privacy and stay secure with the Camera Detector app.\nThis app allows you to detect suspicious surveillance devices—such as unauthorized cameras, audio bugs, listening tools, or other cov"
+    },
+    {
+     "name": "Bug Cam Detector - Detect Pro",
+     "dev": "Jayleen Logan",
+     "ratings": 11,
+     "desc": "Public spaces like cafes, airports, and shopping malls are hubs of connectivity — but they can also pose privacy risks. With so many devices around, it’s easy for unknown connections or concealed elec"
+    },
+    {
+     "name": "Spy Camera Detector & Scanner",
+     "dev": "Traffic Factory LTD",
+     "ratings": 2030,
+     "desc": "Protect your privacy with Spy Camera Detector & Scanner, the ultimate tool to detect hidden cameras and suspicious devices. Whether you're in a hotel, dressing room, or any unfamiliar space, our app e"
+    },
+    {
+     "name": "Hidden Camera Detector: Finder",
+     "dev": "CRYPTO-MEDIA-NFT-SMM",
+     "ratings": 1918,
+     "desc": "Find hidden cameras in 10 seconds | Block spy devices |  Stay 100% private\nHidden Camera Detector - your digital bodyguard!\nEasily track your Bluetooth headphones, speakers, tablets, phones, and fitne"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "refrigerant pt chart",
+   "top": [
+    {
+     "name": "Ref Tools",
+     "dev": "Danfoss A/S",
+     "ratings": 52,
+     "desc": "Get the guidance, support, information, and tools you need—on the job and in the field. Ref Tools is a free, powerful app that contains essential tools every HVACR technician needs in their digital to"
+    },
+    {
+     "name": "HVACR Check & Charge",
+     "dev": "Copeland LP",
+     "ratings": 17332,
+     "desc": "Instant mobile refrigerant charge calculator for HVACR applications.\n\nThe HVACR Check & Charge™ mobile app from Copeland Climate Technologies provides an on-site refrigerant charge calculator for air "
+    },
+    {
+     "name": "P-T Calculator",
+     "dev": "National Refrigerants Inc.",
+     "ratings": 52,
+     "desc": "This comprehensive Pressure/Temperature calculation tool from National Refrigerants provides several unique features designed to make the HVAC/R technician’s job easier. This app can calculate a simpl"
+    },
+    {
+     "name": "Honeywell PT Chart",
+     "dev": "Honeywell International, Inc.",
+     "ratings": 19,
+     "desc": "HVAC mechanics have a new option when it comes to the standard paper pressure-temperature (PT) chart they currently carry. Honeywell offers a colorful display in which users can select a refrigerant a"
+    },
+    {
+     "name": "BITZER REFRIGERANT RULER",
+     "dev": "BITZER SE",
+     "ratings": 1124,
+     "desc": "The BITZER REFRIGERANT RULER enables easy and fast determination of refrigerant data. The app contains all common refrigerants, including key fluid properties, safety group information, global warming"
+    },
+    {
+     "name": "HVAC PT Chart",
+     "dev": "Carmel Software Corporation",
+     "ratings": 8,
+     "desc": "HVAC PT Chart is an electronic pressure temperature calculator that allows HVAC technicians and contractors to quickly look up the temperature and corresponding pressure for 100+ common HVAC refrigera"
+    },
+    {
+     "name": "Chemours PT Calc",
+     "dev": "The Chemours Company",
+     "ratings": 13,
+     "desc": "We’ve taken the traditional paper P/T chart you’ve relied on for so many years and adapted it for the technology of today.  The Chemours Pressure-Temperature calculator mobile app gives HVACR service "
+    },
+    {
+     "name": "Copeland PT Pro",
+     "dev": "Copeland LP",
+     "ratings": 7,
+     "desc": "Copeland PT Pro(TM) application provides on-the-go access to pressure and temperature conversions. Select a refrigerant and enter a temperature (in C or F) and see what a saturated pressure (in Bar or"
+    },
+    {
+     "name": "Forane® Refrigerants Tool Belt",
+     "dev": "Arkema Inc.",
+     "ratings": 11,
+     "desc": "The Forane® Refrigerants Tool Belt® is an essential aid for busy refrigeration and AC professionals working in the HVACR field. Forane® Refrigerants Tool Belt® provides electronic cross-unit PT charts"
+    },
+    {
+     "name": "PT Chart Refrigerants EU",
+     "dev": "Honeywell International, Inc.",
+     "ratings": 3,
+     "desc": "HVAC mechanics have a new option when it comes to the standard paper pressure-temperature (PT) chart they currently carry. Honeywell offers a colorful display in which users can select a refrigerant a"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "ultrasound anatomy",
+   "top": [
+    {
+     "name": "Ultrasound Anatomy Atlas",
+     "dev": "HVALABS, LLC",
+     "ratings": 3,
+     "desc": "The anatomy atlas built for ultrasound.\n244 structures. 12 regions. Real scans paired with detailed diagrams. All in your pocket.\n\nWHAT YOU GET\n\n244 Anatomy Structures: Detailed diagrams for precise l"
+    },
+    {
+     "name": "Scanbooster Ultrasound Sim",
+     "dev": "Scanbooster UG (haftungsbeschraenkt)",
+     "ratings": 334,
+     "desc": "Start learning sonography today! Many different cases and pathologies. An ever expanding library of new patients for you to practice with. Learn the correct ultrasound probe movements with our scan tu"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RV"
+    },
+    {
+     "name": "Ultrasound Guidance",
+     "dev": "Ultrasound Guidance LLC",
+     "ratings": 2,
+     "desc": "This is the companion app to Ultrasound Guidance, the leading modern medical ultrasound educational platform."
+    },
+    {
+     "name": "SonoBuddy-Ultrasound Reference",
+     "dev": "anthony minaya",
+     "ratings": 2,
+     "desc": "SonoBuddy is a fast, practical reference designed for sonographers, ultrasound students, and clinicians who need reliable information on the go.\n\nWhether you are scanning, studying, or reviewing cases"
+    },
+    {
+     "name": "MSK Sono: Ultrasound Guide",
+     "dev": "The Bold Apps",
+     "ratings": 5,
+     "desc": "MSK Sono Ultrasound Guide - Master musculoskeletal ultrasound with the ultimate point-of-care reference app for doctors, radiologists, sports medicine physicians, physiotherapists, anesthesiologists, "
+    },
+    {
+     "name": "TeachMe Anatomy: 3D Human Body",
+     "dev": "TeachMeSeries Limited",
+     "ratings": 2637,
+     "desc": "Teach Me Anatomy provides students, doctors, and health professionals with the world’s most comprehensive anatomy learning platform. Includes integrated textbook, 3D anatomy models and a bank of over "
+    },
+    {
+     "name": "3D Anatomy: Human Body Atlas",
+     "dev": "Thanh Mai",
+     "ratings": 0,
+     "desc": "See every bone, muscle, and nerve in interactive 3D - now with AR.\nWhether you are a medical student, nursing student, or simply curious about the human body, 3D Anatomy gives you a complete atlas in "
+    },
+    {
+     "name": "SonoSim",
+     "dev": "SonoSim",
+     "ratings": 8,
+     "desc": "The SonoSim App, available exclusively to SonoSim members, provides access to critical ultrasound knowledge quickly - both on- and offline. Get access to ultrasound education, imaging protocols, and s"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "welding heat input calculator",
+   "top": [
+    {
+     "name": "Welding Heat Input Calculator",
+     "dev": "Shanghai Sheyuan Network Technology Co., Ltd.",
+     "ratings": 0,
+     "desc": "Welding Heat Input Calculator is a focused engineering utility for welding procedure qualification and production control. Enter arc voltage, current, travel speed, and thermal efficiency to calculate"
+    },
+    {
+     "name": "HII-NNS Weld Heat Calculator",
+     "dev": "Huntington Ingalls",
+     "ratings": 0,
+     "desc": "Using simple inputs about the attributes of a weld - Amperage, Voltage, Weld Length, Arc Time - this App will calculate the heat input (Joules) of the weld."
+    },
+    {
+     "name": "Heat Input",
+     "dev": "FRODE SUNDE HALRYNJO",
+     "ratings": 0,
+     "desc": "Key Features: \nCalculation as heat input or arc energy, \nOptional pass data: filler, gas, polarity etc.\nDocumentation sent directly to your computer."
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Fabora: Steel & Metal Tools",
+     "dev": "jason bennett",
+     "ratings": 8,
+     "desc": "Fabora puts 27 fabrication and welding tools in one app: steel and metal weight, weld settings and a weld fault finder, a rebar calculator, fixed ladder and ship ladder design, stair stringers, steel "
+    },
+    {
+     "name": "McCalc Fusion Calculator",
+     "dev": "McElroy Manufacturing, Inc.",
+     "ratings": 18,
+     "desc": "The McCalc Fusion Pressure Calculator is designed to help you quickly find the correct fusion pressure for your job.\n\nTo properly heat-fuse polyethylene pipe, the fusion pressure must be adjusted so t"
+    },
+    {
+     "name": "G3 - Heat Input Calculator",
+     "dev": "G3 Inspection Solutions Ltd.",
+     "ratings": 0,
+     "desc": "If you calculate heat input in the field, you already know the problem. Online calculators are awkward on a job site, spreadsheets are easy to break, and manual calculations take time you do not have "
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "SSAB WeldCalc",
+     "dev": "SSAB AB",
+     "ratings": 5,
+     "desc": "The SSAB WeldCalc app is a simplified version of the advanced SSAB WeldCalc desktop pro version.\n \nBased on the welding method, the welding joint, steel grades and thicknesses, it gives you the result"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "dermatology atlas",
+   "top": [
+    {
+     "name": "Fitzpatrick's Color Atlas",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 30,
+     "desc": "\"\"Try before you buy\"\" - Download the FREE App, which includes sample content. In-App Purchase is required to unlock all content. \n\nFitzpatrick's Color Atlas and Synopsis of Clinical Dermatology, 9th "
+    },
+    {
+     "name": "Miiskin: Rx Dermatology Visits",
+     "dev": "Miiskin",
+     "ratings": 1733,
+     "desc": "CONSULT AN ONLINE DERMATOLOGIST VIA THE MIISKIN APP\n- Choose a board-certified dermatologist in your state\n- Popular for acne, hair loss, melasma and anti-aging\n- Ensure continuity of dermatology care"
+    },
+    {
+     "name": "Dermatology First Derm",
+     "dev": "iDoc24 Inc",
+     "ratings": 423,
+     "desc": "Dermatology online: First Derm - Quickly connects you to a Dermatologist. This is not artificial intelligence (AI) or a machine learning (ML) app. But human board certified dermatologists with more th"
+    },
+    {
+     "name": "LaserAway Mobile",
+     "dev": "LaserAway",
+     "ratings": 3065,
+     "desc": "LaserAway is the nation’s leader in aesthetic dermatology, with over 3 million treatments performed at locations across the country. Founded in 2006, we’ve committed almost two decades to helping peop"
+    },
+    {
+     "name": "Al Skin Scanner: mole, rash id",
+     "dev": "SWIFTTOUCH APPS LTD",
+     "ratings": 601,
+     "desc": "AI Skin Scanner – Your Comprehensive Skin Partner\n\nAI Skin Scanner combines advanced AI-powered photo analysis with user-friendly features to help you monitor, understand, and care for your skin. From"
+    },
+    {
+     "name": "Musely",
+     "dev": "Trusper, Inc.",
+     "ratings": 23816,
+     "desc": "Musely provides skincare medical treatments through technology. Musely enables the best dermatologists and pharmacists to deliver and administer medical treatments online for both skin conditions and "
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

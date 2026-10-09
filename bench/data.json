@@ -704,6 +704,46 @@
    "term": "joint pain tracker",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "machinist jobs near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "welder jobs hiring",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "farm simulator",
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "term": "nurse simulator game",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "miller electric",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "brightside dental clinic",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "torque spec chart",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "first aid quiz",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -20476,6 +20516,51 @@
     "name": "Daily Calm Meditation Stories",
     "category": "Health & Fitness",
     "desc": "New guided sleep stories and meditations every week."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Weld Pass Tracker",
+    "category": "Business",
+    "desc": "Log welder qualifications, WPS and continuity reminders for your shop."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Drug Interaction Reference",
+    "category": "Medical",
+    "desc": "Searchable database of drug monographs and interactions for clinicians."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Doc AI",
+    "category": "Health & Fitness",
+    "desc": "Chat with an AI assistant powered by GPT that answers your symptom questions."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Trucker Tycoon",
+    "category": "Games",
+    "desc": "Build your trucking empire in this idle simulation game with levels."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Mindfulness Audio",
+    "category": "Health & Fitness",
+    "desc": "Guided meditation sessions and sleep stories, new episodes weekly."
    },
    "label": "content",
    "split": "dev"

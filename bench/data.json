@@ -644,6 +644,36 @@
    "term": "sailquiz: sailing exam prep",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "wire gauge ampacity chart",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "cna practice test",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "spotify",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "electrician jobs near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "smile dental clinic downtown",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "tractor simulator game",
+   "label": "game",
+   "split": "test"
   }
  ],
  "brand": [

@@ -20899,6 +20899,46 @@
    "note": "Bu fikir benim işimle ve ilgi alanımla alakasız, sadece oyun",
    "label": "Alakasız",
    "split": "test"
+  },
+  {
+   "note": "pazar çok doygun, ilk üç app'in her biri yüz binlerce yoruma sahip",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "bu kategoride Google ve Apple'ın kendi ücretsiz app'leri hâkim, girmek boşuna",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "az önce reddettiğim kartın aynısı, sadece ismi farklı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "bu app ile bir önceki liste öğesi birebir aynı işi yapıyor, farkı yok",
+   "label": "Çok benzer",
+   "split": "train"
+  },
+  {
+   "note": "kullanıcılar bunun için ödeme yapmaz, sistem ayarlarında zaten bedava var",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "kayıt ve ödeme altyapısı olan canlı bir sosyal ağ kurmak gerekir, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Apple, ilaç dozu hesaplayan ve tedavi öneren app'i tıbbi onay olmadan reddeder",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "app 2017'den kalma, son güncelleme yok, ekran görüntüleri düşük çözünürlüklü",
+   "label": "Kalitesiz / eski",
+   "split": "test"
   }
  ],
  "kind": [

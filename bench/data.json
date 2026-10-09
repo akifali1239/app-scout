@@ -18174,6 +18174,36 @@
    "app": "Flashcards for memorizing the periodic table of elements.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Estimates a child's acetaminophen dose from their weight and tells parents how much to give.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Scans a rash with the camera and diagnoses whether it is eczema or psoriasis.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Lets users bet real money on live football matches.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Timer for counting seconds between contractions.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Quiz app for memorizing state capitals.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Unit converter for cooking measurements like cups to grams.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -19798,6 +19828,51 @@
     "desc": "Luna: Physical therapy, delivered Get personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
    },
    "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Resistor Color Code Calculator",
+    "category": "Utilities",
+    "desc": "Enter the color bands and get the resistance value instantly."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pharmacology Drug Guide",
+    "category": "Medical",
+    "desc": "Searchable reference of drug classes, doses and interactions."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Tile Match Puzzle Adventure",
+    "category": "Games",
+    "desc": "Match tiles, beat levels and earn daily rewards."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask AI Chat Assistant",
+    "category": "Productivity",
+    "desc": "Chat with GPT-powered AI to write emails and answer any question."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Daily Calm Meditation Stories",
+    "category": "Health & Fitness",
+    "desc": "New guided sleep stories and meditations every week."
+   },
+   "label": "content",
    "split": "dev"
   }
  ]

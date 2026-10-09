@@ -15171,6 +15171,519 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "craft chiropractic center pc",
+   "top": [
+    {
+     "name": "Craft Chiropractic",
+     "dev": "CRAFT CHIROPRACTIC CENTER PC",
+     "ratings": 2,
+     "desc": "Craft Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as:\n\nRequesting an Appointment\n\nLoyalty Reward"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Norview Family Chiropractic",
+     "dev": "NORVIEW FAMILY CHIROPRACTIC, PC",
+     "ratings": 13,
+     "desc": "Norview Family Chiropractic's new app provides unique solutions for patients to help them in their care-plan. Our free app provides various service offerings such as\n- Requesting an Appointment\n- Loya"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Sword Health: AI Care",
+     "dev": "Sword Health, Inc",
+     "ratings": 54420,
+     "desc": "Access best-in-class AI care from the comfort of home and break the cycle of pain and discomfort with Sword Health. Sword Health combines clinical expertise and AI care to support pain recovery, healt"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "chiropractic gs 【公式アプリ】",
+   "top": [
+    {
+     "name": "CHIROPRACTIC GS 【公式アプリ】",
+     "dev": "CHIROPRACTIC GS",
+     "ratings": 0,
+     "desc": "GSの公式アプリをリリースしました！\nこのアプリでは、GSの最新情報の受け取りや便利な機能を使う事ができます。\n\n【アプリで出来ること】\n本アプリを利用して以下のことが行えます。\n\n1.最新情報をチェック！\n　GSのサービス内容が確認できます。\n　また、お店からメッセージが届くので、いつでも最新の情報がご確認いただけます。\n\n2.マイページで情報を確認！\n　GSのご利用状況が確認できます。\n\n3."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "dental hygiene seminars inc.",
+   "top": [
+    {
+     "name": "DHS Board Review",
+     "dev": "Dental Hygiene Seminars Inc.",
+     "ratings": 34,
+     "desc": "Confidence grows one answer at a time. Build yours with the DHS Board Review App. \n\nJoin the thousands of dental hygiene students who’ve passed their NBDHE with confidence. DHS is the trusted leader i"
+    },
+    {
+     "name": "Dental Hygiene Academy Seminar",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 22,
+     "desc": "This app is exclusively for students who have attended a Dental Hygiene Academy Board Review seminar at www.DentalHygieneAcademy.com\n\nPlease be sure you know your Dental Hygiene Academy pin number to "
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "Tend Dental",
+     "dev": "Noho Dental, Inc",
+     "ratings": 3904,
+     "desc": "Tend makes going to the dentist an experience you’ll actually look forward to. With online booking, transparent pricing, beautiful studios, and a top-rated clinical team, we care for the whole you, no"
+    },
+    {
+     "name": "Teero - Dental Staffing",
+     "dev": "Teero Inc",
+     "ratings": 3310,
+     "desc": "W-2 flexibility for dental hygienists. Work when you want, where you want, with complete transparency into every office.\n\nNo commitments. No fees. Just straightforward shifts with real employee benefi"
+    },
+    {
+     "name": "GoTu: #1 in Dental Talent",
+     "dev": "TempMee Hygienist Inc.",
+     "ratings": 2437,
+     "desc": "GoTu is the top dental marketplace that effortlessly connects dental professionals with dental offices in need. Whether you’re a dental hygienist, dental assistant, associate dentist, or front office "
+    },
+    {
+     "name": "Dentist fear - Doctor games",
+     "dev": "Les Placements R.A. Inc.",
+     "ratings": 53639,
+     "desc": "Going to the dentist is something that not many people like to do, although to have a nice clean smile it has to be done. With the Dentist Fear dentist game you can have fun with cleaning your patient"
+    },
+    {
+     "name": "Bento Dental",
+     "dev": "Cambalt Solutions Inc.",
+     "ratings": 73,
+     "desc": "Bento is a modern alternative to traditional dental insurance. A technology platform that enables employers, groups, associations, dentists, and individuals to offer and or receive access to affordabl"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Boards",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "Stressed about the NBDHE Dental Hygiene Boards? You're not alone.\n\nFour years of dental hygiene school. Hundreds of clinical hours. All of it comes down to one exam.\n\nJoin 20,000+ dental hygiene stude"
+    },
+    {
+     "name": "United Concordia Dental Mobile",
+     "dev": "United Concordia Dental",
+     "ratings": 366,
+     "desc": "The United Concordia Dental Mobile app is designed to help make our members’ journeys toward oral health and wellness much easier and more enjoyable.\n\nNew features include: \n• My Dental Benefits membe"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "dental hygiene academy, inc.",
+   "top": [
+    {
+     "name": "Dental Hygiene Academy Seminar",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 22,
+     "desc": "This app is exclusively for students who have attended a Dental Hygiene Academy Board Review seminar at www.DentalHygieneAcademy.com\n\nPlease be sure you know your Dental Hygiene Academy pin number to "
+    },
+    {
+     "name": "Dental Hygiene Academy - Case Studies for Board Review Free",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 3,
+     "desc": "DENTAL HYGIENE ACADEMY, INC.\nCase Study Board Review for NBDHE (Hygiene), and NBDE (Dental) exams.  Brought to you by AndyRDH, ValerieRDH and various dental hygiene faculty nationwide.  \n\nWith this ap"
+    },
+    {
+     "name": "AndyRDH #1 NBDHE App",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 4,
+     "desc": "The AndyRDH app is the worlds most used and highest rated mobile study tool designed to help students prepare for the National Board Dental Hygiene Examination (NBDHE), as well as the NBDE (Dental) an"
+    },
+    {
+     "name": "Tend Dental",
+     "dev": "Noho Dental, Inc",
+     "ratings": 3904,
+     "desc": "Tend makes going to the dentist an experience you’ll actually look forward to. With online booking, transparent pricing, beautiful studios, and a top-rated clinical team, we care for the whole you, no"
+    },
+    {
+     "name": "Teero - Dental Staffing",
+     "dev": "Teero Inc",
+     "ratings": 3310,
+     "desc": "W-2 flexibility for dental hygienists. Work when you want, where you want, with complete transparency into every office.\n\nNo commitments. No fees. Just straightforward shifts with real employee benefi"
+    },
+    {
+     "name": "Toothio Pro - Dental Jobs App",
+     "dev": "Toothio",
+     "ratings": 760,
+     "desc": "Toothio is a technology platform that connects dental offices to high quality dental professionals, on-demand, while allowing dental professionals to pick up shifts that fits their schedules.\n\nFOR DEN"
+    },
+    {
+     "name": "GoTu: #1 in Dental Talent",
+     "dev": "TempMee Hygienist Inc.",
+     "ratings": 2437,
+     "desc": "GoTu is the top dental marketplace that effortlessly connects dental professionals with dental offices in need. Whether you’re a dental hygienist, dental assistant, associate dentist, or front office "
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "aphasia speech therapy: omilía",
+   "top": [
+    {
+     "name": "Language Therapy Lite",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1314,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    },
+    {
+     "name": "Aphasia Speech Therapy: Omilía",
+     "dev": "Happy Path Apps, LLC",
+     "ratings": 83,
+     "desc": "A user friendly and engaging speech therapy app designed for people struggling with aphasia.  Omilía offers fun and simple games that target both receptive and expressive language centers of the brain"
+    },
+    {
+     "name": "Language Therapy 4-in-1",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1941,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    },
+    {
+     "name": "Constant Therapy: Brain+Speech",
+     "dev": "Constant Therapy, Inc.",
+     "ratings": 4102,
+     "desc": "Constant Therapy is an award-winning, science-based exercise app for cognitive, language, and speech practice — built for people living with aphasia, apraxia, dementia, stroke, traumatic brain injury "
+    },
+    {
+     "name": "Apraxia Therapy",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 775,
+     "desc": "Tackle apraxia and aphasia head-on with a powerful speech therapy app that uses video to help people speak again. Stroke survivor, family member, or speech therapist? Get an app that can help you over"
+    },
+    {
+     "name": "Apraxia Therapy Lite",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 165,
+     "desc": "Tackle apraxia and aphasia head-on with a powerful speech therapy app that uses video to help people speak again. Get an app that can help you overcome the frustration and helplessness of not being ab"
+    },
+    {
+     "name": "Comprehension Therapy",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 139,
+     "desc": "Comprehension Therapy is a professional speech therapy app that targets auditory and reading comprehension of single words in 5 languages. \n\n*****Enlightening! \n***** Superb! \n***** A Wonderful Tool! "
+    },
+    {
+     "name": "Speak My Words-Text To Speech",
+     "dev": "Parth Pandya",
+     "ratings": 151,
+     "desc": "Who are unable to speak, This application will give you a voice. Sounds interesting?\n\nYes, There are many patients who cannot speak because of throat related diseases.\nLike,\nSpeech Impaired / Mute\nAph"
+    },
+    {
+     "name": "SmallTalk Aphasia Female",
+     "dev": "Lingraphicare, Inc.",
+     "ratings": 6,
+     "desc": "SmallTalk Aphasia Female provides a library of pictures and videos that you can tap to speak in a female voice.  It comes with dozens of common words and phrases you can use in everyday situations lik"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "speech therapy - mio for kids",
+   "top": [
+    {
+     "name": "Speech Therapy - Mio For Kids",
+     "dev": "Mioris LTD",
+     "ratings": 3399,
+     "desc": "MIO is an educational app for children aged 1 to 8, created by educators and speech therapists. It contributes to diversified child development in a fun, fascinating, and professional manner.\n\nPLAYFUL"
+    },
+    {
+     "name": "Speech Blubs: Language Therapy",
+     "dev": "Blub Blub Inc.",
+     "ratings": 57079,
+     "desc": "WHAT DOES SPEECH BLUBS OFFER?\n\nSpeech Blubs is a voice-controlled speech therapy app designed to help your child learn new sounds and words, and to practice speaking in a stimulating, educational envi"
+    },
+    {
+     "name": "Sago Mini First Words: Kids 1+",
+     "dev": "Piknik",
+     "ratings": 2731,
+     "desc": "THE BEST SPEECH COMPANION FOR KIDS\nSago Mini First Words is the most playful way to support your little one’s speech development! Discover thoughtfully designed learning games developed with the guida"
+    },
+    {
+     "name": "Language Therapy 4-in-1",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1941,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    },
+    {
+     "name": "Language Therapy Lite",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1314,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    },
+    {
+     "name": "StopStutter Speech Therapy",
+     "dev": "World Stop Stuttering Association",
+     "ratings": 120,
+     "desc": "Stop Stuttering, Love Speaking, and Convert Stuttering into a Blessing.  Our mobile app will enable you to break free from the chains of stuttering and live the fluent life you deserve. Join 100s of E"
+    },
+    {
+     "name": "ArtikPix",
+     "dev": "Expressive Solutions LLC",
+     "ratings": 3,
+     "desc": "ArtikPix is an engaging articulation app with flashcard and matching activities for children with speech sound delays. Among the many features in ArtikPix, group scoring is available with an unlimited"
+    },
+    {
+     "name": "Otsimo | Speech Therapy SLP",
+     "dev": "Otsimo",
+     "ratings": 180,
+     "desc": "From award-winning creators! Otsimo | Speech Therapy SLP is proud to be the only Speech Therapy app that uses voice and speech recognition technology and machine learning; it understands exactly what "
+    },
+    {
+     "name": "Speech Start: Language Therapy",
+     "dev": "Gliden Ltd",
+     "ratings": 315,
+     "desc": "Is your child meeting their language milestones?\n\nTake the guesswork out of speech and language development with our comprehensive, child-friendly program! \nMore than just an assessment tool, our app "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "occupational therapy assistant",
+   "top": [
+    {
+     "name": "COTA OT Assistant Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "The Certified Occupational Therapy Assistant (COTA) credential from the NBCOT certifies OT assistants to deliver client-centered care under occupational therapist supervision. This app helps you pass "
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 1,
+     "desc": "Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://forwaelade.web.app/OccupationalTherapy/privacy-policy\n\n\nMaster Occupational Therapy with Fun and"
+    },
+    {
+     "name": "Occupational Therapy Assistant",
+     "dev": "Medical Relevant Inc",
+     "ratings": 0,
+     "desc": "Prepare for your Therapy Assistant certification and professional exams with Therapy Assistant Exam Prep, a complete mobile study solution for aspiring and practicing therapy professionals.\n\nThis app "
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Luna Physical Therapy",
+     "dev": "Luna Care, Inc.",
+     "ratings": 1866,
+     "desc": "Luna: Physical therapy, delivered\nGet personalized physical therapy in the comfort of your home with Luna. Book appointments with licensed, local physical therapists who bring all necessary equipment "
+    },
+    {
+     "name": "ShiftKey - PRN Healthcare Jobs",
+     "dev": "ShiftKey, LLC",
+     "ratings": 27396,
+     "desc": "ShiftKey gives you the FREEDOM to work when and where you want. Open up your world - and connect with available nursing, therapy, and dental shifts near you*.\n\nShiftKey connects CNAs, LPNs, RNs, RTs, "
+    },
+    {
+     "name": "Medbridge",
+     "dev": "MedBridge Education LLC",
+     "ratings": 13291,
+     "desc": "Meet the new Medbridge on iOS! Log in with your Medbridge account to view courses.\n\nMedbridge provides Physical Therapists, Occupational Therapists, Speech-Language Pathologists, Athletic Trainers, Nu"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "nursing drug guide",
+   "top": [
+    {
+     "name": "Davis Drug Guide For Nurses",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 8780,
+     "desc": "The medical information that nurses need - when, where, and how they need it!\n\nDavis's Drug Guide for Nurses, Twentieth Edition, always puts safety first, emphasizing the medical information nurses ne"
+    },
+    {
+     "name": "Davis's Drug Guide - Nurses",
+     "dev": "Unbound Medicine, Inc.",
+     "ratings": 9236,
+     "desc": "Davis’s Drug Guide for Nurses delivers everything you need to administer medications safely across the lifespan.\n\nIncludes EXCLUSIVE DrugGuide.com access, regular updates, dosing calculators, Drug of "
+    },
+    {
+     "name": "Nursing Drug Handbook - NDH",
+     "dev": "Unbound Medicine, Inc.",
+     "ratings": 183,
+     "desc": "Nursing Drug Handbook delivers everything you need to administer medications safely and effectively.\n\nIncludes 300+ pharmacology NCLEX questions, US and Canadian brands, and more!\n\nNursing Drug Handbo"
+    },
+    {
+     "name": "Nurse's Drug Handbook",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 1420,
+     "desc": "Now the Jones & Bartlett Learning Nurse’s Drug Handbook goes wherever you do with an affordably priced app. It provides:\n \n• Accurate, timely facts on hundreds of drugs from abaloparatide to Zyvox\n\n• "
+    },
+    {
+     "name": "Drugs.com Medication Guide",
+     "dev": "Drugs.com",
+     "ratings": 17209,
+     "desc": "Manage meds, identify pills, check interactions, compare prices and more. Discover detailed, peer-reviewed info on over 24,000 prescription drugs, OTC meds, and natural products all in one place.\n\nKey"
+    },
+    {
+     "name": "Davis’s Drug Guide for Nurses",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 729,
+     "desc": "\"Try before you buy\" - Download the FREE App, which includes sample content. In-App purchase required to unlock all content.\n\nDavis’s Drug Guide for Nurses, 20th Edition is the most trusted drug refer"
+    },
+    {
+     "name": "Nursing Central",
+     "dev": "Unbound Medicine, Inc.",
+     "ratings": 10470,
+     "desc": "Five best-selling nursing apps combine to form the premier, integrated clinical nursing solution. Use valuable tools to find and apply the information you need. Purchase includes iOS app, macOS app, a"
+    },
+    {
+     "name": "epocrates: Drug Info & Pill ID",
+     "dev": "Epocrates",
+     "ratings": 7213,
+     "desc": "Make safer, faster clinical decisions – anywhere you practice.\n\nepocrates is the trusted clinical reference app for U.S. physicians (MDs/DOs), nurse practitioners (NPs), physician associates (PAs), ph"
+    },
+    {
+     "name": "Nurse’s Drug Handbook",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 54,
+     "desc": "\"\"Try before you buy\"\" - Download the FREE App, which includes sample content. In-App Purchase is required to unlock all content. \n\nThe 2026 Nurse’s Drug Handbook is a practical, comprehensive drug re"
+    },
+    {
+     "name": "Mosby’s Nursing Drug Reference",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 165,
+     "desc": "Try Before You Buy – Download the FREE App, which includes sample content. An in-app purchase is required to unlock all content.\n\nBased on the 40th print edition, Mosby’s 2027 Nursing Drug Reference g"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "hair color formula",
+   "top": [
+    {
+     "name": "Color Coach Hair Formulation",
+     "dev": "Color Coach LLC",
+     "ratings": 18,
+     "desc": "Color coach App will help save you time and money ! \nThis  app will formulate and translate hair color across many brands. By using the science of color theory, this app will generate the perfect form"
+    },
+    {
+     "name": "Redken Style Station",
+     "dev": "L'Oreal",
+     "ratings": 1145,
+     "desc": "Redken Style Station: Your Ultimate Hair Color Partner, Behind the Chair! \n\nElevate your artistry and empower your clients with Redken Style Station – the essential mobile companion for every colorist"
+    },
+    {
+     "name": "Blendsor: Hair Color Formulas",
+     "dev": "Oscar Cortijo Villanueva",
+     "ratings": 0,
+     "desc": "The color is in your head.\nBut between the idea and the formulation, there are too many variables.\nAnd any one of them can ruin the result.\n\nBlendsor is your AI color assistant.\nIt handles what you do"
+    },
+    {
+     "name": "Charm: Save Formulas & Clients",
+     "dev": "UAB COLOURIST GUIDE",
+     "ratings": 71,
+     "desc": "Staying organized for a busy stylist is hard, but not anymore! With Charm, you can manage your client information, hair color formulas, hairstyle photos, and more - all in one place. This App saves yo"
+    },
+    {
+     "name": "The Color System",
+     "dev": "Robinsage",
+     "ratings": 21,
+     "desc": "Paul Mitchell® and Paul Mitchell Schools present THE COLOR SYSTEM.  Everything You Need to Become an Expert Hair Colorist!  Designed to reach the multiple intelligences of all viewers.\n\nTHE COLOR SYST"
+    },
+    {
+     "name": "ColorBowl: Hair Formulas",
+     "dev": "TECK SOON NG",
+     "ratings": 0,
+     "desc": "ColorBowl is a local-first hair formula book and cost lab for professional hair colorists, salon colorists, booth renters, and independent stylists.\n\nKeep clients, visits, zone-level formulas, product"
+    },
+    {
+     "name": "Gloss: Save Formulas & Clients",
+     "dev": "Rentroom Inc.",
+     "ratings": 623,
+     "desc": "For hair colorists and stylists who are tired of index cards and makeshift salon appointment solutions, Gloss is the simple way to save hair color formulas and client info. Unlike other apps, it is ea"
+    },
+    {
+     "name": "Color Master Pro Hair Formulas",
+     "dev": "Pasha Samadov",
+     "ratings": 0,
+     "desc": "ColorMaster Pro is a professional tool for colorists who want speed, precision, and full control of every client case.\n\nWhy colorists use ColorMaster Pro:\n- Work faster and more professionally\n- Keep "
+    },
+    {
+     "name": "House of Color by Schwarzkopf",
+     "dev": "Henkel AG & Co. KGaA",
+     "ratings": 174,
+     "desc": "The House of Color by Schwarzkopf Professional was developed by colorists for colorists. It’s the perfect multi-functional assistant in your daily colour business.\nThe detailed client consultation hel"
+    },
+    {
+     "name": "HueBook: Hair Color Formulas",
+     "dev": "PURE INSIGHT TECHNOLOGY LTD",
+     "ratings": 0,
+     "desc": "Never ask, \"What did we mix last time?\" again.\n\nHueBook is a private, formula-first client book for professional hair colorists. Keep each client's color history, exact gram weights, processing time, "
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

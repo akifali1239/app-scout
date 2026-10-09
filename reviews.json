@@ -42,5 +42,9 @@
  "forklift, llc": {
   "verdict": "reject",
   "note": "Bir firmanın şirket adı (LLC); gerçek bir meslek ihtiyacı değil, kurumsal arama."
+ },
+ "guide to clinical midwifery": {
+  "verdict": "brand",
+  "note": "Bu bir kitabın/app'in kendi adı (ilk sonuç birebir aynı başlık), genel ihtiyaç değil; niş olarak kullanılamaz."
  }
 }

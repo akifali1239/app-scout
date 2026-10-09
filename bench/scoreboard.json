@@ -9,7 +9,7 @@
    "brier": 0.0598,
    "n": 114,
    "versions": 3,
-   "tried": 92,
+   "tried": 96,
    "test_errors": [
     [
      "subway surfers",
@@ -136,15 +136,15 @@
    "test_errors": []
   },
   "kind": {
-   "version": "v2",
-   "dev_acc": 0.9697,
+   "version": "v3",
+   "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9607,
+   "dev_obj": 0.9942,
    "test_obj": 1.0,
    "brier": 0.0,
    "n": 67,
-   "versions": 2,
-   "tried": 38,
+   "versions": 3,
+   "tried": 42,
    "test_errors": []
   },
   "note": {
@@ -156,7 +156,7 @@
    "brier": 0.0255,
    "n": 48,
    "versions": 2,
-   "tried": 22,
+   "tried": 26,
    "test_errors": [
     [
      "Aynı işi yapan 40 app var, ilk sayfa dolu",
@@ -3318,7 +3318,7 @@
    "n": 48
   }
  ],
- "updated": "2026-10-09T04:42:16+00:00",
+ "updated": "2026-10-09T05:41:41+00:00",
  "raw": {
   "intent": {
    "version": "v3",
@@ -3539,19 +3539,13 @@
    }
   },
   "kind": {
-   "version": "v2",
+   "version": "v3",
    "dev": {
     "n": 33,
-    "acc": 0.9697,
-    "brier": 0.018,
-    "obj": 0.9607,
-    "errors": [
-     [
-      "Find my Friends, Family Phone",
-      "service",
-      "utility"
-     ]
-    ]
+    "acc": 1.0,
+    "brier": 0.0115,
+    "obj": 0.9942,
+    "errors": []
    },
    "test": {
     "n": 34,
@@ -3591,5 +3585,5 @@
    }
   }
  },
- "fingerprint": "3ab4d8a572c8"
+ "fingerprint": "a55c6f97e348"
 }

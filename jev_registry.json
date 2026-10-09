@@ -173,7 +173,11 @@
     "9656485df633",
     "25297fb0e277",
     "894ee57a613b",
-    "64289b9371b1"
+    "64289b9371b1",
+    "1a474c59c1e8",
+    "b793eb227169",
+    "022270d9e078",
+    "f9a3ce647b19"
    ],
    "prev": null,
    "promoted_at": "2026-10-05T14:42:07+00:00"
@@ -507,7 +511,7 @@
   "kind": {
    "type": "choice",
    "prod": [
-    "v2"
+    "v3"
    ],
    "versions": {
     "v1": {
@@ -565,6 +569,62 @@
      "created": "2026-10-05T09:09:18+00:00",
      "dev_obj": 0.9812,
      "test_obj": 1.0
+    },
+    "v3": {
+     "instructions": "Which category best describes what `app` mainly is?",
+     "criteria": {
+      "utility": {
+       "description": "A single-purpose tool (scanner, meter, timer, tracker, converter, identifier, reminder) that works on the device",
+       "examples": [
+        "Color Pick Camera: HEX RGB: See the HEX code of the color you aim the camera at.",
+        "Zero: Fasting & Food Tracker: Fasting timer and nutrition tracker.",
+        "Stud Finder App: Wall Scanner: Before you drill, know what's behind the wall. Stud Finder uses your phone's built-in magnetometer to detect metal hidden in your walls — the nails and screws that mark a stud's edge, and the pipes, r",
+        "Blood Pressure Log: Record and chart daily blood pressure readings and export a report."
+       ]
+      },
+      "reference": {
+       "description": "Organised knowledge to look up or learn: guides, atlases, drug references, exam-prep question banks",
+       "examples": [
+        "Davis's Drug Guide: Monographs for 5,000+ drugs: dosing, interactions and nursing considerations.",
+        "Instant ECG - Mastery of EKG: Instant ECG was designed as an ECG / EKG / Electrocardiogram guide for physicians, nurses, paramedics and other health care professionals. It is an excellent learning tool as well as a quick reference"
+       ]
+      },
+      "content": {
+       "description": "Media to consume: video, music, radio, books, comics, daily verses, social feeds or news",
+       "examples": [
+        "Daily Bible Verse: A verse and a prayer every day in a calm feed.",
+        "Daily Stoic Quotes: A new Stoic quote and short reflection delivered every morning.",
+        "Daily Yoga Videos: Video classes and guided routines streamed by instructors.",
+        "Sommelier India: Sommelier India is India's premier wine magazine. Filled with news, features, wine profiles and stories about the culture surrounding wine, this bi-monthly (six issues in a 12 month subscription) is w"
+       ]
+      },
+      "game": {
+       "description": "A game to play",
+       "examples": [
+        "Truck Stop Racer: Race your truck across 40 levels and collect coins."
+       ]
+      },
+      "ai_wrapper": {
+       "description": "Its core is chatting with or generating text, images or playlists with AI",
+       "examples": [
+        "Music AI: Playlist Maker: Describe a mood and AI generates a Spotify playlist for you.",
+        "AI Photo Writer: Caption Bot: Generate captions and essays with GPT chat, powered by AI.",
+        "Ask AI Chat Assistant: Chat with GPT-powered AI to write emails and answer any question."
+       ]
+      },
+      "service": {
+       "description": "The app of a company, bank, employer benefit, marketplace or online account the user signs into",
+       "examples": [
+        "Uber Eats: Order food delivery from local restaurants.",
+        "Wells Fargo Mobile: Check balances, deposit checks and pay bills with your Wells Fargo accounts.",
+        "Hire a Local Electrician: Book vetted electricians near you and get same-day visits."
+       ]
+      }
+     },
+     "origin": "talimat#1 tanım#1 örnek×4",
+     "created": "2026-10-09T05:41:41+00:00",
+     "dev_obj": 0.9942,
+     "test_obj": 1.0
     }
    },
    "tried": [
@@ -605,10 +665,16 @@
     "5aa5270de078",
     "f4fc586578e3",
     "72229121cf7b",
-    "8ef73dcf005b"
+    "8ef73dcf005b",
+    "f13b84a98f61",
+    "7ca8ed90d42e",
+    "ac23d6ecc849",
+    "550c1ba50d93"
    ],
-   "prev": null,
-   "promoted_at": "2026-10-05T09:09:18+00:00"
+   "prev": [
+    "v2"
+   ],
+   "promoted_at": "2026-10-09T05:41:41+00:00"
   },
   "note": {
    "type": "choice",
@@ -673,11 +739,15 @@
     "a716652581f1",
     "70860ed2e98b",
     "d308fab140be",
-    "6b850ac8ed75"
+    "6b850ac8ed75",
+    "5081849ff58d",
+    "3adf101280b9",
+    "152c2205e238",
+    "6e1015cba654"
    ],
    "prev": null,
    "promoted_at": "2026-10-04T14:48:11+00:00"
   }
  },
- "rejudge_after": "2026-10-05T14:42:07+00:00"
+ "rejudge_after": "2026-10-09T05:41:41+00:00"
 }

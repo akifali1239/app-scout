@@ -485,3 +485,4 @@
 {"ts": "2026-10-09T05:41:41+00:00", "actor": "optimizer", "action": "promote", "cap": "kind", "candidate": "talimat#1 tanım#1 örnek×4", "from_version": "v2", "to_version": "v3", "dev": [0.9607, 0.9942], "test": [1.0, 1.0], "reason": "konsensüs: dev kazandı, test düşmedi, toplam doğruluk arttı, tekrar doğruladı"}
 {"ts": "2026-10-09T05:41:41+00:00", "actor": "optimizer", "action": "run", "calls": 503, "tokens": 462177, "cost_usd": 0.01941}
 {"ts": "2026-10-09T06:41:55+00:00", "actor": "optimizer", "action": "run", "calls": 719, "tokens": 598910, "cost_usd": 0.02515}
+{"ts": "2026-10-09T08:42:03+00:00", "actor": "optimizer", "action": "run", "calls": 727, "tokens": 609969, "cost_usd": 0.02562}

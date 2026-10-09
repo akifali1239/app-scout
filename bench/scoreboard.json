@@ -9,7 +9,7 @@
    "brier": 0.0643,
    "n": 121,
    "versions": 3,
-   "tried": 96,
+   "tried": 100,
    "test_errors": [
     [
      "subway surfers",
@@ -37,7 +37,7 @@
    "brier": 0.0533,
    "n": 190,
    "versions": 3,
-   "tried": 107,
+   "tried": 110,
    "test_errors": [
     [
      "pharmacy technician letter",
@@ -3502,7 +3502,7 @@
    "n": 48
   }
  ],
- "updated": "2026-10-09T08:42:03+00:00",
+ "updated": "2026-10-09T09:11:48+00:00",
  "raw": {
   "intent": {
    "version": "v3",

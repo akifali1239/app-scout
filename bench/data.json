@@ -14546,6 +14546,591 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "nutripol — dietitian & tracker",
+   "top": [
+    {
+     "name": "NutriPOL — Dietitian & Tracker",
+     "dev": "IMG Tarım Petrol Turizm San. Ve Tic. A.S",
+     "ratings": 0,
+     "desc": "Nutripol: Real Dietitians and Smart Calorie Tracking Together\n\nMeet Nutripol, your companion on the journey to a healthier life! Nutripol is a nutrition and lifestyle assistant that connects you with "
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Fay Nutrition Dietitians",
+     "dev": "Fay Health, Inc",
+     "ratings": 6993,
+     "desc": "At Fay, we know that health is not one-size-fits-all. Everyone is unique, with different bodies, goals, preferences and circumstances. Your nutrition care should be tailored to you and working for you"
+    },
+    {
+     "name": "Calorie Counter: Tap & Track",
+     "dev": "Trianvil Software d.o.o.",
+     "ratings": 1436,
+     "desc": "Tap & Track - Nutrition Reinvented.\n\nTrack calories, understand nutrition, and improve your wellbeing with the most advanced nutrition tracking experience on the App Store.\n\nTrusted by millions since "
+    },
+    {
+     "name": "Carbon - Macro Coach & Tracker",
+     "dev": "Reform LLC",
+     "ratings": 8091,
+     "desc": "Carbon Diet Coach is your nutrition solution for results that LAST. Whether your goal is to lose fat, build muscle, improve your metabolism, or simply maintain your weight, Carbon Diet Coach removes t"
+    },
+    {
+     "name": "Nutrisense: Glucose Tracker",
+     "dev": "Nutrisense Inc",
+     "ratings": 4317,
+     "desc": "Nutrisense: Enhance your glucose monitoring experience, log food and activities, personalized guidance from glucose-certified Registered Dietitians.\n\nTurn your body’s data into actionable steps for re"
+    },
+    {
+     "name": "Cronometer: Calorie Counter",
+     "dev": "Cronometer Software Inc",
+     "ratings": 98929,
+     "desc": "Cronometer is a powerful calorie counter, nutrition tracker, and food diary designed for accuracy. \nTrack calories, macros, fasting, and 95+ vitamins and minerals with one of the most trusted health a"
+    },
+    {
+     "name": "Foodvisor - AI Calorie Counter",
+     "dev": "Foodvisor",
+     "ratings": 17757,
+     "desc": "*** APP STORE EDITORS' CHOICE ***\n\nJoin over 15 million users who have transformed their lives with Foodvisor, the #1 nutrition app, supercharged with AI.\n\nOur users lose an average of 15.83 lb in 3 m"
+    },
+    {
+     "name": "SnapCalorie AI Calorie Counter",
+     "dev": "Perception Labs, Inc.",
+     "ratings": 6724,
+     "desc": "The fastest and most accurate way to track your food. SnapCalorie isn't another complicated calorie counter - just snap a photo or voice note, and get instant nutrition data in seconds.\n\nHOW IT WORKS\n"
+    },
+    {
+     "name": "Noom Weight Loss, Food Tracker",
+     "dev": "Noom, Inc.",
+     "ratings": 872742,
+     "desc": "Build healthy habits that last with Noom.\n\nNoom helps you eat better, move more, and feel more in control of your health – without the pressure or guilt.\n\nTrack steps. Log meals with AI. Scan your fac"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "vcely – beekeeping journal",
+   "top": [
+    {
+     "name": "VCELY – Beekeeping Journal",
+     "dev": "Code Creator, s.r.o.",
+     "ratings": 0,
+     "desc": "VCELY is a simple beekeeping journal for your pocket. Log inspections, honey harvests and feeding right at the hive – with a few taps, no long typing.\n\nQUICK NOTES\n• Shortcuts for common tasks: queen "
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "American Bee Journal",
+     "dev": "Dadant & Sons Inc",
+     "ratings": 26,
+     "desc": "The American Bee Journal is dedicated to providing information about Beekeeping to everyone from the individual who keep bees for a hobby to the commercial beekeeper with thousands of colonies. We are"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    },
+    {
+     "name": "Hive Logger: Beekeeping App",
+     "dev": "Appco LLC (USA)",
+     "ratings": 24,
+     "desc": "Log every hive inspection in 30 seconds or less using QR code scanning and Smart Voice Logs (Pro). Hive Logger keeps records, tasks and reminders organized across every hive and apiary, so you always "
+    },
+    {
+     "name": "Beekeeping for Dummies®",
+     "dev": "Expanded Apps",
+     "ratings": 1,
+     "desc": "Start beekeeping with confidence using the trusted Dummies guide—now a simple, mobile tool built for real life at the hive. Learn how to set up your hive, care for honey bees, and harvest honey with c"
+    },
+    {
+     "name": "MyApiary - A Beekeeping Tool",
+     "dev": "Erik Borgstrom",
+     "ratings": 0,
+     "desc": "MyApiary is a practical, no-nonsense beekeeping app built by a beekeeper who got tired of messy notebooks and scattered records.\nDocument everything the way you actually work\n\nSupported languages: SE-"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "framercalc: carpentry tools",
+   "top": [
+    {
+     "name": "FramerCalc: Carpentry Tools",
+     "dev": "德明 杨",
+     "ratings": 0,
+     "desc": "FramerCalc is a focused carpentry calculator for carpenters, framers, remodelers, builders, and serious DIY woodworkers.\n\nTurn measurements into clear results for stair stringers, common rafters, boar"
+    },
+    {
+     "name": "VEVOR Home Improvement Tools",
+     "dev": "VEVOR STORE INC",
+     "ratings": 5848,
+     "desc": "VEVOR is a one-stop shopping platform for home improvement and DIY needs. Millions of quality products including automotive tools, outdoor equipment, kitchen supplies, home decor and garden tools are "
+    },
+    {
+     "name": "Chippy Tools: Construction",
+     "dev": "Peth Pty Ltd",
+     "ratings": 906,
+     "desc": "Chippy Tools is the must-have calculator for carpenters and handy folks looking to simplify math on the job. Whether you're on your iPhone or iPad, Chippy Tools is for you. Its user-friendly design le"
+    },
+    {
+     "name": "WoodSense: Wood Plans & Guides",
+     "dev": "Next Vision Limited",
+     "ratings": 15599,
+     "desc": "Welcome to WoodSense: Craft & Identifier — your intelligent woodworking companion for identifying, restoring, and creating beautiful wooden furniture. Whether you’re a restorer, designer, or curious h"
+    },
+    {
+     "name": "Color Saw 3D",
+     "dev": "AI Games FZ",
+     "ratings": 74518,
+     "desc": "Ever wanted to do carpentry but like to keep your fingers intact?\nWith Color Saw, you can do both! \nShape your rough blocks into various shapes with all kinds of tools. \nCut and smash through countles"
+    },
+    {
+     "name": "Milwaukee® ONE-KEY™",
+     "dev": "MilwaukeeTool",
+     "ratings": 7707,
+     "desc": "Introducing ONE-KEY™, the first digital platform for tools and equipment.  Combining a free-to-use inventory program with the industry’s smartest tools, ONE-KEY™ provides a new level of control and ac"
+    },
+    {
+     "name": "Construction Master 5 Calc",
+     "dev": "Calculated Industries",
+     "ratings": 13284,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nIntroducing the Construction Master 5, an innovative feet-inch-fraction builder's calculator that "
+    },
+    {
+     "name": "Pros And Tools",
+     "dev": "Prohub Corp.",
+     "ratings": 2,
+     "desc": "Pros & Tools membership provides access to fully equipped carpentry workspaces therefore eliminating the need for traditional time-consuming shop maintenance, costly set up and rigid lease terms. \n​\nO"
+    },
+    {
+     "name": "AutoCAD",
+     "dev": "Autodesk Inc.",
+     "ratings": 6267,
+     "desc": "The official AutoCAD app. View & edit CAD drawings anytime, anywhere!\n\n\nEssential drafting and design capabilities for your everyday needs: Autodesk® AutoCAD® Web on mobile is a trusted solution that "
+    },
+    {
+     "name": "Construction Master Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 40074,
+     "desc": "FREE Try Before You Buy 14 Day Trial; your App Store account is not charged by Apple during the free trial. Rated 4.8 stars with over 1.12M downloads. The trusted construction calculator used by profe"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "hornsby beekeeping supplies",
+   "top": [
+    {
+     "name": "Hornsby Beekeeping Supplies",
+     "dev": "Azaan Atif",
+     "ratings": 0,
+     "desc": "Hornsby Beekeeping brings our Australian beekeeping store to your iPhone or iPad.\n\nBrowse hive components, protective clothing, tools, extraction equipment, live bees and seasonal products. Search and"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Beekeeping for Dummies®",
+     "dev": "Expanded Apps",
+     "ratings": 1,
+     "desc": "Start beekeeping with confidence using the trusted Dummies guide—now a simple, mobile tool built for real life at the hive. Learn how to set up your hive, care for honey bees, and harvest honey with c"
+    },
+    {
+     "name": "Bee Factory!",
+     "dev": "Green Panda Games",
+     "ratings": 245432,
+     "desc": "Welcome to the most exciting Bee idle game! Are you ready to manage your own tycoon factory and become the richest man alive? \n\n- Unlock +100 super fun bees \n- Sell TONS of honey \n- Upgrade your bees "
+    },
+    {
+     "name": "ApiNote: Beekeeping Hive Log",
+     "dev": "Petr Drabek",
+     "ratings": 3,
+     "desc": "ApiNote is a beekeeping hive log and apiary manager built for real work at the bee yard. Keep a complete history for every colony and know what needs attention before your next visit.\n\nHIVE RECORDS TH"
+    },
+    {
+     "name": "Apiarist - Beekeeper Assistant",
+     "dev": "Oleg Soloviev",
+     "ratings": 147,
+     "desc": "Manage your apiary easily and professionally  \n\nThis app is designed specifically for beekeepers — from beginners to experienced professionals. It will help you efficiently manage your beekeeping busi"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "cave à vin — sommelier & stock",
+   "top": [
+    {
+     "name": "Cave à Vin — Sommelier & Stock",
+     "dev": "aurelie darenne",
+     "ratings": 0,
+     "desc": "Cave à Vin n'est pas une app de plus pour scanner des étiquettes et lire des avis. C'est l'outil pour ceux qui gèrent une vraie collection — seul, en couple, ou en famille.\n\n- Stock précis : chaque bo"
+    },
+    {
+     "name": "Vivino: Drink The Right Wine",
+     "dev": "Vivino ApS",
+     "ratings": 138108,
+     "desc": "Vivino helps you discover, choose, and buy the right wine.\n\nJoin over 70 million wine lovers who use Vivino to scan labels, track their tastes with ratings,  and buy wines directly in the app.\n\nFrom c"
+    },
+    {
+     "name": "Total Wine & More",
+     "dev": "Retail Services & Systems, Inc.",
+     "ratings": 120367,
+     "desc": "Take Total Wine & More with you wherever you go! Our new app makes it easy to search our incredible product selections, shop and pickup in store, enjoy special offers and much more. Make your shopping"
+    },
+    {
+     "name": "InVintory: Wine Cellar Manager",
+     "dev": "InVintory Wines Incorporated",
+     "ratings": 4822,
+     "desc": "The best wine cellar management app for collectors. Track every bottle with a powerful wine tracker and label scanner, get advice from your built-in AI sommelier, and keep a tasting journal — organize"
+    },
+    {
+     "name": "Oeni: #1 Wine Cellar Manager",
+     "dev": "Oeni",
+     "ratings": 892,
+     "desc": "//The most downloaded wine cellar management app in 2025!\nOeni helps you manage your wine cellar/collection and recommend the best wine at the best time (peak). Whether you're a seasoned collector or "
+    },
+    {
+     "name": "CT Legacy Version",
+     "dev": "CellarTracker",
+     "ratings": 184,
+     "desc": "IMPORTANT: This is the classic, legacy version of CellarTracker. For the best experience, we recommend installing the new version of the app, “CellarTracker: #1 Wine Tracker”. The classic version of t"
+    },
+    {
+     "name": "Delectable - Scan & Rate Wine",
+     "dev": "Delectable",
+     "ratings": 25968,
+     "desc": "“The Essential Wine App” — James Beard award winner Jordan Mackay\n\nTake a photo of a wine label and instantly get ratings and descriptions with Delectable, the critically-acclaimed free app that helps"
+    },
+    {
+     "name": "Pocket Wine: Guide & Cellar",
+     "dev": "Time Marketing Limited",
+     "ratings": 656,
+     "desc": "“The Ultimate App for Wine Enthusiasts” – iPhoneLife Magazine\n\nTake your wine knowledge and enjoyment to the next level with our comprehensive app. It is one of the most popular wine apps in the USA, "
+    },
+    {
+     "name": "Wine.com",
+     "dev": "Wine.com, Inc.",
+     "ratings": 84822,
+     "desc": "The #1 Online Wine Store, Wine.com has the largest selection of wine and spirits (liquor) available to order and deliver across the US. With the Wine.com app, wine country is wherever you want it to b"
+    },
+    {
+     "name": "CellarTracker: #1 Wine Tracker",
+     "dev": "CellarTracker",
+     "ratings": 13095,
+     "desc": "CellarTracker is the top-rated wine app with 4.9 of 5 stars, over 13.6 million wine ratings and reviews, and over 8.8 million users globally, collectively tracking $21 billion of wine and millions of "
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "dental assistant exam test",
+   "top": [
+    {
+     "name": "Dental Assistant Exam Test",
+     "dev": "Erdem Kara",
+     "ratings": 1,
+     "desc": "Welcome to the Dental Assistant Exam Test App, your ultimate companion in mastering the essential aspects of Radiation Health and Safety (RHS), Infection Control (ICE), General Chairside Assisting (GC"
+    },
+    {
+     "name": "Dental Assistant | Exam Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 25,
+     "desc": "Prepare for the Dental Assistant Exam with Our Comprehensive Exam Prep App!\nDental Assistant Exam Prep is designed to help candidates excel in the Certified Dental Assistant exam, administered by the "
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    },
+    {
+     "name": "Dental Assisting Exam Practice",
+     "dev": "Erdem Kara",
+     "ratings": 1,
+     "desc": "Welcome to our Dental Assisting Exam Practice App, the ultimate resource for your dental assisting exam journey. Whether you're gearing up for the big exam or honing your skills, our comprehensive tra"
+    },
+    {
+     "name": "Dental Boards Mastery: INBDE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1540,
+     "desc": "Pass the INBDE® or Triple Your Money Back! The most popular INBDE prep app, developed by a U.S.-based team of dentists.\n\n3,000+ INBDE Exam Practice Questions (Including 350+ Mental Dental Videos!)\n\n- "
+    },
+    {
+     "name": "RDA Exam Prep - Dental Assist",
+     "dev": "Alfa Dewi",
+     "ratings": 1,
+     "desc": "Pass with confidence - built for Registered Dental Assistant exam prep.\n\nRDA Exam Prep is a focused study app for dental assistant students, graduates, and professionals preparing for RDA-style certif"
+    },
+    {
+     "name": "Dental Assistant Prep: Exam",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into your dental assistant certification exam ready. Dental Assistant Prep gives you 960 practice questions with a clear explanation for every single answer, so you don't just memorize the right "
+    },
+    {
+     "name": "Dental Assistant Exam - Prep",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Pass your DANB exams with confidence. Dental Assistant Exam Prep is the focused, offline study app for the Radiation Health & Safety (RHS), Infection Control (ICE), and General Chairside (GC) componen"
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "sonography practice test",
+   "top": [
+    {
+     "name": "Sonography Practice Test",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Preparing for your ultrasound certification exam? Whether you’re studying for the SPI, ARDMS, ARRT, or CCI credential, the Sonography Practice Test app is your comprehensive and easy-to-use study tool"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RV"
+    },
+    {
+     "name": "Sonography Exam Prep: SPI",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Sonography Exam Prep SPI is an offline ultrasound physics & instrumentation study app for SPI candidates. Purchase required for full access (auto-renewable subscription or lifetime unlock).\n\nWHAT YOU "
+    },
+    {
+     "name": "EchoRef",
+     "dev": "Rishi Kumar",
+     "ratings": 1382,
+     "desc": "EchoRef is a free iOS ultrasonography educational reference covering point-of-care ultrasound (POCUS), transthoracic echocardiography (TTE), and transesophageal echocardiography (TEE). Additionally, i"
+    },
+    {
+     "name": "Ultrasound Touch",
+     "dev": "珠海医凯电子科技有限公司",
+     "ratings": 0,
+     "desc": "The EC30 series handheld color ultrasound diagnostic system is a mobile software system for the EC30 series of handheld ultrasound equipment.\n\nThe system software supports EC30 series handheld ultraso"
+    },
+    {
+     "name": "ARDMS SPI Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 21,
+     "desc": "Unlock your potential in the Diagnostic Medical Sonography field with our comprehensive ARDMS SPI Exam Test Prep 2026 course. Designed for aspiring sonographers preparing for the SPI exam, this course"
+    },
+    {
+     "name": "SPI OBGYN AB VT Practice Test",
+     "dev": "Erdem Kara",
+     "ratings": 0,
+     "desc": "Welcome to the SPI OBGYN AB VT Practice App, your ultimate companion in mastering the essential aspects of SPI - Sonography Principles and Instrumentation, OBGYN - Obstetrics and Gynecology, AB - Abdo"
+    },
+    {
+     "name": "FNP Exam Mastery | Prep 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13151,
+     "desc": "Pass the AANPCB/ANCC or Triple Your Money Back! FNP Mastery is the #1 rated FNP exam prep app, developed by U.S.-based nurse practitioners who’ve been where you are.\n\nStart free today and get 10 board"
+    },
+    {
+     "name": "Butterfly iQ — Ultrasound",
+     "dev": "Butterfly Network, Inc.",
+     "ratings": 5136,
+     "desc": "The future of ultrasound is here. Experience a groundbreaking ultrasound solution with the Butterfly iQ probes.\n\nInnovation within reach.\n20+ clinical presets and advanced imaging capabilities with fa"
+    },
+    {
+     "name": "Rosh Review | Exam Prep Qbank",
+     "dev": "Rosh Review LLC",
+     "ratings": 8183,
+     "desc": "Rosh Review is a comprehensive educational resource for physicians, medical students, PAs, nurse practitioners, and nurses.\n \nPlan, prepare, and pass your high-stakes exam with Qbanks for:\n \nPhysician"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "phlebotomy study guide q&a",
+   "top": [
+    {
+     "name": "Phlebotomy CPT NHA Prep 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 277,
+     "desc": "**Pass the Phlebotomy Exam Without Drawing a Blank**\n\nYou’ve practiced the sticks, mastered the tubes, and maybe even survived your first fainting patient. Now it’s time to pass your phlebotomy certif"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written b"
+    },
+    {
+     "name": "Phlebotomy Study Guide Q&A",
+     "dev": "Tourkia CHIHI",
+     "ratings": 0,
+     "desc": "Phlebotomy Study Guide : 6000 Quiz, Concepts explained & Study Notes\n\nWith this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our"
+    },
+    {
+     "name": "NHA",
+     "dev": "MastrAPI",
+     "ratings": 427,
+     "desc": "Pass your NHA CPT Exam with flying colors! Updated for the 2026 exam cycle, boost your confidence in passing on the first attempt with our mobile app and a personal study plan based on your current sk"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 51,
+     "desc": "Help you prepare for the NHA CPT certification exam and pass it on your first attempt at the actual exam! Use the mobile app Phlebotomy NHA CPT Prep 2026 developed by our exam experts to help prepare "
+    },
+    {
+     "name": "Nursing School & NCLEX Prep",
+     "dev": "SmartFit Investments, INc",
+     "ratings": 2262,
+     "desc": "Engage with over 1 million nursing students who have successfully prepared for their NCLEX exams using SimpleNursing. Our app offers comprehensive resources crafted by seasoned healthcare professional"
+    },
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals natio"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Test Prep",
+     "dev": "Ultra Prep",
+     "ratings": 11,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your te"
+    },
+    {
+     "name": "Phlebotomy Test",
+     "dev": "Danila Danilenko",
+     "ratings": 56,
+     "desc": "Features:\n\n - Comprehensive question bank covering all exam categories, with detailed answers for thorough preparation.\n - Easy navigation through categories for focused study on specific topics.\n - E"
+    },
+    {
+     "name": "Osmosis - Med School Study App",
+     "dev": "Knowledge Diffusion",
+     "ratings": 3885,
+     "desc": "Struggling to understand medical concepts or prepare for the USMLE? Osmosis is the medical exam study app designed to help med students learn medicine faster, improve information retention and pass me"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dietitian app",
+   "top": [
+    {
+     "name": "Dietitian App",
+     "dev": "Kellie Millard",
+     "ratings": 0,
+     "desc": "Dietitian App is a clinical nutrition reference app designed to support dietitians and health professionals with practical tools used in everyday nutrition care.\n\nThe app brings together nutrition cal"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Nutrisense: Glucose Tracker",
+     "dev": "Nutrisense Inc",
+     "ratings": 4317,
+     "desc": "Nutrisense: Enhance your glucose monitoring experience, log food and activities, personalized guidance from glucose-certified Registered Dietitians.\n\nTurn your body’s data into actionable steps for re"
+    },
+    {
+     "name": "Nutritionix Track",
+     "dev": "Syndigo",
+     "ratings": 43819,
+     "desc": "Nutritionix Track is a fitness tracking app developed and maintained by a team of registered dietitians. Making fitness tracking a daily habit is an effective way to work towards your health goals, so"
+    },
+    {
+     "name": "Nourishly - Nutrition & Diet",
+     "dev": "Recovery Record",
+     "ratings": 1888,
+     "desc": "Would you like to have a better relationship with food and your body? Make dietary changes for medical reasons? Overcome overeating or binge eating? Keep on track with a nutrition plan? Link with your"
+    },
+    {
+     "name": "Fay Nutrition Dietitians",
+     "dev": "Fay Health, Inc",
+     "ratings": 6993,
+     "desc": "At Fay, we know that health is not one-size-fits-all. Everyone is unique, with different bodies, goals, preferences and circumstances. Your nutrition care should be tailored to you and working for you"
+    },
+    {
+     "name": "NutriSwift - App for Dietician",
+     "dev": "Lifetrons Software Pvt. Ltd.",
+     "ratings": 0,
+     "desc": "Introducing NutriSwift - the ultimate nutritionist software designed to revolutionize your nutrition business with its powerful app. Whether you are a registered dietitian, running a private practice,"
+    },
+    {
+     "name": "Fitelo: Weight loss & Diet App",
+     "dev": "Noguilt Fitness and Nutrition India Private Limited",
+     "ratings": 256,
+     "desc": "Welcome to Fitelo, where your journey to a healthier life begins. Haven’t found the right diet yet? Fitelo has the solution; we provide personalized diet and fitness plans, built by expert dieticians,"
+    },
+    {
+     "name": "Formula － weight loss diet app",
+     "dev": "FJOR NUTRITION, INC.",
+     "ratings": 35108,
+     "desc": "Formula.care - Your Guide to Carnivore, Mediterranean, Anti-Inflammatory, and Cortisol Detox Nutrition\n\nUnlock the full potential of the Carnivore, Mediterranean, Anti-Inflammatory, and Cortisol Detox"
+    },
+    {
+     "name": "Healthi: Weight Loss, Diet App",
+     "dev": "Sunshine Health Studios",
+     "ratings": 89967,
+     "desc": "Lose weight the Healthi way!\n◆◆◆◆◆ - \"Love it and have lost 20lbs already!\"\n◆◆◆◆◆ - \"Easy to track BITES and stay on track!\"\n◆◆◆◆◆ - \"Great app love it! Use it constantly!\"\n\nStudies show that 88% of p"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -19107,6 +19692,26 @@
    "note": "konu ne mesleğime ne ilgi alanıma uyuyor, tamamen alakasız",
    "label": "Alakasız",
    "split": "train"
+  },
+  {
+   "note": "Bu nişte yüz binlerce yorumlu 4 büyük app var, girmek anlamsız",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Apple bu kadar kişisel sağlık verisini toplayan app'i reddeder",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "kimse bunun için ücret ödemez, herkes bedavasını kullanıyor",
+   "label": "Para yapmaz",
+   "split": "train"
+  },
+  {
+   "note": "Bu fikir benim işimle ve ilgi alanımla alakasız, sadece oyun",
+   "label": "Alakasız",
+   "split": "test"
   }
  ],
  "kind": [

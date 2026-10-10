@@ -623,3 +623,4 @@
 {"ts": "2026-10-10T20:41:30+00:00", "actor": "optimizer", "action": "run", "calls": 36, "tokens": 29436, "cost_usd": 0.00124}
 {"ts": "2026-10-10T21:41:39+00:00", "actor": "optimizer", "action": "run", "calls": 36, "tokens": 29436, "cost_usd": 0.00124}
 {"ts": "2026-10-10T22:36:17+00:00", "actor": "optimizer", "action": "run", "calls": 36, "tokens": 29436, "cost_usd": 0.00124}
+{"ts": "2026-10-10T22:41:33+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6018 istek)"}

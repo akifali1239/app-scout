@@ -161,7 +161,7 @@
    "brier": 0.0745,
    "n": 64,
    "versions": 2,
-   "tried": 44,
+   "tried": 48,
    "test_errors": [
     [
      "Aynı işi yapan 40 app var, ilk sayfa dolu",
@@ -4048,7 +4048,7 @@
    "n": 64
   }
  ],
- "updated": "2026-10-11T11:42:00+00:00",
+ "updated": "2026-10-11T12:42:12+00:00",
  "raw": {
   "intent": {
    "version": "v3",

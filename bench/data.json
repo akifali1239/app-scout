@@ -779,6 +779,31 @@
    "term": "nail technician exam",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "torque conversion",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "nurse job openings",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "wifi password generator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nclex flashcards",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "geico",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [

@@ -20999,6 +20999,46 @@
    "note": "app 2017'den kalma, son güncelleme yok, ekran görüntüleri düşük çözünürlüklü",
    "label": "Kalitesiz / eski",
    "split": "test"
+  },
+  {
+   "note": "Reklam gelirinden başka kazanç yok, kimse abonelik almaz",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Apple kullanıcıya ilaç reçete eder gibi davranan app'i reddeder",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "İlk sayfadaki on app de aynı özelliklerle dolu, girmek anlamsız",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Gerçek zamanlı video görüşme altyapısı ve sunucu kurmam gerek, tek başıma olmaz",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Rakip app yıllardır güncellenmemiş, arayüzü eski ve çok çirkin",
+   "label": "Kalitesiz / eski",
+   "split": "train"
+  },
+  {
+   "note": "Bu app ile listedeki diğeri aynı şeyi yapıyor, hiçbir fark yok",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Konu benim mesleğimle ilgisiz, sadece eğlence amaçlı bir oyun",
+   "label": "Alakasız",
+   "split": "train"
+  },
+  {
+   "note": "Sadece kendi başıma kullanırım, ilgimi çekmiyor, çok sıradan bir fikir",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
   }
  ],
  "kind": [

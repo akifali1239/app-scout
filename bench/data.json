@@ -21039,6 +21039,36 @@
    "note": "Sadece kendi başıma kullanırım, ilgimi çekmiyor, çok sıradan bir fikir",
    "label": "Sıkıcı fikir",
    "split": "dev"
+  },
+  {
+   "note": "Aynı konuda onlarca app var, hepsi birbirinden bin kat fazla yorumlu, pazara sığmam",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Arama sonuçları dev firmalarla dolu, yeni biri öne çıkamaz",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu kategoride zaten yüzlerce app yarışıyor, pazar tamamen dolmuş",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Bu iki app ekran ekran birebir aynı, sadece ismi farklı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Listedeki app'in kopyası gibi, aynı özellikler ve aynı tasarım",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Elimdeki fikir daha önce baktığım app ile neredeyse aynı",
+   "label": "Çok benzer",
+   "split": "train"
   }
  ],
  "kind": [

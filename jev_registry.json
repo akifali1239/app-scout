@@ -731,9 +731,7 @@
     "654b50df42fe",
     "ensemble:v3+v2"
    ],
-   "prev": [
-    "v2"
-   ],
+   "prev": null,
    "promoted_at": "2026-10-09T05:41:41+00:00"
   },
   "note": {

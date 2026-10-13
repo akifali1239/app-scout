@@ -1,50 +1,54 @@
 {
- "welding symbols": {
-  "verdict": "ok",
-  "note": "Gerçek ihtiyaç; hiçbir app bunu ana konu yapmamış (ilk 10'un hepsi sınav/hesaplayıcı). AWS A2.4 standardının metni telifli: sembolleri kendi çizimlerinle anlat. CWI/CSWIP sınav modülüyle birleşirse ödeme isteği artar."
- },
- "cswip welding inspector": {
-  "verdict": "ok",
-  "note": "Gerçek sertifika (TWI CSWIP 3.1/3.2), ödeme isteği yüksek. Ama 'cs' nadir harf olduğu için arama puanı şişik olabilir, pazar küçük (UK/Orta Doğu/Asya). Tek başına değil, 'welding symbols' app'ine sınav modülü olarak ekle."
- },
- "orbit welding validation": {
-  "verdict": "brand",
-  "note": "Ovalo Quality Group'un kurumsal üretim takip app'i; aramalar o şirketin müşterilerinden geliyor, bireysel talep değil."
- },
- "machinist journeyman": {
-  "verdict": "brand",
-  "note": "smartcalculations'ın mevcut app'inin adı; arama o app'e gidiyor olabilir. Makinist referans nişi CNC hesaplayıcılarla dolu (The Phillips Machinist 393 yorum)."
- },
- "welding written - passrun": {
-  "verdict": "brand",
-  "note": "PassRun geliştiricisinin kendi app adı; arama o app'e gidiyor, genel bir ihtiyaç değil."
- },
- "best farrier": {
-  "verdict": "brand",
-  "note": "Üst sonuç birebir \"Best Farrier\" adlı app; arama o app adına ait, nişin genel ihtiyaç kanıtı yok."
- },
- "groomspec: dog grooming guide": {
-  "verdict": "brand",
-  "note": "GroomSpec app'inin tam başlığı; marka araması, genel ihtiyaç değil."
- },
- "sommelier india": {
-  "verdict": "brand",
-  "note": "Üst sonuç birebir \"Sommelier India\" app'i; ad araması ve pazar çok küçük."
- },
- "nsw geology maps": {
-  "verdict": "reject",
-  "note": "Yeni Güney Galler jeoloji kurumunun resmi harita verisi; kurumsal/kamu ürünü, tek geliştirici için veri ve telif sorunu, çok dar pazar."
- },
- "modern acupuncture usa": {
-  "verdict": "brand",
-  "note": "Modern Acupuncture adlı bir klinik zincirinin markası; mesleki ihtiyaç değil, marka/yerel işletme araması."
- },
- "forklift, llc": {
-  "verdict": "reject",
-  "note": "Bir firmanın şirket adı (LLC); gerçek bir meslek ihtiyacı değil, kurumsal arama."
- },
- "guide to clinical midwifery": {
-  "verdict": "brand",
-  "note": "Bu bir kitabın/app'in kendi adı (ilk sonuç birebir aynı başlık), genel ihtiyaç değil; niş olarak kullanılamaz."
- }
+  "welding symbols": {
+    "verdict": "ok",
+    "note": "Gerçek ihtiyaç; hiçbir app bunu ana konu yapmamış (ilk 10'un hepsi sınav/hesaplayıcı). AWS A2.4 standardının metni telifli: sembolleri kendi çizimlerinle anlat. CWI/CSWIP sınav modülüyle birleşirse ödeme isteği artar."
+  },
+  "cswip welding inspector": {
+    "verdict": "ok",
+    "note": "Gerçek sertifika (TWI CSWIP 3.1/3.2), ödeme isteği yüksek. Ama 'cs' nadir harf olduğu için arama puanı şişik olabilir, pazar küçük (UK/Orta Doğu/Asya). Tek başına değil, 'welding symbols' app'ine sınav modülü olarak ekle."
+  },
+  "orbit welding validation": {
+    "verdict": "brand",
+    "note": "Ovalo Quality Group'un kurumsal üretim takip app'i; aramalar o şirketin müşterilerinden geliyor, bireysel talep değil."
+  },
+  "machinist journeyman": {
+    "verdict": "brand",
+    "note": "smartcalculations'ın mevcut app'inin adı; arama o app'e gidiyor olabilir. Makinist referans nişi CNC hesaplayıcılarla dolu (The Phillips Machinist 393 yorum)."
+  },
+  "welding written - passrun": {
+    "verdict": "brand",
+    "note": "PassRun geliştiricisinin kendi app adı; arama o app'e gidiyor, genel bir ihtiyaç değil."
+  },
+  "best farrier": {
+    "verdict": "brand",
+    "note": "Üst sonuç birebir \"Best Farrier\" adlı app; arama o app adına ait, nişin genel ihtiyaç kanıtı yok."
+  },
+  "groomspec: dog grooming guide": {
+    "verdict": "brand",
+    "note": "GroomSpec app'inin tam başlığı; marka araması, genel ihtiyaç değil."
+  },
+  "sommelier india": {
+    "verdict": "brand",
+    "note": "Üst sonuç birebir \"Sommelier India\" app'i; ad araması ve pazar çok küçük."
+  },
+  "nsw geology maps": {
+    "verdict": "reject",
+    "note": "Yeni Güney Galler jeoloji kurumunun resmi harita verisi; kurumsal/kamu ürünü, tek geliştirici için veri ve telif sorunu, çok dar pazar."
+  },
+  "modern acupuncture usa": {
+    "verdict": "brand",
+    "note": "Modern Acupuncture adlı bir klinik zincirinin markası; mesleki ihtiyaç değil, marka/yerel işletme araması."
+  },
+  "forklift, llc": {
+    "verdict": "reject",
+    "note": "Bir firmanın şirket adı (LLC); gerçek bir meslek ihtiyacı değil, kurumsal arama."
+  },
+  "guide to clinical midwifery": {
+    "verdict": "brand",
+    "note": "Bu bir kitabın/app'in kendi adı (ilk sonuç birebir aynı başlık), genel ihtiyaç değil; niş olarak kullanılamaz."
+  },
+  "chiropractic boards 1": {
+    "verdict": "brand",
+    "note": "Bu 'Chiropractic Boards 1', Pro Exam Prep LLC'nin numaralı app serisinin adı (Boards 1/2/3); niş gerçek ama arama terimi bir app adı ve NBCE sınav alanında zaten Chiro Board Review ile seri rakipler var."
+  }
 }

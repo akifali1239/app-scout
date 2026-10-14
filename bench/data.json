@@ -21139,6 +21139,26 @@
    "note": "Kullanıcılar bunun için asla ödeme yapmaz, ücretsiz alternatifler bol",
    "label": "Para yapmaz",
    "split": "test"
+  },
+  {
+   "note": "Rakipler milyonlarca indirmeli, kategori lideri app'ler her aramada en üstte",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu nişte beş büyük şirket yüz binlerce yorumla hâkim, yeni app'e yer yok",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Bu kart az önce baktığım kartın aynısı, sadece başlığı değişmiş",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Daha önce geçtiğim app ile aynı işi yapıyor, yeni bir şey yok",
+   "label": "Çok benzer",
+   "split": "train"
   }
  ],
  "kind": [

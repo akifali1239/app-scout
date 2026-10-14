@@ -20032,6 +20032,74 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "eye chart",
+   "apps": [
+    {
+     "name": "Eye Chart HD",
+     "dev": "Dok LLC",
+     "ratings": 7,
+     "desc": "Easy to use, clinically evaluated visual acuity screening app. Over 1M people have downloaded our mobile electronic eye charts for iOS. Read below for more information on the clinical evaluations. \n\nU"
+    },
+    {
+     "name": "EyeChart - Vision Screening",
+     "dev": "Dok LLC",
+     "ratings": 17,
+     "desc": "The most accurate, advanced visual acuity screening app for iPhone and iPod Touch. Over 1,000,000 people have downloaded our mobile electronic eye charts for iOS. \n\nThis version is our best for iPhone"
+    },
+    {
+     "name": "ChartEye: Eye Chart",
+     "dev": "Jhomar Maravillas",
+     "ratings": 0,
+     "desc": "Need a Snellen eye chart for a quick at-home vision check or a classroom? ChartEye makes a true-size Snellen-style eye chart for your viewing distance, on screen and as a printable PDF.\n\nSet the viewi"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pilates instructor",
+   "apps": [
+    {
+     "name": "Planoura Pilates Class Planner",
+     "dev": "Black Lion Inc",
+     "ratings": 0,
+     "desc": "Planoura is a professional Pilates class planning app built specifically for Pilates instructors. Designed to support both new and experienced trainers, Planoura helps you plan smarter, teach better, "
+    },
+    {
+     "name": "Reformly: Pilates Classes",
+     "dev": "PUERH CONSULTING GROUP PTY LTD",
+     "ratings": 0,
+     "desc": "Reformly is the class-planning companion for Pilates instructors. Build sequences in minutes, teach with a glanceable timer, and keep a record of every class you've taught — mat, reformer, cadillac, c"
+    },
+    {
+     "name": "Club Pilates",
+     "dev": "Xponential Fitness LLC",
+     "ratings": 133716,
+     "desc": "Welcome to the Club Pilates App! Download the app to maximize your membership with the Club Pilates community. Find and favorite your preferred studios, classes, and instructors to personalize your Cl"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

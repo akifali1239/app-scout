@@ -21069,6 +21069,46 @@
    "note": "Elimdeki fikir daha önce baktığım app ile neredeyse aynı",
    "label": "Çok benzer",
    "split": "train"
+  },
+  {
+   "note": "Sadece reklamla dönen bir app, kullanıcı abonelik veya satın alma yapmaz",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple, kullanıcıya tedavi öneren ve teşhis koyan bu app'i onay belgesi olmadan reddeder",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Backend, harita altyapısı ve gerçek zamanlı eşleştirme gerekiyor, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Arama sonucundaki app'in son güncellemesi 2016, arayüzü bozuk ve eski",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "Benim mesleğimle ve aradığım nişle hiçbir ilgisi yok, yemek tarifi app'i",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Zaten binlerce kez yapılmış, hiç heyecan vermeyen bir fikir",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
+  },
+  {
+   "note": "Ücretsiz sistem uygulaması aynı işi yapıyor, kimse bunun için ödeme yapmaz",
+   "label": "Para yapmaz",
+   "split": "train"
+  },
+  {
+   "note": "İlk sayfadaki tüm app'ler on binlerce yorumlu devlerin, kapı kapalı",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
   }
  ],
  "kind": [

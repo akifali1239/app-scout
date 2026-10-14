@@ -16811,6 +16811,561 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "optometry association of la",
+   "top": [
+    {
+     "name": "Optometry Assoc. of Louisiana",
+     "dev": "Optometry Association of LA",
+     "ratings": 0,
+     "desc": "The Optometry Association of Louisiana (OAL) is a group of state-licensed optometrists who deliver primary eyecare to citizens in all parts of Louisiana. Nearly 300 members strong, the organization pr"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "1-800 Contacts",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 143175,
+     "desc": "The 1-800 Contacts app is for people who want to check “renew my contact lens prescription” and “order contacts” off their list quickly! We see you. We’re here for you. Let’s do this.\n\n- Access the la"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "VSP Vision Care",
+     "dev": "VSP Global",
+     "ratings": 47,
+     "desc": "Take your vision benefits with you wherever you go. The VSP Vision Care® app makes it easy to manage your eye care, access your benefits, and get the most from your coverage, all from your phone. \n \nW"
+    },
+    {
+     "name": "AOA/AOSA Optometry's Meeting",
+     "dev": "AMERICAN OPTOMETRIC ASSOCIATION",
+     "ratings": 0,
+     "desc": "Optometry’s Meeting is the profession’s premier annual meeting with opportunities for doctors, paraoptometric and office staff, future doctors and industry representatives."
+    },
+    {
+     "name": "NE Optometric Association",
+     "dev": "Nebraska Optometric Association",
+     "ratings": 0,
+     "desc": "The NE Optometric Association event app puts all event details at your fingertips!\n\nAttendees can:\n-Build & view their personalized itinerary\n-Share photos and post messages in the social feed\n-Learn "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "kmk optometry pages",
+   "top": [
+    {
+     "name": "KMK Optometry Pages",
+     "dev": "KMK Optometry",
+     "ratings": 6,
+     "desc": "\"KMK AI Reader is your all-in-one study companion—designed to help you learn more efficiently and engage with your content like never before.\n\nAccess your full library of KMK digital textbooks and mat"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "VSP Vision Care",
+     "dev": "VSP Global",
+     "ratings": 47,
+     "desc": "Take your vision benefits with you wherever you go. The VSP Vision Care® app makes it easy to manage your eye care, access your benefits, and get the most from your coverage, all from your phone. \n \nW"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "Virtual Vision Test",
+     "dev": "Warby Parker Inc",
+     "ratings": 18999,
+     "desc": "Still seeing well out of your current glasses or contacts prescription, but now it's expired? Virtual Vision Test by Warby Parker lets you renew it from home in 10 minutes using just your phone! And i"
+    },
+    {
+     "name": "The Framery",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 11248,
+     "desc": "The easiest way to measure your pupillary distance (PD) and get your glasses prescription, right from your iPhone.\n\nReady to buy glasses online but missing a measurement or two? The Framery is your gl"
+    },
+    {
+     "name": "Aetna Vision℠ Preferred",
+     "dev": "EyeMed Vision Care",
+     "ratings": 4523,
+     "desc": "Get the most from your Aetna Vision Preferred benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe Aetna Vision Preferred app gives you the ab"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy cpt exam prep 2026",
+   "top": [
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals natio"
+    },
+    {
+     "name": "Pocket Prep NHA CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 1138,
+     "desc": "Unlock 1,000 CPT practice questions with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT concepts and improve retention to"
+    },
+    {
+     "name": "Phlebotomy CPT NHA Prep 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 277,
+     "desc": "**Pass the Phlebotomy Exam Without Drawing a Blank**\n\nYou’ve practiced the sticks, mastered the tubes, and maybe even survived your first fainting patient. Now it’s time to pass your phlebotomy certif"
+    },
+    {
+     "name": "NHA CPT Exam Prep 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 2,
+     "desc": "5,000+ exam-like questions, 1,000+ flashcards, over a dozen practice tests, and real-life scenarios make Ultraprep a must-have tool to prepare for the NHA CPT.\n\nThe NHA CPT exam, also known as the Nat"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Test Prep",
+     "dev": "Ultra Prep",
+     "ratings": 11,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your te"
+    },
+    {
+     "name": "NHA CPT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 128,
+     "desc": "NHA CPT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,000 high-quality test questions and answer explanations, multiple test mod"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 51,
+     "desc": "Help you prepare for the NHA CPT certification exam and pass it on your first attempt at the actual exam! Use the mobile app Phlebotomy NHA CPT Prep 2026 developed by our exam experts to help prepare "
+    },
+    {
+     "name": "Phlebotomy Prep: CPT Exam 2026",
+     "dev": "Deeun Inc.",
+     "ratings": 1,
+     "desc": "PHLEBOTOMY PREP: YOUR CPT CERTIFICATION COMPANION\n\nThe order of draw can make or break your career. Learn it the right way with our interactive simulator.\n\nORDER OF DRAW SIMULATOR\n\nWrong order means c"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written b"
+    },
+    {
+     "name": "Phlebotomy Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 423,
+     "desc": "Get fully prepared to earn your Phlebotomy Technician certification with the all-in-one Phlebotomy Practice Test app — your personal study coach for passing the exam with ease and confidence. Trusted "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "ioso optometry switzerland",
+   "top": [
+    {
+     "name": "iOSO Optometry Switzerland",
+     "dev": "Michael Job",
+     "ratings": 1,
+     "desc": "iOptom app provides two calculation tools and a tabo schema for optometry professionals.\n\nOnce called iSBAO - since 2010."
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "VSP Vision Care",
+     "dev": "VSP Global",
+     "ratings": 47,
+     "desc": "Take your vision benefits with you wherever you go. The VSP Vision Care® app makes it easy to manage your eye care, access your benefits, and get the most from your coverage, all from your phone. \n \nW"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "1-800 Contacts",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 143175,
+     "desc": "The 1-800 Contacts app is for people who want to check “renew my contact lens prescription” and “order contacts” off their list quickly! We see you. We’re here for you. Let’s do this.\n\n- Access the la"
+    },
+    {
+     "name": "Smart Optometry",
+     "dev": "Hundred Vision d.o.o.",
+     "ratings": 529,
+     "desc": "Smart Optometry is #1 choice for eye care professionals around the world! Give your patients’ best care with 15 FREE INTERACTIVE, PRECISE and SIMPLE eye exams in 9 languages. Join 100.000+ eye care sp"
+    },
+    {
+     "name": "Aetna Vision℠ Preferred",
+     "dev": "EyeMed Vision Care",
+     "ratings": 4523,
+     "desc": "Get the most from your Aetna Vision Preferred benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe Aetna Vision Preferred app gives you the ab"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "The Framery",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 11248,
+     "desc": "The easiest way to measure your pupillary distance (PD) and get your glasses prescription, right from your iPhone.\n\nReady to buy glasses online but missing a measurement or two? The Framery is your gl"
+    },
+    {
+     "name": "Ophthalmology & Optometry",
+     "dev": "My Call Bag LLC",
+     "ratings": 120,
+     "desc": "Designed for healthcare professionals, this app transforms your iPhone into a comprehensive digital call bag, utilizing the True Depth Camera, gyroscope, and accelerometer.\n\nOphthalmology Tools\n• Dist"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "dental hygiene exam prep 2026",
+   "top": [
+    {
+     "name": "Dental Hygiene Exam Prep 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 62,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep",
+     "dev": "Get Exam",
+     "ratings": 92,
+     "desc": "Give your studying method a major upgrade. \nImprove your knowledge with 700+ exam-like questions and 700+ flashcards. Remember more using Flashcards. Get access to over a dozen practice exams that wil"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Boards",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "Stressed about the NBDHE Dental Hygiene Boards? You're not alone.\n\nFour years of dental hygiene school. Hundreds of clinical hours. All of it comes down to one exam.\n\nJoin 20,000+ dental hygiene stude"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 17,
+     "desc": "Prepare for the NBDHE (National Board Dental Hygiene Examination) with our comprehensive prep course! Whether you're a seasoned student or just beginning your licensed Dental Hygienist certification j"
+    },
+    {
+     "name": "NBDE Part 2: Dental Boards Q&A",
+     "dev": "Higher Learning Technologies",
+     "ratings": 74,
+     "desc": "Pass your NBDE Part II with this powerful study tool! Featuring over 680 exam-like questions covering every topic on in the NBDE, this is the best place to start your test prep. \n\nInstall the free ver"
+    },
+    {
+     "name": "Tend Dental",
+     "dev": "Noho Dental, Inc",
+     "ratings": 3904,
+     "desc": "Tend makes going to the dentist an experience you’ll actually look forward to. With online booking, transparent pricing, beautiful studios, and a top-rated clinical team, we care for the whole you, no"
+    },
+    {
+     "name": "NBDHE Dental Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 1,
+     "desc": "Master the NBDHE Exam with Flashcards 2026!\nThe National Board Dental Hygiene Examination (NBDHE) is essential for dental hygiene professionals seeking to validate their knowledge and skills. Preparin"
+    },
+    {
+     "name": "DAT Exam Prep Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 659,
+     "desc": "Master the DAT exam. Gain the confidence you need to ace the exam - the first time! Save time and study smarter with a tool designed for your busy life.\n\nREAL USER REVIEWS\n\n“I’ve always struggled with"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "vtne exam prep vet tech test",
+   "top": [
+    {
+     "name": "VTNE Exam Prep Vet Tech Test",
+     "dev": "Best Fun Games",
+     "ratings": 1183,
+     "desc": "Pass your Veterinary Technician National Examination (VTNE) exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,500+ ques"
+    },
+    {
+     "name": "VTNE Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 31,
+     "desc": "VTNE Test Prep 2026 is an application that has been carefully designed and developed by industry exam experts. It has over 1,500 high quality test questions with answer explanations, multiple test mod"
+    },
+    {
+     "name": "VTNE Exam Prep Practice 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 5,
+     "desc": "Help you prepare for the VTNE certification exam and pass it on your first attempt at the actual exam! Use the mobile app VTNE Practice Exam Prep 2026 developed by our exam experts to help prepare for"
+    },
+    {
+     "name": "VTPrep: Vet Tech Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 207,
+     "desc": "Pass your VTNE with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nUpdated for the 2026 VTN"
+    },
+    {
+     "name": "VTNE Exam Prep 2026 | Vet Tech",
+     "dev": "EZ Test Prep",
+     "ratings": 242,
+     "desc": "**Pass the VTNE Without Needing Nine Lives**\n\nYou’ve survived animal restraint labs, memorized more drug names than a pharmacist, and learned how to keep a cat calm while it screams into the void. Now"
+    },
+    {
+     "name": "VetTechPrep - VTNE® Study Tool",
+     "dev": "XPrep Learning Solutions, Inc",
+     "ratings": 40,
+     "desc": "Study smarter with the perfect balance of questions, content, and tools. It's your secret weapon for passing the VTNE®!\n\nNOTE: This app is a companion to our online course. You can download and make u"
+    },
+    {
+     "name": "Pocket Prep Medical 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6562,
+     "desc": "Unlock thousands of Medical certification exam practice questions and mock exams for the NHA CPT, CDR RD, PTCB PTCE, AAPC CPC, AAVSB VTNE, and more with Pocket Prep, the largest provider of mobile tes"
+    },
+    {
+     "name": "VTNE Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 60,
+     "desc": "VTNE Exam Prep 2026 is an exam preparation application that will help you pass the Veterinary Technicians National Exam (VTNE) administered by the American Association of Veterinary State Boards (AAVS"
+    },
+    {
+     "name": "VTNE NAVLE Exam Prep | 2026",
+     "dev": "Prepia Inc",
+     "ratings": 43,
+     "desc": "Prepare faster and easier with Vet Prep App, your all-in-one tool to succeed! Whether you're at the clinic or relaxing at home, take our app with you and confidently ace your exams.\n\nVet Prep App is t"
+    },
+    {
+     "name": "VTNE Veterinary Tech Exam Prep",
+     "dev": "Med Preps LLC",
+     "ratings": 2,
+     "desc": "VTNE Test Prep helps veterinary technicians prepare for the Veterinary Technician National Examination (VTNE) with original practice questions.\n\nWHAT'S INCLUDED\n\n• Full bank of 1300+ practice question"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "paramedic drug list flashcards",
+   "top": [
+    {
+     "name": "Paramedic Drug List Flashcards",
+     "dev": "Porter Street LLC",
+     "ratings": 129,
+     "desc": "Paramedic Drug List Flashcards is a focused study tool and quick reference for paramedics, EMTs, EMS students, and instructors. Built by an emergency medical responder, it covers 61 essential emergenc"
+    },
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobil"
+    },
+    {
+     "name": "Drugs.com Medication Guide",
+     "dev": "Drugs.com",
+     "ratings": 17209,
+     "desc": "Manage meds, identify pills, check interactions, compare prices and more. Discover detailed, peer-reviewed info on over 24,000 prescription drugs, OTC meds, and natural products all in one place.\n\nKey"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us f"
+    },
+    {
+     "name": "Pocket Pharmacist",
+     "dev": "Danike, Inc.",
+     "ratings": 3874,
+     "desc": "\"Pocket Pharmacist feels like you're talking to a live pharmacist versus reading through an encyclopedia!\"\n\nDownload now for a free trial.  Not impressed?  Simply unsubscribe and walk away without pay"
+    },
+    {
+     "name": "MedicTests 2026 EMS Education",
+     "dev": "MedicTests",
+     "ratings": 2067,
+     "desc": "Experience the ultimate EMS Education System, designed exclusively for MedicTests members. \n\nUnlock personalized guidance and engaging learning tools like our personalized learning paths, the Rapid Le"
+    },
+    {
+     "name": "SafeDosePro",
+     "dev": "eBroselow LLC",
+     "ratings": 154,
+     "desc": "SafeDose® is an electronic medication reference tool. It contains acute medications provided for pre-hospital and hospital workers by SafeDose as a public service.\n \nSafeDose provides mixing instructi"
+    },
+    {
+     "name": "Paramedic Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 40,
+     "desc": "Paramedic Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It has more than 700 high quality test questions with answer explanations, multiple "
+    },
+    {
+     "name": "Davis's Drug Guide - Nurses",
+     "dev": "Unbound Medicine, Inc.",
+     "ratings": 9236,
+     "desc": "Davis’s Drug Guide for Nurses delivers everything you need to administer medications safely across the lifespan.\n\nIncludes EXCLUSIVE DrugGuide.com access, regular updates, dosing calculators, Drug of "
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "peared: optometry fill-ins",
+   "top": [
+    {
+     "name": "Peared: Optometry Fill-Ins",
+     "dev": "Peared",
+     "ratings": 29,
+     "desc": "Peared connects optometrists and practices for flexible fill-in shifts.\n\nWhether you’re picking up an extra shift or looking for last-minute coverage, Peared makes fill-in work simple, transparent, an"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "1-800 Contacts",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 143175,
+     "desc": "The 1-800 Contacts app is for people who want to check “renew my contact lens prescription” and “order contacts” off their list quickly! We see you. We’re here for you. Let’s do this.\n\n- Access the la"
+    },
+    {
+     "name": "VSP Vision Care",
+     "dev": "VSP Global",
+     "ratings": 47,
+     "desc": "Take your vision benefits with you wherever you go. The VSP Vision Care® app makes it easy to manage your eye care, access your benefits, and get the most from your coverage, all from your phone. \n \nW"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "3-D Face Scan",
+     "dev": "Bespoke, Inc.",
+     "ratings": 713,
+     "desc": "Please note: Device with FaceID required (iPhone XR and newer models, except the iPhone SE). \n\nTopology, the leading provider of augmented reality and optical measurements technology in the eyewear ma"
+    },
+    {
+     "name": "Opthy",
+     "dev": "Luxottica Group SPA",
+     "ratings": 3001,
+     "desc": "Pupillary Distance: The key to your perfect glasses. Discover Opthy, powered by global eyewear expert EssilorLuxottica.\n\nGet your Pupillary Distance just right with Opthy, the solution backed by Essil"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "oat optometry admission prep",
+   "top": [
+    {
+     "name": "OAT Optometry Admission Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Optometry Admission Test Exam Prep 2026 helps you pass with 2060+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 2060+ practice questions with detailed answer explanations\n- "
+    },
+    {
+     "name": "OAT Prep: Optometry Admission",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "OAT Prep: Optometry Admission is a complete offline question bank and practice test app for the Optometry Admission Test, with 2,315 original questions and 9 original science reading passages written "
+    },
+    {
+     "name": "Optometry Admission Test",
+     "dev": "Cram Cards",
+     "ratings": 2,
+     "desc": "Optometry Admission Test (OAT) Preparation made beautifully: Accessible. Convenient. Affordable. Powerful. Newly Released OAT Practice Tests & Questions.\n\nHere's how you'll benefit with this app and s"
+    },
+    {
+     "name": "OAT Optometry Test Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 1,
+     "desc": "Prepare for the OAT with Our Comprehensive OAT Optometry Test Prep 2026 App!\nOAT Optometry Test Prep 2026 is designed to help candidates prepare for the Optometry Admission Test (OAT). This standardiz"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "Booster Prep",
+     "dev": "Booster Prep Inc.",
+     "ratings": 716,
+     "desc": "Take advantage of BoosterPrep's powerful study tools on the go. With the BoosterPrep App, you can easily access your question banks and videos from anywhere, anytime. Currently, the app supports the f"
+    },
+    {
+     "name": "OAT Biology Cram Cards",
+     "dev": "Cram Cards",
+     "ratings": 0,
+     "desc": "Want to get accepted into optometry school? The OAT Exam is required by optometry schools. Because acceptances have become more competitive than ever, it is important for you to score very high on you"
+    },
+    {
+     "name": "Bootcamp.com",
+     "dev": "Bootcamp Prep LLC",
+     "ratings": 17477,
+     "desc": "The Bootcamp.com app requires an active Bootcamp.com upgraded membership.\n\nAccess your question banks, video lessons, Bites, tagged questions, custom tests, and personalized study schedule anytime, an"
+    },
+    {
+     "name": "UWorld Medical Exam Prep",
+     "dev": "UWorld LLC",
+     "ratings": 4133,
+     "desc": "The UWorld Medical app is the gold standard in medical exam preparation - delivering elite QBank content for USMLE® (Step 1, Step 2 CK, Step 3), COMLEX® (Level 1, Level 2), Medical Boards (ABIM®, ABFM"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -20098,6 +20653,106 @@
     "direct",
     "direct",
     "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "orthopedic tests",
+   "apps": [
+    {
+     "name": "Orthopedic Examination Lite",
+     "dev": "Ahmad Al Hariri",
+     "ratings": 2,
+     "desc": "Orthopedic Examination is an app that contains all Special Tests in orthopedic surgery.\n\nFor all orthopedic surgery residents and specialists who are interested in learning and memorizing the special tests in orthopedic surgery.\n\nOrthopedic Examination contains all special tests that an orthopedic s"
+    },
+    {
+     "name": "CORE -Clinical Orthopedic Exam",
+     "dev": "Clinically Relevant Technologies",
+     "ratings": 31,
+     "desc": "CORE is your portable, expert reference tool for diagnosing musculoskeletal and orthopedic disorders. The Clinical Orthopedic Exam offers you a robust database of over 400 clinical tests with descriptions on how to perform them, video demonstrations, diagnostic properties and links to supporting med"
+    },
+    {
+     "name": "Orthopedic Examination 2026",
+     "dev": "Ahmad Al Hariri",
+     "ratings": 0,
+     "desc": "Orthopedic Examination & Special Tests is an app that contains all Special Tests & Examination techniques in orthopedic surgery.\nIt's designed for all orthopedic surgery residents and specialists who are interested in learning and memorizing the special tests in orthopedic surgery.\nOrthopedic Examin"
+    },
+    {
+     "name": "LetsGetChecked: Health Testing",
+     "dev": "LetsGetChecked Inc.",
+     "ratings": 9461,
+     "desc": "LetsGetChecked offers empowering at-home health testing, with fast and accurate CLIA-certified lab results. Take control of your health with your own personalized dashboard which allows you to track your health insights from home.\n\nLooking for peace of mind? No need for clinics or appointments with "
+    },
+    {
+     "name": "Medical Lab Tests",
+     "dev": "Medicon Apps",
+     "ratings": 1141,
+     "desc": "The go-to lab reference for healthcare professionals, medical students, and nurses — trusted on hospital wards, in classrooms, and during clinical rotations.\n\nINSTANT LAB TEST LOOKUP\n\nSearch or browse 17 categories of laboratory tests and get immediate access to reference ranges, clinical significan"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "paramedic drug list flashcards",
+   "apps": [
+    {
+     "name": "Paramedic Drug List Flashcards",
+     "dev": "Porter Street LLC",
+     "ratings": 129,
+     "desc": "Paramedic Drug List Flashcards is a focused study tool and quick reference for paramedics, EMTs, EMS students, and instructors. Built by an emergency medical responder, it covers 61 essential emergency drugs — right on your phone.\n\nWHAT'S INSIDE\n• Drug search — find any drug by generic or brand name"
+    },
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobile test prep for professional certifications. \n\nWhether at home or on the go, reinforce key EMS conce"
+    },
+    {
+     "name": "Drugs.com Medication Guide",
+     "dev": "Drugs.com",
+     "ratings": 17209,
+     "desc": "Manage meds, identify pills, check interactions, compare prices and more. Discover detailed, peer-reviewed info on over 24,000 prescription drugs, OTC meds, and natural products all in one place.\n\nKey Features\n- My Med List. Create your health profile and track drug interactions, reminders and alert"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us feature\n• The National Registry store is available via the app for the first time. Now you can purcha"
+    },
+    {
+     "name": "Davis's Drug Guide - Nurses",
+     "dev": "Unbound Medicine, Inc.",
+     "ratings": 9236,
+     "desc": "Davis’s Drug Guide for Nurses delivers everything you need to administer medications safely across the lifespan.\n\nIncludes EXCLUSIVE DrugGuide.com access, regular updates, dosing calculators, Drug of the Week, and more!\n\nDAVIS DRUG GUIDE FEATURES: \n• 1,700+ monographs — covering 5,000+ trade name an"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated",
+    "adjacent"
    ],
    "split": "dev"
   }

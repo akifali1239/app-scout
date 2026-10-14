@@ -21109,6 +21109,36 @@
    "note": "İlk sayfadaki tüm app'ler on binlerce yorumlu devlerin, kapı kapalı",
    "label": "Çok rekabet / doygun",
    "split": "train"
+  },
+  {
+   "note": "Bu app 2016'dan beri güncellenmemiş, ekran görüntüleri çok eski",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "Arayüz berbat ve yorumlar hep çökme şikayeti, kalitesiz yapılmış",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Fikir çok sıradan, hiç heyecan vermedi bana",
+   "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Tamamen ilgimi çekmeyen sıkıcı bir konu",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bunu kesin reddeder, tıbbi tavsiye veriyor gibi duruyor",
+   "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "Kullanıcılar bunun için asla ödeme yapmaz, ücretsiz alternatifler bol",
+   "label": "Para yapmaz",
+   "split": "test"
   }
  ],
  "kind": [

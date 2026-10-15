@@ -804,6 +804,26 @@
    "term": "geico",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "pipe fitter calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "dental clinic austin",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "warehouse jobs hiring",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "blood pressure log",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -23217,6 +23237,60 @@
    },
    "label": "content",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Unit Converter Pro",
+    "category": "Utilities",
+    "desc": "Convert length, weight, temperature and volume units offline with one tap."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ICD-10 Code Lookup",
+    "category": "Medical",
+    "desc": "Searchable offline reference of ICD-10 diagnosis codes with descriptions."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Dr. GPT",
+    "category": "Health & Fitness",
+    "desc": "Chat with an AI assistant powered by ChatGPT to get answers to your health questions."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Farm Tycoon Idle",
+    "category": "Games",
+    "desc": "Grow crops, upgrade your farm and unlock new levels in this idle game."
+   },
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Find a Local Plumber",
+    "category": "Lifestyle",
+    "desc": "Book vetted plumbers near you; same-day appointments and live chat with technicians."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Yoga Flow Videos",
+    "category": "Health & Fitness",
+    "desc": "New weekly video classes and guided sessions from certified yoga teachers."
+   },
+   "label": "content",
+   "split": "test"
   }
  ]
 }

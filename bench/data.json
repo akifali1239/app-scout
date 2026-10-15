@@ -24942,6 +24942,31 @@
    "note": "Sıradan bir not alma fikri, beni heyecanlandırmıyor, üzerinde çalışmak istemem",
    "label": "Sıkıcı fikir",
    "split": "train"
+  },
+  {
+   "note": "Bu fikir için çok sıradan bir günlük yapılacaklar listesi, hiçbir şey beni çekmiyor",
+   "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Bu konuda aylarca çalışmak istemem, tamamen ilgimi çekmeyen kuru bir fikir",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
+  },
+  {
+   "note": "Sonuçlar tamamen farklı bir işi anlatıyor, aradığım meslekle ilgisi yok",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Canlı video yayın altyapısı ve kendi sunucu ağını kurmam gerekir, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Ücretsiz alternatifler var ve bu kitle uygulamaya hiç para vermiyor",
+   "label": "Para yapmaz",
+   "split": "train"
   }
  ],
  "kind": [

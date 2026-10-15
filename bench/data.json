@@ -21262,6 +21262,36 @@
    "app": "Unit converter for cooking measurements like cups to grams.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Skin mole scanner: take a photo and the app tells you whether it is cancer.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Insulin dose calculator that tells diabetics how many units to inject.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Binary options signals: deposit money and let the app trade for you.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Step counter and daily walking goal tracker.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Flashcards for memorizing the bones of the human body.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Checklist for packing a hospital bag before labor.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -21857,6 +21887,30 @@
    "dim": "build",
    "hi": "dosage calculation",
    "lo": "online multiplayer shooter game",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex rn practice questions",
+   "lo": "flashlight",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate exam prep",
+   "lo": "wallpaper changer",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for plumbers",
+   "lo": "social network for pilots",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "stopwatch timer",
+   "lo": "video streaming platform like netflix",
    "split": "dev"
   }
  ],

@@ -222,7 +222,8 @@
   "instructions": [
    "A user rejected an app idea and wrote `note` (Turkish). Which listed reason does the note express?",
    "Bir kullanıcı bir app fikrini reddetti ve `note` notunu yazdı. Not, listedeki hangi sebebi ifade ediyor?",
-   "A user rejected an app idea and wrote `note` (Turkish). Pick the single reason that best fits. Disambiguation: if the note talks about the NUMBER of competing apps in the market or niche (e.g. 'aynı işi yapan 40 app var', 'ilk sayfa dolu', 'dev firmalar', 'pazar doymuş'), choose 'Çok rekabet / doygun'. Choose 'Çok benzer' only when the note complains about repetition within the list shown to the user (same card/idea seen again and again, 'listede aynısı', 'tekrar tekrar aynı')."
+   "A user rejected an app idea and wrote `note` (Turkish). Pick the single reason that best fits. Disambiguation: if the note talks about the NUMBER of competing apps in the market or niche (e.g. 'aynı işi yapan 40 app var', 'ilk sayfa dolu', 'dev firmalar', 'pazar doymuş'), choose 'Çok rekabet / doygun'. Choose 'Çok benzer' only when the note complains about repetition within the list shown to the user (same card/idea seen again and again, 'listede aynısı', 'tekrar tekrar aynı').",
+   "A user rejected an app idea and wrote `note` (Turkish). Pick the single reason expressed. Key rules: (1) mentions of many/big competing apps, strong incumbents, saturated niche or crowded first page => 'Çok rekabet / doygun'; (2) 'Çok benzer' ONLY when the same or near-identical cards repeat inside the list the user is browsing; (3) 'Kalitesiz / eski' is about one listing's own poor quality or age, not about the number of competitors."
   ],
   "criteria": [
    {

@@ -22315,6 +22315,46 @@
    "note": "Daha önce geçtiğim app ile aynı işi yapıyor, yeni bir şey yok",
    "label": "Çok benzer",
    "split": "train"
+  },
+  {
+   "note": "Bu kategoride 60'tan fazla app var, ilk sayfadaki hepsi 50 binden fazla yorumlu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Zaten üç dev şirket bu nişi domine ediyor, giriş imkânsız",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu fikir için ödeme yapacak kimse yok, herkes ücretsiz alternatif kullanıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu kesin reddeder, tıbbi teşhis iddiası var",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Ekran görüntüleri çok eski, son güncelleme dört yıl önce",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikir beni hiç heyecanlandırmadı, çok sıkıcı",
+   "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Listede yine aynı hesap makinesi var, hepsi birbirinin kopyası",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Gerçek zamanlı sunucu altyapısı ve video işleme gerekir, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "test"
   }
  ],
  "kind": [

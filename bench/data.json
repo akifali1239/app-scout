@@ -18180,6 +18180,512 @@
     }
    ],
    "label": true
+  },
+  {
+   "term": "pilot knob park golf course",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Pilot Knob Park Golf Course",
+     "dev": "Pilot Knob Park Golf Course",
+     "ratings": 1,
+     "desc": "Improve your golf experience with the Pilot Knob Park Golf Course app!\n\nThis app includes:\n- Interactive Scorecard\n- Golf Games: Skins, Stableford, Par, Stroke Scoring\n- GPS\n- Measure your shot!\n- Gol"
+    },
+    {
+     "name": "GolfNow Book TeeTimes Golf GPS",
+     "dev": "GolfNow.com",
+     "ratings": 111593,
+     "desc": "Trusted by over 3 million golfers, the GolfNow App is the best way to book amazing deals on tee times at thousands of golf courses. Free golf GPS and golf rangefinder, scorekeeping and post-game analy"
+    },
+    {
+     "name": "Robert Trent Jones Golf Trail",
+     "dev": "SunBelt Golf Corp",
+     "ratings": 340,
+     "desc": "Robert Trent Jones Golf Trail gives you access to an course information, weather updates, tee-time booking service, and messaging systems functions. Additionally, the Robert Trent Jones Golf Trail app"
+    },
+    {
+     "name": "Golf Pad GPS Range Finder",
+     "dev": "Contorra LLC",
+     "ratings": 22367,
+     "desc": "Accurate Free Golf GPS distances for EVERY golf course worldwide. Play faster, smarter golf with precise distances right when you need them. Have an Apple Watch? Connect in seconds!\nGet instant front,"
+    },
+    {
+     "name": "Golf Center Des Plaines",
+     "dev": "Des Plaines Park District",
+     "ratings": 3,
+     "desc": "Nestled on nearly 40 acres, Golf Center Des Plaines is Chicagoland's premier practice facility. Open year round and accommodating all ages and skill levels, it's always golf season at Golf Center Des "
+    },
+    {
+     "name": "Pohick Bay Golf Course",
+     "dev": "Antares Golf, LLC",
+     "ratings": 2,
+     "desc": "Improve your golf experience with the Pohick Bay Golf Course app!\n \nThis app includes:\n- Interactive Scorecard\n- Golf Games: Skins, Stableford, Par, Stroke Scoring\n- GPS\n- Measure your shot!\n- Golfer "
+    },
+    {
+     "name": "Sweetspot.",
+     "dev": "Sweetspot AB",
+     "ratings": 25,
+     "desc": "Sweetspot makes it easy for you as a golfer to find and book times for all types of golf facilities. With us, you can book golf, simulators, Top Tracer driving ranges, mini-golf, disc golf, trailer pa"
+    },
+    {
+     "name": "Course Vaults",
+     "dev": "Andreoni-Group LLC",
+     "ratings": 148,
+     "desc": "Track every golf course you've played, build your golf passport, rate and rank courses, and discover where to play next.\n\nCourse Vaults is a golf course tracker built for golfers who care about the pl"
+    },
+    {
+     "name": "Sycamore Ridge Golf Club",
+     "dev": "ORION MANAGEMENT SOLUTIONS, INC",
+     "ratings": 0,
+     "desc": "Improve your golf experience with the Sycamore Ridge Golf Club app!\n \nThis app includes:\n- Interactive Scorecard\n- Golf Games: Skins, Stableford, Par, Stroke Scoring\n- GPS\n- Measure your shot!\n- Golfe"
+    },
+    {
+     "name": "Nob North Golf Course",
+     "dev": "Nob North Golf Course",
+     "ratings": 6,
+     "desc": "Download the Nob North Golf Course app to enhance your golf experience!\n\nThis app includes:\n- Interactive Scorecard\n- Golf Games: Skins, Stableford, Par, Stroke Scoring\n- GPS\n- Measure your shot!\n- Go"
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "optometry assoc. of louisiana",
+   "split": "test",
+   "top": [
+    {
+     "name": "Optometry Assoc. of Louisiana",
+     "dev": "Optometry Association of LA",
+     "ratings": 0,
+     "desc": "The Optometry Association of Louisiana (OAL) is a group of state-licensed optometrists who deliver primary eyecare to citizens in all parts of Louisiana. Nearly 300 members strong, the organization pr"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "1-800 Contacts",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 143175,
+     "desc": "The 1-800 Contacts app is for people who want to check “renew my contact lens prescription” and “order contacts” off their list quickly! We see you. We’re here for you. Let’s do this.\n\n- Access the la"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "VSP Vision Care",
+     "dev": "VSP Global",
+     "ratings": 47,
+     "desc": "Take your vision benefits with you wherever you go. The VSP Vision Care® app makes it easy to manage your eye care, access your benefits, and get the most from your coverage, all from your phone. \n \nW"
+    },
+    {
+     "name": "Ophthalmology & Optometry",
+     "dev": "My Call Bag LLC",
+     "ratings": 120,
+     "desc": "Designed for healthcare professionals, this app transforms your iPhone into a comprehensive digital call bag, utilizing the True Depth Camera, gyroscope, and accelerometer.\n\nOphthalmology Tools\n• Dist"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "The Framery",
+     "dev": "1-800 CONTACTS, Inc.",
+     "ratings": 11248,
+     "desc": "The easiest way to measure your pupillary distance (PD) and get your glasses prescription, right from your iPhone.\n\nReady to buy glasses online but missing a measurement or two? The Framery is your gl"
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "jackies sports massage therapy pty ltd",
+   "split": "train",
+   "top": [
+    {
+     "name": "Jackie's Sports Massage",
+     "dev": "Jackies Sports Massage Therapy Pty Ltd",
+     "ratings": 0,
+     "desc": "Download the Jackie's Sports Massage App today to plan and schedule your massages! From this mobile App you can view our Massage Therapist's profiles and schedules, book your own massage  therapy appo"
+    },
+    {
+     "name": "Zeel In-Home Massage Therapist",
+     "dev": "Zeel",
+     "ratings": 10762,
+     "desc": "Book massage therapy for pain relief, athletic recovery, or relaxation to your home, hotel, or office. Health and wellness have never been more accessible or essential to your well-being.\n\nNamed one o"
+    },
+    {
+     "name": "Squeeze - Massage",
+     "dev": "GoSaga Squeeze Franchising, LLC",
+     "ratings": 1997,
+     "desc": "Squeeze is a way better massage experience. Why? Because unlike other massage places, you can book, pay, and tip right in the app—so after your massage, you can just float on out. No cashier, no regis"
+    },
+    {
+     "name": "Massage Envy",
+     "dev": "Massage Envy",
+     "ratings": 52658,
+     "desc": "With the Massage Envy app, access to routine self-care is literally in your hands. Find your favorite massage therapist, stretch provider, or esthetician at any franchised location and easily book a m"
+    },
+    {
+     "name": "Bigtoe: Massage On Demand",
+     "dev": "BigToe",
+     "ratings": 2356,
+     "desc": "Book an in-home Massage session in seconds!\n\nSay goodbye to back-and-forth. Get a professional massage delivered to your door with just a few taps. \n\nHow it works:\n\nCreate Request\nChoose your preferre"
+    },
+    {
+     "name": "Home Massage & Beauty | Blys",
+     "dev": "Get Blys Pty Ltd",
+     "ratings": 259,
+     "desc": "On demand massage and beauty services are now available in the United States! Blys is the fastest, easiest and safest way to enjoy professional spa treatments at home, on the go or at work all across "
+    },
+    {
+     "name": "Soothe: Wellness On Demand",
+     "dev": "Soothe LLC",
+     "ratings": 13607,
+     "desc": "Spa-quality wellness and personal care services delivered to you, on your schedule –– at home, at the office, or on the go.\n\nSoothe is the largest and most trusted on-demand wellness platform in the w"
+    },
+    {
+     "name": "Massage at home | Urban",
+     "dev": "Urban Massage Ltd",
+     "ratings": 610,
+     "desc": "Relax, you’re home.\nUrban brings a human touch to city life – with massage, beauty and wellness treatments delivered to your door in as little as 60 minutes.\n\nChoose from over 50 services, including d"
+    },
+    {
+     "name": "Massage Techniques",
+     "dev": "Real Bodywork",
+     "ratings": 101,
+     "desc": "Learn to give an amazing massage. Featuring 130 massage techniques, 13 full massage routines and an anatomy section.\nEach technique includes a video demonstration, a still image, and a text descriptio"
+    },
+    {
+     "name": "LaVida Massage",
+     "dev": "Lavida Massage Franchise Development, Inc.",
+     "ratings": 20,
+     "desc": "Download the FREE LaVida Massage App today to schedule and plan your appointments from the ease of your tablet or phone! From this App you can find the nearest center’s location information, book your"
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "pilot my rewards plus",
+   "split": "test",
+   "top": [
+    {
+     "name": "Pilot",
+     "dev": "Pilot Flying J",
+     "ratings": 220348,
+     "desc": "Whether you're fueling up, grabbing a bite, or earning rewards, the Pilot™ app is your wingman for the road ahead. \n\nWhatever you drive, see how the Pilot app can help you get the most out of every st"
+    },
+    {
+     "name": "PilotCo",
+     "dev": "Pilot Flying J",
+     "ratings": 241,
+     "desc": "The PilotCo app is the easiest way for Pilot Company fans to keep up with the latest news, real-time updates, and career opportunities for the Pilot Company family of brands. \n\nPilotCo gives you:\n• Ur"
+    },
+    {
+     "name": "Love's Rewards",
+     "dev": "Love's Travel Stops & Country Stores, Inc.",
+     "ratings": 5979,
+     "desc": "Find your favorite Love’s Travel Stops, check your Love's Rewards account, secure the next shower with Mobile Shower Check In, activate commercial fuel pumps with Love’s Mobile Pay, view transaction a"
+    },
+    {
+     "name": "Backyard Pilot",
+     "dev": "Quantum Design Group",
+     "ratings": 646,
+     "desc": "Ding... the pilot has turned on the Fasten  Seat Belt sign! Things are going to get dicey! Whoa Ho! Someone left the engines running and now you get to pilot your own plane! Backyard Pilot lets you ha"
+    },
+    {
+     "name": "Bilt Rewards",
+     "dev": "Bilt Technologies, Inc.",
+     "ratings": 230412,
+     "desc": "Bilt helps you transform your largest monthly expense—rent—into valuable rewards and unlock exclusive Neighborhood Benefits™. With Bilt, you can earn points on rent payments, build credit history, and"
+    },
+    {
+     "name": "Trucker Path: Truck GPS & Fuel",
+     "dev": "Trucker Path Inc.",
+     "ratings": 153628,
+     "desc": "North America’s most popular app for Truckers. BUILT FOR TRUCKERS, BY TRUCKERS! Get all trucker tools in one FREE APP! Best Trucking APP featured by truckers! Trucker Path is a mapping tool used by mo"
+    },
+    {
+     "name": "FAA Private Pilot Prep",
+     "dev": "Dauntless Software",
+     "ratings": 73,
+     "desc": "Spend less time studying and more time flying! This is the FAA Private and Recreational Pilot version of GroundSchool, our FAA knowledge (written) test preparation featuring up-to-date questions, free"
+    },
+    {
+     "name": "Marathon Rewards",
+     "dev": "Stuzo, LLC",
+     "ratings": 109547,
+     "desc": "Marathon Rewards is a customer loyalty program where members earn and redeem Rewards at participating Marathon or ARCO locations. Members that participate in Marathon Rewards can earn Rewards on fuel "
+    },
+    {
+     "name": "Private Pilot Test Prep - FAA",
+     "dev": "Aeroapps Technology",
+     "ratings": 1521,
+     "desc": "The #1 Private Pilot test prep app is now free, and includes over 900 FAA questions and explanations to help prepare for the FAA Private Pilot Knowledge Test. \n\nUpgrade to the complete ground school c"
+    },
+    {
+     "name": "Pilot Car Loads",
+     "dev": "Pilot Car Loads",
+     "ratings": 646,
+     "desc": "Pilot Car Loads is a powerful job board for pilot cars. Pilot Car Loads gives escort car drivers the power to set up personalized load alerts to get notified of jobs based on location, rate, and more!"
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "dental assistant training",
+   "split": "train",
+   "top": [
+    {
+     "name": "Dental Assistant Training",
+     "dev": "Milagros Garcia",
+     "ratings": 15,
+     "desc": "Educational lessons and videos for beginner dentists and dental assistants."
+    },
+    {
+     "name": "Dental Tool, Smart Aid",
+     "dev": "Dental App Lab Oy",
+     "ratings": 82,
+     "desc": "Dentalk provides smart aid for dental professionals. It facilitates communication between you and your clients and improves the efficiency of your dental practice. Just sign up for one account and bec"
+    },
+    {
+     "name": "Dental Assistant Prep: Exam",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into your dental assistant certification exam ready. Dental Assistant Prep gives you 960 practice questions with a clear explanation for every single answer, so you don't just memorize the right "
+    },
+    {
+     "name": "BoneBox™ - Dental Lite",
+     "dev": "iSO-FORM, LLC",
+     "ratings": 69,
+     "desc": "BoneBox™ - Dental Lite is the pocket-sized iPhone version of our BoneBox ™ - Dental iPad app. This real-time 3D medical education and patient communication tool, featuring incredibly detailed anatomic"
+    },
+    {
+     "name": "Dental Assisting Exam Practice",
+     "dev": "Erdem Kara",
+     "ratings": 1,
+     "desc": "Welcome to our Dental Assisting Exam Practice App, the ultimate resource for your dental assisting exam journey. Whether you're gearing up for the big exam or honing your skills, our comprehensive tra"
+    },
+    {
+     "name": "RDA Dental Assistant Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 3,
+     "desc": "Prepare effectively for the RDA (Registered Dental Assistant) Exam with our dedicated app, designed to help you achieve certification. This comprehensive application provides essential resources and s"
+    },
+    {
+     "name": "CDA Test Prep",
+     "dev": "Med Preps LLC",
+     "ratings": 0,
+     "desc": "CDA Test Prep helps dental assistants prepare for the DANB Certified Dental Assistant (CDA) certification exam with practice questions.\n\nWHAT'S INCLUDED\n\n• Full bank of practice questions covering eve"
+    },
+    {
+     "name": "DANB CDA Practice Test",
+     "dev": "MastrAPI",
+     "ratings": 169,
+     "desc": "Pass your DANB / CDA exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nIf you're loo"
+    },
+    {
+     "name": "A-dec Dental Angles of Access",
+     "dev": "A-dec",
+     "ratings": 3,
+     "desc": "Learn healthy ways to position yourself for a clear view of every region of the oral cavity."
+    },
+    {
+     "name": "Dental MirrorMaster 3.1",
+     "dev": "Dental-edutec Inc.",
+     "ratings": 215,
+     "desc": "MirrorMaster helps to train an appropriate use of dental instruments under mirror view. You acquire mirror work skills through fulfilling organized missions.\n\nWith MirrorMaster App:\n\n- You practice mi"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "occupational therapy exam test",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Occupational Therapy Exam Test",
+     "dev": "Prepia Inc",
+     "ratings": 9,
+     "desc": "Study Occupational Therapy smarter and faster with all the tools you need to succeed! Whether you’re taking a break at work or relaxing at home, bring our Occupational Therapy Exam Prep App with you a"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Exam 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 58,
+     "desc": "Crush the OT Exam Without Losing Your Grip on Reality\n\nYou picked occupational therapy to make a difference, change lives, and maybe wear scrubs to work. But before you can do any of that, there’s the"
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    },
+    {
+     "name": "AMTA Exam Prep",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 8936,
+     "desc": "The official American Massage Therapy Association’s study app will help you prepare for the MBLEx like never before. Study anywhere, anytime with 1000 challenging practice questions and full answer ra"
+    },
+    {
+     "name": "Occupational Therapy Exam Prep",
+     "dev": "Tourkia CHIHI",
+     "ratings": 2,
+     "desc": "With this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our 5 study modes embedded in this app.\nThis app is a combination of sets"
+    },
+    {
+     "name": "Hand Therapy Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 0,
+     "desc": "Prepare for the Hand Therapy Exam with Our Comprehensive Exam Prep App!\n\nHand Therapy Exam Prep 2026 is designed to help candidates excel in the Certified Hand Therapist (CHT) exam, administered by th"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "phlebotomy ascp pbt prep",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Phlebotomy ASCP PBT Prep",
+     "dev": "Md Tariqul Islam",
+     "ratings": 0,
+     "desc": "Pass Your ASCP PBT Exam with Confidence – 2025 Ready!\nPhlebotomy ASCP PBT Prep is your complete study tool for the Phlebotomy Technician Certification Exam (PBT) by ASCP and NHA CPT. Perfect for stude"
+    },
+    {
+     "name": "Phlebotomy ASCP PBT Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 6,
+     "desc": "Prepare for your phlebotomy certification exam with Phlebotomy ASCP PBT Exam Prep 2026 app! This comprehensive app offers a wide range of features designed to help you master the essential skills and "
+    },
+    {
+     "name": "ASCP PBT Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 18,
+     "desc": "Help you prepare for the ASCP PBT certification exam and pass it on your first attempt at the actual exam! Use the mobile app ASCP PBT Exam Prep 2026 developed by our exam experts to help prepare for "
+    },
+    {
+     "name": "Phlebotomy NHA CPT Test Prep",
+     "dev": "Ultra Prep",
+     "ratings": 11,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your te"
+    },
+    {
+     "name": "Phlebotomy Test",
+     "dev": "Danila Danilenko",
+     "ratings": 56,
+     "desc": "Features:\n\n - Comprehensive question bank covering all exam categories, with detailed answers for thorough preparation.\n - Easy navigation through categories for focused study on specific topics.\n - E"
+    },
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals natio"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written b"
+    },
+    {
+     "name": "FNP Exam Mastery | Prep 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13151,
+     "desc": "Pass the AANPCB/ANCC or Triple Your Money Back! FNP Mastery is the #1 rated FNP exam prep app, developed by U.S.-based nurse practitioners who’ve been where you are.\n\nStart free today and get 10 board"
+    },
+    {
+     "name": "SMNP Reviews | NP Board Prep",
+     "dev": "BLUEPRINT TEST PREPARATION LLC",
+     "ratings": 2802,
+     "desc": "Pass your NP board exam the first time! The newly upgraded SMNP app will simplify your life and accelerate your learning. The app will allow you to more quickly and easily use the full capabilities of"
+    },
+    {
+     "name": "Pocket Prep NHA CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 1138,
+     "desc": "Unlock 1,000 CPT practice questions with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT concepts and improve retention to"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "battery alert",
+   "split": "test",
+   "top": [
+    {
+     "name": "Battery Charge Alarm",
+     "dev": "Bastiaan Modderkolk",
+     "ratings": 2985,
+     "desc": "Battery Charge Alarm is an app that helps you charge your device to a specific battery level. You can set an alarm that will go off when the device is charged to the desired level. This is completely "
+    },
+    {
+     "name": "Battery Life - check runtimes",
+     "dev": "RBT Digital LLC",
+     "ratings": 33748,
+     "desc": "Battery Life shows the battery level of your iPhone, iPad, Apple Watch, AirPods and other connected devices in one place – in the app, in widgets and on your watch face. Downloaded by millions of user"
+    },
+    {
+     "name": "Battery 100% Alarm",
+     "dev": "Pham Ngoc Son",
+     "ratings": 23,
+     "desc": "Battery 100% Alarm is the perfect solution for protecting your device’s battery life by alerting you when it is fully charged. With customizable alert settings for 80%, 90%, and 100% charge levels, yo"
+    },
+    {
+     "name": "Battery Alarm - Charge Alert",
+     "dev": "Andy Sutanto",
+     "ratings": 158,
+     "desc": "Stop unnecessary charging and keep your battery healthy by setting an alarm from Full Battery Charge Alarm.\n\nNow you can leave your device charged with ease because Full Battery Charge Alarm will noti"
+    },
+    {
+     "name": "Battery HD+",
+     "dev": "smalltech sarl",
+     "ratings": 2737,
+     "desc": "This is the perfect battery monitor for your phone or tablet. It is simple, beautiful and can be calibrated specially for your device.\n\n- Widget\n- Charge Alerts\n- Usage chart\n\nInstantly know how many "
+    },
+    {
+     "name": "Battery Life Health Doctor Pro",
+     "dev": "在海 刘",
+     "ratings": 8073,
+     "desc": "Battery Life Doctor – The Ultimate Battery Saver for Optimal Phone Health\n\nWith professional battery charging tips, Battery Life Doctor Pro can help you save your battery health all the time. Download"
+    },
+    {
+     "name": "Battery Health - Charge Alarm",
+     "dev": "Junaid Mukadam",
+     "ratings": 553,
+     "desc": "Battery 100% Alarm\n\nRemove the charger when the battery is fully charged. It will maintain your phone's battery health and save energy.\n\nThis app will notify you by ringtone and notification once phon"
+    }
+   ],
+   "label": false
   }
  ],
  "rival": [
@@ -23302,6 +23808,26 @@
   {
    "note": "Bu fikri yapmak için gerçek zamanlı yapay zeka motoru kurmam gerekir, tek başıma yapamam",
    "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikir geçen hafta reddettiğim fikrin neredeyse aynısı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Mağazada bu işi yapan onlarca app var, yeni bir şey sunamam",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bunun için para ödemez, tamamen ücretsiz alternatifler var",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Bu kategoride Apple genelde sağlık iddiaları yüzünden reddediyor",
+   "label": "Ret riski",
    "split": "test"
   }
  ],

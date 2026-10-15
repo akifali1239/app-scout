@@ -22876,6 +22876,36 @@
    "note": "Gerçek zamanlı sunucu altyapısı ve video işleme gerekir, tek kişilik iş değil",
    "label": "Yapması zor",
    "split": "test"
+  },
+  {
+   "note": "Bu işte lider app'in iki milyon yorumu var, ben sıfırdan nasıl yetişirim",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Kategorinin ilk beşi hep büyük markalar, küçük geliştiriciye yer bırakmamış",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Sıralamadaki iki app'in açıklaması ve ekranları kelimesi kelimesine aynı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Bunu zaten dün başka bir isimle reddetmiştim, aynı app",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Apple'ın reddedeceği bir şey, tıbbi tanı koyduğunu iddia ediyor",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Bu fikri yapmak için gerçek zamanlı yapay zeka motoru kurmam gerekir, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
   }
  ],
  "kind": [

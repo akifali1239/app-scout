@@ -874,6 +874,41 @@
    "term": "speaker cleaner",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "decibel meter",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nclex",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "welding jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "tinozzi chiropractic & massage",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "noc chiropractic & wellness",
+   "label": "local_business",
+   "split": "train"
+  },
+  {
+   "term": "beekeeping",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "muscle anatomy",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [

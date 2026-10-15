@@ -18686,6 +18686,463 @@
     }
    ],
    "label": false
+  },
+  {
+   "term": "bible",
+   "split": "test",
+   "top": [
+    {
+     "name": "Bible",
+     "dev": "Life.Church",
+     "ratings": 13804055,
+     "desc": "Take God’s Word with you wherever you go with the free YouVersion Bible App. Listen to Audio Bibles, create Prayers, study with Friends, watch engaging Videos, explore 3,500+ Bible versions, and much "
+    },
+    {
+     "name": "Bible - Daily Bible Verse KJV",
+     "dev": "Ozion",
+     "ratings": 496968,
+     "desc": "Bible KJV - Daily Bible Verse is a free KJV Bible study tool that people read bible verse of the day, listen to the audio bible - the holy bible king james version, share and learn king james version "
+    },
+    {
+     "name": "Bible Chat: Daily Devotional",
+     "dev": "Book Vitals Inc.",
+     "ratings": 364209,
+     "desc": "Bible Chat: Built for Christians Who Want to Hear God in the Noise of Everyday Life\n\nHave you made time for God’s Word today? Join millions of believers who’ve chosen the #1 faith app in the world. Do"
+    },
+    {
+     "name": "#Bible - Verse of the Day",
+     "dev": "Godward LLC",
+     "ratings": 390058,
+     "desc": "\"Incredible App - My sister shared this app with me a few weeks ago and it is truly incredible. The music that plays when you read the verses, the scrolling like flipping a page, and everything about "
+    },
+    {
+     "name": "K.J.V. Holy Bible",
+     "dev": "ThoughtFul",
+     "ratings": 500751,
+     "desc": "KJV Holy Bible – Audio & Daily Inspiration\n\nCarry the timeless wisdom of the King James Version with you — designed for peace, clarity, and daily encouragement.\n\nWhether you’re beginning your morning,"
+    },
+    {
+     "name": "Bible for Women & Daily Study",
+     "dev": "Nataliia Shukalovich",
+     "ratings": 117424,
+     "desc": "Bible for Women\nBright and beautiful Bible with day and night mode designed specifically for women \n \nDaily Devotionals\nMorning and Evening daily devotionals by C. H. Spurgeon\n \nVerses of the day\nDail"
+    },
+    {
+     "name": "Bible App - Read & Study Daily",
+     "dev": "Gospel Technologies LLC",
+     "ratings": 322874,
+     "desc": "What if your Bible app actually helped you understand what you're reading? \n \nDownloaded over 8M times around the world with over 400,000 5 star reviews, Olive Tree is the free Bible study app that pu"
+    },
+    {
+     "name": "Haven - Bible Chat",
+     "dev": "E12 Holdings",
+     "ratings": 149219,
+     "desc": "Step Into the Living Word! \n\nHaven isn’t just an app—it’s your personal guide to draw closer to God and discover unshakable peace. With hand-picked daily verses, thoughtful devotionals, and heartfelt "
+    },
+    {
+     "name": "Bible Offline - KJV Holy Bible",
+     "dev": "PANDAS OF CARIBBEAN LIMITED",
+     "ratings": 142213,
+     "desc": "We offer a unique free offline Bible study tool that you can learn and share the Holy Bible on your own or with your trusted bible study group. Comparing to traditional Holy Bible, our e-bible allows "
+    },
+    {
+     "name": "Bible For Women.",
+     "dev": "PANDAS OF CARIBBEAN LIMITED",
+     "ratings": 249922,
+     "desc": "Bible for Women is a beautifully designed, free mobile application, conceived with the single purpose to inspire and nurture the faith of women across the globe. Rooted in the teachings of the Holy Bi"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "anti theft alarm",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Phone Anti Theft Alarm",
+     "dev": "Anwar Kamal",
+     "ratings": 26,
+     "desc": "Are you looking for a phone security app Congratulations! \n\n - Don't Touch My Device AntiTheft - the anti theft application - perfectly designed for you to keep your phone safe\n \nDon't Touch My Phone "
+    },
+    {
+     "name": "iAntiTheft",
+     "dev": "Hung Nguyen",
+     "ratings": 1234,
+     "desc": "iAntiTheft: The Ultimate Anti-Theft Alarm App for Your Phone\n\nProtect your phone from theft with iAntiTheft, a powerful app packed with features designed to keep your device secure.\n\nKey Features:\n\nFo"
+    },
+    {
+     "name": "Anti Theft Alarm Motion Alert",
+     "dev": "Shams Alam",
+     "ratings": 325,
+     "desc": "Phone Security - Anti Theft is the best security alarm to protect your device from thieves, family member, friends and strangers who try to intrude into your phone privacy.\nIf you are averse to people"
+    },
+    {
+     "name": "Anti Theft Alarm & Tracker",
+     "dev": "Suna Ordulu",
+     "ratings": 1,
+     "desc": "Anti Theft Alarm & Tracker\nProtect your device with active alerts and motion-sensing technology.\n\nKeep your iPhone secure in public spaces with AntiTheft, the utility app designed to notify you the mo"
+    },
+    {
+     "name": "Alarme - Anti Theft",
+     "dev": "aly hassan",
+     "ratings": 0,
+     "desc": "Alarme is the most completed anti-theft alarm security app in the App Store, includes face detection feature to detect thieves’ faces \n\nFeatures :\n==============\n1- Motion \nget rid of curious ones who"
+    },
+    {
+     "name": "Security Alarm - AntiTheft",
+     "dev": "NileshKumar Rathod",
+     "ratings": 526,
+     "desc": "Best Security Alarm To Protect Your iPhone from your family members, friends and strangers trying to intrude into your phone privacy.\n\n“Security Alarm - AntiTheft” - Simply activate the Alarm and capt"
+    },
+    {
+     "name": "Anti Theft Alarm -Security App",
+     "dev": "Hafsa Noor",
+     "ratings": 6,
+     "desc": "Protect your device like never before with SecureGuard, the comprehensive anti-theft alarm app designed to keep your valuable smartphone safe and secure. Whether you're at home, in the office, or trav"
+    },
+    {
+     "name": "Anti Theft Alarm: Don't touch",
+     "dev": "GinnieWorks Inc.",
+     "ratings": 0,
+     "desc": "Protect your phone from theft and unauthorized access with a powerful anti-theft alarm.\nIf anyone touches or moves your phone, a loud alarm instantly alerts you.\nPerfect for travel, office, public pla"
+    },
+    {
+     "name": "aTheftAlarm - Anti Theft Alarm",
+     "dev": "Linh Tran",
+     "ratings": 52,
+     "desc": "● INTRUDER SELFIE FEATURE - Who Touched My Phone (WTMP):\n- Automatically captures a selfie of anyone who unlocks your iPhone without permission!\n- Sends intruder photos to Gmail.\n- Uploads intruder ph"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "transcribe video to text",
+   "split": "train",
+   "top": [
+    {
+     "name": "Transcribe Video to Text: Vid2",
+     "dev": "Heat Studio LLC",
+     "ratings": 173,
+     "desc": "Transcribe Video to Text – Fast, Accurate, Easy\n\nTurn any video into text instantly with Transcribe Video to Text. Whether you’re a student, content creator, professional, or just need quick captions,"
+    },
+    {
+     "name": "Transcribe - Speech to Text",
+     "dev": "DENIVIP",
+     "ratings": 10855,
+     "desc": "Transcribe audio and video to text with Transcribe – your AI-powered transcription assistant. Get instant, high-quality transcripts, right from your phone.\n\nWhether you need to transcribe voice notes,"
+    },
+    {
+     "name": "Otter Transcribe Voice Notes",
+     "dev": "Otter.ai, Inc.",
+     "ratings": 82665,
+     "desc": "Never take meeting notes again. Otter AI is the fastest way to transcribe voice in real time. Get a meeting assistant that records audio, writes notes, automatically captures slides, and generates sum"
+    },
+    {
+     "name": "Transcribe Video - AnyScribe",
+     "dev": "Aleksandr Subbotin",
+     "ratings": 23,
+     "desc": "Looking for an app that can transcribe a YouTube video to text? Need to convert a podcast, lecture recording, or Instagram reel into a written transcript? Want an AI to summarize a long meeting or int"
+    },
+    {
+     "name": "Video to Text Transcribe",
+     "dev": "Osawa Shunsuke",
+     "ratings": 148,
+     "desc": "This app can recognize the voice of a video and convert it to text.\nIt can recognize 8 languages offline.\nBecause it is offline, it can recognize fast without time limit.\n\nYou can freely edit the reco"
+    },
+    {
+     "name": "Transkriptor - Speech to Text",
+     "dev": "Torapp",
+     "ratings": 1083,
+     "desc": "Transkriptor: The Ultimate AI-Powered Speech-to-Text App and Productivity Tool\n\nSave time with Transkriptor, your all-in-one AI assistant for transcription and AI note-taking. Easily transcribe meetin"
+    },
+    {
+     "name": "Sum AI: Speech to Text Notes",
+     "dev": "ZipoApps",
+     "ratings": 1680,
+     "desc": "Experience the future of digital assistance with the Summarizer: an AI transcript and summarizing tool, your go-to app for turning audio and video into text, transcribing with precision, and summarizi"
+    },
+    {
+     "name": "Video To Text - Transcribe MP4",
+     "dev": "Fenuku Kekeli",
+     "ratings": 6,
+     "desc": "Turn videos into readable text quickly.\n\nVideo To Text - Transcribe MP4 helps you convert spoken content in your videos into clean, searchable transcripts. Import a video, transcribe the speech, edit "
+    },
+    {
+     "name": "Transcribe Video to Text: Nota",
+     "dev": "InnoBee",
+     "ratings": 0,
+     "desc": "Nota turns the speech in your videos and recordings into clean, timestamped text — and it does the whole job on your iPhone. Nothing is uploaded, nothing waits in a queue, and it works in airplane mod"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "pharmacy technician",
+   "split": "test",
+   "top": [
+    {
+     "name": "Rx Corner",
+     "dev": "Collishaw Technologies",
+     "ratings": 49,
+     "desc": "Rx Corner is your most convenient app for studying on the go! Rx Corner will help you learn and memorize brand and generic equivalents, indications, medication classes, sig codes and common conversion"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "Top 20 Drugs Matching Game",
+     "dev": "Christopher Whitehead",
+     "ratings": 15,
+     "desc": "Play Denali Rx's top 20 matching game to help master the top 20 drugs.  You can play by choosing Generic-to-Brand or Brand-to-Generic.  Drug pronunciations now included for free.  This game will help "
+    },
+    {
+     "name": "Retail Pharmacy Calculator",
+     "dev": "Griffin Skaff",
+     "ratings": 1,
+     "desc": "Fast, accurate, and reliable pharmacy calculations in one app. Compute days supply, quantities, and refill dates instantly — designed for pharmacists, pharmacy students, and healthcare professionals.\n"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "Pharmacy Simulator",
+     "dev": "Imitated Environments Pty Ltd",
+     "ratings": 19,
+     "desc": "Pharmacy Simulator is a complete solution for training both students and professionals in all fields of pharmacy practice. Interact with patients, dispense medication, consult with prescribers, nurses"
+    },
+    {
+     "name": "NABP",
+     "dev": "NABP",
+     "ratings": 657,
+     "desc": "Managing your pharmacy career has never been easier. With the NABP app, you can quickly access your e-Profile, stay on top of your continuing pharmacy education status, and keep up to date about the l"
+    },
+    {
+     "name": "Prepia Pharmacy Tech Exam Prep",
+     "dev": "Prepia Inc",
+     "ratings": 904,
+     "desc": "Prepare confidently for your national PHARMACY TECHNICIAN  exam with 1,600+ realistic practice questions designed to help you study smarter and pass with confidence.\n\nWhether you're at work or relaxin"
+    },
+    {
+     "name": "PTCB",
+     "dev": "MastrAPI",
+     "ratings": 564,
+     "desc": "Pass your Pharmacy Technician exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Pharmacy Tec Educator Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Certified Pharmacy Technician Educator Exam Prep 2026 helps you pass with 500+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 500+ practice questions with detailed answer exp"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "mobile midwife ehr",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Mobile Midwife EHR",
+     "dev": "Daly Enterprises, Inc",
+     "ratings": 5294,
+     "desc": "OVERVIEW :\nMobile Midwife EHR is the premier electronic charting and patient health records software for the iPad, iPhone and Mac.  A client portal is available on all devices.  Clients can login and "
+    },
+    {
+     "name": "DrChrono EHR / EMR",
+     "dev": "drchrono Inc",
+     "ratings": 3731,
+     "desc": "DrChrono EHR is an all-in-one EHR that seamlessly integrates patient scheduling, clinical workflow, telemedicine/telehealth and medical billing. With our state-of-the art EHR system, you enter patient"
+    },
+    {
+     "name": "Guide to Clinical Midwifery",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 88,
+     "desc": "Guide to Clinical Midwifery is a must-have resource for midwives, women’s health nurse practitioners, and all levels of healthcare providers working in the women’s health field. Organized alphabetical"
+    },
+    {
+     "name": "NextGen Mobile Solutions",
+     "dev": "NextGen Healthcare",
+     "ratings": 3755,
+     "desc": "NextGen® Mobile drives clinical efficiencies for providers, so they can regain time to focus on what matters. The NextGen Mobile platform serves as a mobile extension of the EHR, streamlining key clin"
+    },
+    {
+     "name": "Mobile Doula",
+     "dev": "Daly Enterprises, Inc",
+     "ratings": 348,
+     "desc": "OVERVIEW : \nMobile Doula is the premier client management system for Doulas on the iPad/iPhone/Mac.  Doulas have clients fill out their information on an iPad, iPhone or through the Mobile Doula web-b"
+    },
+    {
+     "name": "eClinicalTouch 4",
+     "dev": "eClinicalWorks LLC",
+     "ratings": 1189,
+     "desc": "eClinicalTouch 4.0 requires EMR upgrade to V12.0.2 or above. \n\neClinicalTouch 4.0 puts eClinicalWorks users on the leading edge of healthcare innovation, combining the convenience, functionality, and "
+    },
+    {
+     "name": "Ingenious Med",
+     "dev": "Ingenious Med, Inc.",
+     "ratings": 3453,
+     "desc": "Ingenious Med, noted as a Top-100 Fastest Growing Health Company by Inc., developed its industry-leading impower mobile application to be the best charge capture and hand-off solution at the time-of-c"
+    },
+    {
+     "name": "AdvancedMD Mobile",
+     "dev": "AdvancedMD, Inc.",
+     "ratings": 4381,
+     "desc": "Practice on the go. Everything you need to chart now fits in your pocket. AdvancedMD Mobile is AdvancedMD’s mobile EHR app for iPad and iPhone. It allows you to give patients more attention with fewer"
+    },
+    {
+     "name": "CubHub",
+     "dev": "CubHub, Inc",
+     "ratings": 92,
+     "desc": "Designed for field employees who want Point of Care charting that keeps the focus on patient care.\n\nComplete daily charting from your mobile device.\n\nQuickly and easily manage interventions, medicatio"
+    },
+    {
+     "name": "iScribeHealth",
+     "dev": "JPJ Ventures, LLC",
+     "ratings": 561,
+     "desc": "iScribe cures physician burnout and allows physicians to focus on caring for patients rather than the computer screen.\n\niScribe is an easy-to-use app that gives providers anytime/anywhere access via i"
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "midwife data community",
+   "split": "test",
+   "top": [
+    {
+     "name": "Midwife Data Community",
+     "dev": "Shannon Hall",
+     "ratings": 0,
+     "desc": "Midwife Data Community: Essential Pregnancy & Birth Management\n\nMidwife Data Community is a practical tool designed for midwives and health professionals to efficiently store, view, and manage pregnan"
+    },
+    {
+     "name": "Mobile Midwife EHR",
+     "dev": "Daly Enterprises, Inc",
+     "ratings": 5294,
+     "desc": "OVERVIEW :\nMobile Midwife EHR is the premier electronic charting and patient health records software for the iPad, iPhone and Mac.  A client portal is available on all devices.  Clients can login and "
+    },
+    {
+     "name": "Guide to Clinical Midwifery",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 88,
+     "desc": "Guide to Clinical Midwifery is a must-have resource for midwives, women’s health nurse practitioners, and all levels of healthcare providers working in the women’s health field. Organized alphabetical"
+    },
+    {
+     "name": "BabyCenter Pregnancy Tracker",
+     "dev": "Everyday Health, Inc.",
+     "ratings": 297670,
+     "desc": "Download BabyCenter’s Pregnancy App to track your pregnancy week-by-week and win exclusive discounts and products from top-rated baby brands with our free loyalty program.\n\nBabyCenter is the go-to pre"
+    },
+    {
+     "name": "Ovia Parenting & Baby Tracker",
+     "dev": "Ovuline, Inc.",
+     "ratings": 10209,
+     "desc": "Ovia Parenting is the must-have app for individuals and families everywhere! From expert articles to daily tracking, and personalized email reminders and highlights, Ovia Parenting has everything a ne"
+    },
+    {
+     "name": "Ovia Cycle & Pregnancy Tracker",
+     "dev": "Ovuline, Inc.",
+     "ratings": 90503,
+     "desc": "At Ovia Health by Labcorp, we’re here to empower women at every stage of their health journey—from your period through fertility, pregnancy, postpartum, perimenopause, menopause, and beyond.    With p"
+    },
+    {
+     "name": "Medela Family - Breast Feeding",
+     "dev": "Medela AG",
+     "ratings": 4882,
+     "desc": "Winner of the Best Baby App of 2022 (Baby Innovation Awards).\nSilver Winner for Best Native Mobile App at the 2021 eHealthcare Leadership Awards.\nWinner of the 2022 Social Media and Digital Awards in "
+    },
+    {
+     "name": "Mom.life: Pregnancy & Moms",
+     "dev": "Wunderkind Media and Technology Corporation",
+     "ratings": 766,
+     "desc": "Mom.life is where moms actually talk to each other. Planning, pregnant, or already a mom — ask a real question and get real answers from moms who've been there. Not a cold search result, not a lonely "
+    },
+    {
+     "name": "HiMommy: Ovulation & Pregnancy",
+     "dev": "Idea Accelerator",
+     "ratings": 5434,
+     "desc": "HiMommy - Your assistant on the way to motherhood!\n\nWhether you are just starting your journey to motherhood or already expecting a baby, HiMommy is with you every step of the way. It is a period trac"
+    },
+    {
+     "name": "Baby Breastfeeding Tracker",
+     "dev": "Sevenlogics, Inc.",
+     "ratings": 1995,
+     "desc": "Baby Nursing, the easy-to-use app that helps you track your baby’s nursing progress, growth, diaper changes, doctor’s visits, and more. Just some of what you’ll get in this FREE app:\n\n• Track your nur"
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "dental hygiene academy seminar",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Dental Hygiene Academy Seminar",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 22,
+     "desc": "This app is exclusively for students who have attended a Dental Hygiene Academy Board Review seminar at www.DentalHygieneAcademy.com\n\nPlease be sure you know your Dental Hygiene Academy pin number to "
+    },
+    {
+     "name": "DHS Board Review",
+     "dev": "Dental Hygiene Seminars Inc.",
+     "ratings": 34,
+     "desc": "Confidence grows one answer at a time. Build yours with the DHS Board Review App. \n\nJoin the thousands of dental hygiene students who’ve passed their NBDHE with confidence. DHS is the trusted leader i"
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    },
+    {
+     "name": "StudentRDH Dental Hygiene",
+     "dev": "StudentRDH Learning Inc.",
+     "ratings": 19,
+     "desc": "Pass the NBDHE (National Dental Hygiene Board Exam) with confidence! \n\nStudentRDH app includes everything you need: \n• 5000+ practice questions \n• 17+ study guides \n• Mock exams \n\nWhat’s NEW? I’m glad"
+    },
+    {
+     "name": "AndyRDH #1 NBDHE App",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 4,
+     "desc": "The AndyRDH app is the worlds most used and highest rated mobile study tool designed to help students prepare for the National Board Dental Hygiene Examination (NBDHE), as well as the NBDE (Dental) an"
+    },
+    {
+     "name": "Tend Dental",
+     "dev": "Noho Dental, Inc",
+     "ratings": 3904,
+     "desc": "Tend makes going to the dentist an experience you’ll actually look forward to. With online booking, transparent pricing, beautiful studios, and a top-rated clinical team, we care for the whole you, no"
+    },
+    {
+     "name": "Teero - Dental Staffing",
+     "dev": "Teero Inc",
+     "ratings": 3310,
+     "desc": "W-2 flexibility for dental hygienists. Work when you want, where you want, with complete transparency into every office.\n\nNo commitments. No fees. Just straightforward shifts with real employee benefi"
+    },
+    {
+     "name": "Dental Hygiene Academy - Case Studies for Board Review Free",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 3,
+     "desc": "DENTAL HYGIENE ACADEMY, INC.\nCase Study Board Review for NBDHE (Hygiene), and NBDE (Dental) exams.  Brought to you by AndyRDH, ValerieRDH and various dental hygiene faculty nationwide.  \n\nWith this ap"
+    },
+    {
+     "name": "Dental Coach",
+     "dev": "Maatschap Parodontologie Praktijk Friesland",
+     "ratings": 0,
+     "desc": "Dental Coach; personal professional support in dental prevention. The personalised app provides individual assistance to patients and support in following advice. In the app, dental care providers can"
+    }
+   ],
+   "label": true
   }
  ],
  "rival": [

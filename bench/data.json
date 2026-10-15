@@ -19143,6 +19143,396 @@
     }
    ],
    "label": true
+  },
+  {
+   "term": "mobile midwife",
+   "top": [
+    {
+     "name": "Mobile Midwife EHR",
+     "dev": "Daly Enterprises, Inc",
+     "ratings": 5294,
+     "desc": "OVERVIEW :\nMobile Midwife EHR is the premier electronic charting and patient health records software for the iPad, iPhone and Mac.  A client portal is available on all devices.  Clients can login and "
+    },
+    {
+     "name": "Mobile Doula",
+     "dev": "Daly Enterprises, Inc",
+     "ratings": 348,
+     "desc": "OVERVIEW : \nMobile Doula is the premier client management system for Doulas on the iPad/iPhone/Mac.  Doulas have clients fill out their information on an iPad, iPhone or through the Mobile Doula web-b"
+    },
+    {
+     "name": "Midwife Mobile Stats",
+     "dev": "Midwives at the Edges",
+     "ratings": 2,
+     "desc": "Midwives and student midwives - we all keep a log of the births that we attend. Designed by a CPM and a CNM, we created this App so that you have a birth log that is as detailed or simple as you'd lik"
+    },
+    {
+     "name": "Guide to Clinical Midwifery",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 88,
+     "desc": "Guide to Clinical Midwifery is a must-have resource for midwives, women’s health nurse practitioners, and all levels of healthcare providers working in the women’s health field. Organized alphabetical"
+    },
+    {
+     "name": "Easy Contraction Timer",
+     "dev": "Cuberob",
+     "ratings": 52,
+     "desc": "Timing your contractions has never been so easy! Just press start when a contraction begins, and stop when it ends — it's as simple as that.\n\nAs a contraction timer and labor tracker, Easy Contraction"
+    },
+    {
+     "name": "ANMF Diary App",
+     "dev": "ANMF (Vic Branch)",
+     "ratings": 0,
+     "desc": "A handy mobile toolkit for nurses, midwives and personal care worker members of ANMF (Vic Branch). The app now includes a pay calculator which provides an estimate for shifts in your shift planner if "
+    },
+    {
+     "name": "NurseDash",
+     "dev": "Synchronicity Health Technology Inc.",
+     "ratings": 354,
+     "desc": "NurseDash connects nurses and healthcare facilities to fill shifts on-demand."
+    },
+    {
+     "name": "Gento",
+     "dev": "Nursing Without Walls, Inc.",
+     "ratings": 31,
+     "desc": "A medical job search for medical professionals like nurses and therapists focused on in-home health care.\n \nAre you currently working in a nursing or therapy career that takes up all your time while p"
+    },
+    {
+     "name": "AirStrip OB",
+     "dev": "AirStrip Technologies, LLC",
+     "ratings": 3,
+     "desc": "IMPORTANT:  AirStrip OB is intended for use by Obstetricians who deliver babies.  In order to use AirStrip OB, the hospital you practice at must have purchased and installed the AirStrip OB system.  T"
+    },
+    {
+     "name": "Tide - Contraction Timer",
+     "dev": "B Gilmore, LLC",
+     "ratings": 284,
+     "desc": "Tide is a beautifully simple contraction timer and labor companion — built to keep you calm and present while everyone you love follows along.\n\nWhen labor starts, the last thing you want is a cluttere"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "vtprep: vet tech test prep",
+   "top": [
+    {
+     "name": "VTPrep: Vet Tech Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 207,
+     "desc": "Pass your VTNE with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nUpdated for the 2026 VTN"
+    },
+    {
+     "name": "VTNE Exam Prep Vet Tech Test",
+     "dev": "Best Fun Games",
+     "ratings": 1183,
+     "desc": "Pass your Veterinary Technician National Examination (VTNE) exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,500+ ques"
+    },
+    {
+     "name": "VTNE Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 31,
+     "desc": "VTNE Test Prep 2026 is an application that has been carefully designed and developed by industry exam experts. It has over 1,500 high quality test questions with answer explanations, multiple test mod"
+    },
+    {
+     "name": "2026 ASVAB Practice Test Prep",
+     "dev": "Nguyen Nhu Quynh",
+     "ratings": 2651,
+     "desc": "Ready to start your military career? 2026 ASVAB Practice Test Prep is your go-to app for preparing for the Armed Services Vocational Aptitude Battery (ASVAB) test. Whether you aim to join the Army, Na"
+    },
+    {
+     "name": "VTNE Exam Prep Practice 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 5,
+     "desc": "Help you prepare for the VTNE certification exam and pass it on your first attempt at the actual exam! Use the mobile app VTNE Practice Exam Prep 2026 developed by our exam experts to help prepare for"
+    },
+    {
+     "name": "ASVAB Practice Test By ABC",
+     "dev": "Thanh Hung",
+     "ratings": 28877,
+     "desc": "Prepare confidently for your 2026 ASVAB exam with the all-in-one ASVAB Practice Test app — your ultimate study companion designed to help you master every section and pass with confidence! Built by ex"
+    },
+    {
+     "name": "VTNE Vet Tech Test Prep 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 3,
+     "desc": "3000+ exam-like questions, 1000+ flashcards, over a dozen practice tests and real-life scenarios make Ultraprep a must-have tool to prepare for the VTNE.\n\nThe Veterinary Technician National Examinatio"
+    },
+    {
+     "name": "VTNE Vet Tech Prep 2026",
+     "dev": "Darya Pyzhyk",
+     "ratings": 0,
+     "desc": "Advance Your Career with the Veterinary Technician National Examination\n\nElevate your professional journey with Rocket Prep's mobile-optimized study resource for the Veterinary Technician National Exa"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "ASVAB Mastery | Practice Test",
+     "dev": "Higher Learning Technologies",
+     "ratings": 9881,
+     "desc": "Conquer the ASVAB® exam and launch your military career with ASVAB Mastery! Dive into over 1,000+ exam questions, just like the real ASVAB test experience.\n\n\nWhether you're aiming for the Army, Navy, "
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "occupational therapy exam 2026",
+   "top": [
+    {
+     "name": "Occupational Therapy Exam 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 58,
+     "desc": "Crush the OT Exam Without Losing Your Grip on Reality\n\nYou picked occupational therapy to make a difference, change lives, and maybe wear scrubs to work. But before you can do any of that, there’s the"
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    },
+    {
+     "name": "Occupational Therapy Exam Test",
+     "dev": "Prepia Inc",
+     "ratings": 9,
+     "desc": "Study Occupational Therapy smarter and faster with all the tools you need to succeed! Whether you’re taking a break at work or relaxing at home, bring our Occupational Therapy Exam Prep App with you a"
+    },
+    {
+     "name": "AMTA Exam Prep",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 8936,
+     "desc": "The official American Massage Therapy Association’s study app will help you prepare for the MBLEx like never before. Study anywhere, anytime with 1000 challenging practice questions and full answer ra"
+    },
+    {
+     "name": "Pocket Prep LCSW 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 5051,
+     "desc": "Unlock 1,000 LCSW practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key LCS"
+    },
+    {
+     "name": "Occupational Therapy Exam Prep",
+     "dev": "Tourkia CHIHI",
+     "ratings": 2,
+     "desc": "With this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our 5 study modes embedded in this app.\nThis app is a combination of sets"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "nremt paramedic exam prep 2026",
+   "top": [
+    {
+     "name": "NREMT PARAMEDIC Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 65,
+     "desc": "PASS THE NREMT PARAMEDIC EXAM\n\nNREMT Paramedic Exam Prep 2026 helps you study smarter, not harder. With over 1800+ practice questions, AI-powered progress tracking, and realistic exam simulations, you"
+    },
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobil"
+    },
+    {
+     "name": "MedicTests 2026 EMS Education",
+     "dev": "MedicTests",
+     "ratings": 2067,
+     "desc": "Experience the ultimate EMS Education System, designed exclusively for MedicTests members. \n\nUnlock personalized guidance and engaging learning tools like our personalized learning paths, the Rapid Le"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us f"
+    },
+    {
+     "name": "NREMT Prep. Medic Test 2026",
+     "dev": "MyApps",
+     "ratings": 1043,
+     "desc": "NREMT Prep: EMT & Paramedic Practice Test 2026 — your ultimate study companion built by active emergency physicians and paramedics, designed to help you pass the National Registry of Emergency Medical"
+    },
+    {
+     "name": "EMT Prep 2026 - Practice Exams",
+     "dev": "Spurry Inc.",
+     "ratings": 11324,
+     "desc": "The National Registry Emergency Medical Technician (NREMT) cognitive exam is a computer adaptive test (CAT). The number of questions a candidate can expect on the EMT exam ranges from 70 to 120. Each "
+    },
+    {
+     "name": "Paramedic Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 14,
+     "desc": "Ready to become a paramedic? Practice 400+ practice questions, mock tests & AI analysis to pass the NREMT Paramedic 2026 exam the first time.\n\nOur Paramedic Practice Tests NREMT is specifically design"
+    },
+    {
+     "name": "Paramedic Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 63,
+     "desc": "Paramedic Exam Prep 2026 is an exam preparation app that will help you pass the Paramedic exam administered by the National Registry of Emergency Medical Technicians (NREMT) with a high score on your "
+    },
+    {
+     "name": "EMT Prep 2025: Pass Test Exam",
+     "dev": "Pixel Pioneers LLC",
+     "ratings": 800,
+     "desc": "Pass the NREMT EMT, EMR, AEMT, and Paramedic exams confidently on your first attempt. With 4,000+ expertly crafted questions, detailed explanations, and a vast library of practice tests and quizzes, y"
+    },
+    {
+     "name": "Medic Pass 2026: EMS Prep",
+     "dev": "INAPPLAB OU",
+     "ratings": 662,
+     "desc": "Medic Pass 2026: EMS Prep is your comprehensive solution for passing the NREMT EMR, EMT, AEMT, and Paramedic certification exams on your very first try! Developed by industry-leading exam specialists,"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "phlebotomy nha cpt exam test",
+   "top": [
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written b"
+    },
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals natio"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 51,
+     "desc": "Help you prepare for the NHA CPT certification exam and pass it on your first attempt at the actual exam! Use the mobile app Phlebotomy NHA CPT Prep 2026 developed by our exam experts to help prepare "
+    },
+    {
+     "name": "Phlebotomy NHA CPT Test Prep",
+     "dev": "Ultra Prep",
+     "ratings": 11,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your te"
+    },
+    {
+     "name": "Pocket Prep NHA CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 1138,
+     "desc": "Unlock 1,000 CPT practice questions with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT concepts and improve retention to"
+    },
+    {
+     "name": "NHA CPT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 128,
+     "desc": "NHA CPT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,000 high-quality test questions and answer explanations, multiple test mod"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Prep | 2026",
+     "dev": "Get Exam",
+     "ratings": 70,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the phlebotomy material with 1500+ exam-like questions and 500+ flashcards that help you remember more. Get access to over a dozen practice exams that will help you pass"
+    },
+    {
+     "name": "Phlebotomy Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 423,
+     "desc": "Get fully prepared to earn your Phlebotomy Technician certification with the all-in-one Phlebotomy Practice Test app — your personal study coach for passing the exam with ease and confidence. Trusted "
+    },
+    {
+     "name": "ASCP PBT Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 18,
+     "desc": "Help you prepare for the ASCP PBT certification exam and pass it on your first attempt at the actual exam! Use the mobile app ASCP PBT Exam Prep 2026 developed by our exam experts to help prepare for "
+    },
+    {
+     "name": "Phlebotomy Exam Prep & Study",
+     "dev": "Anthony Perry",
+     "ratings": 0,
+     "desc": "The NHA Certified Phlebotomy Technician exam covers venipuncture, specimen processing, patient safety, and compliance across five domains. About one in four candidates does not pass on the first attem"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "voice recorder & audio editor",
+   "top": [
+    {
+     "name": "Voice Recorder & Audio Editor",
+     "dev": "TapMedia Ltd",
+     "ratings": 452907,
+     "desc": "Voice Recorder for the iPhone and iPad - download now for FREE!\n\nUNLIMITED RECORDINGS\nRecord for as long as you want and as many times as you want. (No restrictions as long as you have enough availabl"
+    },
+    {
+     "name": "Voice recorder: Audio editor",
+     "dev": "Hieu Nguyen",
+     "ratings": 7494,
+     "desc": "best recorder for voice recording with high quality\nvoice recorder application is simple and easy to use.\nYou can reliably record your meetings, personal notes, speeches, lectures, songs with high qua"
+    },
+    {
+     "name": "SoundLab - Audio Editor",
+     "dev": "孛 刘",
+     "ratings": 14474,
+     "desc": "Bringing desktop-grade audio editing, recording, and on-device AI together, SoundLab is a powerful sound editor that lets you edit audio, clean up speech, separate vocals, and mix up to 16 tracks.\n\nSo"
+    },
+    {
+     "name": "Voice Record Pro",
+     "dev": "Dayana Networks Ltd",
+     "ratings": 16345,
+     "desc": "Professional Voice Recorder for iPhone, iPad and iWatch! No limitation, Completely FREE!\n\nVoice Record Pro is a professional voice recorder. It allows you to record voice memos and on-site sounds at u"
+    },
+    {
+     "name": "Voice Memos",
+     "dev": "Apple",
+     "ratings": 1099102,
+     "desc": "Voice Memos turns your iPhone, iPad, or Apple Watch into a portable audio recorder, making it easy to capture and share personal notes, song ideas, family moments, classroom lectures, and more. Editin"
+    },
+    {
+     "name": "Voice Recorder Lite: Record HD",
+     "dev": "LiveBird Technologies Private Limited",
+     "ratings": 73813,
+     "desc": "Live sound with its true feelings. Enjoy recording, playback and audio editing with Voice Recorder. We have fine tuned it for your day-to-day activities. Attending something important and want to reco"
+    },
+    {
+     "name": "Audio Editor - Music editor",
+     "dev": "苏娟 陈",
+     "ratings": 30353,
+     "desc": "[Audio Editor] A simple and powerful audio editing tool. It can complete the professional audio clips work easily on iPhone and iPad \n\n[Edit] \n-「Splicing and sound mixing」: One-key switching; support "
+    },
+    {
+     "name": "Voice Recorder & Notes Pro",
+     "dev": "Linfei Ltd.",
+     "ratings": 13302,
+     "desc": "Voice Recorder & Notes Pro can meet all your recording needs and help you work more efficiently.\n\nTranscribe all your meetings, interviews, lectures, and everyday voice conversations in real time.\n\nPO"
+    },
+    {
+     "name": "Voloco: Vocal Recording Studio",
+     "dev": "Resonant Cavity, Inc",
+     "ratings": 86078,
+     "desc": "Turn your phone into a professional vocal studio.\n\nWhether you're a singer, rapper, content creator, or just love making music, Voloco helps you sound polished and professional. Sing and rap over beat"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

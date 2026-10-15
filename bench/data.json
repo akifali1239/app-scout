@@ -24286,6 +24286,36 @@
    "note": "Bu kategoride Apple genelde sağlık iddiaları yüzünden reddediyor",
    "label": "Ret riski",
    "split": "test"
+  },
+  {
+   "note": "Aradığım meslekle hiçbir bağlantısı yok, bambaşka bir konu",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Sonuçlar kaynak aramamla ilgisiz oyun ve eğlence uygulamaları",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Son güncelleme 2019, ekran görüntüleri eski iOS tasarımında, yorumlar bozuk diyor",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "Rakipler yıllardır güncellenmemiş, arayüzleri çok eski ve hatalı",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Gerçek zamanlı uçak motoru arızası teşhisi için sensör donanımı ve sertifikasyon gerekir, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Sıradan bir not alma fikri, beni heyecanlandırmıyor, üzerinde çalışmak istemem",
+   "label": "Sıkıcı fikir",
+   "split": "train"
   }
  ],
  "kind": [

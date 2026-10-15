@@ -17808,6 +17808,378 @@
     }
    ],
    "label": false
+  },
+  {
+   "term": "suture",
+   "split": "test",
+   "top": [
+    {
+     "name": "Suture: Laceration Repair App",
+     "dev": "Tom Fadial",
+     "ratings": 16,
+     "desc": "Figuring out how to manage a laceration just got a lot easier. With Suture.app, you'll have all the information you could need at your fingertips. Our easy-to-use interface will guide you from start t"
+    },
+    {
+     "name": "Fractures: Splinting App",
+     "dev": "Tom Fadial",
+     "ratings": 23,
+     "desc": "Say hello to Fractures.app - your new best friend when it comes to dealing with fractures and bony injuries! This awesome (and free) app is here to make life easier for emergency physicians and health"
+    },
+    {
+     "name": "Nerve Block",
+     "dev": "Tom Fadial",
+     "ratings": 31,
+     "desc": "Getting your patient’s pain under control shouldn’t be so hard! With Nerve Block, all you need to do is select the area that you need anesthesia or analgesia and you’ll get a list of eligible nerve bl"
+    },
+    {
+     "name": "Surgical Suture Material",
+     "dev": "Roman Moiseev",
+     "ratings": 0,
+     "desc": "Surgical Suture Materials is a comprehensive visual guide to suture threads and surgical needles, structured by their type and practical use.\n\nKey features:\n1) High-quality images of surgical needles "
+    },
+    {
+     "name": "WikEM",
+     "dev": "OpenEM Foundation",
+     "ratings": 4731,
+     "desc": "WikEM is an online wiki and database of emergency medicine knowledge to assist physicians with their daily practice. The content is continuously updated from WikEM.org allowing for rapid reference of "
+    },
+    {
+     "name": "Suture Selector",
+     "dev": "Amy Chung",
+     "ratings": 1,
+     "desc": "Suture Selector is a comprehensive resource designed to conveniently and succinctly summarize information regarding suture characteristics. This App is ideal as a reference for healthcare professional"
+    },
+    {
+     "name": "Teach Me Surgery",
+     "dev": "TeachMeSeries Limited",
+     "ratings": 226,
+     "desc": "Teach Me Surgery provides students, doctors, and health professionals with a comprehensive surgical learning platform. Includes an integrated surgical encyclopaedia, 3D models of surgical anatomy and "
+    },
+    {
+     "name": "Surgical Suture Easy Mastery",
+     "dev": "Abdulkarim Nasir",
+     "ratings": 0,
+     "desc": "Excellent surgeons begin with excellent basic techniques. In this app, you'll learn the basics of suture techniques. You'll find the review of simple suture, mattress suture, running suture and some o"
+    },
+    {
+     "name": "The Chief Complaint",
+     "dev": "Escavo, Inc",
+     "ratings": 653,
+     "desc": "The Chief Complaint app now includes access the new ESCAVO Clinical Community, a forum where clinicians can exchange ideas, ask questions and collaborate on sepsis and other clinical topics.\n\nHow woul"
+    },
+    {
+     "name": "NxT Advisor",
+     "dev": "WuTap LLC",
+     "ratings": 15,
+     "desc": "Next generation Suture look up application. Identify alternatives and potential upgrades for selected sutures."
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "sound amplifier",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Sound Amplifier | Volume Boost",
+     "dev": "Irakli Tsuladze",
+     "ratings": 2310,
+     "desc": "Enhance Your Hearing with Audio Amplifier!\nDon't miss out on a single sound – open the door to a world of amplified audio!\n\nKey Features\n\n+ Louder Volume Boost:\n> Select from various sound amplificati"
+    },
+    {
+     "name": "Sound Amplifier",
+     "dev": "Mighty Fine Apps LLC",
+     "ratings": 1239,
+     "desc": "Sound Amplifier turns your phone into a hearing aid. Make your volume 100x louder and eliminate background noise while protecting your ears. Just connect your existing headphones.\n\nWhat you can do wit"
+    },
+    {
+     "name": "Volume Boost – Sound Amplifier",
+     "dev": "Evgenia Pervushina",
+     "ratings": 3691,
+     "desc": "Use the power of your smartphone and latest technologies for maximum sound amplification. Increase the volume and improve the sounds around you. App helps you to improve your sound perception. The app"
+    },
+    {
+     "name": "LISTENING DEVICE - HEARING AID",
+     "dev": "Application Development 21",
+     "ratings": 1515,
+     "desc": "LISTENING DEVICE + SOUND AMPLIFIER 4 Music & Video + CAPTION CALL + Customized for the Hard of HEARING\n◆Listening Device delivers powerful sound amplification for clearer everyday hearing\n◆Enhance spe"
+    },
+    {
+     "name": "Hear Boost: Hearing Aid & Mic",
+     "dev": "Future Moments",
+     "ratings": 11623,
+     "desc": "Hear Boost gives you enhanced hearing and recording ability to easily capture far away conversations and sounds. Hear the world around you in an enhanced way like you may have never heard it before. L"
+    },
+    {
+     "name": "Sound Amplifier +",
+     "dev": "heekyung moon",
+     "ratings": 14,
+     "desc": "Sound Amplifier picks up the voices and sounds around you with your phone's microphone and plays them into your earphones in real time — so a soft-spoken friend, the TV across the room or a lecture fr"
+    },
+    {
+     "name": "Ear Spy Apps - Super Hearing",
+     "dev": "Nino Gogoladze",
+     "ratings": 1274,
+     "desc": "Keep important private photos, videos, and files hidden in plain sight!\n\nAdaptive Audio Recording for All Environments:\n■ Capture high-quality audio with our advanced recorder.\n■ Boost audio clarity f"
+    },
+    {
+     "name": "Hearing Amplifier: Clear Sound",
+     "dev": "ZipoApps",
+     "ratings": 926,
+     "desc": "*** Experience Clear and Amplified Sound Like Never Before - Even from a Distance ***\n\nThe Hearing Clear from Distance app is your personal sound enhancer, designed to help you hear more clearly, even"
+    },
+    {
+     "name": "Sound Amplifier: Hearing Aid",
+     "dev": "Hina Batool",
+     "ratings": 14,
+     "desc": "Hear Boost transforms your device into a super hearing aid that amplifies sounds up to 200x. Whether you're in a lecture hall, crowded café, or just want to hear conversations more clearly — this soun"
+    },
+    {
+     "name": "Hearing Aid Sound Amplifier",
+     "dev": "Inverse.AI",
+     "ratings": 23,
+     "desc": "Hearing Aid & Sound Amplifier is a powerful ear amplifier app that boosts hearing in real time. Use your Phone as a sound amplifier to enhance conversations, increase volume and hear surrounding audio"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "speaker cleaner",
+   "split": "train",
+   "top": [
+    {
+     "name": "Speaker Cleaner · Water Eject",
+     "dev": "BELKALABS PTE. LTD.",
+     "ratings": 160,
+     "desc": "Restore Crystal-Clear Sound with Speaker Cleaner\n\nBring your device’s speakers back to life with Speaker Cleaner - the smart, safe, and effective way to remove dust, dirt, and moisture from your audio"
+    },
+    {
+     "name": "Clear Wave",
+     "dev": "Appchi LLC",
+     "ratings": 36799,
+     "desc": "The app plays sounds that can help you test your speakers.\n\nWith the help of a sound level meter, you can find out how many decibels and hertz the device you are checking reproduces.\n\nYou can also fin"
+    },
+    {
+     "name": "Clean Wave - Clear speaker",
+     "dev": "David Krejci",
+     "ratings": 2783,
+     "desc": "A simple and intuitive application that allows you to play sounds, clean speaker at a strictly defined frequency by a clean wave speaker shortcut. It is an all around good speaker cleaner. It allows y"
+    },
+    {
+     "name": "Speaker Cleaner: Water & Dust",
+     "dev": "Sunandan Sekhar Das",
+     "ratings": 99,
+     "desc": "Is your phone speaker sounding muffled after getting wet? Don't worry! Speaker Cleaner is here to rescue your audio. Our advanced sound wave technology cleans dust and ejects water from your phone's s"
+    },
+    {
+     "name": "Speaker Cleaner: Eject Water",
+     "dev": "WORLD LABS COMPANY LIMITED",
+     "ratings": 5457,
+     "desc": "Low volume, muffled audio, or distorted sound can often be caused by water and dust trapped inside your speakers.\n\nSpeaker Cleaner is an all-in-one speaker care app that helps remove water, clear dust"
+    },
+    {
+     "name": "Water Eject ‒ Speaker Cleaner",
+     "dev": "Tiny Boom Ltd.",
+     "ratings": 30702,
+     "desc": "Ever feel like your phone could use a little extra love? Clear Wave has got you covered with an array of fantastic audio tools.\n\nWhy you need Clear Wave:\n\n- Generate clear sound waves at frequencies f"
+    },
+    {
+     "name": "Speaker Cleaner & Dust Remover",
+     "dev": "Usama Umar",
+     "ratings": 6,
+     "desc": "Speaker Cleaner & Water Remover\n\nSpeaker Cleaner helps you remove water, dust, and trapped particles from your phone speakers using specially designed sound waves and vibration frequencies. Restore cl"
+    },
+    {
+     "name": "Speaker Cleaner - Clear Wave",
+     "dev": "Sunshine Software Labs",
+     "ratings": 2502,
+     "desc": "Speaker Cleaner removes water and dust from your iPhone speaker with sonic sound waves. Use Water Eject mode to push liquid out, clean trapped dust, and restore clearer sound in seconds.\n\nBoost volume"
+    },
+    {
+     "name": "Speaker Cleaner ‒ Clear Wave",
+     "dev": "Umair Afzal",
+     "ratings": 204,
+     "desc": "Speaker Cleaner ‒ Clear Wave  is a simple and powerful audio utility designed to help you test, tune, and restore your device’s speaker performance using specially generated sound waves.\n\nBy playing c"
+    },
+    {
+     "name": "Sonic | Water Eject",
+     "dev": "VonBruno LLC",
+     "ratings": 21343,
+     "desc": "Sonic is the original app used to clean water from your iPhone speakers. Use the speaker cleaning session to clear out your speakers and get things sounding like new again. Sonic generates a sine wave"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "c. marshall chiropractic professional corp.",
+   "split": "test",
+   "top": [
+    {
+     "name": "Concussion Fix",
+     "dev": "C. Marshall Chiropractic Professional Corp.",
+     "ratings": 13,
+     "desc": "The Concussion Fix program is a digital therapeutic program that uses the latest scientific research to help patients better understand their concussion symptoms and apply proven principles to change "
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "Chiropractic Boards 3",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 15,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 3 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Muscle Trigger Points",
+     "dev": "Real Bodywork",
+     "ratings": 552,
+     "desc": "A reference for trigger points and referral patterns for 108 muscles. Features 160 trigger points with their corresponding referral patterns, 80 conditions that can be caused by trigger points, and 25"
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "allied pharmacy technician training program llc",
+   "split": "dev",
+   "top": [
+    {
+     "name": "AlliedRx",
+     "dev": "Allied Pharmacy Technician Training Program LLC",
+     "ratings": 3,
+     "desc": "Learn on the go with the official AlliedRx Institute of Healthcare app! Enhance your learning experience and go mobile!- You can easily access your course on your mobile phone at your own pace. Watch "
+    },
+    {
+     "name": "Pharmacy Technician PTCE Mock Test and Explanation",
+     "dev": "Abdullah Nurum",
+     "ratings": 972,
+     "desc": "This app is built for people who want to take the PTCB exam. It includes the following sections: Tests(Mock Test and Learning mode), Book Outline, Flash Cards, Jobs and Schools. The Tests section incl"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "Prepia Pharmacy Tech Exam Prep",
+     "dev": "Prepia Inc",
+     "ratings": 904,
+     "desc": "Prepare confidently for your national PHARMACY TECHNICIAN  exam with 1,600+ realistic practice questions designed to help you study smarter and pass with confidence.\n\nWhether you're at work or relaxin"
+    },
+    {
+     "name": "My Community Pharmacy",
+     "dev": "Digital Pharmacist Inc.",
+     "ratings": 2643,
+     "desc": "The My Community Pharmacy app allows you and your family to securely communicate with 2,500 independent pharmacies nationwide.  Refill your prescriptions with one click, get refill reminders, get disc"
+    },
+    {
+     "name": "Accredo",
+     "dev": "Accredo Health Group, Inc",
+     "ratings": 54865,
+     "desc": "Welcome to the fully redesigned Accredo app. The Accredo app has been updated to make it easier to manage your specialty medications wherever you are, whenever you want. \n\nThis app is available only f"
+    },
+    {
+     "name": "PTCB",
+     "dev": "MastrAPI",
+     "ratings": 564,
+     "desc": "Pass your Pharmacy Technician exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "PTCB - Pharmacy Tech Exam Preparation",
+     "dev": "1X1 Apps Limited",
+     "ratings": 39,
+     "desc": "The Pharmacy Technician Certification Exam (PTCE) is conducted by Pharmacy Technician Certification Board (PTCB). PTCE scores are used to determine whether individuals have demonstrated the knowledge "
+    }
+   ],
+   "label": true
+  },
+  {
+   "term": "pharmacy technician's letter®",
+   "split": "train",
+   "top": [
+    {
+     "name": "NABP",
+     "dev": "NABP",
+     "ratings": 657,
+     "desc": "Managing your pharmacy career has never been easier. With the NABP app, you can quickly access your e-Profile, stay on top of your continuing pharmacy education status, and keep up to date about the l"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "PTCB",
+     "dev": "MastrAPI",
+     "ratings": 564,
+     "desc": "Pass your Pharmacy Technician exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "PTCB Exam Prep 2026 | EZPrep",
+     "dev": "EZ Test Prep",
+     "ratings": 1236,
+     "desc": "Ace Your PTCB Without Mixing Up Heart Meds and Laxatives.\n\nSo you’ve chosen the noble path of counting pills, deciphering doctor chicken scratch, and making sure no one confuses their antibiotics with"
+    },
+    {
+     "name": "Prepia Pharmacy Tech Exam Prep",
+     "dev": "Prepia Inc",
+     "ratings": 904,
+     "desc": "Prepare confidently for your national PHARMACY TECHNICIAN  exam with 1,600+ realistic practice questions designed to help you study smarter and pass with confidence.\n\nWhether you're at work or relaxin"
+    },
+    {
+     "name": "Pharmacy Technician Exam Rev",
+     "dev": "Karim SLITI",
+     "ratings": 0,
+     "desc": "Get +3800 Study notes & exam quiz & cases and Prepare and Pass Your pharmacy  exam very easily and guarantee the highest score.\n\nThis app is a combination of sets, containing practice questions, study"
+    }
+   ],
+   "label": true
   }
  ],
  "rival": [

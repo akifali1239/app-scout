@@ -24259,6 +24259,42 @@
    "hi": "stopwatch timer",
    "lo": "video streaming platform like netflix",
    "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "scientific notation converter",
+   "lo": "global ride sharing marketplace with drivers",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "dice probability calculator",
+   "lo": "multiplayer voice chat platform with matchmaking",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "daily habit checklist",
+   "lo": "live video streaming platform for creators",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "concrete volume calculator",
+   "lo": "online stock brokerage with trade execution",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "recipe scaling calculator",
+   "lo": "real-time multiplayer battle royale shooter",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "resistor color code reference",
+   "lo": "food delivery marketplace with courier network",
+   "split": "test"
   }
  ],
  "note": [

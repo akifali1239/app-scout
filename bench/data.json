@@ -20755,6 +20755,56 @@
     "adjacent"
    ],
    "split": "dev"
+  },
+  {
+   "term": "veterinary anatomy",
+   "split": "test",
+   "apps": [
+    {
+     "name": "Vetflow - Learn Anatomy",
+     "dev": "Vetflow GmbH",
+     "ratings": 9,
+     "desc": "Vetflow - your interactive anatomy atlas for veterinary medicine.\n\nWith 3D models, articles, and quizzes you will learn skeletons, bones, joints, muscles, nerves, vessels, and much more - faster and more effectively, whether in your studies, in practice, or in teaching.\nPerfect for veterinary medici"
+    },
+    {
+     "name": "IMAIOS vet-Anatomy",
+     "dev": "IMAIOS",
+     "ratings": 160,
+     "desc": "vet-Anatomy is an atlas of veterinary anatomy based on medical imaging examinations and illustrations. This atlas was created on the same framework as e-Anatomy which is one of the most popular human anatomy atlases, particularly in the radiology field. This atlas is intended for veterinary students"
+    },
+    {
+     "name": "Complete Canine Anatomy 3D",
+     "dev": "GraphicVizion",
+     "ratings": 9,
+     "desc": "**The free version provides access to the ligament and skeletal systems. Upgrade to the premium version to unlock all additional systems and features.**\n\nMake learning more efficient and engaging with the help of our interactive 3D atlas of canine anatomy. Easily get a clear visual understanding, dr"
+    },
+    {
+     "name": "Veterinary Dictionary app",
+     "dev": "Jushkinbek Bekniyozov",
+     "ratings": 0,
+     "desc": "Veterinary Offline Dictionary – Your Complete Veterinary Reference\n\nVeterinary Dictionary is a comprehensive veterinary reference designed for veterinary students, veterinarians, veterinary technicians, researchers, and animal health professionals.\n\nQuickly search and explore veterinary terms, disea"
+    },
+    {
+     "name": "Vetcalculators",
+     "dev": "LifeLearn USA",
+     "ratings": 615,
+     "desc": "The Ultimate Veterinary Calculator App \nVetcalculators is a Monthly Subscription. First Month is Free\n\nVetcalculators is the number one Veterinary Calculator App for veterinarians, veterinary technicians, and staff. With Vetcalculators, one can quickly and easily calculate a variety of veterinary do"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ]
   }
  ],
  "risk": [

@@ -17386,6 +17386,378 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "forklift certification test",
+   "split": "test",
+   "top": [
+    {
+     "name": "Forklift Certified Pro",
+     "dev": "Flat Earth LLC",
+     "ratings": 9,
+     "desc": "Get OSHA-aligned forklift operator training and your certificate — right from your phone. Train at your own pace, pass the final exam, and download your certificate the same day.\n\nForklift Certified i"
+    },
+    {
+     "name": "Forklift Theory Essentials",
+     "dev": "Deep River Development Ltd",
+     "ratings": 3,
+     "desc": "FORKLIFT THEORY ESSENTIALS – Your complete companion for mastering forklift theory and passing your Forklift Operator Test!\n\nKey Features:\n\nExpert-Written Questions: Created by RTITB and ITSSAR accred"
+    },
+    {
+     "name": "Forklift Practice Test",
+     "dev": "Ben Wallenberg",
+     "ratings": 4,
+     "desc": "Forklift Practice Test — Free Practice Tests & Exam Prep\n\nPass your Forklift Practice Test on the first try with hundreds of real practice questions, detailed answer explanations, and instant scoring."
+    },
+    {
+     "name": "CDL Permit: Practice Test 2026",
+     "dev": "Mapola LTD",
+     "ratings": 18161,
+     "desc": "Ace your 2026 CDL exam with a great level of self-assurance!\\n\\nA CDL is a driver's license that allows you to operate commercial motor vehicles. Obtaining a CDL means you have the skills and capabili"
+    },
+    {
+     "name": "Forklift Exam Prep 2026",
+     "dev": "Deeun Inc.",
+     "ratings": 0,
+     "desc": "FORKLIFT PREP: YOUR OSHA CERTIFICATION COMPANION\n\nNearly 100 workers are killed in forklift accidents every year. Most involve tip-overs. Most are preventable.\n\nThis app does not just quiz you. It sho"
+    },
+    {
+     "name": "ASE Test Prep Auto Exam 2026",
+     "dev": "Best Fun Games",
+     "ratings": 2096,
+     "desc": "Pass your ASE Series A (Automobile & Light Truck Certification) exams with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 3,000+"
+    },
+    {
+     "name": "Certification Questions",
+     "dev": "SERVICES & CONSULTING FORCE S.R.L.",
+     "ratings": 122,
+     "desc": "Launched in 2016, www.certification-questions.com, has grown to become a leading service regarding education for professionals who want to obtain an IT Certification.\n\nOur goal is to offer an innovati"
+    },
+    {
+     "name": "CDL Prep Practice Test Genie",
+     "dev": "Elegant eLearning",
+     "ratings": 14412,
+     "desc": "Ace your CDL permit (CLP), HazMat, and all other endorsement tests in 2026. CDL Genie gives you exam-level practice questions for every endorsement.\n\nWhat makes CDL Genie unique:\n- 99.06% verified pas"
+    },
+    {
+     "name": "DMV Permit Practice Test 2026+",
+     "dev": "Mapola LTD",
+     "ratings": 3617,
+     "desc": "Conquer your 2026 DMV, CDL, and motorcycle permit exams with total confidence!\n\nAce your driving exams with a great level of self-assurance!\n\nCDL is a driver's license that allows you to operate comme"
+    },
+    {
+     "name": "ServSafe | Practice Test 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 1781,
+     "desc": "Ace Your ServSafe Without Turning the Kitchen into a Crime Scene\n\nSo, you’ve decided to be the hero the kitchen never knew it needed. Whether you’re managing a restaurant, slinging drinks, or making s"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "ham radio technician exam",
+   "split": "test",
+   "top": [
+    {
+     "name": "Ham Radio Technician Exam U.S.",
+     "dev": "Avocado Studio Pty Ltd",
+     "ratings": 0,
+     "desc": "**Terms of Use (EULA)**\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n**Disclaimer** \nThis app is not affiliated with or endorsed by the NCVEC or the Federal Communications Commis"
+    },
+    {
+     "name": "HAM Radio Technician Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare for the HAM Radio Technician Exam with Our Comprehensive Test Preparation Program\nDesigned for current and aspiring amateur radio operators, our course offers extensive resources and strategie"
+    },
+    {
+     "name": "Ham Radio Exam - Tech",
+     "dev": "Roy Watson",
+     "ratings": 243,
+     "desc": "\"Ham Radio Exam - Tech\" will help the user pass his/her examination for a Technician Class FCC Amateur Radio License. Newly updated to include the question pool for exams administered after 01 July 20"
+    },
+    {
+     "name": "Ham Radio Prep",
+     "dev": "World Radio League Inc.",
+     "ratings": 2183,
+     "desc": "The fastest, easiest, and most informative way to get your ham radio license.\n\n> Includes all 3 Levels: Technician License, General License, and Amateur Extra License\n> Learn the material with premium"
+    },
+    {
+     "name": "HAM Test Prep:  Technician",
+     "dev": "Patrick J Maloney LLC",
+     "ratings": 807,
+     "desc": "Includes the Technician Question Pool effective July 1, 2026!\n\nNot sure if you want to buy?  Try out the \"Lite\" version of this app!\n\nJoin the amateur radio community!  Become a HAM by obtaining your "
+    },
+    {
+     "name": "HAM Test Prep Lite: Technician",
+     "dev": "Patrick J Maloney LLC",
+     "ratings": 168,
+     "desc": "Includes the Technician Question Pool effective July 1, 2026!\n\nNOTE:  This \"Lite\" version contains only 2 of the 10 subelements in the question pool.  Click the 'Buy Now' link in the app to get the FU"
+    },
+    {
+     "name": "Ham Radio Technician Prep",
+     "dev": "Kamil Demirtas",
+     "ratings": 0,
+     "desc": "Get your FCC Amateur Radio Technician license with confidence.\n\nPractice the full Technician question pool — rules, operating, propagation, electronics, antennas and safety — taught the way the real e"
+    },
+    {
+     "name": "HAM Radio Practice Test Prep",
+     "dev": "MOON MOUNTAIN INC",
+     "ratings": 2,
+     "desc": "Your new best friend in learning HAM Radio Practice Test takes test preparation to a new level.\n\nStudying and passing your Ham Radio Test will never be easier. WE PROMISE!\n\nIn fact, our amazing apps a"
+    },
+    {
+     "name": "HamBeacon: Ham Radio Exam Prep",
+     "dev": "William Morris",
+     "ratings": 0,
+     "desc": "Getting your amateur radio license should feel like learning, not cramming. HamBeacon helps you walk into the exam confident, because you actually understand the material, not because you memorized a "
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "real estate appraiser exam",
+   "split": "train",
+   "top": [
+    {
+     "name": "Real Estate Appraiser: Prep",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Real Estate Appraiser Prep is the complete study companion for U.S. state real property appraiser licensing exams — Licensed Residential, Certified Residential, and Certified General.\n\nA purchase is r"
+    },
+    {
+     "name": "Aceable Real Estate, Insurance",
+     "dev": "Aceable Inc.",
+     "ratings": 14733,
+     "desc": "AceableAgent and Aceable Insurance are the most convenient ways to earn your real estate or insurance license and jumpstart a new career. Take flexible, self-paced real estate and insurance courses an"
+    },
+    {
+     "name": "Dearborn Real Estate Exam Prep",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13113,
+     "desc": "The #1 Real Estate Exam study tool! Pass your exams with our 500+ questions, quizzes, flashcards, and updated content.\n\nDearborn Real Estate has helped millions earn their Real Estate License. And you"
+    },
+    {
+     "name": "Real Estate Exam For Dummies",
+     "dev": "Higher Learning Technologies",
+     "ratings": 8307,
+     "desc": "PASS your Real Estate Exam guaranteed, or get triple your money back! \n\nAre you ready to ace your Real Estate License exam on the first try? Real Estate For Dummies is here to ensure your success! Wit"
+    },
+    {
+     "name": "Real estate exam prep 2026 +",
+     "dev": "Blood Pressure App , Ltd",
+     "ratings": 80,
+     "desc": "Real Estate Exam Prep prepares you for the specific subjects in your state’s licensing test. With our insider knowledge of the material covered and our exclusive exam mastery techniques, we make sure "
+    },
+    {
+     "name": "TSRE FL Real Estate Courses",
+     "dev": "Epignosis UK Limited",
+     "ratings": 763,
+     "desc": "Take your Real Estate courses and exam prep on the go.\n\nGet offline access to almost everything!"
+    },
+    {
+     "name": "AQB National Uniform Exam Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 4,
+     "desc": "Are you aspiring to earn your National Real Estate Appraiser License or Certification? Success on the Appraiser exam is your first step towards a rewarding career in real estate, and our comprehensive"
+    },
+    {
+     "name": "Real Estate Exam Prep Practice",
+     "dev": "秀娟 周",
+     "ratings": 81,
+     "desc": "Real Estate Exam Prep Practice is an application software carefully designed and developed by exam experts in the industry. It has more than 1,100 high-quality test questions and answer explanations, "
+    },
+    {
+     "name": "Real Estate Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 1377,
+     "desc": "Pass your Real Estate License Exam with confidence! The Real Estate Practice Test app is your complete study companion for mastering the knowledge, skills, and strategies you need to become a licensed"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "orthopedic tests",
+   "split": "dev",
+   "top": [
+    {
+     "name": "Orthopedic Examination Lite",
+     "dev": "Ahmad Al Hariri",
+     "ratings": 2,
+     "desc": "Orthopedic Examination is an app that contains all Special Tests in orthopedic surgery.\n\nFor all orthopedic surgery residents and specialists who are interested in learning and memorizing the special "
+    },
+    {
+     "name": "CORE -Clinical Orthopedic Exam",
+     "dev": "Clinically Relevant Technologies",
+     "ratings": 31,
+     "desc": "CORE is your portable, expert reference tool for diagnosing musculoskeletal and orthopedic disorders. The Clinical Orthopedic Exam offers you a robust database of over 400 clinical tests with descript"
+    },
+    {
+     "name": "Orthopedic Examination 2026",
+     "dev": "Ahmad Al Hariri",
+     "ratings": 0,
+     "desc": "Orthopedic Examination & Special Tests is an app that contains all Special Tests & Examination techniques in orthopedic surgery.\nIt's designed for all orthopedic surgery residents and specialists who "
+    },
+    {
+     "name": "LE Special Tests Pro Consult",
+     "dev": "Augusta University",
+     "ratings": 4,
+     "desc": "Lower Extremities Special Tests Pro Consult is an evidence-based tool for clinicians and students to use as a quick reference about orthopedic lower extremity special tests. Users will find a demonstr"
+    },
+    {
+     "name": "LetsGetChecked: Health Testing",
+     "dev": "LetsGetChecked Inc.",
+     "ratings": 9461,
+     "desc": "LetsGetChecked offers empowering at-home health testing, with fast and accurate CLIA-certified lab results. Take control of your health with your own personalized dashboard which allows you to track y"
+    },
+    {
+     "name": "Sway Medical",
+     "dev": "Sway Medical, Inc.",
+     "ratings": 362,
+     "desc": "Note: This app is only accessible to users with a Sway account\n\nSway is an FDA-cleared app that reinvents the way athletes and patients are monitored for signs of imbalance or delayed reaction. Using "
+    },
+    {
+     "name": "Orthopedic MCQs Quiz Lite",
+     "dev": "Ahmad Al Hariri",
+     "ratings": 0,
+     "desc": "Orthopedic MCQ Test & Quiz Lite:\nAn application that contains many multiple-choice questions MCQs in orthopedic surgery.\nOrthopedic MCQ Test is for orthopedic residents and specialists who are prepari"
+    },
+    {
+     "name": "Medical Lab Tests",
+     "dev": "Medicon Apps",
+     "ratings": 1141,
+     "desc": "The go-to lab reference for healthcare professionals, medical students, and nurses — trusted on hospital wards, in classrooms, and during clinical rotations.\n\nINSTANT LAB TEST LOOKUP\n\nSearch or browse"
+    },
+    {
+     "name": "STIM onTrack",
+     "dev": "Orthofix Inc.",
+     "ratings": 8235,
+     "desc": "The STIM onTrack™ mobile app provides tools and information for patients to help them use their bone growth therapy device daily as prescribed by their physician. \n \nSTIM onTrack app features for pati"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "speech therapy adult",
+   "split": "test",
+   "top": [
+    {
+     "name": "Astound – Voice & Speech Coach",
+     "dev": "Astound Inc",
+     "ratings": 1326,
+     "desc": "\"Great for improving your speech in any situation!\"\n– missbrisket (Feb 27, 2026)\n\n*Find your voice with Astound*\n\nSpeaking with confidence doesn't come naturally to most of us. Whether it's leading a "
+    },
+    {
+     "name": "Phono - Improve your speech",
+     "dev": "Layza Maria Rodrigues Carneiro",
+     "ratings": 0,
+     "desc": "Phono was created to help individuals who experience articulation challenges or difficulty producing specific English sounds. Through structured repetition and guided practice, users can train speech "
+    },
+    {
+     "name": "Constant Therapy: Brain+Speech",
+     "dev": "Constant Therapy, Inc.",
+     "ratings": 4102,
+     "desc": "Constant Therapy is an award-winning, science-based exercise app for cognitive, language, and speech practice — built for people living with aphasia, apraxia, dementia, stroke, traumatic brain injury "
+    },
+    {
+     "name": "Speech Therapy Practice",
+     "dev": "Charles Wu",
+     "ratings": 3,
+     "desc": "Speech Therapy Practice (STP) presents phrases to the user and the user presses a button to tell STP to start listening. The user than says the practice phrase aloud and then when done presses the sto"
+    },
+    {
+     "name": "Vocal Image: Speaking Coach",
+     "dev": "Vocal Image OU",
+     "ratings": 10435,
+     "desc": "Tired of replaying a conversation in your head, then freezing when it happens?\n\nVocal Image is an AI communication and soft skills coach. Every day it builds you a short personalized plan that mixes p"
+    },
+    {
+     "name": "Aphasia Speech Therapy: Omilía",
+     "dev": "Happy Path Apps, LLC",
+     "ratings": 83,
+     "desc": "A user friendly and engaging speech therapy app designed for people struggling with aphasia.  Omilía offers fun and simple games that target both receptive and expressive language centers of the brain"
+    },
+    {
+     "name": "Word Vault Essential",
+     "dev": "HomeSpeechHome PLLC",
+     "ratings": 2173,
+     "desc": "Pro features let you...\n• Play engaging games and track data in them\n• Use time saving tools for the monotonous tasks of therapy \n• Sync content and data between devices & view/print data online\n(Note"
+    },
+    {
+     "name": "Speech Therapy - SpeakClearly",
+     "dev": "Howard Clayton Tinnell Jr",
+     "ratings": 8,
+     "desc": "In 2024, my wife Dawn suffered a brain hemorrhage and subsequent strokes and surgeries. I built SpeakClearly for her during her brain injury recovery after experiencing first-hand the process of speec"
+    },
+    {
+     "name": "Language Therapy Lite",
+     "dev": "Tactus Therapy Solutions Ltd.",
+     "ratings": 1314,
+     "desc": "Harness the power of a scientifically proven 4-in-1 speech therapy app that boosts reading, writing, speaking, and listening in people with aphasia. Whether you’re recovering from a stroke or brain in"
+    }
+   ],
+   "label": false
+  },
+  {
+   "term": "electrician apps",
+   "split": "test",
+   "top": [
+    {
+     "name": "Electrician Handy Tool",
+     "dev": "Handy Tool LLC",
+     "ratings": 23,
+     "desc": "A handy conduit bending, calculating and quick reference all-in-one tool for Electricians.\n\nMaking electrical work easier is our goal.\n\n- Voltage drop calculator: determines wire size to meet NEC volt"
+    },
+    {
+     "name": "Electrician Handbook — Basics",
+     "dev": "Sergey Vavaev",
+     "ratings": 1019,
+     "desc": "Electrician’s Handbook — an app for electricians, students, and installers.\nTheory, diagrams, and calculators in one place.\nWorks offline. No ads. No subscriptions.\n\n— Theory\nA variety of topics in el"
+    },
+    {
+     "name": "Electrician's Sidekick",
+     "dev": "IDEAL INDUSTRIES, INC",
+     "ratings": 18,
+     "desc": "Tired of juggling multiple calculators and reference guides on the job? The Electrician's Sidekick app from IDEAL Electrical is a free tool that combines the functions of many electrical calculators i"
+    },
+    {
+     "name": "Master Electrician Ref. Lite",
+     "dev": "PawEng, LLC",
+     "ratings": 2522,
+     "desc": "Master Electrician Reference Lite (or MER Lite for short) is your electronic pocket electrician reference guide. \n\nMER Lite is for electrical designers, engineers, installers, contractors, facility ma"
+    },
+    {
+     "name": "Mike Holt's Electrical Toolbox",
+     "dev": "Mike Holt Enterprises",
+     "ratings": 196,
+     "desc": "Mike Holt, the industry leader in the electrical industry (MikeHolt.com) has created an amazing, practical and useful app for the electrician, inspector, instructor, contractor and engineer. The app c"
+    },
+    {
+     "name": "Electrician Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 173,
+     "desc": "Electrician Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,200 high quality test questions and answer explanations, multiple test"
+    },
+    {
+     "name": "Electrical Code-A-Day",
+     "dev": "PawEng, LLC",
+     "ratings": 9299,
+     "desc": "Can you beat the Master? See how many of the 366 questions you can answer correctly!\n\nElectrical Code-A-Day has an electrical code question for each day in the year. Take a minute a day to answer a qu"
+    },
+    {
+     "name": "Electrical Wiring Simulator",
+     "dev": "Louie Juera",
+     "ratings": 395,
+     "desc": "Electrical Wiring Simulator is a hands-on circuit simulator for electrician training, apprentices, and TVET students. Practice DC and AC wiring, relays, motors, and Arduino circuits on your phone—safe"
+    },
+    {
+     "name": "Wire Color Code",
+     "dev": "Bonsaisoft LLC",
+     "ratings": 1029,
+     "desc": "Introducing Wire Color Code, your go-to companion for electrical panel wiring across the globe! Whether you're an experienced electrician or a DIY enthusiast, this app is designed to simplify the comp"
+    }
+   ],
+   "label": false
   }
  ],
  "rival": [

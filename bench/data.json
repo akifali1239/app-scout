@@ -22972,6 +22972,206 @@
     "adjacent",
     "unrelated"
    ]
+  },
+  {
+   "term": "bubble level",
+   "split": "dev",
+   "apps": [
+    {
+     "name": "Bubble Level for iPhone",
+     "dev": "Lemondo Apps LLc",
+     "ratings": 111710,
+     "desc": "NEW and UNIQUE features and functionalities:\n\n    1. Classic water-level + Object alignment\n    2. Angle measurement \n    3. Surface flatness\n    4. Metal detection - detect wire inside the wall befor"
+    },
+    {
+     "name": "Pocket Bubble Level XXL",
+     "dev": "ExaMobile S.A.",
+     "ratings": 16775,
+     "desc": "Pocket Bubble Level - perfect app for every handyman, DIY and smartphone holder. Accurate, nice and easy to use, at the same time very functional.\nInstall this application and you will have a spirit l"
+    },
+    {
+     "name": "Bubble Level 2022",
+     "dev": "Andrew Neal",
+     "ratings": 6545,
+     "desc": "This app turns your smartphone into a bubble level! \n\nWith 3 different viewing options, this level can calibrate with all 4 sides as well as show the angle and slope in percentage or roof pitch. Comes"
+    },
+    {
+     "name": "Bubble Level Plus+",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 15320,
+     "desc": "Bubble Level (one of the 12 tools in iMetalBox) is now free! Take this chance to download!\n\n======== User reviews ========\n\n• \"Works great and stylish!\" - HellofromtheFeeworld746\n• \"Just what I need i"
+    },
+    {
+     "name": "Bubble Level: AR, Angle Finder",
+     "dev": "Jens Rieckhof",
+     "ratings": 706,
+     "desc": "Transform Your Phone into a Precision Leveling Tool!\n\nOver 450K users - 4.5 Star Average Rating\n\nIntroducing the Super-Easy Level: Turn your device into a highly accurate bubble level (spirit level) w"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ]
+  },
+  {
+   "term": "decibel meter",
+   "split": "test",
+   "apps": [
+    {
+     "name": "Decibel X:dB Sound Level Meter",
+     "dev": "SkyPaw Co., Limited",
+     "ratings": 162564,
+     "desc": "\"Decibel X\" is one of very few noise meter apps on the market that has highly reliable, pre-calibrated measurements and supports dBA, dBC. It turns your iOS device into a professional sound level mete"
+    },
+    {
+     "name": "Decibel Meter Sound Detector",
+     "dev": "Ashraf Thoppukadavil",
+     "ratings": 55317,
+     "desc": "Track Environmental Noise with Ease\nMonitor your surroundings with this professional-grade decibel meter app, featuring clear visual noise analysis.\n\nThe Decibel Meter app uses your device’s built-in "
+    },
+    {
+     "name": "NIOSH Sound Level Meter",
+     "dev": "EA LAB",
+     "ratings": 16825,
+     "desc": "This award-winning app combines the best features of professional sound level meters and noise dosimeters into a simple, easy-to-use package.\n- Developed by experienced acoustics engineers and hearing"
+    },
+    {
+     "name": "Sound Meter (Decibel)",
+     "dev": "UniCom Technology",
+     "ratings": 3185,
+     "desc": "Sound level meter app is shows a decibel values by measure the environmental noise, displays measured dB values in various forms. \nYou can experience tidy graphic design with high frame by this smart "
+    },
+    {
+     "name": "Decibel : dB sound level meter",
+     "dev": "Vlad Polyanskiy",
+     "ratings": 36138,
+     "desc": "Decibel turns your device into a powerful sound level meter without any extra hardware. Measure ambient noise in real time, monitor sound levels (dB), and explore frequencies with the built-in Spectru"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ]
+  },
+  {
+   "term": "fasting tracker",
+   "split": "test",
+   "apps": [
+    {
+     "name": "Intermittent Fasting Tracker:",
+     "dev": "Kai Oelfke",
+     "ratings": 51356,
+     "desc": "Track fasting periods with Fasty. No account or sign-up required.\n\nStart and stop a fasting timer, set a goal, and review your recorded fasts. Edit entries to correct start and end times and keep a re"
+    },
+    {
+     "name": "Zero: Fasting & Food Tracker",
+     "dev": "Zero Longevity Science, Inc.",
+     "ratings": 445285,
+     "desc": "Zero is the all-in-one fasting tracker and nutrition app built for real results. Most fasting and weight loss apps stop at simply tracking fasts or calories. Zero connects the full picture — fasting, "
+    },
+    {
+     "name": "Intermittent Fasting Tracker -",
+     "dev": "Leap Health",
+     "ratings": 29024,
+     "desc": "Join 60 million happy users! Our all-in-one Intermittent Fasting Tracker & AI Calorie Counter is built for sustainable weight loss. Reach your goals effectively without the yo-yo effect.\n\nDiscover you"
+    },
+    {
+     "name": "Fasting Tracker • Easy Fast",
+     "dev": "Samtark Pty Ltd",
+     "ratings": 8869,
+     "desc": "Start your intermittent fasting journey with Easy Fast — the simple, ad-free fasting app and habit tracker designed for weight loss and lasting results.\n\nTrusted by 2.4M+ fasters and rated 4.9 stars o"
+    },
+    {
+     "name": "Fastic Weight Loss & Fasting",
+     "dev": "HealthVida GmbH & Co. KG.",
+     "ratings": 246107,
+     "desc": "Unlock your weight loss journey with Fastic, the app that tailors fasting and nutrition to fit YOUR lifestyle and goals. Dive into a personalized health experience, where achieving your ideal weight f"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ]
+  },
+  {
+   "term": "bible",
+   "split": "train",
+   "apps": [
+    {
+     "name": "Bible",
+     "dev": "Life.Church",
+     "ratings": 13804055,
+     "desc": "Take God’s Word with you wherever you go with the free YouVersion Bible App. Listen to Audio Bibles, create Prayers, study with Friends, watch engaging Videos, explore 3,500+ Bible versions, and much "
+    },
+    {
+     "name": "Bible - Daily Bible Verse KJV",
+     "dev": "Ozion",
+     "ratings": 496968,
+     "desc": "Bible KJV - Daily Bible Verse is a free KJV Bible study tool that people read bible verse of the day, listen to the audio bible - the holy bible king james version, share and learn king james version "
+    },
+    {
+     "name": "Bible Chat: Daily Devotional",
+     "dev": "Book Vitals Inc.",
+     "ratings": 364209,
+     "desc": "Bible Chat: Built for Christians Who Want to Hear God in the Noise of Everyday Life\n\nHave you made time for God’s Word today? Join millions of believers who’ve chosen the #1 faith app in the world. Do"
+    },
+    {
+     "name": "#Bible - Verse of the Day",
+     "dev": "Godward LLC",
+     "ratings": 390058,
+     "desc": "\"Incredible App - My sister shared this app with me a few weeks ago and it is truly incredible. The music that plays when you read the verses, the scrolling like flipping a page, and everything about "
+    },
+    {
+     "name": "K.J.V. Holy Bible",
+     "dev": "ThoughtFul",
+     "ratings": 500751,
+     "desc": "KJV Holy Bible – Audio & Daily Inspiration\n\nCarry the timeless wisdom of the King James Version with you — designed for peace, clarity, and daily encouragement.\n\nWhether you’re beginning your morning,"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ]
   }
  ],
  "risk": [

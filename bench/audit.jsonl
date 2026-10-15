@@ -789,3 +789,4 @@
 {"ts": "2026-10-15T04:45:56+00:00", "actor": "optimizer", "action": "reject", "cap": "kind", "candidate": "talimat#1 tanım#1 örnek×4", "reason": "dev kazancı yetersiz (0.9648 vs 0.9648)"}
 {"ts": "2026-10-15T04:45:56+00:00", "actor": "optimizer", "action": "run", "calls": 304, "tokens": 339228, "cost_usd": 0.01425}
 {"ts": "2026-10-15T05:42:03+00:00", "actor": "optimizer", "action": "run", "calls": 789, "tokens": 662266, "cost_usd": 0.02782}
+{"ts": "2026-10-15T06:42:05+00:00", "actor": "optimizer", "action": "run", "calls": 794, "tokens": 665331, "cost_usd": 0.02794}

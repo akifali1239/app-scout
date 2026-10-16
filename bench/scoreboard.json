@@ -9,7 +9,7 @@
    "brier": 0.0561,
    "n": 148,
    "versions": 3,
-   "tried": 152,
+   "tried": 156,
    "test_errors": [
     [
      "subway surfers",
@@ -161,7 +161,7 @@
    "brier": 0.0497,
    "n": 100,
    "versions": 2,
-   "tried": 84,
+   "tried": 86,
    "test_errors": [
     [
      "Aynı işi yapan 40 app var, ilk sayfa dolu",
@@ -5398,7 +5398,7 @@
    "n": 100
   }
  ],
- "updated": "2026-10-16T03:41:48+00:00",
+ "updated": "2026-10-16T04:41:33+00:00",
  "raw": {
   "intent": {
    "version": "v3",

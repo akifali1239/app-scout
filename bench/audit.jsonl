@@ -865,3 +865,12 @@
 {"ts": "2026-10-16T03:41:48+00:00", "actor": "optimizer", "action": "trial", "cap": "kind", "candidate": "talimat#1 tanım#1 örnek×2", "dev_obj": 0.9619, "dev_acc": 0.9722, "prod_dev_obj": 0.9934}
 {"ts": "2026-10-16T03:41:48+00:00", "actor": "optimizer", "action": "reject", "cap": "kind", "candidate": "talimat#1 tanım#1 örnek×2", "reason": "dev kazancı yetersiz (0.9619 vs 0.9934)"}
 {"ts": "2026-10-16T03:41:48+00:00", "actor": "optimizer", "action": "run", "calls": 508, "tokens": 464595, "cost_usd": 0.01951}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#5 tanım#0 örnek×4", "dev_obj": 0.9003, "dev_acc": 0.9437, "prod_dev_obj": 0.8984}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#4 tanım#2 örnek×4", "dev_obj": 0.8772, "dev_acc": 0.9296, "prod_dev_obj": 0.8984}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#0 tanım#2 örnek×4", "dev_obj": 0.9008, "dev_acc": 0.9437, "prod_dev_obj": 0.8984}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "trial", "cap": "intent", "candidate": "talimat#4 tanım#0 örnek×4", "dev_obj": 0.8096, "dev_acc": 0.8873, "prod_dev_obj": 0.8984}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "reject", "cap": "intent", "candidate": "talimat#0 tanım#2 örnek×4", "reason": "dev kazancı yetersiz (0.9008 vs 0.8984)"}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "trial", "cap": "note", "candidate": "talimat#4 tanım#0 örnek×0", "dev_obj": 0.8515, "dev_acc": 0.9149, "prod_dev_obj": 0.9566}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "trial", "cap": "note", "candidate": "talimat#3 tanım#0 örnek×4", "dev_obj": 0.9237, "dev_acc": 0.9574, "prod_dev_obj": 0.9566}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "reject", "cap": "note", "candidate": "talimat#3 tanım#0 örnek×4", "reason": "dev kazancı yetersiz (0.9237 vs 0.9566)"}
+{"ts": "2026-10-16T04:41:33+00:00", "actor": "optimizer", "action": "run", "calls": 378, "tokens": 307794, "cost_usd": 0.01293}

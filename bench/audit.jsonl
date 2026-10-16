@@ -885,3 +885,12 @@
 {"ts": "2026-10-16T07:41:52+00:00", "actor": "optimizer", "action": "run", "calls": 0, "tokens": 0, "cost_usd": 0.0}
 {"ts": "2026-10-16T08:41:27+00:00", "actor": "optimizer", "action": "run", "calls": 0, "tokens": 0, "cost_usd": 0.0}
 {"ts": "2026-10-16T09:42:06+00:00", "actor": "optimizer", "action": "run", "calls": 860, "tokens": 726150, "cost_usd": 0.0305}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#6 tanım#5 örnek×4", "dev_obj": 0.762, "dev_acc": 0.8257, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#3 tanım#5 örnek×4", "dev_obj": 0.8862, "dev_acc": 0.9174, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#8 tanım#3 örnek×4", "dev_obj": 0.7323, "dev_acc": 0.7982, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#0 tanım#5 örnek×4", "dev_obj": 0.8758, "dev_acc": 0.9083, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "reject", "cap": "brand", "candidate": "talimat#3 tanım#5 örnek×4", "reason": "dev kazancı yetersiz (0.8862 vs 0.9217)"}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "trial", "cap": "kind", "candidate": "talimat#0 tanım#0 örnek×4", "dev_obj": 0.9554, "dev_acc": 0.975, "prod_dev_obj": 0.9673}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "trial", "cap": "kind", "candidate": "talimat#0 tanım#1 örnek×4", "dev_obj": 0.9685, "dev_acc": 0.975, "prod_dev_obj": 0.9673}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "reject", "cap": "kind", "candidate": "talimat#0 tanım#1 örnek×4", "reason": "dev kazancı yetersiz (0.9685 vs 0.9673)"}
+{"ts": "2026-10-16T10:42:11+00:00", "actor": "optimizer", "action": "run", "calls": 516, "tokens": 735012, "cost_usd": 0.03087}

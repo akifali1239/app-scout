@@ -62,7 +62,8 @@
    },
    "Imagine the App Store search results for `search_term`. If one result is clearly 'the' app being asked for (its title or publisher repeats the distinctive words of `search_term`, even with a tagline, an 'app' suffix or a word like coach, driver or letter), answer true. If the words are an exam name, a year, 'prep', 'practice test', 'flashcards', a topic or a tool type that many results share, answer false.",
    "Is `search_term` the title of ONE app or the name of one publisher? Compare it with the first 3 titles in `top_results`: if one title is `search_term` plus at most a tagline, a number or a word like 'app', 'coach', 'driver', 'letter' or 'test', answer true even if the words look ordinary. If the words are only a topic, tool type or exam that several unrelated developers use in their titles, answer false.",
-   "Decide whether `search_term` is the NAME of one specific app or publisher. Test: remove a trailing tagline, 'app', 'test', 'prep', year or role word (coach, driver, letter) from the first result's title and from `search_term`; if the remaining distinctive words match and the phrase is how that one app is titled, answer true even when the words look generic (e.g. 'personal trainer prep: test'). If instead several different publishers' results all repeat the same words, the phrase is a topic and the answer is false."
+   "Decide whether `search_term` is the NAME of one specific app or publisher. Test: remove a trailing tagline, 'app', 'test', 'prep', year or role word (coach, driver, letter) from the first result's title and from `search_term`; if the remaining distinctive words match and the phrase is how that one app is titled, answer true even when the words look generic (e.g. 'personal trainer prep: test'). If instead several different publishers' results all repeat the same words, the phrase is a topic and the answer is false.",
+   "Is `search_term` essentially the title of ONE app in `top_results`, or the name of one clinic, company or person behind it? Ignore whether the words look ordinary or descriptive: if the first results' titles or developer names contain all the distinctive words of `search_term` (even a long phrase like 'check in tools for the joint chiropractic clinics' or 'pilot driver app'), answer true. Answer false only when the words are a topic, exam, year or tool type repeated across many unrelated developers' titles."
   ],
   "criteria": [
    {
@@ -84,6 +85,10 @@
    {
     "true": "A name: the title of one app, or the name of a company, publisher, publication, clinic or person (e.g. 'pharmacy technician letter', 'paramedic coach', 'pilot driver app'), including names made of ordinary words",
     "false": "A generic phrase many apps could match: exam names, certifications, years, 'prep', 'practice test', 'flashcards', topics and tool types (e.g. 'welding symbols', 'epa 608 practice test')"
+   },
+   {
+    "true": "The phrase reads like an exact app title or an organization name, even a long or descriptive one, and a top result's title or developer carries its distinctive words (e.g. 'check in tools for the joint chiropractic clinics', 'pilot driver app', 'pharmacy technician letter')",
+    "false": "The phrase is what a person types to find any app for a topic, exam, certification or tool, with the same words shared by many unrelated developers' titles (e.g. 'chiropractic exam prep', 'pilot logbook', 'epa 608 practice test')"
    }
   ]
  },

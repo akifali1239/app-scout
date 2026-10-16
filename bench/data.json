@@ -909,6 +909,26 @@
    "term": "muscle anatomy",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "tide chart",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "clash royale",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "nurse jobs near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "sudoku",
+   "label": "game",
+   "split": "train"
   }
  ],
  "brand": [
@@ -25892,6 +25912,87 @@
     "desc": "New weekly video classes and guided sessions from certified yoga teachers."
    },
    "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Decibel Meter Pro",
+    "category": "Utilities",
+    "desc": "Measure ambient noise in dB with the microphone and log peak levels."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Sleep Sounds: Rain & Ocean",
+    "category": "Health & Fitness",
+    "desc": "Looping ambient tracks, podcasts and bedtime stories to fall asleep."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Capital One Mobile",
+    "category": "Finance",
+    "desc": "Check balances, pay your credit card and lock your card."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Sudoku Master",
+    "category": "Games",
+    "desc": "Classic sudoku puzzles with daily challenges and levels."
+   },
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "ChatGenius: Ask AI Anything",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant to write, translate and brainstorm."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "NCLEX RN Practice Questions",
+    "category": "Education",
+    "desc": "5,000 NCLEX-RN practice questions with rationales and study plans."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Spotify: Music and Podcasts",
+    "category": "Music",
+    "desc": "Stream millions of songs and podcasts, create playlists."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Plant Identifier Camera",
+    "category": "Lifestyle",
+    "desc": "Take a photo of a plant to identify the species instantly."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "AI Photo Generator Art",
+    "category": "Photo & Video",
+    "desc": "Type a prompt and generate images with AI in seconds."
+   },
+   "label": "ai_wrapper",
    "split": "test"
   }
  ]

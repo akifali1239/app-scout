@@ -941,3 +941,9 @@
 {"ts": "2026-10-17T01:41:13+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#5 tanım#5 örnek×0", "dev_obj": 0.7498, "dev_acc": 0.8165, "prod_dev_obj": 0.9217}
 {"ts": "2026-10-17T01:41:13+00:00", "actor": "optimizer", "action": "reject", "cap": "brand", "candidate": "talimat#2 tanım#5 örnek×0", "reason": "dev kazancı yetersiz (0.8581 vs 0.9217)"}
 {"ts": "2026-10-17T01:41:13+00:00", "actor": "optimizer", "action": "run", "calls": 436, "tokens": 618591, "cost_usd": 0.02598}
+{"ts": "2026-10-17T02:41:37+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#8 tanım#5 örnek×0", "dev_obj": 0.7469, "dev_acc": 0.8165, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-17T02:41:37+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#8 tanım#3 örnek×2", "dev_obj": 0.7295, "dev_acc": 0.7982, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-17T02:41:37+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#3 tanım#5 örnek×2", "dev_obj": 0.8938, "dev_acc": 0.9266, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-17T02:41:37+00:00", "actor": "optimizer", "action": "trial", "cap": "brand", "candidate": "talimat#8 tanım#1 örnek×2", "dev_obj": 0.8463, "dev_acc": 0.8899, "prod_dev_obj": 0.9217}
+{"ts": "2026-10-17T02:41:37+00:00", "actor": "optimizer", "action": "reject", "cap": "brand", "candidate": "talimat#3 tanım#5 örnek×2", "reason": "dev kazancı yetersiz (0.8938 vs 0.9217)"}
+{"ts": "2026-10-17T02:41:37+00:00", "actor": "optimizer", "action": "run", "calls": 436, "tokens": 629491, "cost_usd": 0.02644}

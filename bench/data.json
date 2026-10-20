@@ -23257,6 +23257,282 @@
     "direct",
     "direct"
    ]
+  },
+  {
+   "term": "sailing weather",
+   "apps": [
+    {
+     "name": "Windy.app — Wind, Tides, Radar",
+     "dev": "Windy Weather World Inc",
+     "ratings": 73048,
+     "desc": "Windy.app - wind, waves and weather forecast app for surfers, kitesurfers, windsurfers, sailors, fishermen and other wind sports. \n\nFEATURES:\n•  Wind report, forecast and statistics: wind map, accurate wind compass, wind meter, wind gusts and wind directions. It’s very useful for extreme wind sports"
+    },
+    {
+     "name": "SailFlow: Sailing Forecasts",
+     "dev": "WeatherFlow",
+     "ratings": 5814,
+     "desc": "Whether you’re racing, cruising, day sailing, you need precise sailing forecasts and real-time wind. SailFlow delivers both.\n\nPowered by 90,000+ exclusive Tempest Weather Stations and 150,000+ total sources, SailFlow’s weather and wind app delivers unmatched accuracy. With stations on buoys, piers, "
+    },
+    {
+     "name": "Marine Weather Forecast Pro",
+     "dev": "LW Brands, LLC",
+     "ratings": 16366,
+     "desc": "Download the most comprehensive NOAA Marine Weather app for iOS.\n\nMAIN FEATURES INCLUDE:\n + Real-time Marine Weather Buoy Data\n + 5-day NWS Marine Weather Forecast\n + 6-hour Historical Wave Trend Reports\n + 7-day Hourly WaveWatch III Model\n + 7-day Hourly Harmonic Tide Forecast\n + NOAA Marine Weathe"
+    },
+    {
+     "name": "PredictWind — Marine Forecasts",
+     "dev": "PredictWind Limited",
+     "ratings": 32816,
+     "desc": "Accurate marine weather forecasts and powerful tools utilizing wind, wave and currents, save you time, keep you safe and ensure you get the most out of every day on the water.\n\nAccess the world’s top-ranking forecast models for reliable and accurate wind and weather data, including ECMWF, AIFS, ICON"
+    },
+    {
+     "name": "NOAA Marine Weather & Forecast",
+     "dev": "ZipoApps",
+     "ratings": 5046,
+     "desc": "- Welcome to Marine Weather – Your Ultimate Maritime Companion -\n\nMarine Weather is the essential app for everyone heading out to the water. Whether you’re a sailor navigating the open sea, a fisherman seeking the perfect catch, a surfer chasing the best waves, or a kiteboarder looking for optimal w"
+    }
+   ],
+   "labels": [
+    0,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "adjacent",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "dietitian exam prep 2024",
+   "apps": [
+    {
+     "name": "Dietitian Exam Prep 2024",
+     "dev": "TRENDING MOBAPPS SRL",
+     "ratings": 38,
+     "desc": "DIETITIAN Exam Prep 2024  allows you to study anywhere, anytime, right from your mobile device. A simple and convenient way to practice for your RD & RDN on the go.\n\nStudy anytime.Study anywhere.Master the material.\n\nThis application turns your iOS device into an invaluable tool for keeping in touch"
+    },
+    {
+     "name": "Dietitian Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 35,
+     "desc": "Prepare to excel in the CDR Registered Dietitian (RD) Exam with our comprehensive study resources tailored for 2026. This app is designed to help aspiring dietitians master the necessary knowledge and skills to succeed in the exam and in their future careers.\n\nKey Features: \n- Comprehensive Study Ma"
+    },
+    {
+     "name": "CDR RD: Dietitian Exam 2026",
+     "dev": "INAPPLAB OU",
+     "ratings": 62,
+     "desc": "Preparing for the Dietetic Registration (RD) Exam? Our RD prep app is your trusted companion for success! With expertly designed practice questions, detailed explanations, and proven study strategies, you’ll master all exam domains, from nutrition care to food service management.\n\nTrack your progres"
+    },
+    {
+     "name": "Dietitian Exam To Go",
+     "dev": "Visual Veggies Software, LLC",
+     "ratings": 30,
+     "desc": "RD Exam Prep – Practice Tests for Dietitian Exam (CDR)\n\nPrepare with confidence using one of the most advanced RD exam prep apps for the Registration Exam for Dietitians (CDR exam)—now available anytime, anywhere.\nDesigned by a Registered Dietitian, this powerful study tool helps you master key conc"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empathetic care and a focus on sustainable healthy habits. A Registered Dietitian will help you build a "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "phlebotomy nha cpt prep 2026",
+   "apps": [
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals nationwide. Study smarter with adaptive tools, realistic practice tests, and expert strategies designed t"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written by experts, detailed explanations for each question, and hundreds of tests & quizzes at your fingerti"
+    },
+    {
+     "name": "Pocket Prep NHA CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 1138,
+     "desc": "Unlock 1,000 CPT practice questions with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT concepts and improve retention to pass your CPT exam confidently on the first try.\n\nSince 2011, thousands of medical professionals ha"
+    },
+    {
+     "name": "NHA CPT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 128,
+     "desc": "NHA CPT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,000 high-quality test questions and answer explanations, multiple test modes and a scientific analysis system, it helps you practice efficiently anytime, anywhere, making it "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "hdpe pipe welding assistant",
+   "apps": [
+    {
+     "name": "McCalc Fusion Calculator",
+     "dev": "McElroy Manufacturing, Inc.",
+     "ratings": 18,
+     "desc": "The McCalc Fusion Pressure Calculator is designed to help you quickly find the correct fusion pressure for your job.\n\nTo properly heat-fuse polyethylene pipe, the fusion pressure must be adjusted so the pipe manufacturer's recommended interfacial pressure is achieved.\n\nMcCalc takes the guesswork out"
+    },
+    {
+     "name": "HDPE Pipe Welding Assistant",
+     "dev": "WARGO LOGISTICS SERVICES LTD",
+     "ratings": 0,
+     "desc": "HDPE Pipe Welding Assistant is a professional tool designed to help contractors, welders, and engineers working with HDPE pipes.\nThe app provides step-by-step guidance for butt fusion welding, ensuring accuracy, safety, and efficiency in the field.\n\nWhether you are on-site or in the workshop, the ap"
+    },
+    {
+     "name": "PipeFit Pro: Pipe Calculator",
+     "dev": "Hung Vi Van",
+     "ratings": 3,
+     "desc": "The ultimate tool for pipefitters, welders, plumbers, and HVAC professionals. PipeFit Pro is engineered to eliminate guesswork, save time, and prevent expensive mistakes on the job site.\n\nStop struggling with complex trigonometry and fractional math in your head. Whether you are calculating a rollin"
+    },
+    {
+     "name": "Pipe Fitting",
+     "dev": "xNeat.com",
+     "ratings": 133,
+     "desc": "Pipe Fitting Calculator is the all-in-one solution for pipefitters, welders, and fabricators who need fast and accurate pipe layout calculations in the field or the shop. Designed for iPhone & iPad, this powerful tool delivers pro-level precision with a clean, easy-to-use interface—built specificall"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades industry. This application is expertly designed to enhance the efficiency and accuracy of pipefitters"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "insurance adjuster exam",
+   "apps": [
+    {
+     "name": "Insurance Adjuster Exam",
+     "dev": "Mfeliz Web",
+     "ratings": 0,
+     "desc": "Pass your Insurance Adjuster License exam on the first try! Access 600+ state-specific practice questions, realistic mock exams (Property & Casualty / All-Lines), and expert explanations. Master claims terminology and launch your career today.\n\nTerms of Use:\nhttps://www.apple.com/legal/internet-serv"
+    },
+    {
+     "name": "Insurance Adjuster Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 1,
+     "desc": "Prepare for the Insurance Claims Adjuster licensing exam with our comprehensive test practice program designed for insurance professionals. This app provides everything you need to pass the exam in your state. Whether you're new to the industry or looking to renew your certification, our resources w"
+    },
+    {
+     "name": "Aceable Real Estate, Insurance",
+     "dev": "Aceable Inc.",
+     "ratings": 14733,
+     "desc": "AceableAgent and Aceable Insurance are the most convenient ways to earn your real estate or insurance license and jumpstart a new career. Take flexible, self-paced real estate and insurance courses anywhere, any time, and from any device.\n\nJoin over 800,000 students who have trusted Aceable to launc"
+    },
+    {
+     "name": "Life Insurance Practice Test",
+     "dev": "MOON MOUNTAIN INC",
+     "ratings": 23,
+     "desc": "Your new best friend in learning a Life Insurance Practice Test takes test preparation to a new level.\n\nStudying and passing your Insurance Exam will never be easier. WE PROMISE!\n\nIn fact, our amazing apps are developed by educators and utilize our proprietary learning technique ELS™ or Effective Le"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "birthday reminder",
+   "apps": [
+    {
+     "name": "Birthday Reminder & Countdown",
+     "dev": "New Marketing Lab, Inc",
+     "ratings": 10166,
+     "desc": "Never miss a birthday again with Birthday Reminder, a simple and elegant app that helps you keep track and view a countdown of upcoming birthdays.\n\n15 REASONS TO USE BIRTHDAY REMINDER\n\n• Easily import birthdays from existing contacts\n• View a countdown of upcoming birthdays\n• View the name, photo, a"
+    },
+    {
+     "name": "hip: Birthday Reminder App",
+     "dev": "Celebrate Labs Inc.",
+     "ratings": 17764,
+     "desc": "Your go-to app for remembering and celebrating. From birthdays & anniversaries to big milestones, hip helps you celebrate on time.\n\nREMEMBER THOSE SPECIAL DAYS\n• Customize your reminders, down to the day, time, and frequency.\n• Sync hip with contacts and calendar for maximum coverage\n• Get reminders"
+    },
+    {
+     "name": "Birthday Calendar and Reminder",
+     "dev": "Christopher Wolf",
+     "ratings": 1354,
+     "desc": "Organizes all of your birthdays. See all at a glace and get reminded when you want!\n\n● Year view: Simple year overview to quickly spot everything.\n\n● Reminder: Set several reminders on the days leading up to the birthday when you want to be notified. You can also specify the time.\n\n● Widget: Access "
+    },
+    {
+     "name": "Birthday Countdown",
+     "dev": "Find Appiness LLC",
+     "ratings": 7936,
+     "desc": "Birthday Countdown is a free, super easy to use countdown and reminder app for the all the important birthdays in your life. Never forget a birthday again!\n\nFeatures:\n• Check your birthdays on the Lock Screen or Home Screen with our widget (Premium feature)\n• Check upcoming birthdays on your Apple W"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

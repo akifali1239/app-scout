@@ -929,6 +929,36 @@
    "term": "sudoku",
    "label": "game",
    "split": "train"
+  },
+  {
+   "term": "electrician jobs hiring",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "nurse job openings near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "candy crush",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "pokemon go",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "hvac load calculation",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "pipe fitter weld log",
+   "label": "need",
+   "split": "dev"
   }
  ],
  "brand": [

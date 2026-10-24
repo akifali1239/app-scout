@@ -22238,6 +22238,877 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "hvac school",
+   "top": [
+    {
+     "name": "HVAC School",
+     "dev": "Kalos Services Inc.",
+     "ratings": 85,
+     "desc": "The app that helps you remember some things you forgot along the way, as well as helps you remember some things you forgot to know in the first place.\n\nFor all current and aspiring HVAC technicians: H"
+    },
+    {
+     "name": "SkillCat: EPA 608 & HVAC",
+     "dev": "SkillCat Inc",
+     "ratings": 9986,
+     "desc": "SkillCat helps you build trade skills, earn certifications, and move your career forward - all from your phone.\n\nNo classroom.\nNo big bill.\nNo waiting around for someone to give you permission.\n\nJust "
+    },
+    {
+     "name": "HVAC Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 124,
+     "desc": "Help you prepare for the HVAC technician certification exam and pass it on your first attempt at the actual exam! Use the mobile app HVAC Exam Prep 2026 developed by our exam experts to help prepare f"
+    },
+    {
+     "name": "AC  Service Tech LLC",
+     "dev": "AC Service Tech, LLC",
+     "ratings": 5,
+     "desc": "Access all of your HVAC/R education needs in one place with the AC Service Tech App!\n\nFor HVAC/R techs and students of all levels, the AC Service Tech App offers an easy-access pathway to all of our O"
+    },
+    {
+     "name": "HVAC Mastery",
+     "dev": "arjan qema",
+     "ratings": 2,
+     "desc": "HVAC Mastery is the hands-on study companion for anyone learning the heating, ventilation, air conditioning, and refrigeration trade — from first-year apprentices to experienced technicians brushing u"
+    },
+    {
+     "name": "HVAC Know It All",
+     "dev": "HVAC Know It All Inc.",
+     "ratings": 223,
+     "desc": "HVAC Know It All is a community of HVAC/R professionals. The goal, through educational discussion, is to become better technicians, installers, company owners, educators and students of the trade.\n\nPR"
+    },
+    {
+     "name": "HVACR Check & Charge",
+     "dev": "Copeland LP",
+     "ratings": 17332,
+     "desc": "Instant mobile refrigerant charge calculator for HVACR applications.\n\nThe HVACR Check & Charge™ mobile app from Copeland Climate Technologies provides an on-site refrigerant charge calculator for air "
+    },
+    {
+     "name": "HVAC practice test, prepare",
+     "dev": "Danila Danilenko",
+     "ratings": 14,
+     "desc": "Prepare thoroughly for your HVAC Certification with our comprehensive app. Features include:\n\n - Complete Q&A for all categories\n - Realistic exam mode simulations\n - Save and review your favorite que"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "SuperCool Slide Rule HVAC",
+     "dev": "Designstein, llc",
+     "ratings": 194,
+     "desc": "The SuperCool HVAC app provides comprehensive solutions to the most complex problems in the industry. The app provides the user with an interactive experience, possible solutions, on-screen instructio"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "personal trainer workout plans",
+   "top": [
+    {
+     "name": "Personal Trainer Workout Plans",
+     "dev": "App Diggity, LLC",
+     "ratings": 13,
+     "desc": "3, 4 & 5 Day Workout plans ------ With sets, weight & illustrations ------ Tracker & Custom Workout Builder (100+ Exercises included)\n\nSculpt your dream body with the All Workouts – Personal Trainer a"
+    },
+    {
+     "name": "Fitness Buddy+ Workout Trainer",
+     "dev": "Kodeon, Inc.",
+     "ratings": 11725,
+     "desc": "Build muscle, gain strength, and lose weight with personalized workout routines tailored to your goals, fitness level, and available equipment. Every workout is designed to match your individual needs"
+    },
+    {
+     "name": "LADDER Strength Training Plans",
+     "dev": "Ladder Technologies, Inc.",
+     "ratings": 204061,
+     "desc": "Try Ladder COMPLETELY FREE for 7 days. NO PAYMENT collected during trial.\n\nLADDER IS THE #1 APP FOR STRENGTH TRAINING\nApple's 2025 App of the Year Finalist\nApple's Editors Choice Award\nWomen's Health "
+    },
+    {
+     "name": "Fitbod: Gym & Fitness Planner",
+     "dev": "Fitbod Inc.",
+     "ratings": 286506,
+     "desc": "*Apple Editor’s Choice Award Winner*\n\n\nBuild muscle, gain strength and lose weight with a customized workout plan just for you. Fitbod is the ultimate fitness platform made to help enhance your streng"
+    },
+    {
+     "name": "Future Pro: Personal Training",
+     "dev": "Future Research, Inc",
+     "ratings": 10714,
+     "desc": "Personal training, reimagined.\n\n\nFuture Pro pairs you with a dedicated, expert coach who brings real-world experience to your training. We match you with a world-class personal trainer who builds a cu"
+    },
+    {
+     "name": "Gymverse: Gym Workout Planner",
+     "dev": "FITNESS22 LTD",
+     "ratings": 165208,
+     "desc": "Gymverse acts as your personal trainer, building a fully managed, multi-week training plan tailored to your goals, schedule, and equipment. Set your goals, track every milestone, and celebrate every p"
+    },
+    {
+     "name": "JEFIT Workout Plan Gym Tracker",
+     "dev": "Jefit Inc.",
+     "ratings": 46905,
+     "desc": "Get Fit and Strong with JEFIT: Your Reliable Gym Planner and Workout Tracker\n\nJEFIT is the ultimate workout tracker to plan your strength training, log workouts, and track exercise progress.\nWhether y"
+    },
+    {
+     "name": "obé | Fitness for women",
+     "dev": "Dear Media LLC",
+     "ratings": 11756,
+     "desc": "Work out smarter, not harder. obé cuts the guesswork and helps you look forward to moving your body—for good. Take a quiz to share your fitness goals, we’ll create a personalized, progressive at-home "
+    },
+    {
+     "name": "iFIT Personal Trainer",
+     "dev": "ICON Health & Fitness, Inc.",
+     "ratings": 1310,
+     "desc": "Get the perfect workout for right here, right now. If twenty minutes in your garage is all you’ve got, let’s go. iFIT Tailor, your AI fitness coach, builds you custom workouts and a weekly fitness pla"
+    },
+    {
+     "name": "STNDRD Workout & Fitness Plans",
+     "dev": "Set The Standard LLC",
+     "ratings": 3814,
+     "desc": "Try STNDRD FREE for 7 days\n\nCoached by 6x Mr. Olympia Chris Bumstead. Featured by Apple. 150,000+ Members Setting Their Standard.\nSTNDRD is a strength training app for people who are serious about get"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "trucker joe",
+   "top": [
+    {
+     "name": "Trucker Joe",
+     "dev": "Volker Sundrum",
+     "ratings": 64,
+     "desc": "Embark on an Epic Trucking Adventure with Trucker Joe!\n\nAs Trucker Joe, you're a self-made entrepreneur with an old truck and a burning ambition to rise to the top. Experience the thrill of owning and"
+    },
+    {
+     "name": "Trucker Ben - Truck Simulator",
+     "dev": "APPWILL COMPANY LTD",
+     "ratings": 3047,
+     "desc": "Welcome to the world of cargo transport. 2D cargo transportation simulator.\n\nGet ready to dive into the exciting world of cargo transport in a new game developed by the creator of Bad Trucker and Best"
+    },
+    {
+     "name": "Mini Trucker - truck simulator",
+     "dev": "Konstantin Frolov",
+     "ratings": 138,
+     "desc": "The game is a 2D car simulator of cargo carriage.\nThere are several vehicles with different specifications and load capacity in the game. Several types of equipment are available for cars: a tipper, a"
+    },
+    {
+     "name": "Trucker and Trucks",
+     "dev": "APPWILL COMPANY LTD",
+     "ratings": 889,
+     "desc": "Welcome to the exciting world of cargo transportation!\n\nHit the road in a new 2D trucking simulator from the creator of the popular games Bad Trucker and Best Trucker.\n\nWide selection of vehicles:\nDri"
+    },
+    {
+     "name": "Train Simulator: Railroad Game",
+     "dev": "Azur Interactive Games Limited",
+     "ratings": 5233,
+     "desc": "In-game regional economies are in poor condition, transport systems are suffering losses, enterprises and factories are idle, and the transport network is not properly maintained. Are you ready to cha"
+    },
+    {
+     "name": "Trucker Real Wheels",
+     "dev": "Feofun Limited",
+     "ratings": 347,
+     "desc": "Take on the role of Trucker, transport various cargoes, earn money and restore the city.\n\nTest your skills in difficult road situations, use differential locks and low gears, overcome difficult mounta"
+    },
+    {
+     "name": "Truckers of Europe 3",
+     "dev": "Yalcin Senturk",
+     "ratings": 6573,
+     "desc": "Become a real trucker with Truckers of Europe 3! \n\nFeaturing intensive driving experience with the most realistic truck physics.\n\nFeel like driving real trucks with this truck simulator. \n\nTravel acro"
+    },
+    {
+     "name": "Mini Truck Loader",
+     "dev": "Farrukh Ahmad",
+     "ratings": 4,
+     "desc": "Be a part of an interesting duty to load the truck with the help of a magnet!\nLet’s start your interesting duty to load the truck with the help of a magnet in  this mini truck loader simulator. Design"
+    },
+    {
+     "name": "Chain Driver",
+     "dev": "Chaine, Inc.",
+     "ratings": 2628,
+     "desc": "Join over 100k drivers and carriers that use chain to connect with the brokers they work with. Using chain helps improve your reputation with your broker customers, and get more repeat loads through c"
+    },
+    {
+     "name": "TruckSmart ™",
+     "dev": "Travelcenters of America",
+     "ratings": 18570,
+     "desc": "TruckSmart is now earnify™pro.\n \nearnifypro delivers a faster, more intuitive way to manage your rewards, track activity, and get more from every interaction at TA, Petro Stopping Centers and TA Expre"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "firefighter calendar",
+   "top": [
+    {
+     "name": "FireSync Shift Calendar",
+     "dev": "ForceReadiness.com",
+     "ratings": 9113,
+     "desc": "FireSync is not merely a Firefighter Shift Calendar, it's also a full-featured calendar app with powerful cloud-enabled features just for firefighters.   Whether or not you want to keep track of your "
+    },
+    {
+     "name": "IAFF Foundation Pro-Calendar",
+     "dev": "Pro-Calendar",
+     "ratings": 5938,
+     "desc": "IAFF Foundation Pro-Calendar: Shift Calendar/Organizer - Designed by a firefighter for firefighters\n\nPro-Calendar® and the International Association of Fire Fighters and have teamed up to present the "
+    },
+    {
+     "name": "Fire Shifts",
+     "dev": "Kevin Jordan",
+     "ratings": 62,
+     "desc": "A free customizable Fire and EMS Shift Calendar.\n\nEasily select various shift types such as 24/48 (ABC), 48/96 (AABBCC), etc. Customize labels and colors for each of your shifts to easily highlight yo"
+    },
+    {
+     "name": "Spark - Shift Calendar",
+     "dev": "E.L.K. Equities LLC",
+     "ratings": 7508,
+     "desc": "Spark: Your Ultimate Shift Calendar App\n\nFor over 15 years, Spark has been the go-to app for simplifying shift work. Loaded with powerful, user-friendly features, Spark helps you balance work and pers"
+    },
+    {
+     "name": "Shift Calendar",
+     "dev": "Gil Estes",
+     "ratings": 74,
+     "desc": "Thank you for your interest in Shift Calendar, the app designed by Firefighters and built for Firefighters. \n\nShift Calendar is the full functioning, eternal shift calendar specifically for the profes"
+    },
+    {
+     "name": "Firefighter & EMS Calendar",
+     "dev": "Chase Henslee",
+     "ratings": 36,
+     "desc": "This app is designed for fireman and EMS workers who work any rotational schedule!  Simply set up your rotation and the app does the rest.\n\nSome of the features of this app include:\n\n    - Quick viewi"
+    },
+    {
+     "name": "Shift Day Work Calendar: Spoke",
+     "dev": "PIXO Incorporation",
+     "ratings": 14345,
+     "desc": "Spoke: Shift Day Work Calendar\n\nTracking your shifts has never been easier!\nWith Spoke, you can see at a glance when you’re working. Suitable for your iPhone and/or iPad, the clear, easily readable ca"
+    },
+    {
+     "name": "ShiftPro",
+     "dev": "Gil Estes",
+     "ratings": 7,
+     "desc": "Take control of your shift schedule.\n\nShiftCal Pro makes complex rotating schedules easy to understand. Built for firefighters, EMS, paramedics, police, nurses, and other shift workers, it helps you q"
+    },
+    {
+     "name": "Firefighter Shift Calendar",
+     "dev": "Erdem Kara",
+     "ratings": 0,
+     "desc": "Firefighter Shift Calendar\n\nFirefighter Shift Calendar is a simple and reliable scheduling app designed to help firefighters and shift workers keep track of their work rotations. It helps you stay org"
+    },
+    {
+     "name": "Frontline - Shift Calendar",
+     "dev": "Code3Tek",
+     "ratings": 30,
+     "desc": "Frontline is the shift calendar built for first responders - Firefighters, EMS, Police and 911 Dispatch.\n\nSet up your rotation in about 30 seconds, then see your whole month at a glance. Frontline kno"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "notary gadget",
+   "top": [
+    {
+     "name": "NotaryGadget",
+     "dev": "Realtyzam, LLC",
+     "ratings": 729,
+     "desc": "NotaryGadget  is the ultimate app for notary signing agents. It makes just about everything you do easier - sending invoices, tracking payments, tracking mileage, tracking notarial acts, managing your"
+    },
+    {
+     "name": "NotaryAssist",
+     "dev": "LavaTurtle Software Inc.",
+     "ratings": 215,
+     "desc": "NotaryAssist is the simplest way to run your notary business like a professional.\nForward confirmation emails to create appointments in seconds. Sync across devices and calendars. Track income, expens"
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "NotaryAct - Electronic Journal",
+     "dev": "NotaryAct",
+     "ratings": 98,
+     "desc": "Replace the Paper Journal. Stay Compliant. Save Hours Every Week.\n\nNotaryAct is the original and most trusted electronic notary journal built by notaries, for notaries. Since 2012, over 25,000 notary "
+    },
+    {
+     "name": "Notary eJournal",
+     "dev": "Jurat",
+     "ratings": 190,
+     "desc": "The Notary eJournal by Jurat INC is an electronic notary journal created to provide a digital replacement for the standard hard-bound notary journals that exist in the market. Designed by notaries in "
+    },
+    {
+     "name": "StudyNotary",
+     "dev": "OwlRise LLC",
+     "ratings": 1,
+     "desc": "StudyNotary is a state‑aware notary prep app for U.S. notaries. Choose your state and get targeted practice across core domains like notary law, ethics, compliance, and professional practice. Build co"
+    },
+    {
+     "name": "BlueNotary",
+     "dev": "BlueNotary LLC",
+     "ratings": 1,
+     "desc": "BlueNotary — Your Remote Online Notarization business, on the go.\n\nBlueNotary App is the mobile companion for commissioned notaries who use the BlueNotary Remote Online Notarization (RON) platform. Bu"
+    },
+    {
+     "name": "NotaryCentral",
+     "dev": "Alexander Leon",
+     "ratings": 3,
+     "desc": "The all-in-one app for notaries\nStay Compliant. Work Smarter. Grow with Confidence.\n\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+    },
+    {
+     "name": "Docusign - Upload & Sign Docs",
+     "dev": "Docusign",
+     "ratings": 829008,
+     "desc": "Docusign eSignature is the world’s #1 way for businesses and individuals to securely send and sign agreements from practically anywhere, at any time, from almost any device. The Docusign app is easy t"
+    },
+    {
+     "name": "NotarizeMe for Notaries",
+     "dev": "NotarizeMe LLC",
+     "ratings": 1,
+     "desc": "NotarizeMe allows notaries to find work through an easy to use integrated marketplace. Clients can request notary services and the client and notary can negotiate the price for the services offered. Y"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "trucker log book",
+   "top": [
+    {
+     "name": "Drivers Daily Log",
+     "dev": "Drivers Daily Log",
+     "ratings": 602,
+     "desc": "Drivers Daily Log is a replacement for the paper logbook used by some commercial drivers.  Drivers Daily Log is not an ELD as required by current FMCSA law but may be used by certain EXEMPT carriers s"
+    },
+    {
+     "name": "Motive Driver",
+     "dev": "Motive Technologies Inc",
+     "ratings": 11620,
+     "desc": "ELD COMPLIANCE\nThe Motive Driver App makes recording Hours of Service (HOS) on your iPhone or iPad fast and easy.\nIt complies with the FMCSA regulations, including Part 395. When used with the Motive "
+    },
+    {
+     "name": "TruckX - Electronic Logbook",
+     "dev": "TruckX Inc",
+     "ratings": 2709,
+     "desc": "TruckX is a leading, FMCSA-approved ELD and Fleet Management Platform. Whether you are a driver, owner-operator, or fleet manager, TruckX offers a user-friendly fleet management system for commercial "
+    },
+    {
+     "name": "Ezlogz: ELD & Truck Navigation",
+     "dev": "EzTechTonic Inc",
+     "ratings": 2904,
+     "desc": "Ezlogz’s mission is to provide the best ELD service with all features that are essential to fleet management:\n\nElectronic Logging Device | EzSmart ELD\n* FMCSA certified ELD\n* Hours of Service (HOS) vi"
+    },
+    {
+     "name": "Trucker Path: Truck GPS & Fuel",
+     "dev": "Trucker Path Inc.",
+     "ratings": 153628,
+     "desc": "North America’s most popular app for Truckers. BUILT FOR TRUCKERS, BY TRUCKERS! Get all trucker tools in one FREE APP! Best Trucking APP featured by truckers! Trucker Path is a mapping tool used by mo"
+    },
+    {
+     "name": "DAILY ELD",
+     "dev": "DAILY ELD LLC",
+     "ratings": 4,
+     "desc": "The DAILY ELD app has been approved by the FMCSA for use with their Electronic Logging Device (ELD) hardware. Access real-time data, including vehicle location, speed, engine hours, and duty status. U"
+    },
+    {
+     "name": "Samsara Driver",
+     "dev": "Samsara Networks, Inc.",
+     "ratings": 48852,
+     "desc": "The Driver App that works the way you do. Samsara Driver gives professional drivers everything they need to stay safe, complete daily tasks faster, get recognized for their work, and stay connected—no"
+    },
+    {
+     "name": "NRG LOG",
+     "dev": "UUT LLC",
+     "ratings": 0,
+     "desc": "NRG LOG is a practical HOS management tool that allows truckers to keep operations compliant, safe and efficient. The electronic logbook is designed with an intuitive interface that is easy to pick up"
+    },
+    {
+     "name": "INTERONE LOGS",
+     "dev": "INTERSTATE LOGS INC",
+     "ratings": 0,
+     "desc": "Take a chance to improve your business with INTERONE LOGS. Forget paper logs with this efficient logbook; INTERONE LOGS will automatically keep accurate RODS to achieve FMCSA compliance. It is a strai"
+    },
+    {
+     "name": "BigRoad ELD",
+     "dev": "Complete Innovations Inc",
+     "ratings": 3132,
+     "desc": "BigRoad ELD is an easy-to-use electronic logging device certified with FMCSA and 3rd Party Certified in Canada. Use it as part of the Unity Suite of software products to run your entire business smoot"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "surveyingmaster",
+   "top": [
+    {
+     "name": "SurveyingMaster",
+     "dev": "颖达 陈",
+     "ratings": 2,
+     "desc": "【Introdution】\nConvenient surveying calculator, including traversing, leveling, coordinate calculation and intersection...\n\nIt has a powerful function to balance the misclosure in open route, closed ro"
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    },
+    {
+     "name": "Hover: Measure Design Estimate",
+     "dev": "Hover Inc.",
+     "ratings": 3050,
+     "desc": "Hover is the property intelligence platform that turns a scan of any residential or commercial property into high-quality 3D data, complete with accurate measurements, structured documentation, and re"
+    },
+    {
+     "name": "GPS Land Measurement & Survey",
+     "dev": "LogiSian Technology Solutions",
+     "ratings": 3006,
+     "desc": "GPS Area Measure - Mapulator is a powerful measurement app for iPhone designed for professionals and individuals who need field area measurements, GPS measure distance, and land surveying tools. Wheth"
+    },
+    {
+     "name": "Twindo: LiDAR Scan to CAD/BIM",
+     "dev": "Occipital, Inc.",
+     "ratings": 1108,
+     "desc": "Twindo helps professionals capture, understand, and work with physical spaces without extra site visits or second-guessing.\n\nWith a quick scan, plan or point cloud upload, Twindo turns any space into "
+    },
+    {
+     "name": "SiteScape: LiDAR Scanner & CAD",
+     "dev": "FARO Technologies Inc.",
+     "ratings": 940,
+     "desc": "SiteScape is the #1 LiDAR 3D Scanning App for Architecture, Engineering, and Construction. Capture 3D scans accurate to the inch and built for construction workflows.\n*REQUIRES IPHONE 12/13/14 PRO, IP"
+    },
+    {
+     "name": "Planimeter for map measure",
+     "dev": "忠 张",
+     "ratings": 856,
+     "desc": "How many acres is your property?\n\nWhat is the straight-line distance between Los Angeles and Las Vegas?\n\nHow large is Central Park?\n\nHow much roof space is available for a solar installation?\n\nMap Mea"
+    },
+    {
+     "name": "Planimeter — Measure Land Area",
+     "dev": "Core Signals",
+     "ratings": 2216,
+     "desc": "Planimeter measures distances and land areas on maps.\n\nMeasure your outdoor projects - lawns, fences, paving, or anything else visible on the satellite map. Quickly measure lot sizes and buildings. Co"
+    },
+    {
+     "name": "Workyard GPS Time Tracking App",
+     "dev": "Workyard Pty Ltd",
+     "ratings": 242,
+     "desc": "Increase your project profits by better measuring and managing your construction crew. Workyard’s construction time tracking software uses the industry’s most precise GPS tracking to create accurate t"
+    },
+    {
+     "name": "Property Line Finder: Land Map",
+     "dev": "Biographics Consultoria e Design LTDA",
+     "ratings": 981,
+     "desc": "Property Survey GPS makes it easy to discover accurate property boundaries, parcel data, and land information directly on your iPhone or iPad. Whether you’re a property owner, real estate agent, devel"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "notary services for document signing",
+   "top": [
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "Instant Notary App",
+     "dev": "OnlineNotary.net/Instant Notary LLC",
+     "ratings": 8069,
+     "desc": "OnlineNotary.net is a Virginia based company that can legally perform online notary to any US Citizen or US Resident. Our experienced and friendly, professionally licensed and certified notaries can h"
+    },
+    {
+     "name": "Docusign - Upload & Sign Docs",
+     "dev": "Docusign",
+     "ratings": 829008,
+     "desc": "Docusign eSignature is the world’s #1 way for businesses and individuals to securely send and sign agreements from practically anywhere, at any time, from almost any device. The Docusign app is easy t"
+    },
+    {
+     "name": "SignNow: e-Signature app",
+     "dev": "airSlate, Inc.",
+     "ratings": 18089,
+     "desc": "SignNow is used by over 6 million people worldwide to sign, send, and manage documents — wherever they are, on any device.\nSkip printing, scanning, and waiting. With SignNow, you can get legally bindi"
+    },
+    {
+     "name": "NotarizeMe for Notaries",
+     "dev": "NotarizeMe LLC",
+     "ratings": 1,
+     "desc": "NotarizeMe allows notaries to find work through an easy to use integrated marketplace. Clients can request notary services and the client and notary can negotiate the price for the services offered. Y"
+    },
+    {
+     "name": "Solidifi Notary Network",
+     "dev": "Solidifi U.S. Inc.",
+     "ratings": 24,
+     "desc": "The Solidifi Notary Network app for iOS allows Solidifi Notaries to have quick and easy access to all of their Solidifi orders. You can accept or decline signings, manage your calendar, get travel and"
+    },
+    {
+     "name": "NotaryAssist",
+     "dev": "LavaTurtle Software Inc.",
+     "ratings": 215,
+     "desc": "NotaryAssist is the simplest way to run your notary business like a professional.\nForward confirmation emails to create appointments in seconds. Sync across devices and calendars. Track income, expens"
+    },
+    {
+     "name": "SigningOS - Notary Business",
+     "dev": "VERIFIED NOTARY LLC",
+     "ratings": 1,
+     "desc": "SigningOS is the all-in-one mobile platform built exclusively for loan signing agents. Whether you handle refinances, purchases, or reverse mortgages, SigningOS gives you the tools to manage every sig"
+    },
+    {
+     "name": "NotaryCentral",
+     "dev": "Alexander Leon",
+     "ratings": 3,
+     "desc": "The all-in-one app for notaries\nStay Compliant. Work Smarter. Grow with Confidence.\n\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+    },
+    {
+     "name": "Notary Business Guidance",
+     "dev": "Notary Business Guidance",
+     "ratings": 19,
+     "desc": "Notary Business Guidance: The Missing Puzzle Piece to Take Off Your Notary Business\n\nUnlock the secrets to building a thriving notary signing agent career with the Notary Business Guidance app! This c"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dietitian anubha",
+   "top": [
+    {
+     "name": "Dietitian Anubha",
+     "dev": "Mohi Lifestile Solutions Private Limited",
+     "ratings": 0,
+     "desc": "Welcome to Dietition Abubha, where your health and wellness journey begins. As a proud white-label partner of Wellnessz, we bring you cutting-edge fitness solutions designed to help you achieve your g"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Fay Nutrition Dietitians",
+     "dev": "Fay Health, Inc",
+     "ratings": 6993,
+     "desc": "At Fay, we know that health is not one-size-fits-all. Everyone is unique, with different bodies, goals, preferences and circumstances. Your nutrition care should be tailored to you and working for you"
+    },
+    {
+     "name": "Fooducate: Nutrition Coach",
+     "dev": "Maple Media Apps, LLC",
+     "ratings": 77547,
+     "desc": "Since 2010, Fooducate has been helping millions of people eat healthier, lose weight and improve their health.\n\n• Recommended by doctors, dietitians, fitness trainers, and personal coaches \n• Apple's "
+    },
+    {
+     "name": "Wondr Health",
+     "dev": "Naturally Slim, Inc.",
+     "ratings": 6752,
+     "desc": "Flip what the world has told you about diets upside down\n\nBring mindfulness to mealtime with our 10-5-10 timer\n\nLearn practical, scientifically-proven skills from experts\n\nReceive personal guidance an"
+    },
+    {
+     "name": "Berry Street Nutrition Therapy",
+     "dev": "Berry Street Health, Inc.",
+     "ratings": 2783,
+     "desc": "Better Nutrition Starts with Expert Care\nBerry Street connects you with professional Registered Dietitians for 1-on-1, medically informed nutrition therapy — typically 100% covered by insurance. Our m"
+    },
+    {
+     "name": "CDR RD: Dietitian Exam 2026",
+     "dev": "INAPPLAB OU",
+     "ratings": 62,
+     "desc": "Preparing for the Dietetic Registration (RD) Exam? Our RD prep app is your trusted companion for success! With expertly designed practice questions, detailed explanations, and proven study strategies,"
+    },
+    {
+     "name": "My Dietitian",
+     "dev": "My Dietitian",
+     "ratings": 7,
+     "desc": "Get the free app as a part of your My Dietitian membership. The My Dietitian membership enables users to upload their meals via picture journaling and receive customized daily feedback from your perso"
+    },
+    {
+     "name": "Welling AI Nutrition Assistant",
+     "dev": "Welling AI Pte. Ltd.",
+     "ratings": 1487,
+     "desc": "Consistency is the key to results. Welling is your personal AI for calorie tracking, managing your diet and mealplanning help. Welling helps you achieve weight loss and fitness goals by making sure yo"
+    },
+    {
+     "name": "Amanda Nighbert",
+     "dev": "Thoroughbred Solutions LLC",
+     "ratings": 7206,
+     "desc": "LEAN Living Energized and Nourished with Amanda Nighbert is a 7 week online health and wellness program.  The LEAN app is used to facilitate the 7 week program.  In the LEAN program you will work dail"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "forklift games",
+   "top": [
+    {
+     "name": "Forklift Extreme Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 307,
+     "desc": "Drive powerful forklifts and master warehouse logistics in one of the most advanced forklift simulators on mobile.\n\nTransport cargo, upgrade machines and manage warehouse operations across detailed in"
+    },
+    {
+     "name": "Forklift Truck Simulator 2024",
+     "dev": "Frigate Games",
+     "ratings": 156,
+     "desc": "Welcome to the Forklift Truck Transport Simulator, Load the goods into various vehicles like Trucks, Ships, Trains and more. Play as a forklift truck driver and complete the task of loading the goods "
+    },
+    {
+     "name": "Forklift Simulator 2021",
+     "dev": "Sacaci Florin",
+     "ratings": 13,
+     "desc": "Forklift is a useful and powerful industrial truck used to lift and move materials over short distances, which is also called lift truck, fork truck, fork hoist and forklift truck. Forklifts have beco"
+    },
+    {
+     "name": "Forklift Rush Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 203,
+     "desc": "Take control of powerful forklifts and become the ultimate warehouse operator in Forklift Rush Simulator — a realistic forklift driving game where precision, skill and speed matter.\n\nLoad pallets, mov"
+    },
+    {
+     "name": "Real Forklift 3D",
+     "dev": "Bahadir Yerdelen",
+     "ratings": 1,
+     "desc": "Ever dreamed of using a forklift?\nNow is your chance! But you have a mission : You have to carry cargo to the service points. It looks easy but in this total realistic simulation harder that you imagi"
+    },
+    {
+     "name": "Grand Forklift Simulator",
+     "dev": "AtomWork",
+     "ratings": 20,
+     "desc": "Grand Forklift Simulator\n\nCharacteristics:\n\n- Realistic physics.\n- Different types of Forklift.\n- Random levels.\n- Detailed scenarios.\n- Many types of loads."
+    },
+    {
+     "name": "The Little Crane That Could",
+     "dev": "Abraham Stolk",
+     "ratings": 899,
+     "desc": "Driving a crane and operating a crane is so much fun. Improve your spatial skills and solve puzzles in this crane simulator, which is enjoyed by over 19 million people, young and old.\n\nA realistic phy"
+    },
+    {
+     "name": "Forklift Cargo Tycoon",
+     "dev": "Manzoor Ahmad",
+     "ratings": 1,
+     "desc": "\"Extreme Forklift driving 3D simulator Is Totally Stupidest simulation Game... you Can't Stop Playing\". We have always come with challenging gameplay, with a new turn to the parking arena; we give you"
+    },
+    {
+     "name": "Construction Operation",
+     "dev": "tatsumaki games",
+     "ratings": 86,
+     "desc": "You are a new construction equipment operator.\nComplete missions by operating various construction equipment such as forklifts and excavators!\n\nIf you can complete all the missions, you are now a prof"
+    },
+    {
+     "name": "Construction Excavator Sim",
+     "dev": "Muarij Mahmood Ramay",
+     "ratings": 5594,
+     "desc": "Welcome to the new concept of construction with the help of automatic machinery. Construct the road by using the automatic construction truck and cranes that can help to build the road faster. This ci"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "apex massage therapy",
+   "top": [
+    {
+     "name": "Apex Massage Therapy",
+     "dev": "Apex Massage Therapy ltd",
+     "ratings": 0,
+     "desc": "Download the Apex Massage Therapy App today to plan and schedule your massage appointments with the BEST Massage clinic in Calgary. From this mobile App you can view schedules, request appointments, a"
+    },
+    {
+     "name": "Massage Envy",
+     "dev": "Massage Envy",
+     "ratings": 52658,
+     "desc": "With the Massage Envy app, access to routine self-care is literally in your hands. Find your favorite massage therapist, stretch provider, or esthetician at any franchised location and easily book a m"
+    },
+    {
+     "name": "Squeeze - Massage",
+     "dev": "GoSaga Squeeze Franchising, LLC",
+     "ratings": 1997,
+     "desc": "Squeeze is a way better massage experience. Why? Because unlike other massage places, you can book, pay, and tip right in the app—so after your massage, you can just float on out. No cashier, no regis"
+    },
+    {
+     "name": "Zeel In-Home Massage Therapist",
+     "dev": "Zeel",
+     "ratings": 10762,
+     "desc": "Book massage therapy for pain relief, athletic recovery, or relaxation to your home, hotel, or office. Health and wellness have never been more accessible or essential to your well-being.\n\nNamed one o"
+    },
+    {
+     "name": "Bigtoe: Massage On Demand",
+     "dev": "BigToe",
+     "ratings": 2356,
+     "desc": "Book an in-home Massage session in seconds!\n\nSay goodbye to back-and-forth. Get a professional massage delivered to your door with just a few taps. \n\nHow it works:\n\nCreate Request\nChoose your preferre"
+    },
+    {
+     "name": "Soothe: Wellness On Demand",
+     "dev": "Soothe LLC",
+     "ratings": 13607,
+     "desc": "Spa-quality wellness and personal care services delivered to you, on your schedule –– at home, at the office, or on the go.\n\nSoothe is the largest and most trusted on-demand wellness platform in the w"
+    },
+    {
+     "name": "Massage Techniques",
+     "dev": "Real Bodywork",
+     "ratings": 101,
+     "desc": "Learn to give an amazing massage. Featuring 130 massage techniques, 13 full massage routines and an anatomy section.\nEach technique includes a video demonstration, a still image, and a text descriptio"
+    },
+    {
+     "name": "AMTA Exam Prep",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 8936,
+     "desc": "The official American Massage Therapy Association’s study app will help you prepare for the MBLEx like never before. Study anywhere, anytime with 1000 challenging practice questions and full answer ra"
+    },
+    {
+     "name": "Massage at home | Urban",
+     "dev": "Urban Massage Ltd",
+     "ratings": 610,
+     "desc": "Relax, you’re home.\nUrban brings a human touch to city life – with massage, beauty and wellness treatments delivered to your door in as little as 60 minutes.\n\nChoose from over 50 services, including d"
+    },
+    {
+     "name": "Home Massage & Beauty | Blys",
+     "dev": "Get Blys Pty Ltd",
+     "ratings": 259,
+     "desc": "On demand massage and beauty services are now available in the United States! Blys is the fastest, easiest and safest way to enjoy professional spa treatments at home, on the go or at work all across "
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "pilates club house",
+   "top": [
+    {
+     "name": "Pilates Club House",
+     "dev": "Pilates Club House LLC",
+     "ratings": 4,
+     "desc": "Download the Pilates Club House app to easily book classes and manage your fitness experience - anytime, anywhere. Make a reservation, get added to a wait list, check your profile and membership statu"
+    },
+    {
+     "name": "Club Pilates",
+     "dev": "Xponential Fitness LLC",
+     "ratings": 133716,
+     "desc": "Welcome to the Club Pilates App! Download the app to maximize your membership with the Club Pilates community. Find and favorite your preferred studios, classes, and instructors to personalize your Cl"
+    },
+    {
+     "name": "Pilates Clubhouse.",
+     "dev": "Janine Noopetch",
+     "ratings": 0,
+     "desc": "The Pilates Clubhouse is a series of Pilates Based Workouts. Whether you’re short on time, coming back to movement or looking to feel stronger and more balanced every day. Created by Janine, a passion"
+    },
+    {
+     "name": "Forma Pilates",
+     "dev": "Forma Pilates, INC",
+     "ratings": 178,
+     "desc": "Liana Levi of Forma Pilates is finally bringing her much talked about, exclusive and one of a kind pilates method to you at home. \n\nAt Forma, our main focus is form and precision; targeting small musc"
+    },
+    {
+     "name": "Wall Pilates Challenge & Fit",
+     "dev": "TROPIC INNOVATION PRIVATE LIMITED",
+     "ratings": 9734,
+     "desc": "Looking for an invigorating fitness challenge? Dive into our 28-day Wall Pilates Challenge and experience a new level of strength, flexibility, and balance. Whether you're a seasoned Pilates enthusias"
+    },
+    {
+     "name": "Pilates | Down Dog",
+     "dev": "Yoga Buddhi Co.",
+     "ratings": 10489,
+     "desc": "From the developers of the highest rated Yoga App, Down Dog, Pilates gives you a brand new workout every time! Unlike following pre-recorded videos, in this low-impact full body mat workout built arou"
+    },
+    {
+     "name": "JETSET Pilates",
+     "dev": "Geisler Young",
+     "ratings": 6074,
+     "desc": "Download the JETSET Pilates app to maximize your experience. Find and book classes at your favorite studio, view class history, book-a-friend, and purchase packages or memberships."
+    },
+    {
+     "name": "BODYBAR Pilates",
+     "dev": "Speak Light LLC",
+     "ratings": 6175,
+     "desc": "The BODYBAR Pilates app allows you to book your BODYBAR classes while on the go and quickly reserve your spot at your favorite Pilates bar! Cheers!"
+    },
+    {
+     "name": "Pilates Anytime | Workouts",
+     "dev": "Timeshift Media, Inc.",
+     "ratings": 8661,
+     "desc": "A BEAUTIFUL NEW WAY TO EXPERIENCE PILATES ANYTIME\n\nWe have completely redesigned our app with a focus on stunning visuals and seamless navigation, so you can spend less time searching and more time mo"
+    },
+    {
+     "name": "The Pilates Class",
+     "dev": "The Pilates Class Online, LLC",
+     "ratings": 512,
+     "desc": "Transform Your Body, Mind & Lifestyle with The Pilates Class\n\nPilates is one of the most powerful ways to create sustainable, long lasting change, and The Pilates Class (TPC) takes it to the next leve"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "firefighter jam",
+   "top": [
+    {
+     "name": "Firefighter Jam",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 0,
+     "desc": "Emergency! All firefighters to their stations! Solve the in-game puzzle by sending the colored stickman firefighters to the correctly colored fire trucks and complete the level successfully. Each leve"
+    },
+    {
+     "name": "EMERGENCY HQ: Firefighter Game",
+     "dev": "Sixteen Tons Entertainment GmbH",
+     "ratings": 31435,
+     "desc": "Become a Hero in EMERGENCY HQ! The Ultimate Firefighter & Police Simulation Game!\n\nSave lives, extinguish fires, and bring order to chaos! EMERGENCY HQ is the realistic firefighter and police game tha"
+    },
+    {
+     "name": "Firefighter Simulation 3D Game",
+     "dev": "The Tecknis Games",
+     "ratings": 309,
+     "desc": "Welcome to one of the most thrilling and adventurous rescue Game.\n\nExperience one of the high alert and alarming situation and take control by rescuing all the fire situation with you fire brigade tru"
+    },
+    {
+     "name": "NY City FireFighter 2017",
+     "dev": "Tap2Play, LLC (Ticker: TAPM)",
+     "ratings": 642,
+     "desc": "Want to serve humanity? Like rescue, action, driving and parking games? NY City Firefighter 2017 awaits!\n\nOn a bright sunny day in New York City, you encounter a building in flames! You are a courageo"
+    },
+    {
+     "name": "FireFighter 3D (Sim)",
+     "dev": "Playcus Limited",
+     "ratings": 111,
+     "desc": "Firefighters because even cops need heroes!\nVery fun gameplay!"
+    },
+    {
+     "name": "FireSync Shift Calendar",
+     "dev": "ForceReadiness.com",
+     "ratings": 9113,
+     "desc": "FireSync is not merely a Firefighter Shift Calendar, it's also a full-featured calendar app with powerful cloud-enabled features just for firefighters.   Whether or not you want to keep track of your "
+    },
+    {
+     "name": "Fire Truck Firefighting Rescue",
+     "dev": "Shafin Sadin",
+     "ratings": 2623,
+     "desc": "Are you ready to play the most exciting and thrilling firefighter truck game? Test your driving skills and save the city people who are trapped in the fire. This American fire truck is not only about "
+    },
+    {
+     "name": "Fire Truck Firefighter Squad",
+     "dev": "freeonlinegames.com",
+     "ratings": 207,
+     "desc": "Drive fire trucks in a firefighter simulator with your own firefighter squad! Take on epic firefighting simulator missions driving your fire truck to become the best firefighter!\n\nANSWER THE CALL IN T"
+    },
+    {
+     "name": "Firefighter:Car fire truck sim",
+     "dev": "MIDNIGHT GAMES S.R.L.",
+     "ratings": 2424,
+     "desc": "In the game FireFighter Squad, you have to try on the role of a real fire brigade worker in a large American city. Players will experience exciting tasks, more than 30 different locations, inspired by"
+    },
+    {
+     "name": "I'm Fireman",
+     "dev": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+     "ratings": 330,
+     "desc": "--- Write at the top: If you would like, you are welcome to follow our Facebook page: \nhttps://www.facebook.com/profile.php?id=100090879706274 \nHere you can give us feedback on problems you encounter "
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

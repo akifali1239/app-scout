@@ -23109,6 +23109,634 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "florist.ru: flower shop",
+   "top": [
+    {
+     "name": "Florist.ru: flower shop",
+     "dev": "Florist.ru",
+     "ratings": 11,
+     "desc": "Хотите передать эмоции дорогому человеку на расстоянии? Флорист.ру доставит цветы вашим близким к любой дате и событию. Наше приложение поможет вам в этом.\n\nМеждународная служба доставки цветов Флорис"
+    },
+    {
+     "name": "Blossom Sort® - Flower Games",
+     "dev": "Gloryway Puzzle",
+     "ratings": 30395,
+     "desc": "Blossom and use your wits to unlock the mystery of flower insertion! \nFollow the tune and make bouquets jump between music notes. Gather flowers of the same color and let them dance in the vase freely"
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Flower Farm (Flowerama)",
+     "dev": "nanobitsoftware.com",
+     "ratings": 1776,
+     "desc": "Ever wanted to have your own flower shop? Even better, your own flower shop with a garden where you can plant your favorite flowers and sell them to customers! The fun doesn't stop here, with a little"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "The Cozy Florist",
+     "dev": "RiftSky Games",
+     "ratings": 30754,
+     "desc": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual "
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Flower Garden - Grow Flowers and Send Bouquets",
+     "dev": "Snappy Touch",
+     "ratings": 113,
+     "desc": "Over 20 million bouquets sent! A top-5 app in over 15  countries! Plant seeds, care for the plants, watch the flowers bloom, and create bouquets to share with friends and family.\n\n•  \"A lot of fun and"
+    },
+    {
+     "name": "Happy Bloom Blast",
+     "dev": "TECHVISION PTE. LTD.",
+     "ratings": 1666,
+     "desc": "Do you enjoy flowers? Have you ever tried flower arrangement games? Happy Bloom Blast is a classic flower elimination game that is stress-relieving and relaxing. Join us and start playing fun flower a"
+    },
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nutrition360: dietitian care",
+   "top": [
+    {
+     "name": "Nutrition360: Dietitian Care",
+     "dev": "DISCO ILETISIM VE TEKNOLOJI",
+     "ratings": 0,
+     "desc": "Nutrition360 helps you build healthier habits with real dietitian support, personalized nutrition plans, calorie analysis, and daily tracking — all in one simple app.\n\nWhether your goal is weight loss"
+    },
+    {
+     "name": "Fay Nutrition Dietitians",
+     "dev": "Fay Health, Inc",
+     "ratings": 6993,
+     "desc": "At Fay, we know that health is not one-size-fits-all. Everyone is unique, with different bodies, goals, preferences and circumstances. Your nutrition care should be tailored to you and working for you"
+    },
+    {
+     "name": "Berry Street Nutrition Therapy",
+     "dev": "Berry Street Health, Inc.",
+     "ratings": 2783,
+     "desc": "Better Nutrition Starts with Expert Care\nBerry Street connects you with professional Registered Dietitians for 1-on-1, medically informed nutrition therapy — typically 100% covered by insurance. Our m"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "G-Plans: Customized Nutrition",
+     "dev": "Goglia Nutrition, LLC",
+     "ratings": 8208,
+     "desc": "It all starts by downloading the G-Plans app and taking our free quiz to get approved for weight loss medication within just a few minutes.\n\nYou won’t believe the information you’ll find out about you"
+    },
+    {
+     "name": "Nutrition Info",
+     "dev": "Mike Thomas",
+     "ratings": 7797,
+     "desc": "Nutrition Info allows you to view nutritional facts. Search through thousands of food items including food from popular restaurants and store brands. \n\nFeatures:\n• View nutrition facts label\n• Calorie"
+    },
+    {
+     "name": "Diet Care",
+     "dev": "Tagzia Group Company",
+     "ratings": 554,
+     "desc": "Individualized diet plans are tailored to client needs and supervised by our dietitians.\n \nDiet Care services fulfill the needs of the following population groups:\n•        Healthy people with special"
+    },
+    {
+     "name": "CDR RD: Dietitian Exam 2026",
+     "dev": "INAPPLAB OU",
+     "ratings": 62,
+     "desc": "Preparing for the Dietetic Registration (RD) Exam? Our RD prep app is your trusted companion for success! With expertly designed practice questions, detailed explanations, and proven study strategies,"
+    },
+    {
+     "name": "PCRM's Nutrition Guide",
+     "dev": "Unbound Medicine, Inc.",
+     "ratings": 419,
+     "desc": "This comprehensive medical reference manual provides the latest evidence-based information on nutrition’s role in prevention and treatment. It covers nearly 100 diseases and conditions, including risk"
+    },
+    {
+     "name": "ZOE Health: AI Meal Tracker",
+     "dev": "Zoe Limited",
+     "ratings": 7023,
+     "desc": "The ZOE App helps you build healthy eating habits, eat more mindfully, and understand your nutrition, one meal at a time. Because what you eat can improve your energy, mood, gut health, and sleep.\n\nPo"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "otago tepukenga carpentry app",
+   "top": [
+    {
+     "name": "Otago Tepukenga Carpentry App",
+     "dev": "Josh Galuszka",
+     "ratings": 0,
+     "desc": "\"The Otago Tepukenga Carpentry App is a tool that can be used by Otago Polytechnic's carpentry students and apprentices to capture the notes, images, dates, and locations of their on-site practical wo"
+    },
+    {
+     "name": "Bosch MeasureOn",
+     "dev": "Bosch US",
+     "ratings": 534,
+     "desc": "Save all information in one place: Bosch MeasureOn by Bosch Measuring Tools is your app for easy on-site documentation of floor plans, measurements, photos, and notes. With cloud-based* project access"
+    },
+    {
+     "name": "Chippy Tools: Construction",
+     "dev": "Peth Pty Ltd",
+     "ratings": 906,
+     "desc": "Chippy Tools is the must-have calculator for carpenters and handy folks looking to simplify math on the job. Whether you're on your iPhone or iPad, Chippy Tools is for you. Its user-friendly design le"
+    },
+    {
+     "name": "Got Work App",
+     "dev": "Joseph Cunningham",
+     "ratings": 11,
+     "desc": "The Got Work app connects homeowners and contractors in an extremely fast and reliable manner.\n\nTerms Of Use link:-\nhttps://gotworkapp.com/terms-and-conditions\n\nContractors pay a small monthly fee to "
+    },
+    {
+     "name": "Elevate Technical App",
+     "dev": "Amrize",
+     "ratings": 399,
+     "desc": "At Elevate we don’t just offer roofing and building products, we offer partnership and a complete solution. Whether you're a building owner, facility manager, contractor, architect or consultant our g"
+    },
+    {
+     "name": "Probuild (App for Contractors)",
+     "dev": "Probuild Software Inc.",
+     "ratings": 399,
+     "desc": "Probuild is an all-in-one business management app that is designed to meet the unique needs of construction, contracting and trades businesses. Probuild lets you manage your projects, estimates, invoi"
+    },
+    {
+     "name": "FieldTask App",
+     "dev": "SpaceSoft Limited",
+     "ratings": 2,
+     "desc": "FieldTask is the field service management app that keeps your business organized and efficient. From scheduling and dispatching to job tracking and invoicing, FieldTask brings all the tools you need i"
+    },
+    {
+     "name": "Speak Pacific",
+     "dev": "Kiwa Digital Limited",
+     "ratings": 13,
+     "desc": "The Speak Pacific App is an educational resource designed to provide a brief introduction to Pacific language and culture.\n\nThe App introduced you to seven Pacific languages, \n-\tFӓeag Rotuḁm (Rotuman "
+    },
+    {
+     "name": "Manifold: Field Team App",
+     "dev": "PCPVR, Inc.",
+     "ratings": 38,
+     "desc": "Document every job from the phone in your pocket.\n\nManifold is the field documentation app built for contractors, renovation crews, restoration teams, and HVAC technicians who are done losing photos, "
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "d2f florist manager",
+   "top": [
+    {
+     "name": "D2F Florist Manager",
+     "dev": "Direct2florist",
+     "ratings": 0,
+     "desc": "Direct2Florist Florist Manager. An essential order management App for Direct2Florist members. Get Push Notifications for New Orders. Easily Accept and Reject Orders. Tag As Delivered and Initiate Paym"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "The Cozy Florist",
+     "dev": "RiftSky Games",
+     "ratings": 30754,
+     "desc": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual "
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Hana Florist POS",
+     "dev": "Murali Nethi",
+     "ratings": 9,
+     "desc": "With the Hana Florist POS app (HanaViewers2), you can easily ring up sales, take contactless payments, and keep track of your inventory right from your iPhone or iPad. Our comprehensive Florist POS Sy"
+    },
+    {
+     "name": "FNP: Gifts, Flowers, Cakes App",
+     "dev": "Ferns N Petals Pvt. Ltd.",
+     "ratings": 1466,
+     "desc": "FNP (Ferns N Petals) is your one-stop app for online cake delivery, gifts for him & her, anniversary & valentine gifts, flowers, and more! Whether you need to order cakes online, find birthday gifts f"
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "chrono-acupuncture lite",
+   "top": [
+    {
+     "name": "Chrono-Acupuncture Lite",
+     "dev": "Cheng-Ta Hsieh",
+     "ratings": 6,
+     "desc": "Are you an acupuncturist? Or would you like to be healthier? This app computes the principle acupuncture points for anytime of the day.\n\nChrono-Acupuncture Methods Available:\n - LingGuiBaFa\n - FeiTeng"
+    },
+    {
+     "name": "Chrono-Acupuncture",
+     "dev": "Cheng-Ta Hsieh",
+     "ratings": 3,
+     "desc": "Are you an acupuncturist? Or would you like to be healthier? This app computes the principle acupuncture points for anytime of the day.\n\nChrono-Acupuncture Methods Available:\n - LingGuiBaFa\n - FeiTeng"
+    },
+    {
+     "name": "Visual Acupuncture 3D",
+     "dev": "GraphicVizion",
+     "ratings": 152,
+     "desc": "Study acupuncture visually and interactively.  \nGet a good feel for the flow of meridian pathways and their (anatomical) point locations. \n \nIncludes a complete interactive anatomy model (muscles, bon"
+    },
+    {
+     "name": "A Manual of Acupuncture 2025",
+     "dev": "The Journal of Chinese Medicine Publications Ltd.",
+     "ratings": 169,
+     "desc": "A Manual of Acupuncture – The Definitive App for Students & Practitioners.\n\n\nThis is the latest mobile app (iPhone/iPad) version of the foremost points textbook in the Western world - A Manual of Acup"
+    },
+    {
+     "name": "Acupuncture Points",
+     "dev": "Miridia Technology, Inc.",
+     "ratings": 94,
+     "desc": "Acupuncture Mastery Software\nVideo Demo!  View it here: http://www.miridiatech.com/products/points/iphone.php\n\n\"Just wanted to let you know I really like the points program.  I am a student in TCM and"
+    },
+    {
+     "name": "Tsubook",
+     "dev": "Studio Levart",
+     "ratings": 49,
+     "desc": "Tsubook is a mobile application with instant access to all the information you need about points, meridians and other content related to Traditional Chinese Medicine. It is both a reference book and a"
+    },
+    {
+     "name": "Lumenate: Explore & Relax",
+     "dev": "Lumenate Growth Ltd",
+     "ratings": 9675,
+     "desc": "Relax, explore your mind, and sleep better with the Lumenate app. Utilizing research-backed light sequences from your phone's flashlight, Lumenate guides you into an altered state of consciousness, bl"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "sailquiz: sailing exam prep",
+   "top": [
+    {
+     "name": "SailQuiz: Sailing Exam Prep",
+     "dev": "Jakub Gajzler",
+     "ratings": 0,
+     "desc": "SailQuiz helps you learn sailing theory through active recall, smart review and bite-sized quizzes. Built on spaced repetition, it adapts to your answers so you spend your time on what needs more prac"
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    },
+    {
+     "name": "FlyCowboys - Pilot Training",
+     "dev": "Navero LLC",
+     "ratings": 100,
+     "desc": "Pass your FAA written exam - and actually understand the material.\n\nFlyCowboys is the smart way to prepare for your Private Pilot (PPL), Instrument Rating (IFR), or Commercial Pilot (CPL) knowledge te"
+    },
+    {
+     "name": "Sea Trials - USCG License Exam",
+     "dev": "Mariner License Prep, LLC",
+     "ratings": 379,
+     "desc": "IMPORTANT:  \nALL QUESTIONS ARE SOURCED EXCLUSIVELY FROM PUBLICLY AVAILABLE MATERIALS AND USCG MATERIALS SHOWN BELOW:  \n\nUSCG Sample Exams (https://www.dco.uscg.mil/nmc/examinations/)  \n\nSEA TRIALS IS "
+    },
+    {
+     "name": "ASA's Sailing Challenge",
+     "dev": "American Sailing Association",
+     "ratings": 2945,
+     "desc": "ASA’s Sailing Challenge (for iPhone/iPad) includes six fun, easy-to-use modules that unlock the mysteries of sailing. Learn Points of Sail, Apparent Wind, Sail Trim, Tacking and Jibing, Rules of the R"
+    },
+    {
+     "name": "King Test Prep Companion",
+     "dev": "King Schools, Inc.",
+     "ratings": 2327,
+     "desc": "The KING Test Prep Companion App is part of the King VIP Study Method to get a guaranteed high score on your FAA Knowledge Test. It works with the question database of your Ground School and Test Prep"
+    },
+    {
+     "name": "USCG Exam Prep",
+     "dev": "Equitable Management Limited",
+     "ratings": 10,
+     "desc": "USCG Exam Prep provides recreational boaters and merchant mariners a convenient and accessible platform to study for the FCC and U.S. Coast Guard license exams.\n\nWhether you are studying for your Deck"
+    },
+    {
+     "name": "Aviation Exam - EASA",
+     "dev": "Aviationexam s.r.o.",
+     "ratings": 497,
+     "desc": "Preparing for EASA pilot exams? We will help you pass with our constantly updated question bank. Take advantage of many filters to customise the questions you go through and understand the correct ans"
+    },
+    {
+     "name": "Bluejacketeer",
+     "dev": "Kaplan",
+     "ratings": 389,
+     "desc": "------------------------------------\nWhat is Bluejacketeer?\n------------------------------------\n\nBluejacketeer is a learning system made for Sailors, by Sailors to help study for the Navy-Wide Advanc"
+    },
+    {
+     "name": "SailTies: Logbook GPS Tracking",
+     "dev": "Sail Ties Ltd",
+     "ratings": 379,
+     "desc": "SailTies: Track and Connect on Your Sailing Adventures\n\nJoin thousands of sailing enthusiasts who choose SailTies as their trusted sailing companion. With a digital logbook that makes logging every mi"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "hvac nate exam prep",
+   "top": [
+    {
+     "name": "HVAC NATE Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your HVAC NATE with confidence. HVAC NATE Exam Prep gives you 750+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nRefrigeration Cycle, Electr"
+    },
+    {
+     "name": "HVAC Technician Exam Prep 2026",
+     "dev": "Thanh Hung",
+     "ratings": 181,
+     "desc": "Ace the 2026 HVAC technician exam on your first attempt with 900+ real-world questions, smart analytics & a 90% proven pass rate — all available offline.\n\nOur HVAC Technician Exam Prep 2026 is specifi"
+    },
+    {
+     "name": "HVAC Exam Prep: NATE Practice",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Master the HVAC technician and NATE-style exams the smart way — beyond EPA 608.\n\nHVAC Exam Prep: NATE turns scattered, outdated study material into one fast, focused app with 1,100+ original practice "
+    },
+    {
+     "name": "HVAC EPA 608 Exam Prep 2026",
+     "dev": "KYLIEPREP",
+     "ratings": 2,
+     "desc": "Introducing the HVAC Exam Tutor, your ultimate study companion for the Heating, Ventilation, and Air Conditioning (HVAC) exam.\n\n\nThe HVAC exam is a critical certification exam for individuals who aspi"
+    },
+    {
+     "name": "NATE Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 335,
+     "desc": "Pass your NATE (North American Technician Excellence) certification exam and advance your HVAC career with confidence! The NATE Practice Test app helps you study smarter with realistic questions, deta"
+    },
+    {
+     "name": "SkillCat: EPA 608 & HVAC",
+     "dev": "SkillCat Inc",
+     "ratings": 9986,
+     "desc": "SkillCat helps you build trade skills, earn certifications, and move your career forward - all from your phone.\n\nNo classroom.\nNo big bill.\nNo waiting around for someone to give you permission.\n\nJust "
+    },
+    {
+     "name": "NATE Test Prep 2026",
+     "dev": "Connor Quigley",
+     "ratings": 0,
+     "desc": "Achieve your professional HVAC certification goals with a comprehensive study platform designed for modern technicians. Our app streamlines your preparation by combining expert content with intelligen"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "CE HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 1590,
+     "desc": "CE HVAC PRO is 100% free for HVAC technicians and always will be. Easily check warranty entitlement, available inventory, order status, manuals, and tech specs for all the HVAC models we carry. Our mi"
+    },
+    {
+     "name": "EPA-608 HVAC TruePrep AI Tutor",
+     "dev": "LineCentury",
+     "ratings": 48,
+     "desc": "Ace Your HVAC Certification — The Smart Way\n\nHVAC TruePrep AI Tutor is the all-in-one study companion designed to help you pass your NATE, ICE, or RSES exam — often on the first try.\n\nOur cutting-edge"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "esthetician state board",
+   "top": [
+    {
+     "name": "Esthetician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 13954,
+     "desc": "Pass your State Board of Esthetics exam with the help of the new Esthetician Exam Center app! \n\nThousands of Esthetics questions, and their detailed explanations are now available at your fingertips.\n"
+    },
+    {
+     "name": "Milady Exam Prep",
+     "dev": "Cengage Learning",
+     "ratings": 1470,
+     "desc": "Preparing for your state board licensing exam doesn't have to be stressful when you use the #1 test prep tool from Milady. Whether you’re studying for Cosmetology, Esthetics, Advanced Esthetics, Barbe"
+    },
+    {
+     "name": "Esthetics State Board Exams",
+     "dev": "KYLIEPREP",
+     "ratings": 3,
+     "desc": "Are you preparing for the Esthetician Exam? Then you're in the right place.\n\nOur mission? A FIRST-TIME PASS for you and loads of fun in the process!\n\nYou will crush the exam with over 1600 exam-like q"
+    },
+    {
+     "name": "Esthetician State Board 2026",
+     "dev": "Anthony Perry",
+     "ratings": 0,
+     "desc": "1 in 3 students fail the NIC esthetician exam on their first attempt. Most use outdated study guides that teach memorization, not understanding.\n\nGlowStudy is not another quiz bank. It is a complete N"
+    },
+    {
+     "name": "Esthetician Exam Prep Test",
+     "dev": "Best Fun Games",
+     "ratings": 573,
+     "desc": "Pass your Esthetician State Board exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ questions written by experts, "
+    },
+    {
+     "name": "Esthetician Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 181,
+     "desc": "Esthetician Exam Prep 2026 is an exam preparation app that will help you pass Esthetics State Board Exams with a high score on your first attempt.\n\nEsthetician Exam Prep 2026 not only helps you gain i"
+    },
+    {
+     "name": "Esthetician Exam Center: 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 21,
+     "desc": "Help you prepare for the Esthetician exam and pass it on your first attempt at the actual exam! Use the mobile app Esthetician Exam Center: 2026 developed by our exam experts to help prepare for the e"
+    },
+    {
+     "name": "Esthetician: Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 1115,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the state boards material with 1500+ exam-like questions and 800+ flashcards that help you remember more. Get access to over a dozen practice exams that will help you pa"
+    },
+    {
+     "name": "Esthetician State Board Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Study for the esthetician (skin care) state board written/theory exam with original practice questions written from the publicly available NIC esthetics theory content areas and standard curriculum. E"
+    },
+    {
+     "name": "Esthetician Exam Prep",
+     "dev": "MastrAPI",
+     "ratings": 313,
+     "desc": "Pass your Esthetics State Board exam with flying colors! Boost your confidence in passing first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nUpdate"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "respiratory therapy test bank",
+   "top": [
+    {
+     "name": "Respiratory Therapy Test Bank",
+     "dev": "Tourkia CHIHI",
+     "ratings": 2,
+     "desc": "Respiratory Therapy Exam Review-Study Notes & Quiz\n\nWith this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our 5 study modes emb"
+    },
+    {
+     "name": "iHealth COVID-19 Test",
+     "dev": "iHealth Labs Inc.",
+     "ratings": 5461,
+     "desc": "iHealth COVID-19 Antigen Rapid Test is the simplest way to detect SARS-CoV-2 nucleocapsid protein antigen. It's an FDA EUA Authorized OTC product that supports you to do COVID-19 self-testing at home."
+    },
+    {
+     "name": "NBRC RRT Exam Prep | 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 48,
+     "desc": "NBRC RRT Exam Prep | 2026 is designed to help respiratory care professionals thoroughly prepare for the Registered Respiratory Therapist (RRT) exam, administered by the National Board for Respiratory "
+    },
+    {
+     "name": "NBRC CRT Exam Test Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 33,
+     "desc": "Conquer the NBRC Certified Respiratory Therapist (CRT) Exam with confidence using the NBRC CRT Exam Test Prep 2026. This comprehensive study companion equips you with the knowledge, skills, and strate"
+    },
+    {
+     "name": "EMT Prep 2026: NREMT Prep",
+     "dev": "SHAREIT WIDGET PTE. LTD.",
+     "ratings": 1254,
+     "desc": "EMT Prep app will help you increase your nremt emt test prep, aemt and paramedic score instantly. Access to all emt testing questions with detailed explanations. Each emr prep test or practice emt pas"
+    },
+    {
+     "name": "Mosby's PDQ Respiratory Care",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 55,
+     "desc": "\"Try before you buy\" - Download the FREE App, which includes sample content. In-App purchase required to unlock all content. \n\nFind critical respiratory care information fast! Mosby's Respiratory Care"
+    },
+    {
+     "name": "Respiratory Therapist Test",
+     "dev": "Erdem Kara",
+     "ratings": 5,
+     "desc": "Welcome to the Respiratory Therapist Exam, your ultimate companion in mastering the essential aspects of Respiratory Therapist Exam. Our app is tailored to meet your training needs, providing comprehe"
+    },
+    {
+     "name": "Airofit Legacy",
+     "dev": "Airofit A/S",
+     "ratings": 1338,
+     "desc": "Breath training has been under-prioritized in sports for too long, though scientific studies continuously prove its multiple benefits. Airofit has developed the first-ever breathing trainer that conne"
+    },
+    {
+     "name": "Respiratory Therapist MCQ Prac",
+     "dev": "Sayma Tasnim",
+     "ratings": 7,
+     "desc": "Respiratory Therapist MCQ Exam Prep Pro\n\nThe practice mood of this app is free to all. To get full mock, quick mock and others functionalities please purchase the in app purchase.\n\nKey Features of thi"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "welding inspector cwi prep",
+   "top": [
+    {
+     "name": "Welding Inspector CWI Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your CWI Exam with confidence. Welding Inspector CWI Prep gives you 700+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nWelding Processes, We"
+    },
+    {
+     "name": "CWI Welding Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 12,
+     "desc": "CWI WELDING EXAM PREP: PASS ALL THREE PARTS OF THE AWS CWI EXAM\n\nThe CWI exam has a 30 percent first-attempt pass rate. Most candidates fail because they treat it as a single test. It is three separat"
+    },
+    {
+     "name": "CWI Exam Prep",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 6,
+     "desc": "Master all essential topics for your Certified Welding Inspector(CWI) exam with Fun and Engaging Quizzes! \n\nDive into the world of CWI with our comprehensive quiz app, designed to boost your knowledge"
+    },
+    {
+     "name": "AWS CWI Exam Test Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 4,
+     "desc": "Prepare for success in your welding career with the AWS CWI Exam Test Prep 2026 app. Whether you’re an experienced welder or just starting your journey toward Certified Welding Inspector (CWI) certifi"
+    },
+    {
+     "name": "AWS-CWI Practices and Exams",
+     "dev": "Nguyen Hieu",
+     "ratings": 6,
+     "desc": "This Free version only has 30 basic questions to show you the general view of the app. The full ExamGuider version includes more than 1000 questions that cover the whole sections of AWS- CWI exams. Yo"
+    },
+    {
+     "name": "Welding Quiz & AWS Study Guide",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 4,
+     "desc": "Master all essential topics Welding with Fun and Engaging Quizzes! \n\nDive into the world of Welding with our comprehensive quiz app, designed to boost your knowledge, confidence, and skills. Whether y"
+    },
+    {
+     "name": "Welding Reference Pro",
+     "dev": "ZIma Logistics LLC",
+     "ratings": 1,
+     "desc": "Welding Reference Pro puts every tool a welder needs in one app — calculators, reference guides, training, and QA checklists. No internet required. No subscription. One price, everything unlocked.\n\nCA"
+    },
+    {
+     "name": "AWS- CWI ExamGuider",
+     "dev": "Nguyen Hieu",
+     "ratings": 9,
+     "desc": "This exams helper includes more than 1000 questions that cover the whole sections of AWS Certified Welding Inspector exams:\n- Welding Process\n- Heat Control & Metallurgy\n- Welding Examination\n- Defini"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "CAWI Welding Inspector Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "repare for success with our Associate Welding Inspector Exam Prep app. This essential study companion helps you build the knowledge and practical skills required to pass the CAWI exam and start your c"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

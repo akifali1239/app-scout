@@ -959,6 +959,36 @@
    "term": "pipe fitter weld log",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "dental hygiene temp",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "dental assistant temp",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "nha phlebotomy exam prep 2026",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "speech therapy toddler free",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "ardms spi sonography exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "occupational therapy prep 2026",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

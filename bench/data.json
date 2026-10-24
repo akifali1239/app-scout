@@ -23795,6 +23795,56 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "notary ejournal",
+   "apps": [
+    {
+     "name": "Notary eJournal",
+     "dev": "Jurat",
+     "ratings": 190,
+     "desc": "The Notary eJournal by Jurat INC is an electronic notary journal created to provide a digital replacement for the standard hard-bound notary journals that exist in the market. Designed by notaries in "
+    },
+    {
+     "name": "NotaryAct - Electronic Journal",
+     "dev": "NotaryAct",
+     "ratings": 98,
+     "desc": "Replace the Paper Journal. Stay Compliant. Save Hours Every Week.\n\nNotaryAct is the original and most trusted electronic notary journal built by notaries, for notaries. Since 2012, over 25,000 notary "
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "Remote Notary Ninjas",
+     "dev": "Notary Ninjas, LLC",
+     "ratings": 2,
+     "desc": "Our app makes it easier than ever for clients, businesses, title agencies, and notaries to book remote online notarization, mobile notary, document uploads, secure messaging, session scheduling, statu"
+    },
+    {
+     "name": "Notary Journal: Record Book",
+     "dev": "JASON TENG YAO",
+     "ratings": 1,
+     "desc": "Keep your notarial record the way your state expects, right on your phone.\n\nNotary Journal gives you a sequential, append-only log that mirrors a bound paper book. Every entry gets a number that is ne"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

@@ -23737,6 +23737,768 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "skne.ai: esthetician ai",
+   "top": [
+    {
+     "name": "skne.ai: Esthetician AI",
+     "dev": "Everett Khim",
+     "ratings": 1,
+     "desc": "Run your entire esthetics business from one app.\n\nskne.ai is the AI-powered business platform built for estheticians—combining client booking, AI skin analysis, treatment protocols, client management,"
+    },
+    {
+     "name": "CloneAI - AI Video Generator",
+     "dev": "Pixery Bilgi Teknolojileri",
+     "ratings": 16451,
+     "desc": "CloneAI — One Photo, Endless Versions of You\nYour face, reimagined a hundred different ways.\nCloneAI takes a single picture and builds out entire photoshoots, age transformations, wardrobe makeovers, "
+    },
+    {
+     "name": "Gradient: You Look Like",
+     "dev": "Ticket To The Moon, Inc.",
+     "ratings": 24265,
+     "desc": "Welcome to Gradient Photo Editor, the pinnacle of creativity and innovation in the world of digital imagery. Leveraging state-of-the-art AI technology, our app offers an unparalleled experience for bo"
+    },
+    {
+     "name": "ReelMe: AI Photo & Video",
+     "dev": "TPC INVEST PTE.LTD",
+     "ratings": 6720,
+     "desc": "ReelMe is an all-in-one AI photo and video generator that transforms your selfies into stunning portraits, creative videos, and shareable visual stories. Whether you want to create trending AI content"
+    },
+    {
+     "name": "GIO - Photo & Video Generator",
+     "dev": "Prequel Inc.",
+     "ratings": 35020,
+     "desc": "Go for GIO, your pocket-sized AI photo studio! Create professional-looking headshots, try new outfits, swap backgrounds, and more - in seconds.\nYour polished headshot is just a tap away - no need to s"
+    },
+    {
+     "name": "MIU AI: Photo Video Generator",
+     "dev": "Ivan Chapisptryak",
+     "ratings": 720,
+     "desc": "MIU AI — AI Photo & Video Generator\n\nMIU AI is a powerful AI tool for creating professional photos and videos from text descriptions or uploaded images. The app is designed for users who want to quick"
+    },
+    {
+     "name": "Perfect Me: AI Portrait Editor",
+     "dev": "玉涛 谢",
+     "ratings": 5774,
+     "desc": "Introducing our Portrait Retouch App -- Perfect Me, designed to make photo editing easier and more enjoyable for everyone! We know that portrait editing can get complicated, but we believe it doesn't "
+    },
+    {
+     "name": "UCHAD: See Your Potential",
+     "dev": "Promi LLC",
+     "ratings": 13242,
+     "desc": "Ready to level up your looks? \n\nOver 5M+ scans completed. Join 100,000+ users improving their looks with UCHAD.\n\nWith our advanced face analysis and structured looksmax guidance, UCHAD gives you hones"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "fluffycare: dog grooming care",
+   "top": [
+    {
+     "name": "FluffyCare: Dog Grooming Care",
+     "dev": "Artyom Karpets",
+     "ratings": 0,
+     "desc": "FluffyCare is the ultimate coat & health manager for fluffy pets. Whether you have one cat or a whole pack of dogs, FluffyCare helps you stay on top of grooming and health care — so your companions al"
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "PetSmart",
+     "dev": "PetSmart LLC",
+     "ratings": 31099,
+     "desc": "At PetSmart, we know being a pet parent is one of life’s most rewarding experiences. It also raises many questions! So, we’ve built our app to be a valued resource for every step of your journey as a "
+    },
+    {
+     "name": "Petco: The Pet Parents Partner",
+     "dev": "PETCO Animal Supplies Stores, Inc.",
+     "ratings": 417607,
+     "desc": "The Petco app is the Pet Parent's Partner. Use it to expertly pamper your pet both online and in our stores.\n\nGET IT TODAY\n\nYou can buy in the app then pick it up at over 1,000 locations across the US"
+    },
+    {
+     "name": "Pawsh: Book Dog Groomers",
+     "dev": "Pawsh Inc",
+     "ratings": 296,
+     "desc": "Pawsh is the #1 pet grooming app. Get trusted pet care in your home.\n\nFinding a trusted dog groomer can be tough, but Pawsh makes it easy. When you book with us, Pawsh checks all of your pet's records"
+    },
+    {
+     "name": "Scenthound",
+     "dev": "Scenthound Franchising, LLC",
+     "ratings": 136,
+     "desc": "Love a clean, healthy dog®\n\nGetting your pup the routine care they need to stay clean and healthy is easier than ever! With the Scenthound mobile app you'll be able to book ahead of time at your prefe"
+    },
+    {
+     "name": "Woof Gang Bakery and Grooming",
+     "dev": "FranPOS Inc.",
+     "ratings": 10,
+     "desc": "At Woof Gang Bakery & Grooming, we believe every dog deserves to be pampered with care, love, and trust. Now, managing your pup’s grooming experience is easier than ever—with the official Woof Gang do"
+    },
+    {
+     "name": "DaySmart Pet Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 1096,
+     "desc": "DaySmart Pet, formerly 123Pet, is an easy to use groomer appointment scheduling app for pet grooming business owners, employees, and independent contractors that lets you manage your grooming business"
+    },
+    {
+     "name": "Pet care center - Animal games",
+     "dev": "Les Placements R.A. Inc.",
+     "ratings": 5697,
+     "desc": "The Pet care center is ready to cater for your adorable kitty and dog needs. Keep them satisfied and provide full attention when taking care of them. Manage them as they ask you to bathe, feed or show"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "countsy - tap counter",
+   "top": [
+    {
+     "name": "Countsy - Tap Counter",
+     "dev": "Kevin Fairdosi",
+     "ratings": 3,
+     "desc": "Meet Countsy – the tally counter designed for everyone, yet powerful enough for anything! Whether you need a quick, simple way to count daily habits, game scores, or inventory, or require advanced fea"
+    },
+    {
+     "name": "Vivid Counter",
+     "dev": "Mamoru Sato",
+     "ratings": 150,
+     "desc": "Vivid Counter is a tally counter app for iPhone and iPod touch.\nTap anywhere on the screen. The app not only counts, but also changes its background color.\n\nFeatures:\n- Full screen count-up button.\n- "
+    },
+    {
+     "name": "Counter Tally Count",
+     "dev": "Tevfik Yucek",
+     "ratings": 13889,
+     "desc": "Counter is a simple yet powerful tally counter for iPhone and iPad. \n\nFeatures:\n+ Simple interface\n+ Unlimited counters\n+ Rename each counter as you want\n+ Assign different colors to each counter\n+ Op"
+    },
+    {
+     "name": "Counter - Tap Number Clicker",
+     "dev": "Rihab Mehboob",
+     "ratings": 1065,
+     "desc": "Counter - Tap Number Clicker lets you count up/down whilst allowing customization and displaying a great UI and UX.\n\nEasily Increase/decrease the counter, edit, and reset.\n\nIf you have any questions o"
+    },
+    {
+     "name": "Tally Counter",
+     "dev": "Pixel Research Labs, Inc.",
+     "ratings": 496,
+     "desc": "A simple attractive tally counter.\n\nFeatures:\n\n- Apple Watch app, change your counter on your Apple Watch.\n- Today extension, change your counter from your lock screen or notification center.\n- Increa"
+    },
+    {
+     "name": "Tap Tap Counter",
+     "dev": "Sonia Aslam",
+     "ratings": 192,
+     "desc": "This is an excellent app for keeping track of something/someone in large quantities without having to remember which number you are on, with the added benefit of doing so discreetly.\n \nExamples of use"
+    },
+    {
+     "name": "Counter - Simply Count Things",
+     "dev": "Terence Williams",
+     "ratings": 55,
+     "desc": "Need to count something? Use this app as a simple tally for all your counting needs. With its large tap area, you won't even need to look at your phone to tally.\n\nFeatures:\n+  Large tap targets for ea"
+    },
+    {
+     "name": "Counter+.",
+     "dev": "UniCom Technology",
+     "ratings": 1419,
+     "desc": "This is a simple counter that lets you keep track of anything.\n It has a perfect design with just three buttons for easy access.\nFeatures:\n* It can save counted records\n* You can share the saved count"
+    },
+    {
+     "name": "Big Tap Counter: Count Things",
+     "dev": "David Dempsey",
+     "ratings": 526,
+     "desc": "Big Tap Counter makes it effortless to count things by tapping any part of the screen. Fully customizable display with 6 Background Colors, 6 Text Colors and 8 available Fonts. With both Landscape and"
+    },
+    {
+     "name": "Tally Counter - Tap Tool",
+     "dev": "Aleksandr Bichurin",
+     "ratings": 560,
+     "desc": "Counter - Tally Counters app\nUniversal counter app and Numbers keeper for counting anything. An indispensable assistant for those who need to keep a list of counters.\n\nThe Counter app has a concise in"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "birdscore: birding field log",
+   "top": [
+    {
+     "name": "BirdScore: Birding Field Log",
+     "dev": "ROXANNA LORRAINE TESSMAN",
+     "ratings": 0,
+     "desc": "BirdScore is a voice-recorded field log designed specifically for birders. Capture sightings in the moment — without juggling notebooks, checklists, or complex data entry.\n\nDictate species and counts "
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "iBird Pro Guide to Birds",
+     "dev": "Mitch Waite Group",
+     "ratings": 6930,
+     "desc": "iBird Pro with Percevia™ is a self-contained, take-anywhere-no-Internet-required app that turns your iPhone into a field guide to birds of North America, the United Kingdom, and Hawaii. iBird is super"
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    },
+    {
+     "name": "Learn Bird Watching—Larkwire",
+     "dev": "Larkwire",
+     "ratings": 1292,
+     "desc": "BIRDS OF NORTH AMERICA\n\nLearn birds the fun way!\n\nLearn to identify the birds that you're seeing and hearing. Take birding and birdwatching to a new level!\n\nLarkwire is a complete, game-based system f"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "parley: transcribe & translate",
+   "top": [
+    {
+     "name": "Parley: Transcribe & Translate",
+     "dev": "Alejandro Pacheco",
+     "ratings": 0,
+     "desc": "Record a meeting, a class or a conversation and Parley writes down who said what, as people talk, in any of 60 languages. Anything not in your language is translated right beneath it.\n\nLIVE TRANSCRIPT"
+    },
+    {
+     "name": "Babel Browser",
+     "dev": "Funstory.ai limited",
+     "ratings": 9,
+     "desc": "The Babel Browser comes built-in with \"Immersive Translate\" eliminating the need for additional extensions to enjoy the convenience of one-click bilingual reading, bilingual video subtitles, PDF trans"
+    },
+    {
+     "name": "iTourTranslator-亲爱的翻译官",
+     "dev": "iTourtranslator Information Technology Co., Ltd.",
+     "ratings": 270,
+     "desc": "iTourTranslator—Your Personal Translator, Where Accuracy Meets Excellence! Bridge global communication effortlessly with just one click!\n Whether it's for studying abroad, business, or travel, no more"
+    },
+    {
+     "name": "Cereal Translator: Screen Scan",
+     "dev": "Hangzhou Cereal Network Technology Co., Ltd",
+     "ratings": 418,
+     "desc": "Translate screens, games, manga, comics, short dramas, videos, webpages, messages, and more.\n\nCereal Translator: Screen Scan helps you translate foreign-language content on your screen in real time. W"
+    },
+    {
+     "name": "Hi Translate - Call & Meeting",
+     "dev": "EASETREND TECHNOLOGY LIMITED",
+     "ratings": 103,
+     "desc": "International calls, global meetings, overseas travel, or everyday chats—communicate with confidence, no matter what language you speak.\nHi Translate uses AI to translate 137+ languages, with real-tim"
+    },
+    {
+     "name": "iTranscribe - Audio to Text",
+     "dev": "TALENT ME TECHNOLOGY PTE. LTD. ",
+     "ratings": 6842,
+     "desc": "Transcribe, Translate, Record, Search, Playback, Manage & Share in one app. Download now for free.\n\niTranscribe will turn your cell phone into a powerful voice recorder and real-time transcriber. \n\nFu"
+    },
+    {
+     "name": "Translate AI - AR Translator",
+     "dev": "EVOLLY.APP",
+     "ratings": 3366,
+     "desc": "Unlock a world of communication with Translate AI, the intelligent, all-in-one translation app designed for seamless connection. Whether you're traveling the globe, conducting international business, "
+    },
+    {
+     "name": "Kagi Translate",
+     "dev": "Kagi Inc.",
+     "ratings": 55,
+     "desc": "Language changes with context. Kagi Translate understands everything from casual slang to precise, formal writing. Fine-tune tone, adjust formality, or specify gender when it matters. These powerful f"
+    },
+    {
+     "name": "Voice translator — Voicelator",
+     "dev": "APPJIGGLY LIMITED",
+     "ratings": 2106,
+     "desc": "Speak, type, and translate instantly with Voicelator — your ultimate AI-powered translation assistant. Designed for seamless communication on the go, Voicelator bridges language barriers whether you a"
+    },
+    {
+     "name": "Voice Translate & Translator",
+     "dev": "DAILYCAST HK LIMITED",
+     "ratings": 1474,
+     "desc": "Voice Translate & Translator is an easy-to-use and efficient translation app designed to break language barriers in any setting. Whether you are at work, travelling abroad, or enjoying social gatherin"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "town florist - bloom & roll",
+   "top": [
+    {
+     "name": "Town Florist - Bloom & Roll",
+     "dev": "HK GANGXING TECHNOLOGY LIMITED",
+     "ratings": 0,
+     "desc": "Strolling through the blooming flowers: healing gardening time\n\nTransform into a small town gardener, and every step you take will be filled with vitality. Strolling in the tranquil geometric maze, wh"
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "Happy Bloom Blast",
+     "dev": "TECHVISION PTE. LTD.",
+     "ratings": 1666,
+     "desc": "Do you enjoy flowers? Have you ever tried flower arrangement games? Happy Bloom Blast is a classic flower elimination game that is stress-relieving and relaxing. Join us and start playing fun flower a"
+    },
+    {
+     "name": "Bleems - Flowers & Gifts",
+     "dev": "Bleems Website Design and Management Co.",
+     "ratings": 12359,
+     "desc": "Bleems - Flowers, Confections, Gifts & AI Shopper  \n\nCelebrate every moment with Bleems, the easiest way to send flowers, chocolates, cakes, confections, perfumes, incense, and unique gifts. Enjoy sam"
+    },
+    {
+     "name": "Blossom Sort® - Flower Games",
+     "dev": "Gloryway Puzzle",
+     "ratings": 30395,
+     "desc": "Blossom and use your wits to unlock the mystery of flower insertion! \nFollow the tune and make bouquets jump between music notes. Gather flowers of the same color and let them dance in the vase freely"
+    },
+    {
+     "name": "The Cozy Florist",
+     "dev": "RiftSky Games",
+     "ratings": 30754,
+     "desc": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual "
+    },
+    {
+     "name": "Flower Merge - Blossom Match",
+     "dev": "Gloryway Puzzle",
+     "ratings": 18501,
+     "desc": "Unleash your inner floral genius! \nFlower Merge is the charming puzzle sensation where you become a master of merging blooms! \nSlide and swipe your way through colorful gardens, matching identical flo"
+    },
+    {
+     "name": "Florescence: Merge Garden",
+     "dev": "Game Garden LLC",
+     "ratings": 3004,
+     "desc": "This game is truly unique combination of a merge game with some roleplay elements: you can level up your plants, buy new pots or dress up your gardeners to gain more reward! \n\nStep into the enchanting"
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "tattoo johnny",
+   "top": [
+    {
+     "name": "Tattoo Johnny",
+     "dev": "Tattoo Johnny",
+     "ratings": 0,
+     "desc": "Search over 100,000 tattoo designs and their exact matching stencil. Tattoo Johnny artist’s work in real tattoo studios with real customers. Every design was specifically created to be a real tattoo, "
+    },
+    {
+     "name": "Ink Inc. - Tattoo Drawing",
+     "dev": "Lion Studios",
+     "ratings": 764304,
+     "desc": "Can you handle the pressure? \nBecome a tattoo titan and spread the ink!\n\nAre you ready to experience your inner rebel? Ever wonder what it is like to get a tattoo? Now you can experience it all withou"
+    },
+    {
+     "name": "AI Tattoo Generator - InkLab",
+     "dev": "88 Tech",
+     "ratings": 2546,
+     "desc": "AI Tattoo Generator - InkLab: Turn Your Imagination Into Ink\n\nExplore your creativity with AI Tattoo Generator - InkLab, the most advanced tattoo design app for generating personalized, high-quality t"
+    },
+    {
+     "name": "AI Tattoo Generator - INKDNA",
+     "dev": "Meijing Mechanical & Electrical Environmental Protection (Shanghai) Co., Ltd.",
+     "ratings": 5782,
+     "desc": "InkDNA - AI Tattoo Generator \n\nWith the AI Tattoo Generator, you can instantly generate unique tattoo designs and unlock endless tattoo inspiration. You can also share your designs with your friends a"
+    },
+    {
+     "name": "INKHUNTER - AI Tattoo Design",
+     "dev": "InkHunter",
+     "ratings": 25002,
+     "desc": "Try on virtual tattoos with AUGMENTED REALITY before it’s inked forever. The app projects any tattoo design on any part of your body so you can see how it will look.\n\n- Try on your own tattoo design, "
+    },
+    {
+     "name": "Next Ink: AI Tattoo Design",
+     "dev": "IdeaLabs",
+     "ratings": 1913,
+     "desc": "Welcome to your personal tattoo design guide! Whether you're dreaming of a bold new piece or something uniquely yours, Next Ink is here to help you create the perfect tattoo.\n\nExplore a Variety of Sty"
+    },
+    {
+     "name": "Tattoo AI - Tattoo Design",
+     "dev": "HUBX",
+     "ratings": 51004,
+     "desc": "Tattoo AI: Your Go-To App for Creating Unique Tattoos Effortlessly! Whether you’re a tattoo enthusiast, a first-timer considering getting inked, or a tattoo artist looking for inspiration, Tattoo AI h"
+    },
+    {
+     "name": "Tattoo Design Try On - Tatship",
+     "dev": "Convinced Creations Company Limited",
+     "ratings": 1117,
+     "desc": "Tattoo Design Try On: Tatship\nVirtual Tattoo Try-On for Safe and Easy Decisions\n\nReady to get inked but not sure where or what to choose? Tatship is your personal tattoo simulator—the ultimate virtual"
+    },
+    {
+     "name": "AI Tattoo Generator : INKStory",
+     "dev": "Shanghai Xingyue Materials Co., Ltd.",
+     "ratings": 2206,
+     "desc": "Create Your Perfect Tattoo with AI\nInkStory transforms your ideas into stunning tattoo designs using advanced artificial intelligence. Preview them on your body in realistic AR before you commit to pe"
+    },
+    {
+     "name": "Try Tattoo Design Body Ink Art",
+     "dev": "Nasreen Kousar",
+     "ratings": 1146,
+     "desc": "Have you dreamed of playing amazing fun tattoo games? So prepare yourself for this fun tattoo maker games!\nPlay as a tattoo artist and make some iconic tattoo. Go and make tattoos from artist. Select "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "farrier logbook pro",
+   "top": [
+    {
+     "name": "Farrier Logbook Pro",
+     "dev": "4AI Info Tech",
+     "ratings": 0,
+     "desc": "Remember the last shoeing. Record today's work. Plan the next visit.\n\nFarrier Logbook Pro keeps horse histories, hoof photos and your working schedule together on iPhone and iPad. Built for independen"
+    },
+    {
+     "name": "TruckX - Electronic Logbook",
+     "dev": "TruckX Inc",
+     "ratings": 2709,
+     "desc": "TruckX is a leading, FMCSA-approved ELD and Fleet Management Platform. Whether you are a driver, owner-operator, or fleet manager, TruckX offers a user-friendly fleet management system for commercial "
+    },
+    {
+     "name": "Logbook Pro Flight Logbook",
+     "dev": "NC Software, Inc.",
+     "ratings": 1737,
+     "desc": "Logbook Pro is the most reliable, trusted, and accurate flight logbook app for pilots used in aviation. Logbook Pro logs your Certificates, Ratings, Medicals, Flight Reviews, Historical data, and Flig"
+    },
+    {
+     "name": "Motive Driver",
+     "dev": "Motive Technologies Inc",
+     "ratings": 11620,
+     "desc": "ELD COMPLIANCE\nThe Motive Driver App makes recording Hours of Service (HOS) on your iPhone or iPad fast and easy.\nIt complies with the FMCSA regulations, including Part 395. When used with the Motive "
+    },
+    {
+     "name": "LogTen Pilot Logbook",
+     "dev": "Coradine Aviation Systems",
+     "ratings": 10056,
+     "desc": "Used by over 160,000 pilots worldwide, LogTen Pilot Logbook by Pilotbase is the most trusted digital logbook in aviation, designed to support pilots throughout their whole aviation career. Whether you"
+    },
+    {
+     "name": "Mileage Tracker by Driversnote",
+     "dev": "Driversnote ApS",
+     "ratings": 38987,
+     "desc": "Say goodbye to tedious paper mileage logs with the most accurate automatic mileage tracker. Track mileage effortlessly and create IRS-compliant logs for tax deductions or mileage reimbursements.\n\n◉ IF"
+    },
+    {
+     "name": "BigRoad ELD",
+     "dev": "Complete Innovations Inc",
+     "ratings": 3132,
+     "desc": "BigRoad ELD is an easy-to-use electronic logging device certified with FMCSA and 3rd Party Certified in Canada. Use it as part of the Unity Suite of software products to run your entire business smoot"
+    },
+    {
+     "name": "Safelog Pilot Logbook",
+     "dev": "Dauntless Software",
+     "ratings": 48,
+     "desc": "Welcome to Safelog, the world's most trusted and versatile pilot logbook system!  We're humbled by and grateful to the tens of thousands of you in over 100 countries, including student and private pil"
+    },
+    {
+     "name": "Smart Logbook",
+     "dev": "Kviation, Inc.",
+     "ratings": 157,
+     "desc": "Smart Logbook makes logging your flights fast and easy. When you apply for a new rating or interview for a job, you can easily see your flying totals, over any span of time, in any type of aircraft. T"
+    },
+    {
+     "name": "HOS App - Driver ELD Logbook",
+     "dev": "Lucid ELD Inc",
+     "ratings": 1,
+     "desc": "Stay compliant and keep moving. ELD App is an FMCSA-registered electronic logbook trusted by commercial drivers across the USA. Simple setup, easy daily use, and real human support when you need it.\n\n"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "hive foreman: beekeeping logs",
+   "top": [
+    {
+     "name": "Hive Foreman: Beekeeping Logs",
+     "dev": "RGT Software Ltd",
+     "ratings": 0,
+     "desc": "Running several hives can leave scattered notes and unanswered questions. Hive Foreman keeps each colony, visit and follow-up in one clear record, so you know what changed, what comes next and arrive "
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Wild Hive - Build & Survive",
+     "dev": "Studio 42",
+     "ratings": 191,
+     "desc": "Wild Hive is a bee colony roguelite driven by a ruthless honey market. Grow your hive, hatch a swarm of worker bees, and sell the honey they make on a realistic stock market. The honey quota climbs ev"
+    },
+    {
+     "name": "Apiarist - Beekeeper Assistant",
+     "dev": "Oleg Soloviev",
+     "ratings": 147,
+     "desc": "Manage your apiary easily and professionally  \n\nThis app is designed specifically for beekeepers — from beginners to experienced professionals. It will help you efficiently manage your beekeeping busi"
+    },
+    {
+     "name": "B-hyve",
+     "dev": "Orbit Irrigation",
+     "ratings": 332276,
+     "desc": "The B-hyve smart sprinkler timer app allows you to control or monitor your sprinklers from anywhere in the world with the convenience of your smart device. \n \nSmart Watering\nKnowing how long and how o"
+    },
+    {
+     "name": "Bee Squared Beekeeping",
+     "dev": "OmniChrome",
+     "ratings": 5,
+     "desc": "From the makers of the best selling BeePlus comes Bee Squared, an advanced beekeeping app for the modern beekeeper.\nDesigned from the ground up to be powerful yet easy to use, let Bee² improve your re"
+    },
+    {
+     "name": "Hive Logger: Beekeeping App",
+     "dev": "Appco LLC (USA)",
+     "ratings": 24,
+     "desc": "Log every hive inspection in 30 seconds or less using QR code scanning and Smart Voice Logs (Pro). Hive Logger keeps records, tasks and reminders organized across every hive and apiary, so you always "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "ai wine sommelier - viniq",
+   "top": [
+    {
+     "name": "AI Wine Sommelier - Viniq",
+     "dev": "Sheng Yong Loh",
+     "ratings": 0,
+     "desc": "Discover what’s in your glass.\n\nCurious about a bottle of wine? Just take a photo or choose an image from your gallery, and let Viniq identify it with AI.\n\nViniq helps you quickly discover useful info"
+    },
+    {
+     "name": "InVintory: Wine Cellar Manager",
+     "dev": "InVintory Wines Incorporated",
+     "ratings": 4822,
+     "desc": "The best wine cellar management app for collectors. Track every bottle with a powerful wine tracker and label scanner, get advice from your built-in AI sommelier, and keep a tasting journal — organize"
+    },
+    {
+     "name": "CellarTracker: #1 Wine Tracker",
+     "dev": "CellarTracker",
+     "ratings": 13095,
+     "desc": "CellarTracker is the top-rated wine app with 4.9 of 5 stars, over 13.6 million wine ratings and reviews, and over 8.8 million users globally, collectively tracking $21 billion of wine and millions of "
+    },
+    {
+     "name": "Vivino: Drink The Right Wine",
+     "dev": "Vivino ApS",
+     "ratings": 138108,
+     "desc": "Vivino helps you discover, choose, and buy the right wine.\n\nJoin over 70 million wine lovers who use Vivino to scan labels, track their tastes with ratings,  and buy wines directly in the app.\n\nFrom c"
+    },
+    {
+     "name": "Delectable - Scan & Rate Wine",
+     "dev": "Delectable",
+     "ratings": 25968,
+     "desc": "“The Essential Wine App” — James Beard award winner Jordan Mackay\n\nTake a photo of a wine label and instantly get ratings and descriptions with Delectable, the critically-acclaimed free app that helps"
+    },
+    {
+     "name": "Hello Vino: Wine Assistant",
+     "dev": "Hello Vino",
+     "ratings": 6715,
+     "desc": "Hello Vino is your virtual wine assistant. Buying wine is fun and easy with Hello Vino's recommendations for food and wine pairings, special occasions and personalized wine picks based on your taste p"
+    },
+    {
+     "name": "Last Bottle Wines",
+     "dev": "Last Bottle Wines",
+     "ratings": 20373,
+     "desc": "“Regardless of what I'm doing, I always get excited when I get a notification about a new wine on Last Bottle”\n\nRated one of the best places to buy wine online by Food & Wine!\n\nFinding exciting new wi"
+    },
+    {
+     "name": "Total Wine & More",
+     "dev": "Retail Services & Systems, Inc.",
+     "ratings": 120367,
+     "desc": "Take Total Wine & More with you wherever you go! Our new app makes it easy to search our incredible product selections, shop and pickup in store, enjoy special offers and much more. Make your shopping"
+    },
+    {
+     "name": "CT Legacy Version",
+     "dev": "CellarTracker",
+     "ratings": 184,
+     "desc": "IMPORTANT: This is the classic, legacy version of CellarTracker. For the best experience, we recommend installing the new version of the app, “CellarTracker: #1 Wine Tracker”. The classic version of t"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "apps for dental assistant temp work",
+   "top": [
+    {
+     "name": "GoTu: #1 in Dental Talent",
+     "dev": "TempMee Hygienist Inc.",
+     "ratings": 2437,
+     "desc": "GoTu is the top dental marketplace that effortlessly connects dental professionals with dental offices in need. Whether you’re a dental hygienist, dental assistant, associate dentist, or front office "
+    },
+    {
+     "name": "Teero - Dental Staffing",
+     "dev": "Teero Inc",
+     "ratings": 3310,
+     "desc": "W-2 flexibility for dental hygienists. Work when you want, where you want, with complete transparency into every office.\n\nNo commitments. No fees. Just straightforward shifts with real employee benefi"
+    },
+    {
+     "name": "Toothio Pro - Dental Jobs App",
+     "dev": "Toothio",
+     "ratings": 760,
+     "desc": "Toothio is a technology platform that connects dental offices to high quality dental professionals, on-demand, while allowing dental professionals to pick up shifts that fits their schedules.\n\nFOR DEN"
+    },
+    {
+     "name": "Cloud Dentistry",
+     "dev": "Cloud Dentistry, LLC",
+     "ratings": 527,
+     "desc": "Redefining the dental workforce. Cloud Dentistry connects verified and background checked dental professionals with offices looking to hire temp, part-time, or permanent staff. \n\nCloud Dentistry is th"
+    },
+    {
+     "name": "Kwikly - Dental Staffing",
+     "dev": "PARKORE INC.",
+     "ratings": 435,
+     "desc": "With Kwikly, you choose the shifts you want, the days you want, the hours you want, even the Dental Offices you want, right from your smartphone. It’s the ultimate way to pick up dental shifts on your"
+    },
+    {
+     "name": "WORKFORCE Dental Staffing",
+     "dev": "Workforce Staffing Solutions Ltd.",
+     "ratings": 1,
+     "desc": "Dental shifts near you, without the runaround.\n\nWORKFORCE Dental Staffing connects dental hygienists, dental assistants, front office staff, associate dentists and EFDAs with offices that need help, f"
+    },
+    {
+     "name": "Smile Dental Temps APP",
+     "dev": "Smile Dental Temps LLC",
+     "ratings": 7,
+     "desc": "Smile Dental Temps LLC is a referral agency you can rely on.\n\nWe are passionate about Dentistry and we understand the need for flexible scheduling. We work diligently to ensure both dental practices a"
+    },
+    {
+     "name": "TempStars",
+     "dev": "Sudden Turtle Dental Consulting Inc.",
+     "ratings": 19,
+     "desc": "Discover your next dental job with TempStars, the leading platform for dental temping in the industry! With our innovative app, dental hygienists and assistants can effortlessly find temp dental jobs "
+    },
+    {
+     "name": "Stynt Dental Jobs Marketplace",
+     "dev": "Stynt Inc",
+     "ratings": 1480,
+     "desc": "Working on Stynt is easy. Thousands of offices are constantly hiring dentists, hygienists, assistants, office managers and front desk professionals.\n\nStep 1:  Create an account for free and build an a"
+    },
+    {
+     "name": "Princess Dental Staffing",
+     "dev": "Princess Dental Staffing LLC",
+     "ratings": 80,
+     "desc": "Dental jobs on your terms. Set your availability & temp rate. Accept only the opportunities you want. With no fees and no percentage taken from your pay, you keep more of the money you earn.\n\nHygienis"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "scuba diving games",
+   "top": [
+    {
+     "name": "Shark Survival 3D Scuba Diving",
+     "dev": "Zahid Mahmood",
+     "ratings": 24,
+     "desc": "Explore coral reefs, deep caves, and ancient shipwrecks in a thrilling scuba diving adventure.\nSearch for gold coins, treasure chests, and rare underwater artifacts while surviving Angry sharks and gi"
+    },
+    {
+     "name": "Scuba Diving Swimming Sim",
+     "dev": "Sajid Hussain",
+     "ratings": 19,
+     "desc": "In this 2021 summer play as a Scuba Diver, dive into the deep sea and explore the underwater sea life for treasures hunting. In this Scuba Diving Swimming Simulator you will enjoy the underwater swimm"
+    },
+    {
+     "name": "Aquarium Land - Fishbowl World",
+     "dev": "HOMA GAMES",
+     "ratings": 313295,
+     "desc": "Welcome to Aquarium Land, one of the best sea world fishing games you'll ever play!\nGo fish in the sea, swim, collect fishes like goldfish, starfish, koi fish and add them in your fish tank to expand "
+    },
+    {
+     "name": "Flip & Dive 3D",
+     "dev": "Voodoo",
+     "ratings": 286165,
+     "desc": "Dive into water from platforms of different height.\n\nAim for:\n- a perfect entry into the water\n- backflips\n- depth\nand more..."
+    },
+    {
+     "name": "Flip Diving",
+     "dev": "MotionVolt Games Oy",
+     "ratings": 138104,
+     "desc": "• The World's #1 cliff diving game - now on your mobile! •\n\nPull off Frontflips, Backflips & Gainers from high cliffs, rickety platforms, trees, castles, and trampolines! Choose from a wide range of d"
+    },
+    {
+     "name": "DAVE THE DIVER",
+     "dev": "Mintrocket",
+     "ratings": 275,
+     "desc": "*TRY BEFORE YOU BUY* Play the opening portion for free. A one-time purchase unlocks the full game. DLC expansions are available as separate in-app purchases.\n\nWith 130,000+ reviews and a 96% Overwhelm"
+    },
+    {
+     "name": "Hungry Shark World",
+     "dev": "Ubisoft",
+     "ratings": 631016,
+     "desc": "Hungry Shark is back in this epic arcade game where you control a monstrous sea beast! Dive into an ocean adventure that’s bigger, wilder, and more thrilling than ever. Feed your shark’s appetite by d"
+    },
+    {
+     "name": "Scuba Diving Deep Sea Swimming",
+     "dev": "Amjad Ali",
+     "ratings": 17,
+     "desc": "Gear up & swim in the vast ocean, explore treasure & underwater world in this summer.\nGood day mate! Get ready this summer for the coolest game, let’s swim in the oceans and beaches and reduce our thi"
+    },
+    {
+     "name": "Diving Simulator 2020",
+     "dev": "Ilia Stepanov",
+     "ratings": 1399,
+     "desc": "FIRST DIVING SIM FOR MOBILE\nGame is completely free!\n\nImmerse yourself in the underwater world of our planet.\nExplore reefs and sunken ships.\nSee amazing marine life.\n\nThis version include 3 diving si"
+    },
+    {
+     "name": "Ocean Survival RPG: Deep Dive",
+     "dev": "Vladimir Shenkel",
+     "ratings": 29,
+     "desc": "In this immersive underwater survival RGP simulator, you find themselves stranded on an unknown ocean, faced with the daunting task of escaping its treacherous depths. As you embark on this gripping a"
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

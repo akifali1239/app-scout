@@ -1119,3 +1119,4 @@
 {"ts": "2026-10-24T16:38:05+00:00", "actor": "optimizer", "action": "trial", "cap": "build", "candidate": "talimat#1 tanım#1 örnek×0", "dev_obj": 1.0403, "dev_acc": 1.0, "prod_dev_obj": 0.9671}
 {"ts": "2026-10-24T16:38:05+00:00", "actor": "optimizer", "action": "promote", "cap": "build", "candidate": "talimat#0 tanım#1 örnek×0", "from_version": "v1", "to_version": "v2", "dev": [0.9671, 1.0403], "test": [1.0389, 1.0431], "reason": "konsensüs: dev kazandı, test düşmedi, toplam doğruluk arttı, tekrar doğruladı"}
 {"ts": "2026-10-24T16:38:05+00:00", "actor": "optimizer", "action": "run", "calls": 547, "tokens": 383267, "cost_usd": 0.0161}
+{"ts": "2026-10-24T16:41:47+00:00", "actor": "optimizer", "action": "skip", "reason": "günlük bütçe doldu (6327 istek)"}

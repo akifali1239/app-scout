@@ -245,7 +245,11 @@
     "e30d493e8e00",
     "8196cee45e00",
     "acad99edfcce",
-    "0dbe10d54f6b"
+    "0dbe10d54f6b",
+    "0dd35c6e9482",
+    "a0745da559c9",
+    "49ae98e8dad7",
+    "322a408f4887"
    ],
    "prev": null,
    "promoted_at": "2026-10-05T14:42:07+00:00"
@@ -612,7 +616,7 @@
   "build": {
    "type": "score",
    "prod": [
-    "v1"
+    "v2"
    ],
    "versions": {
     "v1": {
@@ -625,13 +629,31 @@
      ],
      "origin": "v1 (elle yazıldı)",
      "created": "2026-10-04T14:48:11+00:00"
+    },
+    "v2": {
+     "instructions": "How feasible is it for one iOS developer to build a high-quality version of {subject} within about four weeks?",
+     "criteria": [
+      "No: requires a marketplace, network effects, licences, hardware or a large team",
+      "Barely: a large body of expert content or heavy engineering",
+      "Yes, with focused effort: moderate content or engineering",
+      "Easily: a simple interface over public facts, formulas or phone sensors"
+     ],
+     "origin": "talimat#0 tanım#1 örnek×0",
+     "created": "2026-10-24T16:38:05+00:00",
+     "dev_obj": 1.0403,
+     "test_obj": 1.0431
     }
    },
    "tried": [
-    "0175ad0bdccc"
+    "0175ad0bdccc",
+    "88a673e8e4e0",
+    "0feb8485311d",
+    "d43fa3f15939"
    ],
-   "prev": null,
-   "promoted_at": null
+   "prev": [
+    "v1"
+   ],
+   "promoted_at": "2026-10-24T16:38:05+00:00"
   },
   "kind": {
    "type": "choice",
@@ -947,11 +969,13 @@
     "3417076f6011",
     "0cba2e752a29",
     "f6d591cac268",
-    "12c033a3f249"
+    "12c033a3f249",
+    "7def55fb5737",
+    "c40a92cb399a"
    ],
    "prev": null,
    "promoted_at": "2026-10-04T14:48:11+00:00"
   }
  },
- "rejudge_after": "2026-10-09T05:41:41+00:00"
+ "rejudge_after": "2026-10-24T16:38:05+00:00"
 }

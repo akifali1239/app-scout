@@ -9,7 +9,7 @@
    "brier": 0.0769,
    "n": 161,
    "versions": 3,
-   "tried": 164,
+   "tried": 168,
    "test_errors": [
     [
      "subway surfers",
@@ -146,15 +146,15 @@
    "test_errors": []
   },
   "build": {
-   "version": "v1",
-   "dev_acc": 0.9333,
+   "version": "v2",
+   "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9671,
-   "test_obj": 1.0389,
+   "dev_obj": 1.0403,
+   "test_obj": 1.0431,
    "brier": null,
    "n": 33,
-   "versions": 1,
-   "tried": 1,
+   "versions": 2,
+   "tried": 4,
    "test_errors": []
   },
   "kind": {
@@ -178,7 +178,7 @@
    "brier": 0.0575,
    "n": 100,
    "versions": 2,
-   "tried": 90,
+   "tried": 92,
    "test_errors": [
     [
      "Aynı işi yapan 40 app var, ilk sayfa dolu",
@@ -6225,7 +6225,7 @@
    "n": 100
   }
  ],
- "updated": "2026-10-24T15:41:05+00:00",
+ "updated": "2026-10-24T16:38:05+00:00",
  "raw": {
   "intent": {
    "version": "v3",
@@ -6512,27 +6512,21 @@
    }
   },
   "build": {
-   "version": "v1",
+   "version": "v2",
    "dev": {
     "n": 15,
-    "acc": 0.9333,
+    "acc": 1.0,
     "brier": null,
-    "margin": 0.6749,
-    "obj": 0.9671,
-    "errors": [
-     [
-      "sound level meter",
-      "video chat dating app",
-      -0.02
-     ]
-    ]
+    "margin": 0.8051,
+    "obj": 1.0403,
+    "errors": []
    },
    "test": {
     "n": 18,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7784,
-    "obj": 1.0389,
+    "margin": 0.8619,
+    "obj": 1.0431,
     "errors": []
    }
   },
@@ -6594,5 +6588,5 @@
    }
   }
  },
- "fingerprint": "da9dcdfd1549"
+ "fingerprint": "127d191e4cda"
 }

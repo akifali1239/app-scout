@@ -24997,6 +24997,156 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "guitar tuner",
+   "apps": [
+    {
+     "name": "GuitarTuna: Tune & Play Guitar",
+     "dev": "Yousician Ltd",
+     "ratings": 147934,
+     "desc": "GuitarTuna is your go-to guitar app, with over 100 million downloads and counting! Tune your guitar in seconds with the free guitar tuner, explore guitar chords & tabs for 20,000+ songs, and learn how"
+    },
+    {
+     "name": "Fender Tune: Guitar Tuner App",
+     "dev": "Fender Digital",
+     "ratings": 151276,
+     "desc": "Fender Tune is the top-rated, precision tuner app for guitar, bass and ukulele from the most trusted name in guitars, Fender®. Accurately tune your instrument with Fender Tune’s easy-to-use interface,"
+    },
+    {
+     "name": "Pano Tuner Lite",
+     "dev": "Kaleloft Limited Liability Company",
+     "ratings": 7717,
+     "desc": "Pano Tuner listens, finds your pitch, and shows you exactly how far you are — sharp or flat — clearly enough to trust. Simple to open, accurate enough to rely on, and a favorite of players and teacher"
+    },
+    {
+     "name": "Guitar Tuner - LikeTones",
+     "dev": "Vladislav Sonkin",
+     "ratings": 1249,
+     "desc": "Free. No Ads. Professional guitar tuner with high precision. A simple and very effective way to tune your guitar because of its many features.\n\nProfessional Guitar Tuner\nWe created a unique algorithm "
+    },
+    {
+     "name": "Yousician: Learn & Play Guitar",
+     "dev": "Yousician Ltd",
+     "ratings": 138538,
+     "desc": "YOUSICIAN — THE FASTEST WAY TO LEARN GUITAR, BASS & SINGING\n\nWhether you want to learn guitar from scratch, improve your bass guitar technique, or finally learn to sing, Yousician is your personal, an"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "chiropractic boards 1",
+   "apps": [
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "IQANgo",
+     "dev": "Parker Hannifin",
+     "ratings": 0,
+     "desc": "IQANgo is a user-friendly service tool for the IQAN series of controllers and displays. It enables service technicians or machine owners to connect wireless to IQAN modules in their machines and perfo"
+    },
+    {
+     "name": "PocketBook Reader",
+     "dev": "Pocketbook International SA",
+     "ratings": 10035,
+     "desc": "PocketBook Reader is a free app for reading all formats (books, magazines, textbooks, comic books, etc.) and listening to audiobooks! The application supports 26 book and audio formats, including mobi"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "electrician calculator",
+   "apps": [
+    {
+     "name": "Electrician Handy Tool",
+     "dev": "Handy Tool LLC",
+     "ratings": 23,
+     "desc": "A handy conduit bending, calculating and quick reference all-in-one tool for Electricians.\n\nMaking electrical work easier is our goal.\n\n- Voltage drop calculator: determines wire size to meet NEC volt"
+    },
+    {
+     "name": "ElectriCalc Pro",
+     "dev": "Calculated Industries",
+     "ratings": 361,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nElectrical Contractors, Designers, Electricians, and Lighting Specialists solve tough electrical c"
+    },
+    {
+     "name": "Big Button Calculator Pro Lite",
+     "dev": "Cider Software LLC",
+     "ratings": 14131,
+     "desc": "This is THE BEST calculator for iOS with big buttons and colorful backgrounds! This version is ad supported.\n\n・Dual-line display - shows the input and result at the same time\n・Percentage and backspace"
+    },
+    {
+     "name": "Electrician Calculator Pro 26",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Stop paying monthly for tools you use on the job. Electrician Calculator Pro puts the everyday electrical calculations in your pocket — fast, accurate, and fully offline so they work anywhere on site,"
+    },
+    {
+     "name": "Southwire® Conduit Fill Calc",
+     "dev": "Southwire Company",
+     "ratings": 771,
+     "desc": "Southwire has created this great tool to help electricians, engineers and contractors answer the question, “What size conduit do I use” per the NEC®, includes fill percentages and jam probability.  If"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

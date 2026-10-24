@@ -23533,6 +23533,268 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "dog grooming scheduler",
+   "apps": [
+    {
+     "name": "Dog Grooming Salon Scheduler",
+     "dev": "Maksym Kavun",
+     "ratings": 0,
+     "desc": "Dog Grooming Scheduler is a simple pet grooming CRM, appointment calendar, and business organizer built for solo dog groomers, mobile groomers, and small grooming salons.\n\nManage clients, dogs, appoin"
+    },
+    {
+     "name": "MoeGo: Pet Business Suite",
+     "dev": "Moement Inc.",
+     "ratings": 296,
+     "desc": "MoeGo is the next-generation operating system designed to revolutionize pet care businesses, including grooming, boarding, daycare, training etc. \n\nBy combining automation and data-driven insights, Mo"
+    },
+    {
+     "name": "Schedule My Groom",
+     "dev": "Schedule My Groom LLC",
+     "ratings": 10,
+     "desc": "Pet grooming software built for solo groomers. Running a grooming business solo doesn’t have to be overwhelming. Schedule appointments, message clients, and run your grooming business in one simple ap"
+    },
+    {
+     "name": "DaySmart Pet Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 1096,
+     "desc": "DaySmart Pet, formerly 123Pet, is an easy to use groomer appointment scheduling app for pet grooming business owners, employees, and independent contractors that lets you manage your grooming business"
+    },
+    {
+     "name": "GrooMore Grooming Software",
+     "dev": "GrooMore, INC.",
+     "ratings": 24,
+     "desc": "[ Flexible Scheduling ]\nDay/Week/Month view and Agenda view provided, you can get the best control of your whole schedule easily.\nYou can easily view and print your appointment list of agenda view.\nYo"
+    },
+    {
+     "name": "TapGroom - Pet Grooming Salon",
+     "dev": "TapStyle Pty Ltd",
+     "ratings": 93,
+     "desc": "Shift to the new STYLISH way,,,, TapGroom makes your pet grooming salon business more efficient and stylish. TapStyle offers all the must have features for pet grooming salon / groomer in one package."
+    },
+    {
+     "name": "GroomLog: Groom Scheduling",
+     "dev": "Thomas Senior",
+     "ratings": 0,
+     "desc": "Stop double booking, chasing no-shows, and hunting for client details. GroomLog is the scheduling app built specifically for dog groomers. Mobile, salon or home-based. Spend less time on admin and mor"
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "Savvy Pet Spa",
+     "dev": "Its All Savvy Ltd",
+     "ratings": 1,
+     "desc": "Savvy Pet Spa is an indispensable business management software designed specifically to meet the needs of busy pet groomers.\nWith Savvy’s automated reminders, ‘no shows’ will become a thing of the pas"
+    },
+    {
+     "name": "DapperTails Mobile Grooming",
+     "dev": "The Ruff Life Mobile Grooming",
+     "ratings": 12,
+     "desc": "An app that connects pet parents with premium pet grooming facilities.\n\n- Instant Booking: Effortlessly schedule appointments with top-notch pet grooming facilities.\n- Manage Easily: Track your past a"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "notary public practice test",
+   "apps": [
+    {
+     "name": "Notary Public Practice Test",
+     "dev": "Ben Wallenberg",
+     "ratings": 7,
+     "desc": "Notary Public Practice Test — Free Practice Tests & Exam Prep\n\nPass your Notary Public Practice Test on the first try with hundreds of real practice questions, detailed answer explanations, and instan"
+    },
+    {
+     "name": "New York Notary Public Exam",
+     "dev": "Rivermap Ai Solutions Ltd",
+     "ratings": 3,
+     "desc": "Prepare for the New York State notary public written examination with a large, offline question bank and flashcards built straight from the enacted Notary Public License Law (Executive Law article 6) "
+    },
+    {
+     "name": "NY Notary Public Study App",
+     "dev": "Best Way Media Group Inc",
+     "ratings": 72,
+     "desc": "NY Notary Public Exam Study App: Your Comprehensive Guide to Becoming a New York State Notary Public\n\nThe NY Notary Public Exam Study App is your ultimate preparation tool for mastering the New York S"
+    },
+    {
+     "name": "StudyNotary",
+     "dev": "OwlRise LLC",
+     "ratings": 1,
+     "desc": "StudyNotary is a state‑aware notary prep app for U.S. notaries. Choose your state and get targeted practice across core domains like notary law, ethics, compliance, and professional practice. Build co"
+    },
+    {
+     "name": "Notary New York Exam Prep",
+     "dev": "ABDULLAHI MOHAMED MUHYIDIN",
+     "ratings": 0,
+     "desc": "Master the New York Notary Public exam with the most comprehensive and up-to-date study tool for 2026. Designed specifically for NY state regulations, our app helps you pass on your first attempt.\n\nWh"
+    },
+    {
+     "name": "Notary California Exam Prep",
+     "dev": "ABDULLAHI MOHAMED MUHYIDIN",
+     "ratings": 0,
+     "desc": "Master the California Notary Public Exam with confidence! >\nDesigned specifically for the 2026 CA Notary requirements, our app provides the most focused study experience to help you pass on your first"
+    },
+    {
+     "name": "California Notary Exam Prep",
+     "dev": "Best Way Media Group Inc",
+     "ratings": 21,
+     "desc": "California Notary Public Exam Study App\n\nAre you preparing for the California Notary Public exam? The California Notary Public Exam Study App is your ultimate study companion, designed to help you pas"
+    },
+    {
+     "name": "NY Notary Study Aid",
+     "dev": "Zhaoyin Zhang",
+     "ratings": 0,
+     "desc": "Prepare for the New York Notary Public License Law exam with confidence: fully offline, efficiency optimized.\n\n• Mind Map: a visual overview of the entire New York Notary Public law (March 2026)\n• Kno"
+    },
+    {
+     "name": "DMV Practice Test・2026",
+     "dev": "Minh Nhat Tran",
+     "ratings": 61814,
+     "desc": "This app is designed for DMV preparation from anywhere. All the questions are based on DMV manual.\n\n• Test is based on the DMV Manual for your state. \n• State based exams\n• Actual test questions\n• Tra"
+    },
+    {
+     "name": "Dearborn Real Estate Exam Prep",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13113,
+     "desc": "The #1 Real Estate Exam study tool! Pass your exams with our 500+ questions, quizzes, flashcards, and updated content.\n\nDearborn Real Estate has helped millions earn their Real Estate License. And you"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "geology clinometer: geocompass",
+   "apps": [
+    {
+     "name": "Geology Clinometer: GeoCompass",
+     "dev": "HUNG HSUN LIN",
+     "ratings": 1,
+     "desc": "This app is mainly used to measure the orientation of geological structures along with GPS and weather data. It contains the following features:\n\n1. Support plane and line structure measurements.\n\n2. "
+    },
+    {
+     "name": "Rockd",
+     "dev": "University of Wisconsin-Madison Shared Apps",
+     "ratings": 187,
+     "desc": "Explore, learn about, and document your geologic surroundings! Whether you are a professional geoscientist or curious about the rocks around you and the stories they tell, Rockd allows you to explore "
+    },
+    {
+     "name": "Avenza Maps: Offline Mapping",
+     "dev": "Avenza Systems Inc.",
+     "ratings": 128016,
+     "desc": "New Description: \n\nAvenza Maps is a powerful offline navigation app for professional field work. Use offline maps with GPS navigation to stay on track anywhere—no signal required, so you can navigate "
+    },
+    {
+     "name": "FieldMove Clino",
+     "dev": "Petroleum Experts Limited",
+     "ratings": 22,
+     "desc": "FieldMove Clino Features:\n\nFieldMove Clino is a digital compass-clinometer for data capture on your iPhone, designed for simplicity in the field, and optimized to use the device’s GPS location and ori"
+    },
+    {
+     "name": "Clinometer+",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 1016,
+     "desc": "Note: You will need a car phone holder to use with this app.\n\nThis app helps you to understand road conditions to ensure safe driving. It is easy to use, simply put your phone on a holder and stick it"
+    },
+    {
+     "name": "Flyover Country",
+     "dev": "Flyover Country LLC",
+     "ratings": 313,
+     "desc": "Track your flight with GPS - discover information about the world below and clouds above with offline maps and points of interest. Identify what you're seeing with 3D maps, or point your camera to vie"
+    },
+    {
+     "name": "Opti Clinometer",
+     "dev": "Burak Kizilobek",
+     "ratings": 1,
+     "desc": "Opti Clinometer turns your iPhone into a precise field clinometer — a modern alternative to classic optical instruments.\n\nTWO MEASUREMENT MODES\n• Sight mode: hold the phone horizontally at eye level a"
+    },
+    {
+     "name": "Clinometer + bubble level",
+     "dev": "Peter Breitling",
+     "ratings": 43,
+     "desc": "This professional tool called Clinometer is the most precise (all you can get with some calculations) slope measurement tool for the iPhone, iPod Touch and iPad using all sides of the device plus the "
+    },
+    {
+     "name": "EarthViewer",
+     "dev": "Howard Hughes Medical Institute",
+     "ratings": 107,
+     "desc": "What did Earth’s continents and oceans look like 250 million years ago, or even 1 billion years ago? What do we know about the climate back when our planet formed? How has sea level changed since the "
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "mention",
+    "direct",
+    "adjacent",
+    "unrelated",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

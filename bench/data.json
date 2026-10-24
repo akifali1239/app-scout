@@ -21446,6 +21446,798 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "firefighters first credit union",
+   "top": [
+    {
+     "name": "Firefighters First CU",
+     "dev": "Firefighters First Credit Union",
+     "ratings": 8317,
+     "desc": "With the new Firefighters First CU Mobile Banking app, you can easily check balances, view account activity, make deposits, pay bills, pay other people, transfer funds, and more – wherever you use you"
+    },
+    {
+     "name": "FFCCU Mobile Banking",
+     "dev": "Firefighters Community Credit Union",
+     "ratings": 1935,
+     "desc": "FFCCU Mobile Banking is your personal financial advocate. It’s fast, secure and makes life easier by empowering you with the tools you need to manage your finances.\n\nHere’s what you can do with FFCCU "
+    },
+    {
+     "name": "Firefighters CU",
+     "dev": "Firefighters Credit Union Mobile",
+     "ratings": 7,
+     "desc": "Firefighters Credit Union Mobile provides members convenient access to our website, mobile check deposit, mobile banking, branch and contact information."
+    },
+    {
+     "name": "Firefighters&Company CU Mobile",
+     "dev": "Firefighters & Company Mobile",
+     "ratings": 2,
+     "desc": "Bring the credit union with you everywhere. Members of Firefighters & Company Federal Credit Union can view account balances, pay bills, deposit checks, and more with the security of online banking co"
+    },
+    {
+     "name": "FFCCU Credit Card",
+     "dev": "Firefighters Community Credit Union",
+     "ratings": 3,
+     "desc": "Enjoy easy and on-the-go management of your card with the FFCCU Credit Card app from Firefighters Community.\n\n\n\nThis app offers a convenient way to:\n• View recent and pending transactions.\n• View acco"
+    },
+    {
+     "name": "Fire Fighters Credit Union",
+     "dev": "Fire Fighters Credit Union",
+     "ratings": 144,
+     "desc": "Access your accounts anytime, anywhere with Fire Fighters Credit Union’s mobile banking app.  It’s free, fast and secure!  Registered Virtual Branch users can use this app to check balances, view tran"
+    },
+    {
+     "name": "FireFirstEvents",
+     "dev": "Firefighters First Credit Union",
+     "ratings": 32,
+     "desc": "The FireFirstEvents app is your go-to tool for staying up-to-date with events and activities designed specifically for the firefighting community. With a user-friendly interface, you can browse event "
+    },
+    {
+     "name": "Firefighters CU Utah",
+     "dev": "Firefighters Credit Union",
+     "ratings": 8,
+     "desc": "Members of Firefighters Credit Union (Utah) can access their accounts anytime, anywhere.  The mobile banking app can be used to check balances, view transaction histories, transfer funds, pay bills, a"
+    },
+    {
+     "name": "America First Credit Union",
+     "dev": "America First Credit Union",
+     "ratings": 71032,
+     "desc": "Having America First mobile banking on your device is like having a personal branch in your pocket. It enables you to manage your finances 24 hours a day, seven days a week. With this helpful app, you"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "marshis florist cc",
+   "top": [
+    {
+     "name": "LED light controller LED lamp",
+     "dev": "MARSHIS FLORIST CC",
+     "ratings": 12047,
+     "desc": "Take full control of your LED devices.\n\n- Functionality to change color, its temperature and brightness\n- Support for a large number of LED devices, including LED strips and LED bulbs.\n- Support Wi-Fi"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "The Cozy Florist",
+     "dev": "RiftSky Games",
+     "ratings": 30754,
+     "desc": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual "
+    },
+    {
+     "name": "FNP: Gifts, Flowers, Cakes App",
+     "dev": "Ferns N Petals Pvt. Ltd.",
+     "ratings": 1466,
+     "desc": "FNP (Ferns N Petals) is your one-stop app for online cake delivery, gifts for him & her, anniversary & valentine gifts, flowers, and more! Whether you need to order cakes online, find birthday gifts f"
+    },
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    },
+    {
+     "name": "Bleems - Flowers & Gifts",
+     "dev": "Bleems Website Design and Management Co.",
+     "ratings": 12359,
+     "desc": "Bleems - Flowers, Confections, Gifts & AI Shopper  \n\nCelebrate every moment with Bleems, the easiest way to send flowers, chocolates, cakes, confections, perfumes, incense, and unique gifts. Enjoy sam"
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Flowwow: Gifting Marketplace",
+     "dev": "FLOWWOW LLC",
+     "ratings": 3285,
+     "desc": "Flowwow is an online marketplace that connects sellers and customers in more than 1,300 cities around the world. \nOn Flowwow, you can order fresh seasonal flowers, delicious desserts, and gifts for an"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "myintelligem - gemology app",
+   "top": [
+    {
+     "name": "MyIntelliGem - Gemology App",
+     "dev": "MyIntelliSource, Inc.",
+     "ratings": 0,
+     "desc": "MyIntelliGem\nPutting Information In The Palm Of Your Hand®\n\nIntroducing MyIntelliGem™ for iOS, the complete pocket gemology reference for the graduate gemologist, jewelry professional, or gem connoiss"
+    },
+    {
+     "name": "Rock Identifier: Stone ID",
+     "dev": "Next Vision Limited",
+     "ratings": 81061,
+     "desc": "Rock Identifier is an all-in-one stone, crystal, mineral, and gemstone identifier. Simply take or upload a photo of a rock or crystal, and the app will tell you all about it in seconds. \n\nWant to know"
+    },
+    {
+     "name": "Rock ID - Stone Identifier",
+     "dev": "AIBY",
+     "ratings": 3128,
+     "desc": "If you’re looking for an app to help you identify rocks and track your mineral collection, you’ve struck gold! Rock ID is an ultimate package of features that lets you manage your assortment of rocks "
+    },
+    {
+     "name": "Jewel Coloring",
+     "dev": "Ta Ta Game Technology Limited",
+     "ratings": 47698,
+     "desc": "Jewel Coloring: Sparkle & Create with Pixel Art Puzzles\nEnter a vibrant world of glowing jewels where creativity and puzzle-solving come together in perfect harmony! Designed for easy, relaxing fun, t"
+    },
+    {
+     "name": "Evry Jewels",
+     "dev": "Evry Jewels Inc.",
+     "ratings": 18608,
+     "desc": "Discover the trendiest jewelry and accessories at your fingertips with the Evry Jewels app. \n\nBrowse through an extensive collection of stunning jewelry pieces and discover accessories that complement"
+    },
+    {
+     "name": "Gem Stack",
+     "dev": "Rollic Games",
+     "ratings": 35609,
+     "desc": "Can you stack your way to treasure without losing a single gem? Let’s find out in Gem Stack!\n\nEnter the dazzling world of Gem Stack, the ultimate hyper-casual runner where your goal is to collect, sta"
+    },
+    {
+     "name": "MyHealer Live Psychic Readings",
+     "dev": "MyHealer",
+     "ratings": 2456,
+     "desc": "Welcome to MyHealer, the premier destination for professional psychic readings and profound spiritual insights. Are you facing uncertainties in your love life or struggling with the complexities of ma"
+    },
+    {
+     "name": "Rock & Gemstone Identifier App",
+     "dev": "Sviataslau Lobach",
+     "ratings": 427,
+     "desc": "Discover the world of rocks and minerals with Rock Identifier! This innovative mobile app empowers you to identify a variety of rocks and gems with just a snap or a simple upload. It's an essential to"
+    },
+    {
+     "name": "iRock: Stone & Rock Identifier",
+     "dev": "BerthX",
+     "ratings": 466,
+     "desc": "Scan, identify, collect.\n\nThe app built for rock, mineral, and gemstone enthusiasts.\n\nWith iRock, you can photograph a stone, identify it in seconds, estimate its market value, and save it to your col"
+    },
+    {
+     "name": "Dazzly Sort: Diamond Puzzle",
+     "dev": "GEODE",
+     "ratings": 3311,
+     "desc": "Sort and learn about hundreds of gems with Dazzly Sort, the diamond color sorting puzzle game!\n\nThis unique diamond sort game from the Dazzly universe is here to help you focus while playing with beau"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nutrimobi: dietitian & calorie",
+   "top": [
+    {
+     "name": "NutriMobi: Dietitian & Calorie",
+     "dev": "Ali Cavusoglu",
+     "ratings": 0,
+     "desc": "Track your eating habits, stay in touch with your dietitian, and live healthier — all with NutriMobi!\n\nKey Features\n\n- Extensive calorie database: With 5,000+ food entries tailored to Turkish cuisine "
+    },
+    {
+     "name": "SnapCalorie AI Calorie Counter",
+     "dev": "Perception Labs, Inc.",
+     "ratings": 6724,
+     "desc": "The fastest and most accurate way to track your food. SnapCalorie isn't another complicated calorie counter - just snap a photo or voice note, and get instant nutrition data in seconds.\n\nHOW IT WORKS\n"
+    },
+    {
+     "name": "Trifecta: Diet & Weight Loss",
+     "dev": "DMW Design Group, LLC",
+     "ratings": 1479,
+     "desc": "Introducing the Trifecta Nutrition App: Your Ultimate Health & Fitness Companion!\n\nAre you ready to take charge of your well-being and unlock the full potential of a healthier you? Look no further tha"
+    },
+    {
+     "name": "Calorie Counter: Tap & Track",
+     "dev": "Trianvil Software d.o.o.",
+     "ratings": 1436,
+     "desc": "Tap & Track - Nutrition Reinvented.\n\nTrack calories, understand nutrition, and improve your wellbeing with the most advanced nutrition tracking experience on the App Store.\n\nTrusted by millions since "
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Carbon - Macro Coach & Tracker",
+     "dev": "Reform LLC",
+     "ratings": 8091,
+     "desc": "Carbon Diet Coach is your nutrition solution for results that LAST. Whether your goal is to lose fat, build muscle, improve your metabolism, or simply maintain your weight, Carbon Diet Coach removes t"
+    },
+    {
+     "name": "Fay Nutrition Dietitians",
+     "dev": "Fay Health, Inc",
+     "ratings": 6993,
+     "desc": "At Fay, we know that health is not one-size-fits-all. Everyone is unique, with different bodies, goals, preferences and circumstances. Your nutrition care should be tailored to you and working for you"
+    },
+    {
+     "name": "Virtuafood: AI Calorie Tracker",
+     "dev": "Virtuagym B.V.",
+     "ratings": 6052,
+     "desc": "Virtuafood is your AI-powered calorie tracker and nutrition coach. Snap a photo of any meal and our AI Food Scanner delivers an instant breakdown of calories, protein, carbs and fats.\n\nAI FOOD SCANNER"
+    },
+    {
+     "name": "Foodvisor - AI Calorie Counter",
+     "dev": "Foodvisor",
+     "ratings": 17757,
+     "desc": "*** APP STORE EDITORS' CHOICE ***\n\nJoin over 15 million users who have transformed their lives with Foodvisor, the #1 nutrition app, supercharged with AI.\n\nOur users lose an average of 15.83 lb in 3 m"
+    },
+    {
+     "name": "Calo: AI Food Calorie Counter",
+     "dev": "Next Vision Limited",
+     "ratings": 25548,
+     "desc": "Achieve Your Weight Goals with Ease Using Calo\nLooking for an effective way to meet your weight and health goals? Welcome to Calo, your go-to app for seamless calorie tracking, meal planning, and adop"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "gemvol: pocket gemology",
+   "top": [
+    {
+     "name": "Gemvol: Pocket Gemology",
+     "dev": "iCert Inc.",
+     "ratings": 0,
+     "desc": "Gemvol Pocket Gemology is a fast, practical gemology toolkit built for jewelers, gemstone businesses, traders, investors, and collectors. With 3,500+ mineral references for identification and a struct"
+    },
+    {
+     "name": "Jewel Coloring",
+     "dev": "Ta Ta Game Technology Limited",
+     "ratings": 47698,
+     "desc": "Jewel Coloring: Sparkle & Create with Pixel Art Puzzles\nEnter a vibrant world of glowing jewels where creativity and puzzle-solving come together in perfect harmony! Designed for easy, relaxing fun, t"
+    },
+    {
+     "name": "Gem Stack",
+     "dev": "Rollic Games",
+     "ratings": 35609,
+     "desc": "Can you stack your way to treasure without losing a single gem? Let’s find out in Gem Stack!\n\nEnter the dazzling world of Gem Stack, the ultimate hyper-casual runner where your goal is to collect, sta"
+    },
+    {
+     "name": "Dig Out! Mine Adventure",
+     "dev": "Interactive360",
+     "ratings": 13363,
+     "desc": "The mines are not going to dig themselves!\n\nGrab a pickaxe, fresh pair of shoes and start diggen'!\n\nDig as deep as you can to collect shiny gems and treasures! But dig carefully, as the FALLING BOULDE"
+    },
+    {
+     "name": "Miner Tycoon :  Big Dynamite",
+     "dev": "Brew Games",
+     "ratings": 12397,
+     "desc": "Embark on an explosive journey of wealth and adventure in Miner Tycoon: Big Dynamite!\n\n\nBlow Up, Collect, Sell, and Get Rich!\n\n\nStrategically blast your way through an immersive environment filled wit"
+    },
+    {
+     "name": "Rock ID - Stone Identifier",
+     "dev": "AIBY",
+     "ratings": 3128,
+     "desc": "If you’re looking for an app to help you identify rocks and track your mineral collection, you’ve struck gold! Rock ID is an ultimate package of features that lets you manage your assortment of rocks "
+    },
+    {
+     "name": "Dazzly Match: Diamond Sort",
+     "dev": "GEODE",
+     "ratings": 4068,
+     "desc": "Sort, match, and learn about hundreds of gems with Dazzly Match, the diamond color sorting puzzle game!\n\nThis unique matching and sorting game from the Dazzly universe is here to help you focus while "
+    },
+    {
+     "name": "Gems Match: Color Puzzle",
+     "dev": "WONDERPOP PTE. LTD",
+     "ratings": 4543,
+     "desc": "Do you love the sparkle of rare gemstones and the satisfaction of a perfect match? Step into Gems Match, where every move brings you closer to a shimmering masterpiece! This isn't just a basic puzzle—"
+    },
+    {
+     "name": "Dazzly Sort: Diamond Puzzle",
+     "dev": "GEODE",
+     "ratings": 3311,
+     "desc": "Sort and learn about hundreds of gems with Dazzly Sort, the diamond color sorting puzzle game!\n\nThis unique diamond sort game from the Dazzly universe is here to help you focus while playing with beau"
+    },
+    {
+     "name": "STONE: Crystals, illuminated.",
+     "dev": "Jack Flintermann",
+     "ratings": 482,
+     "desc": "STONE is the crystal app designed to bring a little light to the modern life.\n\nSTONE has:\n- Elegant design and intuitive functionality\n- Beautifully captured crystal specimens\n- Short-and-sweet descri"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "beemark: beekeeping journal",
+   "top": [
+    {
+     "name": "Beemark: Beekeeping Journal",
+     "dev": "Nick van Rossenberg",
+     "ratings": 0,
+     "desc": "The beekeeping journal you buy once. No subscription, no account, no cloud lock-in. Your hive records belong to you.\n\nBeemark is a fast, beautiful inspection journal for hobbyist beekeepers: log a ful"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "American Bee Journal",
+     "dev": "Dadant & Sons Inc",
+     "ratings": 26,
+     "desc": "The American Bee Journal is dedicated to providing information about Beekeeping to everyone from the individual who keep bees for a hobby to the commercial beekeeper with thousands of colonies. We are"
+    },
+    {
+     "name": "Day One: Daily Journal & Diary",
+     "dev": "Bloom Built Inc",
+     "ratings": 118404,
+     "desc": "Apple’s App of the Year with over 15 million downloads and 200,000 5-star ratings globally, Day One has reinvented journaling, letting you record your life as you live it. Securely save audio, video, "
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "My Diary - Journal with Lock",
+     "dev": "BetterApp Tech Co., Limited",
+     "ratings": 28217,
+     "desc": "My Diary provides a friendly, professional, and personalized diary-journal experience. With its beautiful and thoughtful design, it lets you enjoy every memorable moment.\n \nWHAT IS MY DIARY?\n \nMy Diar"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    },
+    {
+     "name": "Hive Logger: Beekeeping App",
+     "dev": "Appco LLC (USA)",
+     "ratings": 24,
+     "desc": "Log every hive inspection in 30 seconds or less using QR code scanning and Smart Voice Logs (Pro). Hive Logger keeps records, tasks and reminders organized across every hive and apiary, so you always "
+    },
+    {
+     "name": "Beekeeping for Dummies®",
+     "dev": "Expanded Apps",
+     "ratings": 1,
+     "desc": "Start beekeeping with confidence using the trusted Dummies guide—now a simple, mobile tool built for real life at the hive. Learn how to set up your hive, care for honey bees, and harvest honey with c"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "my sommelier luca",
+   "top": [
+    {
+     "name": "My Sommelier Luca",
+     "dev": "Luca De Matteis",
+     "ratings": 0,
+     "desc": "My Sommelier Luca is an advanced AI-powered wine assistant designed for wine lovers, hospitality professionals and students who want to deepen their wine knowledge in a modern and interactive way.\n\nEx"
+    },
+    {
+     "name": "Wine.com",
+     "dev": "Wine.com, Inc.",
+     "ratings": 84822,
+     "desc": "The #1 Online Wine Store, Wine.com has the largest selection of wine and spirits (liquor) available to order and deliver across the US. With the Wine.com app, wine country is wherever you want it to b"
+    },
+    {
+     "name": "Vivino: Drink The Right Wine",
+     "dev": "Vivino ApS",
+     "ratings": 138108,
+     "desc": "Vivino helps you discover, choose, and buy the right wine.\n\nJoin over 70 million wine lovers who use Vivino to scan labels, track their tastes with ratings,  and buy wines directly in the app.\n\nFrom c"
+    },
+    {
+     "name": "nakedwines.com",
+     "dev": "NAKEDWINES.COM, INC.",
+     "ratings": 61276,
+     "desc": "Naked Wines supports independent winemakers from around the world to make world-class wine just for you.\n\nDownload the Naked app to:\n\nShop wine, your way\nBrowse 100s of wines in our digital wine cella"
+    },
+    {
+     "name": "Delectable - Scan & Rate Wine",
+     "dev": "Delectable",
+     "ratings": 25968,
+     "desc": "“The Essential Wine App” — James Beard award winner Jordan Mackay\n\nTake a photo of a wine label and instantly get ratings and descriptions with Delectable, the critically-acclaimed free app that helps"
+    },
+    {
+     "name": "WineRatings+ by Wine Spectator",
+     "dev": "M. Shanken Communications, Inc.",
+     "ratings": 1034,
+     "desc": "WELCOME ALL WINE LOVERS! \nWhether you’re on a journey to discover the wines you like or have a full cellar at home, WineRatings+ is here to help you drink great wine, every time.\n\nTrying to decide wha"
+    },
+    {
+     "name": "Vinoperte: AI Wine Sommelier",
+     "dev": "EMILY CECILE BUCKLEY-MATURA",
+     "ratings": 99,
+     "desc": "You open the wine list. Eighty names, half in a language you don't read, and the waiter is standing there. So you point at the second-cheapest bottle and hope.\n\nVinoperte ends the guessing.\n\nPhotograp"
+    },
+    {
+     "name": "Firstleaf: Wine Scanner",
+     "dev": "Firstleaf",
+     "ratings": 693,
+     "desc": "Stop guessing and start sipping confidently with Firstleaf.\n\nWith 1.3M+ wines, 95% label recognition, and expert-backed picks, Firstleaf is your free, pocket sommelier. Whether you're at the store, br"
+    },
+    {
+     "name": "Vinous: Wine Reviews & Ratings",
+     "dev": "Vinous Media LLC Apps",
+     "ratings": 353,
+     "desc": "Consumers, collectors and experts alike have for years followed Antonio Galloni, Neal Martin and the rest of Vinous' team of world-renowned critics. Vinous' app puts decades of experience at your fing"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "welding settings",
+   "top": [
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Weldwise: Welding Calculator",
+     "dev": "ENES AYKUT AYDEMIR",
+     "ratings": 0,
+     "desc": "Stop guessing your welder settings.\n\nWeldwise gives you a clean starting point for MIG, TIG, Stick and flux-core in seconds. Pick your process, material and thickness and get recommended amperage, vol"
+    },
+    {
+     "name": "WeldSet: Welding Calculator",
+     "dev": "PLAYRIOT LLC",
+     "ratings": 0,
+     "desc": "WeldSet is the welding calculator that gets you a trustworthy starting point fast. Pick your process — MIG, TIG, Stick, or Flux-core — your material, and your thickness, and get starting amperage, wir"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "ESAB Welding Parameters Set-Up Guide",
+     "dev": "ESAB Group Inc",
+     "ratings": 4,
+     "desc": "This simple, yet helpful app gives you the ability to correctly identify the welding parameters for your next job. Just choose the type of wire you're using (solid or flux-cored), plug in a few pieces"
+    },
+    {
+     "name": "Welding Reference Pro",
+     "dev": "ZIma Logistics LLC",
+     "ratings": 1,
+     "desc": "Welding Reference Pro puts every tool a welder needs in one app — calculators, reference guides, training, and QA checklists. No internet required. No subscription. One price, everything unlocked.\n\nCA"
+    },
+    {
+     "name": "WelderCalc: Welding Calculator",
+     "dev": "Double Vision USA LLC",
+     "ratings": 0,
+     "desc": "The welding calculator that picks amperage on the first shot — TIG, MIG, stick, flux-core — heat input, travel speed, electrode sizing, all offline.\n\nTired of dialing in by feel? Tired of running test"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    },
+    {
+     "name": "Pocket Welder Helper",
+     "dev": "Josh Butcher",
+     "ratings": 0,
+     "desc": "Pocket Welder Helper – Welding Calculator, Cert Prep & Shop Tools\n\nPocket Welder Helper is a professional welding calculator and reference app built for welders, fabricators, metalworkers, and welding"
+    },
+    {
+     "name": "WeldCalc Pro - Welding Calc",
+     "dev": "Ersel Tarhan",
+     "ratings": 0,
+     "desc": "WeldCalc Pro turns your iPhone into a complete welding calculator for every welder, fabricator, and engineer on the shop floor — brand-neutral, 100% offline, no Wi-Fi required. Get accurate parameters"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician certification exam test prep",
+   "top": [
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "PTCB Exam Prep 2026 | EZPrep",
+     "dev": "EZ Test Prep",
+     "ratings": 1236,
+     "desc": "Ace Your PTCB Without Mixing Up Heart Meds and Laxatives.\n\nSo you’ve chosen the noble path of counting pills, deciphering doctor chicken scratch, and making sure no one confuses their antibiotics with"
+    },
+    {
+     "name": "Prepia Pharmacy Tech Exam Prep",
+     "dev": "Prepia Inc",
+     "ratings": 904,
+     "desc": "Prepare confidently for your national PHARMACY TECHNICIAN  exam with 1,600+ realistic practice questions designed to help you study smarter and pass with confidence.\n\nWhether you're at work or relaxin"
+    },
+    {
+     "name": "PTCB PTCE Exam Prep Test: 2025",
+     "dev": "Best Fun Games",
+     "ratings": 444,
+     "desc": "Pass your PTCB®, PTCE®, (Pharmacy Technician Certification Exam®,) with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ qu"
+    },
+    {
+     "name": "PTCB",
+     "dev": "MastrAPI",
+     "ratings": 564,
+     "desc": "Pass your Pharmacy Technician exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "PTCB & PTCE Test Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 228,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the exam material with 1500+ exam-like questions and 600+ flashcards that help you remember more. Get access to over a dozen practice exams that will help you pass the f"
+    },
+    {
+     "name": "CPhT™ ExCPT Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 61,
+     "desc": "CPhT™ ExCPT Test Prep 2026: Your Complete Solution for CPhT Exam Success\nGet ready to ace the Certified Pharmacy Technician (CPhT™) Exam with our comprehensive CPhT™ ExCPT Exam Prep 2026 app.\nDesigned"
+    },
+    {
+     "name": "PTCB Practice Test - 2026",
+     "dev": "Allegro Digital",
+     "ratings": 0,
+     "desc": "Pass the PTCE and earn your CPhT — on the first try.\n\nPTCB Practice Test 2026 helps future pharmacy technicians prepare for the Pharmacy Technician Certification Exam (PTCE) with 220+ realistic practi"
+    },
+    {
+     "name": "PTCE Practice Test",
+     "dev": "Nova Scotia Limited",
+     "ratings": 0,
+     "desc": "Preparing for the Pharmacy Technician Certification Exam can feel overwhelming. That’s why we built this app — to give you a clear, structured, and practical way to study every day.\n\nPTCE Practice Tes"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "paramedic nremt exam prep",
+   "top": [
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobil"
+    },
+    {
+     "name": "Paramedic Exam Prep: 2026",
+     "dev": "Edu Prep",
+     "ratings": 8,
+     "desc": "Helping you pass your Paramedic exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first try!\n\nThe NREMT"
+    },
+    {
+     "name": "NREMT PARAMEDIC Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 65,
+     "desc": "PASS THE NREMT PARAMEDIC EXAM\n\nNREMT Paramedic Exam Prep 2026 helps you study smarter, not harder. With over 1800+ practice questions, AI-powered progress tracking, and realistic exam simulations, you"
+    },
+    {
+     "name": "Paramedic NREMT Exam Prep",
+     "dev": "satoshi yoshida",
+     "ratings": 0,
+     "desc": "Get ready for the NREMT Paramedic exam with 150 original practice questions across 10 topic areas you can study anytime, anywhere - completely offline.\n\nDisclaimer: This is an unofficial, independent "
+    },
+    {
+     "name": "Paramedic Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 40,
+     "desc": "Paramedic Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It has more than 700 high quality test questions with answer explanations, multiple "
+    },
+    {
+     "name": "NREMT Prep. Medic Test 2026",
+     "dev": "MyApps",
+     "ratings": 1043,
+     "desc": "NREMT Prep: EMT & Paramedic Practice Test 2026 — your ultimate study companion built by active emergency physicians and paramedics, designed to help you pass the National Registry of Emergency Medical"
+    },
+    {
+     "name": "EMT Prep 2025: Pass Test Exam",
+     "dev": "Pixel Pioneers LLC",
+     "ratings": 800,
+     "desc": "Pass the NREMT EMT, EMR, AEMT, and Paramedic exams confidently on your first attempt. With 4,000+ expertly crafted questions, detailed explanations, and a vast library of practice tests and quizzes, y"
+    },
+    {
+     "name": "EMT B Prep 2026",
+     "dev": "Chengdu Youzou Information Technology Co., Ltd",
+     "ratings": 326,
+     "desc": "Emergency Medical Technicians provide out of hospital emergency medical care and transportation for critical and emergent patients who access the emergency medical services (EMS) system. EMTs have the"
+    },
+    {
+     "name": "NREMT Practice Test: Exam Prep",
+     "dev": "Rostom Sabauri",
+     "ratings": 34,
+     "desc": "Preparing for the NREMT exam isn’t easy. This app helps you stay focused and practice in a way that actually works.\n\nWhether you’re studying for EMT, AEMT, or Paramedic (NRP) certification, you’ll fin"
+    },
+    {
+     "name": "MedicTests 2026 EMS Education",
+     "dev": "MedicTests",
+     "ratings": 2067,
+     "desc": "Experience the ultimate EMS Education System, designed exclusively for MedicTests members. \n\nUnlock personalized guidance and engaging learning tools like our personalized learning paths, the Rapid Le"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "ase certification practice test",
+   "top": [
+    {
+     "name": "ASE Test Prep Auto Exam 2026",
+     "dev": "Best Fun Games",
+     "ratings": 2096,
+     "desc": "Pass your ASE Series A (Automobile & Light Truck Certification) exams with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 3,000+"
+    },
+    {
+     "name": "ASE Test Prep: Auto Exam 2026",
+     "dev": "Prepia Inc",
+     "ratings": 164,
+     "desc": "Developed by experienced educators and based on proven study methods, our ASE Exam Prep App is recommended by top instructors nationwide! Study anytime, anywhere. Try it free today!\n\nPrepare for your "
+    },
+    {
+     "name": "ASE Automotive Test Exam Prep",
+     "dev": "MastrAPI",
+     "ratings": 673,
+     "desc": "Pass your ASE with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe exams stress knowledg"
+    },
+    {
+     "name": "ASE Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 65,
+     "desc": "ASE Exam Prep 2026 is an exam preparation application that will help you pass the automotive technician certification exam administered by Automotive Service Excellence (ASE) with a high score on your"
+    },
+    {
+     "name": "ASE A-Series Test Prep 2026",
+     "dev": "Thanh Hung",
+     "ratings": 665,
+     "desc": "Our ASE A-Series Test Prep: 2025 is specifically designed to assist users in successfully passing the ASE Test. With a focus on closely aligning with the actual exam objectives, our comprehensive ASE "
+    },
+    {
+     "name": "ASE A1-A9 Test Prep 2026",
+     "dev": "Ultra Prep",
+     "ratings": 10,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your te"
+    },
+    {
+     "name": "ASE Practice Test",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Are you preparing for your ASE certification exam? Equip yourself with the right tools and boost your confidence with the ASE app. Tailored to match the style and difficulty of the actual abc certific"
+    },
+    {
+     "name": "Certification Questions",
+     "dev": "SERVICES & CONSULTING FORCE S.R.L.",
+     "ratings": 122,
+     "desc": "Launched in 2016, www.certification-questions.com, has grown to become a leading service regarding education for professionals who want to obtain an IT Certification.\n\nOur goal is to offer an innovati"
+    },
+    {
+     "name": "2026 ASVAB Practice Test Prep",
+     "dev": "Nguyen Nhu Quynh",
+     "ratings": 2651,
+     "desc": "Ready to start your military career? 2026 ASVAB Practice Test Prep is your go-to app for preparing for the Armed Services Vocational Aptitude Battery (ASVAB) test. Whether you aim to join the Army, Na"
+    },
+    {
+     "name": "ASE Test Prep By MotiveU",
+     "dev": "Santos&Halp Inc",
+     "ratings": 1,
+     "desc": "MotiveU is the ultimate study companion for automotive technicians preparing for ASE certification exams. Whether you're a student, apprentice, or experienced tech looking to advance your career, Moti"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "boater exam practice",
+   "top": [
+    {
+     "name": "USA National Boater Exam",
+     "dev": "Ghaith Alshehabat",
+     "ratings": 0,
+     "desc": "Prepare for your boating safety exam with focused practice built around the rules, equipment, and real-world decisions boaters are expected to know.\n\nUSA National Boater Exam includes a 1,200-question"
+    },
+    {
+     "name": "DMV: Practice Before Exam 2026",
+     "dev": "BENJAMIN PETER LOWRY",
+     "ratings": 215,
+     "desc": "Pass your DMV exam in 2026 on the first try — guaranteed!\n\nStudy effectively with state-specific practice tests, detailed explanations, and smart hints.\n\nOur app is the ultimate DMV test preparation t"
+    },
+    {
+     "name": "USCG Exam Prep",
+     "dev": "Equitable Management Limited",
+     "ratings": 10,
+     "desc": "USCG Exam Prep provides recreational boaters and merchant mariners a convenient and accessible platform to study for the FCC and U.S. Coast Guard license exams.\n\nWhether you are studying for your Deck"
+    },
+    {
+     "name": "Electrician Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 104,
+     "desc": "Help you prepare for the Journeyman Electrician license exam and pass it on your first attempt at the actual exam! Use the mobile app Electrician Exam Prep 2026 developed by our exam experts to help p"
+    },
+    {
+     "name": "Sea Trials - USCG License Exam",
+     "dev": "Mariner License Prep, LLC",
+     "ratings": 379,
+     "desc": "IMPORTANT:  \nALL QUESTIONS ARE SOURCED EXCLUSIVELY FROM PUBLICLY AVAILABLE MATERIALS AND USCG MATERIALS SHOWN BELOW:  \n\nUSCG Sample Exams (https://www.dco.uscg.mil/nmc/examinations/)  \n\nSEA TRIALS IS "
+    },
+    {
+     "name": "DMV Practice Test : All States",
+     "dev": "Nhung V Vo",
+     "ratings": 1296,
+     "desc": "- The practice tests help you retain knowledge better than studying the manual alone, whether you’re preparing for your permit test or driver’s license test\n- The AI-powered traffic law and DMV answer"
+    },
+    {
+     "name": "DMV Practice Test 2026 Drivio",
+     "dev": "DriveIQ Labs",
+     "ratings": 1688,
+     "desc": "Pass Your DMV Permit Test - First Try.\nDrivio is your complete DMV prep app for 2026. \nCar permit, CDL license, motorcycle permit - everything you need to pass your written knowledge test and get your"
+    },
+    {
+     "name": "Journeyman Plumber Exam 2026",
+     "dev": "Prepia Inc",
+     "ratings": 80,
+     "desc": "Developed by experienced educators and based on proven study methods, our NITC Journey Level Plumber Exam Prep App is recommended by top instructors nationwide!\n\nStudy anytime, anywhere. Try it free t"
+    },
+    {
+     "name": "PMP® Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 326,
+     "desc": "Study faster and easier with all the tools you need to succeed! Whether you're at work or relaxing at home, take our Study App with you and ace your PMP exam with confidence.\n\nOur PMP Study App is the"
+    },
+    {
+     "name": "Contractors License Exam Prep",
+     "dev": "Contractors Intelligence School, Inc.",
+     "ratings": 785,
+     "desc": "This app is for students of Contractors Intelligence School.  It is available for currently enrolled students.  This app helps students get prepared for their California contractors license exam.\n\nThe"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

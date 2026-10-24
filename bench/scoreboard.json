@@ -4,9 +4,9 @@
    "version": "v3",
    "dev_acc": 0.9342,
    "test_acc": 0.9375,
-   "dev_obj": 0.8942,
-   "test_obj": 0.8981,
-   "brier": 0.0789,
+   "dev_obj": 0.8893,
+   "test_obj": 0.8964,
+   "brier": 0.0822,
    "n": 156,
    "versions": 3,
    "tried": 164,
@@ -42,9 +42,9 @@
    "version": "v3",
    "dev_acc": 0.9217,
    "test_acc": 0.9333,
-   "dev_obj": 0.8889,
-   "test_obj": 0.9078,
-   "brier": 0.0511,
+   "dev_obj": 0.8894,
+   "test_obj": 0.9076,
+   "brier": 0.0514,
    "n": 250,
    "versions": 3,
    "tried": 164,
@@ -52,7 +52,7 @@
     [
      "pharmacy technician letter",
      true,
-     0.26
+     0.21
     ],
     [
      "paramedic coach",
@@ -62,28 +62,28 @@
     [
      "paramedic airway review",
      false,
-     0.52
+     0.53
     ],
     [
      "pilot driver app",
      true,
-     0.31
+     0.35
     ],
     [
      "personal trainer prep: test",
      true,
-     0.22
+     0.26
     ]
    ]
   },
   "rival": {
    "version": "v1",
-   "dev_acc": 0.9862,
-   "test_acc": 0.9711,
-   "dev_obj": 0.9738,
-   "test_obj": 0.9579,
-   "brier": 0.0263,
-   "n": 318,
+   "dev_acc": 0.9867,
+   "test_acc": 0.9727,
+   "dev_obj": 0.9745,
+   "test_obj": 0.9601,
+   "brier": 0.0251,
+   "n": 333,
    "versions": 1,
    "tried": 12,
    "test_errors": [
@@ -91,31 +91,31 @@
      "welding calculator",
      "WELDING PRO",
      0,
-     0.66
+     0.68
     ],
     [
      "torque conversion chart",
      "Bolt Torque Specs",
      1,
-     0.32
+     0.39
     ],
     [
      "nail tech appointment app",
      "NailTechConnect for Clients",
      0,
-     0.54
+     0.56
     ],
     [
      "hidden camera detector",
      "Cam Detector App：Home Security",
      0,
-     0.53
+     0.5
     ],
     [
      "sailing weather",
      "Windy.app — Wind, Tides, Radar",
      0,
-     0.83
+     0.84
     ]
    ]
   },
@@ -123,9 +123,9 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 0.9976,
-   "test_obj": 0.9961,
-   "brier": 0.0079,
+   "dev_obj": 0.998,
+   "test_obj": 0.9958,
+   "brier": 0.0084,
    "n": 70,
    "versions": 1,
    "tried": 16,
@@ -135,8 +135,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0407,
-   "test_obj": 1.038,
+   "dev_obj": 1.0408,
+   "test_obj": 1.0377,
    "brier": null,
    "n": 27,
    "versions": 1,
@@ -147,7 +147,7 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0406,
+   "dev_obj": 1.0405,
    "test_obj": 1.0403,
    "brier": null,
    "n": 27,
@@ -159,8 +159,8 @@
    "version": "v1",
    "dev_acc": 1.0,
    "test_acc": 1.0,
-   "dev_obj": 1.0339,
-   "test_obj": 1.039,
+   "dev_obj": 1.0338,
+   "test_obj": 1.0389,
    "brier": null,
    "n": 33,
    "versions": 1,
@@ -171,7 +171,7 @@
    "version": "v3",
    "dev_acc": 0.975,
    "test_acc": 1.0,
-   "dev_obj": 0.9666,
+   "dev_obj": 0.9677,
    "test_obj": 0.9999,
    "brier": 0.0002,
    "n": 84,
@@ -183,9 +183,9 @@
    "version": "v2",
    "dev_acc": 0.9787,
    "test_acc": 0.9623,
-   "dev_obj": 0.9557,
+   "dev_obj": 0.9562,
    "test_obj": 0.9348,
-   "brier": 0.0548,
+   "brier": 0.0549,
    "n": 100,
    "versions": 2,
    "tried": 90,
@@ -6053,17 +6053,107 @@
    "dev_obj": 0.9557,
    "test_obj": 0.9348,
    "n": 100
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "intent",
+   "version": "v3",
+   "dev_acc": 0.9342,
+   "test_acc": 0.9375,
+   "dev_obj": 0.8893,
+   "test_obj": 0.8964,
+   "n": 156
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "brand",
+   "version": "v3",
+   "dev_acc": 0.9217,
+   "test_acc": 0.9333,
+   "dev_obj": 0.8894,
+   "test_obj": 0.9076,
+   "n": 250
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "rival",
+   "version": "v1",
+   "dev_acc": 0.9867,
+   "test_acc": 0.9727,
+   "dev_obj": 0.9745,
+   "test_obj": 0.9601,
+   "n": 333
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "risk",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 0.998,
+   "test_obj": 0.9958,
+   "n": 70
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "audience",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0408,
+   "test_obj": 1.0377,
+   "n": 27
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "pay",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0405,
+   "test_obj": 1.0403,
+   "n": 27
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "build",
+   "version": "v1",
+   "dev_acc": 1.0,
+   "test_acc": 1.0,
+   "dev_obj": 1.0338,
+   "test_obj": 1.0389,
+   "n": 33
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "kind",
+   "version": "v3",
+   "dev_acc": 0.975,
+   "test_acc": 1.0,
+   "dev_obj": 0.9677,
+   "test_obj": 0.9999,
+   "n": 84
+  },
+  {
+   "ts": "2026-10-24T14:41:50+00:00",
+   "cap": "note",
+   "version": "v2",
+   "dev_acc": 0.9787,
+   "test_acc": 0.9623,
+   "dev_obj": 0.9562,
+   "test_obj": 0.9348,
+   "n": 100
   }
  ],
- "updated": "2026-10-24T13:41:22+00:00",
+ "updated": "2026-10-24T14:41:50+00:00",
  "raw": {
   "intent": {
    "version": "v3",
    "dev": {
     "n": 76,
     "acc": 0.9342,
-    "brier": 0.0799,
-    "obj": 0.8942,
+    "brier": 0.0899,
+    "obj": 0.8893,
     "errors": [
      [
       "e6b flight computer",
@@ -6073,7 +6163,7 @@
      [
       "trucker path",
       "brand",
-      "game"
+      "need"
      ],
      [
       "sailquiz: sailing exam prep",
@@ -6095,8 +6185,8 @@
    "test": {
     "n": 80,
     "acc": 0.9375,
-    "brier": 0.0789,
-    "obj": 0.8981,
+    "brier": 0.0822,
+    "obj": 0.8964,
     "errors": [
      [
       "subway surfers",
@@ -6131,18 +6221,18 @@
    "dev": {
     "n": 115,
     "acc": 0.9217,
-    "brier": 0.0656,
-    "obj": 0.8889,
+    "brier": 0.0647,
+    "obj": 0.8894,
     "errors": [
      [
       "chiropractic ethics ca",
       false,
-      0.55
+      0.51
      ],
      [
       "welding written - passrun",
       true,
-      0.44
+      0.41
      ],
      [
       "physical therapy journal",
@@ -6162,12 +6252,12 @@
      [
       "plumber license prep: exam",
       true,
-      0.18
+      0.16
      ],
      [
       "paramedic trauma review",
       false,
-      0.54
+      0.53
      ],
      [
       "acupuncture atlas 3d",
@@ -6177,20 +6267,20 @@
      [
       "trucker budget",
       false,
-      0.53
+      0.51
      ]
     ]
    },
    "test": {
     "n": 135,
     "acc": 0.9333,
-    "brier": 0.0511,
-    "obj": 0.9078,
+    "brier": 0.0514,
+    "obj": 0.9076,
     "errors": [
      [
       "pharmacy technician letter",
       true,
-      0.26
+      0.21
      ],
      [
       "paramedic coach",
@@ -6200,37 +6290,37 @@
      [
       "paramedic airway review",
       false,
-      0.52
+      0.53
      ],
      [
       "pilot driver app",
       true,
-      0.31
+      0.35
      ],
      [
       "personal trainer prep: test",
       true,
-      0.22
+      0.26
      ],
      [
       "esab welding parameters set-up guide",
       true,
-      0.46
+      0.43
      ],
      [
       "check in tools for the joint chiropractic clinics",
       true,
-      0.14
+      0.15
      ],
      [
       "bible",
       false,
-      0.55
+      0.54
      ],
      [
       "mobile midwife",
       true,
-      0.36
+      0.33
      ]
     ]
    }
@@ -6238,60 +6328,60 @@
   "rival": {
    "version": "v1",
    "dev": {
-    "n": 145,
-    "acc": 0.9862,
-    "brier": 0.0249,
-    "obj": 0.9738,
+    "n": 150,
+    "acc": 0.9867,
+    "brier": 0.0244,
+    "obj": 0.9745,
     "errors": [
      [
       "dog grooming scheduler",
       "Groomit On-Demand Grooming",
       1,
-      0.32
+      0.3
      ],
      [
       "dog grooming scheduler",
       "Savvy Pet Spa",
       0,
-      0.81
+      0.85
      ]
     ]
    },
    "test": {
-    "n": 173,
-    "acc": 0.9711,
-    "brier": 0.0263,
-    "obj": 0.9579,
+    "n": 183,
+    "acc": 0.9727,
+    "brier": 0.0251,
+    "obj": 0.9601,
     "errors": [
      [
       "welding calculator",
       "WELDING PRO",
       0,
-      0.66
+      0.68
      ],
      [
       "torque conversion chart",
       "Bolt Torque Specs",
       1,
-      0.32
+      0.39
      ],
      [
       "nail tech appointment app",
       "NailTechConnect for Clients",
       0,
-      0.54
+      0.56
      ],
      [
       "hidden camera detector",
       "Cam Detector App：Home Security",
       0,
-      0.53
+      0.5
      ],
      [
       "sailing weather",
       "Windy.app — Wind, Tides, Radar",
       0,
-      0.83
+      0.84
      ]
     ]
    }
@@ -6301,15 +6391,15 @@
    "dev": {
     "n": 34,
     "acc": 1.0,
-    "brier": 0.0048,
-    "obj": 0.9976,
+    "brier": 0.004,
+    "obj": 0.998,
     "errors": []
    },
    "test": {
     "n": 36,
     "acc": 1.0,
-    "brier": 0.0079,
-    "obj": 0.9961,
+    "brier": 0.0084,
+    "obj": 0.9958,
     "errors": []
    }
   },
@@ -6319,16 +6409,16 @@
     "n": 12,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8143,
-    "obj": 1.0407,
+    "margin": 0.8167,
+    "obj": 1.0408,
     "errors": []
    },
    "test": {
     "n": 15,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7608,
-    "obj": 1.038,
+    "margin": 0.7545,
+    "obj": 1.0377,
     "errors": []
    }
   },
@@ -6338,15 +6428,15 @@
     "n": 11,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8127,
-    "obj": 1.0406,
+    "margin": 0.8091,
+    "obj": 1.0405,
     "errors": []
    },
    "test": {
     "n": 16,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.8053,
+    "margin": 0.8059,
     "obj": 1.0403,
     "errors": []
    }
@@ -6357,16 +6447,16 @@
     "n": 15,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.6775,
-    "obj": 1.0339,
+    "margin": 0.6755,
+    "obj": 1.0338,
     "errors": []
    },
    "test": {
     "n": 18,
     "acc": 1.0,
     "brier": null,
-    "margin": 0.7794,
-    "obj": 1.039,
+    "margin": 0.7786,
+    "obj": 1.0389,
     "errors": []
    }
   },
@@ -6375,8 +6465,8 @@
    "dev": {
     "n": 40,
     "acc": 0.975,
-    "brier": 0.0167,
-    "obj": 0.9666,
+    "brier": 0.0146,
+    "obj": 0.9677,
     "errors": [
      [
       "Find my Friends, Family Phone",
@@ -6398,8 +6488,8 @@
    "dev": {
     "n": 47,
     "acc": 0.9787,
-    "brier": 0.046,
-    "obj": 0.9557,
+    "brier": 0.045,
+    "obj": 0.9562,
     "errors": [
      [
       "Kimse bunu aramaz, hedef kitle yok",
@@ -6411,7 +6501,7 @@
    "test": {
     "n": 53,
     "acc": 0.9623,
-    "brier": 0.0548,
+    "brier": 0.0549,
     "obj": 0.9348,
     "errors": [
      [
@@ -6428,5 +6518,5 @@
    }
   }
  },
- "fingerprint": "062336d44595"
+ "fingerprint": "a348019b4fde"
 }

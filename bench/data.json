@@ -28968,6 +28968,98 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "cdl pre trip",
+   "apps": [
+    {
+     "name": "Pre Trip Inspection",
+     "dev": "Advanced Training Systems LLC",
+     "ratings": 94,
+     "desc": "ATS is the preferred Training System for fast, accurate and easy training for your driving needs. With step by step quick active points that will stick in your mind and stay there, ATS is the answer y"
+    },
+    {
+     "name": "Pre-Trip: CDL Inspection",
+     "dev": "Matthew Avant",
+     "ratings": 1,
+     "desc": "Prepare for your CDL pre-trip inspection with guided study, spoken practice, and realistic mock testing.\n\nPre-Trip: CDL Inspection helps Class A CDL students learn what to inspect, what to say, and ho"
+    },
+    {
+     "name": "PreTrip",
+     "dev": "PreTrip",
+     "ratings": 7,
+     "desc": "Pre-Trip - Commercial Vehicle Inspection\nStay compliant with DOT regulations and keep your fleet safe with Pre-Trip, the professional inspection management app designed for commercial truck drivers an"
+    },
+    {
+     "name": "CDL Prep",
+     "dev": "Jeffrey Diaz",
+     "ratings": 6924,
+     "desc": "CDL Prep is the best way to prepare for the Commercial Drivers License General Knowledge, and various endorsement exams. CDL Prep contains questions on the following topics: General Commercial, Air Br"
+    },
+    {
+     "name": "CDL Test Prep 2026 Class A B",
+     "dev": "Hanh Le",
+     "ratings": 48032,
+     "desc": "Pass your 2026 CDL exam on the first try. Join over 1M+ drivers with 46,000+ reviews and a 4.9-star rating.\n\nMiss a question and you instantly see WHY: a plain-English breakdown of your specific mista"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "muscle anatomy",
+   "apps": [
+    {
+     "name": "3D Bones and Muscles (Anatomy)",
+     "dev": "Education Mobile",
+     "ratings": 2589,
+     "desc": "A true and totally 3D free app for studying human anatomy, built on an advanced interactive 3D touch interface. It is completely free (NO in-app purchase)!\n***From the creator of Visual Anatomy app.\n\n"
+    },
+    {
+     "name": "Anatomy Learning - 3D Atlas",
+     "dev": "3DMedical OU",
+     "ratings": 1349,
+     "desc": "\"Anatomy Learning is an interactive 3D atlas of human anatomy for students of medicine, nursing, physiotherapy and dentistry. Over 6,000 labeled anatomical points on a real 3D model, and it works offl"
+    },
+    {
+     "name": "Muscle & Motion: Strength",
+     "dev": "Muscle & Motion LTD",
+     "ratings": 7773,
+     "desc": "Build strength with guided workout plans, gym routines, and in-depth biomechanics. Muscle & Motion brings training to life with 3D visuals that show how your body moves.\n\nThe Strength Training app is "
+    },
+    {
+     "name": "Anatomy: AI Diet & Food Scan",
+     "dev": "Hassan Raza",
+     "ratings": 0,
+     "desc": "nderstand your body, then feed it right.\n\nAnatomy: AI Diet & Food Scan combines an interactive muscle atlas with an AI food scanner and a personal diet planner — one app to learn how your body works a"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrel"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

@@ -28114,6 +28114,98 @@
     "direct"
    ],
    "split": "test"
+  },
+  {
+   "term": "gps measure distance",
+   "apps": [
+    {
+     "name": "Distance Tool",
+     "dev": "Applorium Ltd",
+     "ratings": 2195,
+     "desc": "Distance Tool allows for quick and easy calculations to find distances between points on a map, including area calculations for non-overlapping polygons drawn. Includes metric (meters, kilometers) and"
+    },
+    {
+     "name": "Measure Map",
+     "dev": "Xuan Luong Do",
+     "ratings": 5316,
+     "desc": "Measure Map is an application that supports a distance calculator to find out the distance between two or more points anywhere on the earth. In other words, the distance between A and B. Click once on"
+    },
+    {
+     "name": "My GPS Tape Measure",
+     "dev": "MYSTIC MOBILE APPS LLC",
+     "ratings": 5,
+     "desc": "GPS Tape Measure is an app which calculates the distance from point A to point B. \n\nIt's very simply because everything what you have to do is click on the button and\nsaved current location.\n\nApplicat"
+    },
+    {
+     "name": "GPS Land Measurement & Survey",
+     "dev": "LogiSian Technology Solutions",
+     "ratings": 3006,
+     "desc": "GPS Area Measure - Mapulator is a powerful measurement app for iPhone designed for professionals and individuals who need field area measurements, GPS measure distance, and land surveying tools. Wheth"
+    },
+    {
+     "name": "GPS Measure",
+     "dev": "Shota Utsumi",
+     "ratings": 102,
+     "desc": "What can be measured with this application:\n- Route (displayed on map)\n- Time\n- Speed\n- Distance\n- Direction\n- Altitude\netc.\n\nSet your comfortable units and targets from setting page, and let's measur"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "battery alert",
+   "apps": [
+    {
+     "name": "Battery Charge Alarm",
+     "dev": "Bastiaan Modderkolk",
+     "ratings": 2985,
+     "desc": "Battery Charge Alarm is an app that helps you charge your device to a specific battery level. You can set an alarm that will go off when the device is charged to the desired level. This is completely "
+    },
+    {
+     "name": "Battery 100% Alarm",
+     "dev": "Pham Ngoc Son",
+     "ratings": 23,
+     "desc": "Battery 100% Alarm is the perfect solution for protecting your device’s battery life by alerting you when it is fully charged. With customizable alert settings for 80%, 90%, and 100% charge levels, yo"
+    },
+    {
+     "name": "Battery Alarm - Charge Alert",
+     "dev": "Andy Sutanto",
+     "ratings": 158,
+     "desc": "Stop unnecessary charging and keep your battery healthy by setting an alarm from Full Battery Charge Alarm.\n\nNow you can leave your device charged with ease because Full Battery Charge Alarm will noti"
+    },
+    {
+     "name": "Battery HD+",
+     "dev": "smalltech sarl",
+     "ratings": 2737,
+     "desc": "This is the perfect battery monitor for your phone or tablet. It is simple, beautiful and can be calibrated specially for your device.\n\n- Widget\n- Charge Alerts\n- Usage chart\n\nInstantly know how many "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -30880,6 +30972,33 @@
     "desc": "Type a prompt and generate images with AI in seconds."
    },
    "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Countdown Buddy",
+    "category": "Utilities",
+    "desc": "EVERYTHING YOU ARE WAITING FOR - IN A WIDGET\n\nDesign your own personalized countdown or count-up widgets for your home screen & lock screen.  \nCountdown Widget is a super fun way to track the days unt"
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Readlight: Night Reading Light",
+    "category": "Utilities",
+    "desc": "Love reading in bed but hate straining your eyes or waking your partner? Readlight turns your phone into the perfect, eye-friendly book lamp.\n\nInstead of a harsh screen glare, Readlight emits a soft, "
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Blur Photo Editor & Mosaic",
+    "category": "Photo & Video",
+    "desc": "This app allows you to blur or pixelate areas of a photo by tracing with your finger.\nSeveral varieties of mosaic are available.\nYou can also select from four different grades of thickness and strengt"
+   },
+   "label": "utility",
    "split": "test"
   }
  ]

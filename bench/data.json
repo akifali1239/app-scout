@@ -29060,6 +29060,174 @@
     "unrel"
    ],
    "split": "dev"
+  },
+  {
+   "term": "nursing drug guide",
+   "apps": [
+    {
+     "name": "Davis Drug Guide For Nurses",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 8780,
+     "desc": "The medical information that nurses need - when, where, and how they need it!\n\nDavis's Drug Guide for Nurses, Twentieth Edition, always puts safety first, emphasizing the medical information nurses ne"
+    },
+    {
+     "name": "Davis's Drug Guide - Nurses",
+     "dev": "Unbound Medicine, Inc.",
+     "ratings": 9236,
+     "desc": "Davis’s Drug Guide for Nurses delivers everything you need to administer medications safely across the lifespan.\n\nIncludes EXCLUSIVE DrugGuide.com access, regular updates, dosing calculators, Drug of "
+    },
+    {
+     "name": "Drugs.com Medication Guide",
+     "dev": "Drugs.com",
+     "ratings": 17209,
+     "desc": "Manage meds, identify pills, check interactions, compare prices and more. Discover detailed, peer-reviewed info on over 24,000 prescription drugs, OTC meds, and natural products all in one place.\n\nKey"
+    },
+    {
+     "name": "Nurse's Drug Handbook",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 1420,
+     "desc": "Now the Jones & Bartlett Learning Nurse’s Drug Handbook goes wherever you do with an affordably priced app. It provides:\n \n• Accurate, timely facts on hundreds of drugs from abaloparatide to Zyvox\n\n• "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cosmetology exam",
+   "apps": [
+    {
+     "name": "Cosmetology Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 8151,
+     "desc": "Ace your next Cosmetology exam with the help of the new Cosmetology Exam Center app! Thousands of Cosmetology questions and their detailed explanations are now available at your fingertips.\n\nPrepare f"
+    },
+    {
+     "name": "Milady Exam Prep",
+     "dev": "Cengage Learning",
+     "ratings": 1470,
+     "desc": "Preparing for your state board licensing exam doesn't have to be stressful when you use the #1 test prep tool from Milady. Whether you’re studying for Cosmetology, Esthetics, Advanced Esthetics, Barbe"
+    },
+    {
+     "name": "Cosmetology State Board Exams",
+     "dev": "PDG APPS SRL",
+     "ratings": 488,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "COSMETOLOGY Exam Review 2026",
+     "dev": "Prepia Inc",
+     "ratings": 55,
+     "desc": "Prepare for Cosmetology, Esthetician, and Nail Technician licensing exams in one app. Choose the exam track you need and study with practice questions, mock exams, flashcards, detailed explanations, a"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "speaker cleaner",
+   "apps": [
+    {
+     "name": "Speaker Cleaner · Water Eject",
+     "dev": "BELKALABS PTE. LTD.",
+     "ratings": 160,
+     "desc": "Restore Crystal-Clear Sound with Speaker Cleaner\n\nBring your device’s speakers back to life with Speaker Cleaner - the smart, safe, and effective way to remove dust, dirt, and moisture from your audio"
+    },
+    {
+     "name": "Clear Wave",
+     "dev": "Appchi LLC",
+     "ratings": 36799,
+     "desc": "The app plays sounds that can help you test your speakers.\n\nWith the help of a sound level meter, you can find out how many decibels and hertz the device you are checking reproduces.\n\nYou can also fin"
+    },
+    {
+     "name": "Speaker Cleaner: Eject Water",
+     "dev": "WORLD LABS COMPANY LIMITED",
+     "ratings": 5457,
+     "desc": "Low volume, muffled audio, or distorted sound can often be caused by water and dust trapped inside your speakers.\n\nSpeaker Cleaner is an all-in-one speaker care app that helps remove water, clear dust"
+    },
+    {
+     "name": "Water Eject ‒ Speaker Cleaner",
+     "dev": "Tiny Boom Ltd.",
+     "ratings": 30702,
+     "desc": "Ever feel like your phone could use a little extra love? Clear Wave has got you covered with an array of fantastic audio tools.\n\nWhy you need Clear Wave:\n\n- Generate clear sound waves at frequencies f"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "dermatology atlas",
+   "apps": [
+    {
+     "name": "Fitzpatrick's Color Atlas",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 30,
+     "desc": "\"\"Try before you buy\"\" - Download the FREE App, which includes sample content. In-App Purchase is required to unlock all content. \n\nFitzpatrick's Color Atlas and Synopsis of Clinical Dermatology, 9th "
+    },
+    {
+     "name": "Miiskin: Rx Dermatology Visits",
+     "dev": "Miiskin",
+     "ratings": 1733,
+     "desc": "CONSULT AN ONLINE DERMATOLOGIST VIA THE MIISKIN APP\n- Choose a board-certified dermatologist in your state\n- Popular for acne, hair loss, melasma and anti-aging\n- Ensure continuity of dermatology care"
+    },
+    {
+     "name": "LaserAway Mobile",
+     "dev": "LaserAway",
+     "ratings": 3065,
+     "desc": "LaserAway is the nation’s leader in aesthetic dermatology, with over 3 million treatments performed at locations across the country. Founded in 2006, we’ve committed almost two decades to helping peop"
+    },
+    {
+     "name": "Musely",
+     "dev": "Trusper, Inc.",
+     "ratings": 23816,
+     "desc": "Musely provides skincare medical treatments through technology. Musely enables the best dermatologists and pharmacists to deliver and administer medical treatments online for both skin conditions and "
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrel",
+    "unrel"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

@@ -20800,6 +20800,652 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "electrician sidekick",
+   "top": [
+    {
+     "name": "Electrician's Sidekick",
+     "dev": "IDEAL INDUSTRIES, INC",
+     "ratings": 18,
+     "desc": "Tired of juggling multiple calculators and reference guides on the job? The Electrician's Sidekick app from IDEAL Electrical is a free tool that combines the functions of many electrical calculators i"
+    },
+    {
+     "name": "Master Electrician Guide",
+     "dev": "JACOB LAWRENCE WYERS",
+     "ratings": 0,
+     "desc": "Master Electrician Guide is the all-in-one toolkit for solo electricians and small operators - fast, focused, and built to work in the field (offline, except the AI assistant).\n\nCALCULATORS (NEC 2023,"
+    },
+    {
+     "name": "NEC Electrician Calc: VoltKit",
+     "dev": "Youssef Kamoun",
+     "ratings": 0,
+     "desc": "The electrician's calculator that works where you do - in the basement, in the panel, in the dead zone.\n\nVoltKit is a fast, no-nonsense field calculator for electricians, apprentices, estimators, and "
+    },
+    {
+     "name": "Mike Holt's Electrical Toolbox",
+     "dev": "Mike Holt Enterprises",
+     "ratings": 196,
+     "desc": "Mike Holt, the industry leader in the electrical industry (MikeHolt.com) has created an amazing, practical and useful app for the electrician, inspector, instructor, contractor and engineer. The app c"
+    },
+    {
+     "name": "Electrician Field Kit: NEC",
+     "dev": "杰 陈",
+     "ratings": 0,
+     "desc": "Every NEC calculation, every conduit bend, every panel schedule and field test — from one app, on the job, fully offline.\n\nElectrician Field Kit is the 5-in-1 toolkit for electricians tired of buying "
+    },
+    {
+     "name": "Electrician Handy Tool",
+     "dev": "Handy Tool LLC",
+     "ratings": 23,
+     "desc": "A handy conduit bending, calculating and quick reference all-in-one tool for Electricians.\n\nMaking electrical work easier is our goal.\n\n- Voltage drop calculator: determines wire size to meet NEC volt"
+    },
+    {
+     "name": "Electrician's assistant",
+     "dev": "Albert Parti",
+     "ratings": 0,
+     "desc": "Electrical Calculations and Guides\n\nThis application is a comprehensive tool for electrical calculations, guides, and creating work orders and quotations. With its user-friendly interface, you can per"
+    },
+    {
+     "name": "Electrician Quiz Game",
+     "dev": "E W M W W Shanka Nuwan Bandara Werapitiya",
+     "ratings": 0,
+     "desc": "Electrician's Quiz: Test Your Electrical Knowledge and Skills!\n\nAre you an aspiring electrician or a seasoned professional looking to sharpen your electrical knowledge? Look no further! Electrician's "
+    },
+    {
+     "name": "Electrician Handbook — Basics",
+     "dev": "Sergey Vavaev",
+     "ratings": 1019,
+     "desc": "Electrician’s Handbook — an app for electricians, students, and installers.\nTheory, diagrams, and calculators in one place.\nWorks offline. No ads. No subscriptions.\n\n— Theory\nA variety of topics in el"
+    },
+    {
+     "name": "Journeyman Electrician",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Are you preparing for your Journeyman Electrician certification exam? Equip yourself with the right tools and boost your confidence with the Journeyman Electrician Practice Test app. Tailored to match"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "birding apps",
+   "top": [
+    {
+     "name": "Merlin Bird ID by Cornell Lab",
+     "dev": "Cornell University",
+     "ratings": 113546,
+     "desc": "What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.\n\nMerlin helps you identify birds you see and hear. Merlin is unlike any"
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    },
+    {
+     "name": "BirdingApp.",
+     "dev": "Epter LLC",
+     "ratings": 34,
+     "desc": "BirdingApp is here to help you connect with other birders in the field and keep your birding life organized. Whether you're looking for a local guide, want to plan your daily birding routes and trips,"
+    },
+    {
+     "name": "Learn Bird Watching—Larkwire",
+     "dev": "Larkwire",
+     "ratings": 1292,
+     "desc": "BIRDS OF NORTH AMERICA\n\nLearn birds the fun way!\n\nLearn to identify the birds that you're seeing and hearing. Take birding and birdwatching to a new level!\n\nLarkwire is a complete, game-based system f"
+    },
+    {
+     "name": "Birdbuddy: ID & Collect Birds",
+     "dev": "Buddy Bird Inc",
+     "ratings": 61868,
+     "desc": "Birdbuddy is the world’s most recognized app for discovering and learning about birds – whether you’re using our smart bird feeder in your backyard or identifying birds anywhere with just your phone.\n"
+    },
+    {
+     "name": "Birdr: Bird Watching & Birding",
+     "dev": "Scott Stewart",
+     "ratings": 23,
+     "desc": "Birdr tells you when a rare bird turns up near you, then helps you identify it and puts it straight on your life list. One app, from the first alert to the last lifer.\n\nWhether you're chasing a vagran"
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "surveying app",
+   "top": [
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    },
+    {
+     "name": "Surveying Practice",
+     "dev": "Manish Kumar",
+     "ratings": 0,
+     "desc": "Surveying Practice is an educational application designed to help students understand and practice the fundamental principles of surveying used in civil engineering and land measurement. The app empha"
+    },
+    {
+     "name": "GeoAce",
+     "dev": "ITS Geo Solutions GmbH",
+     "ratings": 0,
+     "desc": "GeoAce is a super-easy-to-use surveying application, for both surveyors and non-surveyors, who want to accurately collect geospatial data or locate (stakeout) such data on-site. GeoAce turns your smar"
+    },
+    {
+     "name": "SurveyingMaster",
+     "dev": "颖达 陈",
+     "ratings": 2,
+     "desc": "【Introdution】\nConvenient surveying calculator, including traversing, leveling, coordinate calculation and intersection...\n\nIt has a powerful function to balance the misclosure in open route, closed ro"
+    },
+    {
+     "name": "Property Line Finder: Land Map",
+     "dev": "Biographics Consultoria e Design LTDA",
+     "ratings": 981,
+     "desc": "Property Survey GPS makes it easy to discover accurate property boundaries, parcel data, and land information directly on your iPhone or iPad. Whether you’re a property owner, real estate agent, devel"
+    },
+    {
+     "name": "GPS Land Measurement & Survey",
+     "dev": "LogiSian Technology Solutions",
+     "ratings": 3006,
+     "desc": "GPS Area Measure - Mapulator is a powerful measurement app for iPhone designed for professionals and individuals who need field area measurements, GPS measure distance, and land surveying tools. Wheth"
+    },
+    {
+     "name": "Chainy",
+     "dev": "Sam Pyruz",
+     "ratings": 0,
+     "desc": "If you are a surveyor, this app is your Chainy, meaning surveyor's assistant. You can add survey marks you find or place and see other surveyor's marks."
+    },
+    {
+     "name": "Benchmrk",
+     "dev": "Geolocarta Technologies Pty Ltd",
+     "ratings": 0,
+     "desc": "Use Benchmrk to kickstart any field survey mapping and reality capture workflow to deliver property boundary data (dcdb) and survey control to any field or office software.\n\nBenchmrk is for all Survey"
+    },
+    {
+     "name": "Planimeter GPS Area Measure",
+     "dev": "VisTech.Projects LLC",
+     "ratings": 491,
+     "desc": "Planimeter  GPS Area Measure is a tool to measure distance, area, and perimeter on a map. You can measure manually or by GPS tracking. You can also check the bearing and geo-coordinates of your locati"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "bayanat for mapping and surveying services",
+   "top": [
+    {
+     "name": "TXAI",
+     "dev": "BAYANAT FOR MAPPING AND SURVEYING SERVICES",
+     "ratings": 7,
+     "desc": "TXAI offers a new way to explore the world with an AI twist. Powered by AI- powered geospatial intelligence solutions, TXAI is all set to change the way we commute.\n \nRobotaxi\n- Hail a Robotaxi with a"
+    },
+    {
+     "name": "DRIFTx 2024",
+     "dev": "BAYANAT FOR MAPPING AND SURVEYING SERVICES",
+     "ratings": 0,
+     "desc": "We have improved the security of our login functionality. Enjoy a safer experience with our latest update.TXAI offers a new way to explore the world with an AI twist. Powered by AI- powered geospatial"
+    },
+    {
+     "name": "AD Maps",
+     "dev": "BAYANAT FOR MAPPING AND SURVEYING SERVICES",
+     "ratings": 0,
+     "desc": "AD Maps is Abu Dhabi’s own maps and navigation app, built from the ground up for the emirate’s roads, neighbourhoods and landmarks. Driving, taking the bus, cycling or walking, it gets you there with "
+    },
+    {
+     "name": "Land id®",
+     "dev": "MapRight, LLC",
+     "ratings": 4206,
+     "desc": "Land id® turns AI-driven parcel insights into shareable property stories that drive real estate decisions. Explore properties, parcel boundaries, land ownership, and data nationwide. Showcase and mark"
+    },
+    {
+     "name": "Avenza Maps: Offline Mapping",
+     "dev": "Avenza Systems Inc.",
+     "ratings": 128016,
+     "desc": "New Description: \n\nAvenza Maps is a powerful offline navigation app for professional field work. Use offline maps with GPS navigation to stay on track anywhere—no signal required, so you can navigate "
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    },
+    {
+     "name": "LandGlide: Parcel & Field Maps",
+     "dev": "Real Estate Portal USA, LLC",
+     "ratings": 59552,
+     "desc": "LandGlide® is the original parcel data app, trusted by professionals and property seekers since 2015. With access to 160 million parcel records across 3,229 counties, covering more than 99% of the U.S"
+    },
+    {
+     "name": "Planimeter — Measure Land Area",
+     "dev": "Core Signals",
+     "ratings": 2216,
+     "desc": "Planimeter measures distances and land areas on maps.\n\nMeasure your outdoor projects - lawns, fences, paving, or anything else visible on the satellite map. Quickly measure lot sizes and buildings. Co"
+    },
+    {
+     "name": "Planimeter for map measure",
+     "dev": "忠 张",
+     "ratings": 856,
+     "desc": "How many acres is your property?\n\nWhat is the straight-line distance between Los Angeles and Las Vegas?\n\nHow large is Central Park?\n\nHow much roof space is available for a solar installation?\n\nMap Mea"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "geology apps like rockd",
+   "top": [
+    {
+     "name": "Rockd",
+     "dev": "University of Wisconsin-Madison Shared Apps",
+     "ratings": 187,
+     "desc": "Explore, learn about, and document your geologic surroundings! Whether you are a professional geoscientist or curious about the rocks around you and the stories they tell, Rockd allows you to explore "
+    },
+    {
+     "name": "Rock Identifier: Stone ID",
+     "dev": "Next Vision Limited",
+     "ratings": 81061,
+     "desc": "Rock Identifier is an all-in-one stone, crystal, mineral, and gemstone identifier. Simply take or upload a photo of a rock or crystal, and the app will tell you all about it in seconds. \n\nWant to know"
+    },
+    {
+     "name": "Backseat Geologist",
+     "dev": "Blake Morgan",
+     "ratings": 76,
+     "desc": "Ever wanted a geologist to ride along and explain what's outside your window? \n\nBeing a geologist myself, I went on vacation and wished I had someone to read geologic map descriptions as we drove acro"
+    },
+    {
+     "name": "DeepTime for Geology",
+     "dev": "Hunt Mountain Software",
+     "ratings": 7,
+     "desc": "DeepTime puts geological time at your fingertips. DeepTime is a full interactive version of the latest geological time scale: tap on any time unit to see more detail about it, including how its GSSP ("
+    },
+    {
+     "name": "Stone Identifier - Rock Finder",
+     "dev": "App Holdings",
+     "ratings": 1543,
+     "desc": "Have you encountered a rock and you don’t know what it is? Maybe you want to learn more about it, minerals or any crystal? Rock Seeker is the ultimate app to help you identify and study more about tho"
+    },
+    {
+     "name": "Rock Identifier & Scanner AI",
+     "dev": "UPQODE LLC",
+     "ratings": 797,
+     "desc": "Rock Identifier & Scanner – Smart Rock, Mineral & Stone Identifier\n\nDiscover the fascinating world of geology with Rock Identifier & Scanner, the smart rock and mineral identification app designed for"
+    },
+    {
+     "name": "Digger's Map: Find Minerals",
+     "dev": "Slava Barouline",
+     "ratings": 507,
+     "desc": "# Interested in geology and minerals? Would like to know where gold, silver and gemstone mines are?\n# Our unique app offers a massive global database with more than 300,000 locations and 60+ minerals!"
+    },
+    {
+     "name": "Geology Toolkit: Field Guide",
+     "dev": "Laurence Wayne",
+     "ratings": 28,
+     "desc": "Geology Toolkit uses AI to identify rocks and minerals, explain formations and create labelled pencil sketches all from a photo, then tells you the story behind them - how they formed, what they're ma"
+    },
+    {
+     "name": "Mine Locator Map",
+     "dev": "Qvyshift LLC",
+     "ratings": 361,
+     "desc": "Mines near me: Mine map showing locations of historical mines and metallic and nonmetallic mineral resources in the United States.\n\nLocate abandoned mines, active mines, prospects, deposits, and proce"
+    },
+    {
+     "name": "Geology Here",
+     "dev": "赫 郭",
+     "ratings": 0,
+     "desc": "-If you are a geology student, do you need the best knowledge?\n-If you are a geologist graduate, do you need an ideal job?\n-If you are a teacher of geology and mining, do you need the best teaching en"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "free piano tuning app",
+   "top": [
+    {
+     "name": "PianoMeter – Piano Tuner",
+     "dev": "Willey Piano",
+     "ratings": 41,
+     "desc": "PianoMeter is a piano tuning app that will transform your iPhone or iPad into a professional quality electronic tuning aid.\n\nNOTE\nThe \"free\" version of this app is primarily for evaluation, and it onl"
+    },
+    {
+     "name": "pianoscope – Piano Tuner",
+     "dev": "Frank Illenberger",
+     "ratings": 279,
+     "desc": "pianoscope turns your iPhone or iPad into the ultimate assistant for high-quality piano tuning — for professional piano tuners and passionate pianists alike.\n\nFree two-week trial. pianoscope Standard "
+    },
+    {
+     "name": "Pano Tuner Lite",
+     "dev": "Kaleloft Limited Liability Company",
+     "ratings": 7721,
+     "desc": "Pano Tuner listens, finds your pitch, and shows you exactly how far you are — sharp or flat — clearly enough to trust. Simple to open, accurate enough to rely on, and a favorite of players and teacher"
+    },
+    {
+     "name": "Piano Tuner - High Precision",
+     "dev": "海 林",
+     "ratings": 156,
+     "desc": "For the pianist, use the app to check the pitches of the piano and determine whether it needs to be tuned.\n\nFor piano tuner, the app helps you to tune the piano. \n\n\nThe app has 3-day trial. During the"
+    },
+    {
+     "name": "Tuner T1",
+     "dev": "Bijoy Thangaraj",
+     "ratings": 10481,
+     "desc": "Tuner T1 is the ultimate instrument tuner, designed for precision tuning of a wide range of musical instruments. Whether you're tuning a guitar, violin, viola, bass, piano, cello, flute, or any other "
+    },
+    {
+     "name": "Fender Tune: Guitar Tuner App",
+     "dev": "Fender Digital",
+     "ratings": 151329,
+     "desc": "Fender Tune is the top-rated, precision tuner app for guitar, bass and ukulele from the most trusted name in guitars, Fender®. Accurately tune your instrument with Fender Tune’s easy-to-use interface,"
+    },
+    {
+     "name": "PiaTune",
+     "dev": "HAKKI BAYKA",
+     "ratings": 11,
+     "desc": "PiaTune is a professional-grade piano tuning app designed for professional piano tuners and tuning enthusiasts.\nPiaTune tunes the piano like an aural tuner would tune.\n\nFREE VERSION\nFree version is  f"
+    },
+    {
+     "name": "Simply Piano: Learn Piano Fast",
+     "dev": "Simply Ltd",
+     "ratings": 854410,
+     "desc": "Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.\n\n- Tons of fun songs like Imagine, Chandelier, All Of "
+    },
+    {
+     "name": "Pitched Tuner - Tuning App",
+     "dev": "Stonekick Limited",
+     "ratings": 5319,
+     "desc": "A chromatic tuner and pitch pipe used by over a million musicians.\n\nPitched Tuner and Pitch Pipe has been designed by musicians to help you quickly and easily tune your instrument using the microphone"
+    },
+    {
+     "name": "Smart Metronome & Tuner",
+     "dev": "Tomohiro Ihara",
+     "ratings": 60909,
+     "desc": "The \"Three Essentials\" of music practice, unified on one screen.\nMetronome, Tuner, and Recorder. We have integrated the three indispensable tools for every musician into one elegant and intuitive inte"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "bartender flash cards",
+   "top": [
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Be a Bartender!",
+     "dev": "Pernod Ricard Europe",
+     "ratings": 934,
+     "desc": "18 +\n\nEver wanted to be on the other side of the bar? Battle your way through hectic nights serving great drinks to enthusiastic and unpredictable guests! Take control of your station and learn how to"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "Bartender App - Drink Recipes",
+     "dev": "Nikita Gnedin",
+     "ratings": 22,
+     "desc": "Thirsty? We have hundreds and hundreds of delicious cocktail recipes from expert bartenders around the world. \n\nNo matter if you're looking for a classic cocktail, a punch for a party or an original c"
+    },
+    {
+     "name": "Mixel - Cocktail Recipes",
+     "dev": "Cool Font LLC",
+     "ratings": 1536,
+     "desc": "What cocktails can you make right now? Tell Mixel what's in your bar, and instantly see every drink you can mix, from the classic to modern craft cocktails. Whether you're a home bartender, mixology e"
+    },
+    {
+     "name": "Make Me A Cocktail",
+     "dev": "Nick Wilkins Ltd",
+     "ratings": 2299,
+     "desc": "Make A Cocktail is the official app from Make Me A Cocktail — the world's greatest online cocktail resource, with over 3,500 recipes and a global community of home bar enthusiasts. Now with hands-free"
+    },
+    {
+     "name": "8,500+ Drink Recipes",
+     "dev": "Webworks",
+     "ratings": 32451,
+     "desc": "Yes.  You heard it right.  Free.\n\nOver 8,500 Drink & Cocktail recipes at the tap of your fingertips.  Now you know what bartenders are putting into your expensive drinks.  Drink & Cocktail Recipes dat"
+    },
+    {
+     "name": "Cocktail Art - Bartender App",
+     "dev": "Digisense Apps Limited",
+     "ratings": 581,
+     "desc": "A huge selection of cocktails with collections of recipes for any occasion. Descriptions of all ingredients and variants for their replacement. Add your drinks to the bar and you can see what you can "
+    },
+    {
+     "name": "Bartender-Cocktail Drinks",
+     "dev": "NANOMAG",
+     "ratings": 23,
+     "desc": "Become a Professional Bartender and Mix Delicious Cocktails Anytime, Anywhere!\n\nWant to learn how to mix cocktails or simply choose your favorite drinks with ease? Our cocktail app makes it happen! Wh"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "personal trainer: grexfit",
+   "top": [
+    {
+     "name": "Personal Trainer: GrexFit",
+     "dev": "Tyler Pratt",
+     "ratings": 0,
+     "desc": "GREX is your no-excuses personal trainer. Tell it your goals once — it builds your workout plan, coaches you through every session, and gets smarter as you get stronger.\n\nNO PLANNING REQUIRED\n\nEvery d"
+    },
+    {
+     "name": "TrueCoach",
+     "dev": "TrueCoach, Inc.",
+     "ratings": 35503,
+     "desc": "TrueCoach is the number one platform for coaches and trainers who want to manage more clients with less admin work. Our easy to use workout builder features a 900+ video exercise library, plus the abi"
+    },
+    {
+     "name": "Workout Trainer AI",
+     "dev": "Skimble",
+     "ratings": 7670,
+     "desc": "Hit your fitness goals anywhere with Workout Trainer. Powered by AI and expert-led, follow along to your personalized weekly plans including multimedia workouts for every fitness level. With thousands"
+    },
+    {
+     "name": "BAU5 Strength Workout Trainer",
+     "dev": "Gym Futuristic",
+     "ratings": 579,
+     "desc": "Introducing BAU5 Workout: Your Ultimate Digital Personal Trainer\n\nUnlock the potential to transform your body and achieve the physique you've always wanted with BAU5 Workout. Our cutting-edge digital "
+    },
+    {
+     "name": "Keep Trainer: Gym Workout Log",
+     "dev": "Calorie Tech Ltd.",
+     "ratings": 14049,
+     "desc": "Keep Trainer is your AI fitness coach for gym and home training.\n\n• AI Personalized workout plans — gym or bodyweight, beginner to advanced\n• Log sets, reps & weights — see your strength progress over"
+    },
+    {
+     "name": "Fitplan®: Gym & Home Workouts",
+     "dev": "MVMNT Inc.",
+     "ratings": 11076,
+     "desc": "Work out at home or in the gym with the largest roster of elite trainers ever assembled. Choose from Olympic athletes, bodybuilding pros, or dozens of the leading names in fitness who are here to moti"
+    },
+    {
+     "name": "Fitness App (ABC Trainerize)",
+     "dev": "Trainerize.com",
+     "ratings": 68325,
+     "desc": "ABC Trainerize is the all-in-one coaching software for personal trainers, online coaches, gyms, and fitness studios. Build workout programs, deliver nutrition coaching, message clients, track progress"
+    },
+    {
+     "name": "Trainerfu For Personal Trainer",
+     "dev": "Manobal Jain",
+     "ratings": 3207,
+     "desc": "If you are a personal fitness trainer and looking for an online personal training app that can help you to train and manage all of your clients in one single place then you are at the right place. Wel"
+    },
+    {
+     "name": "MyTraining Workout Tracker Log",
+     "dev": "MyTraining Servicos em Tecnologia da Informacao Ltda.",
+     "ratings": 543,
+     "desc": "Get the app and enjoy the following:\n● +120 Predefined Workouts\n● +350 Exercises with Videos\n● Perfect for Men & Women\n● Training Calendar\n● Fitness Community\n● Integration with the Health app.\n\nPeopl"
+    },
+    {
+     "name": "Planfit AI Gym Workout Planner",
+     "dev": "Planfit Inc.",
+     "ratings": 8213,
+     "desc": "Stop guessing your workout. Start seeing results. \nWhether you’re at home or in the gym, Planfit’s personalized workout plan helps you exercise smarter, achieve your fitness goals, and stay consistent"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "pilates workout at home",
+   "top": [
+    {
+     "name": "Pilates at Home, Wall Pilates",
+     "dev": "Prutvi",
+     "ratings": 1103,
+     "desc": "Pilates is a holistic exercise system that focuses on strengthening the core and enhancing flexibility, balance, and overall body fitness. Pilates exercises effectively activate and strengthen your co"
+    },
+    {
+     "name": "Wall Pilates by Fit & Lean",
+     "dev": "At team LLC",
+     "ratings": 1353,
+     "desc": "If you’re looking for a way to diversify your trainings and try something new and trendy, Wall Pilates is a great option.\n \nThe wall can add resistance to your regular workout routine, and it can also"
+    },
+    {
+     "name": "Pilates at Home by I'mprove",
+     "dev": "At team LLC",
+     "ratings": 60,
+     "desc": "I’mprove offers strength, relaxation, body confidence, and a deep mind-body connection through every workout program and challenge.\n \nChange doesn't happen overnight, but it will happen. If you stick "
+    },
+    {
+     "name": "Workout for Women: Home & Gym",
+     "dev": "Fast Builder Limited",
+     "ratings": 531758,
+     "desc": "** #1 Rated Female Focused Workout App 2024 **\n\nLooking for a workout app that is tailored specifically to your needs? Short on time but still want to get healthier? Workout for Women is the app for y"
+    },
+    {
+     "name": "FitOn Workouts & Fitness Plans",
+     "dev": "FitOn Inc.",
+     "ratings": 282692,
+     "desc": "Lose weight and get fit anytime, anywhere with free exercise videos and personalized workout plans. Get fit, feel great, and start working out for free today!\n\nStay active, reduce stress, and feel goo"
+    },
+    {
+     "name": "Wall Pilates by Fitter.me",
+     "dev": "At team LLC",
+     "ratings": 72,
+     "desc": "Bored with your workout routine? Spice up it up!\nFitter.me takes exercises to a brand new level by using a wall for support. Our workout routines are easy to follow, super effective, and fun!\n \nGot a "
+    },
+    {
+     "name": "5 Minute Pilates Workout",
+     "dev": "Olson Applications Limited",
+     "ratings": 6740,
+     "desc": "5 Minutes Pilates means quick and regular pilates practice can become a reality  \n\nNo specialist equipment is required - just a soft floor or mat.\n\nTimer function ensures workouts take less than 5 min"
+    },
+    {
+     "name": "Workout for Women: Fit at Home",
+     "dev": "Leap Health",
+     "ratings": 30133,
+     "desc": "Tone your body and lose weight with the #1 home workout for women!\n\nGet fit with the BEST women workout - female fitness app! Sweat 7 mins a day to get your dream body shape!\n\nWomen Workout - Female F"
+    },
+    {
+     "name": "Pilates Workout at Home",
+     "dev": "TROPIC INNOVATION PRIVATE LIMITED",
+     "ratings": 315,
+     "desc": "Lose Weight, tone your body & build core strength with best pilates app for beginners, women. No gym needed - just 7 minutes a day. \n\nNew to Pilates and want to lose weight? This app is built for you."
+    },
+    {
+     "name": "Pilates Anytime | Workouts",
+     "dev": "Timeshift Media, Inc.",
+     "ratings": 8661,
+     "desc": "A BEAUTIFUL NEW WAY TO EXPERIENCE PILATES ANYTIME\n\nWe have completely redesigned our app with a focus on stunning visuals and seamless navigation, so you can spend less time searching and more time mo"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "carpentry design",
+   "top": [
+    {
+     "name": "MakeByMe: 3D Furniture Design",
+     "dev": "Dassault Systemes SE",
+     "ratings": 140,
+     "desc": "Do you want to design furniture for your home in 3D? Make something for your workshop? or create DIY furniture plans that you can share with family and friends?\n\nWhether you are a beginner or an exper"
+    },
+    {
+     "name": "Carpentry & Trim Calculator",
+     "dev": "Vladislav Zhirnov",
+     "ratings": 7,
+     "desc": "Measure once. Build with confidence.\n\nCarpentry & Trim Calculator puts 24 practical woodworking and framing tools in your pocket. Turn jobsite or workshop measurements into clear layouts, material qua"
+    },
+    {
+     "name": "RedX Walls - Design & Build",
+     "dev": "RedX Technology Inc",
+     "ratings": 376,
+     "desc": "Create permit ready blueprints, detailed wall framing plans, and full shed construction drawings in minutes.\n\nRedX Wall App helps you design walls, build sheds, and generate professional construction "
+    },
+    {
+     "name": "Lumbernatics - Woodwork Design",
+     "dev": "Aidaluu Inc.",
+     "ratings": 64,
+     "desc": "Lumbernatics helps you create plans and 3D models for simple woodworking projects.  Proudly made in Canada, Lumbernatics is free to download with subscription plans as well as a one‑time perpetual upg"
+    },
+    {
+     "name": "WoodSense: Wood Plans & Guides",
+     "dev": "Next Vision Limited",
+     "ratings": 15599,
+     "desc": "Welcome to WoodSense: Craft & Identifier — your intelligent woodworking companion for identifying, restoring, and creating beautiful wooden furniture. Whether you’re a restorer, designer, or curious h"
+    },
+    {
+     "name": "Moblo - 3D Furniture Modeling",
+     "dev": "Felix Raymond",
+     "ratings": 669,
+     "desc": "Want to create a bespoke piece of furniture or design a space yourself? Moblo is the perfect 3D modeling tool for your future projects. Great for easily designing furniture in 3D, you can also use it "
+    },
+    {
+     "name": "Stoll 3D Kitchen Designer",
+     "dev": "Gemini Kitchen Designer",
+     "ratings": 0,
+     "desc": "Let your imagination run wild in this portable outdoor kitchen designer. Start by choosing one of four kitchen shapes, add your cabinets and explore the nearly 1000 product options available to popula"
+    },
+    {
+     "name": "Home Design 3D: Draw & Plan",
+     "dev": "Home Design 3D Srl",
+     "ratings": 104830,
+     "desc": "HOME DESIGN 3D - CREATE YOUR DREAM HOUSE IN 3D \n\nCreate your dream house design with the world's leading home design app, trusted by over 60 million users in more than 150 countries.\nTransform your ho"
+    },
+    {
+     "name": "Wood Framing Planner",
+     "dev": "OLDRICH KUCINA",
+     "ratings": 0,
+     "desc": "Plan your wood framing before you pick up a single board.\n\nWood Framing Planner turns wall dimensions into a complete, buildable framing plan - studs, plates, openings, and corners - with a live 3D mo"
+    },
+    {
+     "name": "Morpholio Trace - Sketch CAD",
+     "dev": "Vectorworks, Inc.",
+     "ratings": 10662,
+     "desc": "SKETCH, DESIGN, CREATE \nTrace is the ALL-IN-ONE design & architecture app. Awarded “Best App,” Trace is a truly unique drawing tool that allows you to easily develop ideas in layers, communicate via d"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

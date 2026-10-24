@@ -19618,6 +19618,743 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "tcim forklift auction",
+   "top": [
+    {
+     "name": "TCIM Forklift Auction",
+     "dev": "TANCHONG.COM PTE LTD",
+     "ratings": 0,
+     "desc": "The TCIM Forklift Auction App is a specialized mobile application designed to facilitate the buying and selling of forklifts through an online auction platform. This app serves as a digital marketplac"
+    },
+    {
+     "name": "Ritchie Bros.",
+     "dev": "Ritchie Bros.",
+     "ratings": 17734,
+     "desc": "Bid & Buy Wherever You Are\n\nSign in with your Ritchie Bros. account or create one, and take the marketplace with you. Find equipment fast, track it your way, and bid directly from your phone.\n\nSmart s"
+    },
+    {
+     "name": "IAA Buyer Salvage Auctions",
+     "dev": "Insurance Auto Auctions",
+     "ratings": 20072,
+     "desc": "Use Insurance Auto Auctions’ (IAA) app to bid on lightly damaged cars and other salvaged vehicles anytime day or night, including cars, trucks, SUVs, motorcycles, and heavy equipment. We cater to anyo"
+    },
+    {
+     "name": "Bid Master : Auction Game",
+     "dev": "SHENZHEN BRAINPOWER TECHNOLOGY CO.LTD",
+     "ratings": 2966,
+     "desc": "Welcome to \"Bid Master\", a game that combines the fun of auctions and bidding. You'll compete with other players in a game that's both easy and challenging.\n\nAs a savvy auctioneer, your mission is to "
+    },
+    {
+     "name": "Copart - Online Auto Auctions",
+     "dev": "Copart, Inc.",
+     "ratings": 186722,
+     "desc": "Find more than 175,000 cars, trucks, SUVs motorcycles, boats, classics, exotics and more with the Copart Mobile App. Using the Copart Mobile App, Basic and Premier Members can bid on and win vehicles "
+    },
+    {
+     "name": "AuctionTime Online Auctions",
+     "dev": "Sandhills Global, Inc.",
+     "ratings": 11199,
+     "desc": "Discover AuctionTime, the leading platform for buying and selling equipment on online auctions. Whether you're looking for construction machinery, farm equipment, trucks, trailers, RVs, or any other k"
+    },
+    {
+     "name": "ACV Auctions",
+     "dev": "ACV Auctions Inc",
+     "ratings": 1217,
+     "desc": "ACV Auctions is a dealer-to-dealer marketplace. The app replaces the physical wholesale car auctions that facilitate the sale of approximately 15 million vehicles every year. This platform allows deal"
+    },
+    {
+     "name": "Bring a Trailer Auctions",
+     "dev": "Bring A Trailer",
+     "ratings": 7578,
+     "desc": "Bring a Trailer Auctions are the best way to discover, discuss, and buy classic, collector, and enthusiast vehicles.\n\nWe curate vehicles submitted by our users and craft transparent auction listings t"
+    },
+    {
+     "name": "IronPlanet",
+     "dev": "IronPlanet, Inc.",
+     "ratings": 116,
+     "desc": "The world of IronPlanet is now in your hands.  Welcome to IronPlanet, where you can buy used heavy equipment and vehicles from your mobile device.  IronPlanet members can search for items by category "
+    },
+    {
+     "name": "Forklift Extreme Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 307,
+     "desc": "Drive powerful forklifts and master warehouse logistics in one of the most advanced forklift simulators on mobile.\n\nTransport cargo, upgrade machines and manage warehouse operations across detailed in"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "florist one",
+   "top": [
+    {
+     "name": "Florist One Flower Delivery",
+     "dev": "Florist One",
+     "ratings": 3,
+     "desc": "Florist One lets you send beautiful flowers that are hand-delivered by the best local florists in the United States and Canada. \n \nThe Florist One app is simple, easy to use, and fast. We don't distra"
+    },
+    {
+     "name": "FAA Network Florist App",
+     "dev": "Florist One",
+     "ratings": 0,
+     "desc": "The  FAA Network Florist App allows florists in the Flowers Across America (FAA) Network to receive orders and upload pictures of arrangements they produce for us. The FAA Network is free to join and "
+    },
+    {
+     "name": "Social Flowers",
+     "dev": "Florist One",
+     "ratings": 6,
+     "desc": "Social Flowers lets you send fresh flowers to anyone with just an email address, mobile phone number, or social media contact. The recipient receives a link and they provide the delivery address, we k"
+    },
+    {
+     "name": "Florist Event Planner - Stem",
+     "dev": "Karol Jaworski",
+     "ratings": 0,
+     "desc": "Stem is the professional floral business app built for event and wedding florists. Manage every event from consultation to delivery - recipes, procurement, timelines, and profit tracking in one place."
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    },
+    {
+     "name": "The Cozy Florist",
+     "dev": "RiftSky Games",
+     "ratings": 30754,
+     "desc": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual "
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "FNP: Gifts, Flowers, Cakes App",
+     "dev": "Ferns N Petals Pvt. Ltd.",
+     "ratings": 1466,
+     "desc": "FNP (Ferns N Petals) is your one-stop app for online cake delivery, gifts for him & her, anniversary & valentine gifts, flowers, and more! Whether you need to order cakes online, find birthday gifts f"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "Nielsen's Florist",
+     "dev": "AppJel Inc.",
+     "ratings": 4,
+     "desc": "Check-In and get rewarded! \n\nThe Nielsen's Florist And Garden Shop App allows you to keep up with the latest deals, news and stay in touch with Nielsen's Florist And Garden Shop in Darien, CT. \n\nCheck"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "countsy",
+   "top": [
+    {
+     "name": "Countsy - Tap Counter",
+     "dev": "Kevin Fairdosi",
+     "ratings": 3,
+     "desc": "Meet Countsy – the tally counter designed for everyone, yet powerful enough for anything! Whether you need a quick, simple way to count daily habits, game scores, or inventory, or require advanced fea"
+    },
+    {
+     "name": "Countsy - Countdown Widget",
+     "dev": "Oguz Aydemir",
+     "ratings": 106,
+     "desc": "Your next birthday is 127 days away. Your wedding? 43. That vacation you've been dreaming about? Just 12. Countsy puts a beautiful countdown widget on your Home Screen and Lock Screen so every glance "
+    },
+    {
+     "name": "CountIt: Beer & Drink Tracker",
+     "dev": "FORB LABS SL",
+     "ratings": 151,
+     "desc": "CountIt is the social network that captures your moments as they truly happen. Share photos with sound to relive the emotion, record videos and explore your location history to revisit experiences aut"
+    },
+    {
+     "name": "Count This - Counting App",
+     "dev": "AIBY",
+     "ratings": 8399,
+     "desc": "With the CountThis app, you can count similar objects via Camera – it’s just as simple as it sounds. \n \nTake a photo of things you want to count, highlight one of the items – and get the result. You c"
+    },
+    {
+     "name": "CountThings from Photos",
+     "dev": "Dynamic Ventures, Inc.",
+     "ratings": 152,
+     "desc": "Secure & private automatic counting app for organizations with routine counting tasks.\n \nContact us for a live walkthrough or to get the app optimized for your specific items, environment, and workflo"
+    },
+    {
+     "name": "Counter Tally Count",
+     "dev": "Tevfik Yucek",
+     "ratings": 13889,
+     "desc": "Counter is a simple yet powerful tally counter for iPhone and iPad. \n\nFeatures:\n+ Simple interface\n+ Unlimited counters\n+ Rename each counter as you want\n+ Assign different colors to each counter\n+ Op"
+    },
+    {
+     "name": "Count Money !",
+     "dev": "Horizon Business, Inc.",
+     "ratings": 526,
+     "desc": "Count Money ! is a great way to practice counting money.  Select the difficulty level and number of problems in the \"Settings\" screen. Progress through the difficulty levels until you master counting "
+    },
+    {
+     "name": "Counting Bees",
+     "dev": "Piikea St. LLC",
+     "ratings": 112,
+     "desc": "From Pi'ikea Street, the award winning developers of Interactive Alphabet and Memory Train.\n\nKids will learn counting to 20 by guiding bees to the flowers!\n\nAs they learn to count, they will fill four"
+    },
+    {
+     "name": "I Can Count",
+     "dev": "NPC Unlimited",
+     "ratings": 3,
+     "desc": "I Can Count helps you teach your child (2-5 year old) how to count.\n\nColorful animals make it fun. A friendly voice encourages them to go on, even when their count is not correct.\n\nThere is no timing,"
+    },
+    {
+     "name": "CountThings By Camera",
+     "dev": "长松 孙",
+     "ratings": 41,
+     "desc": "【Introduction】\nThe precise point camera uses artificial intelligence combined with mobile apps, integrates computer vision capabilities into the mobile phone, can perform artificial intelligence analy"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "beekeeping for dummies®",
+   "top": [
+    {
+     "name": "Beekeeping for Dummies®",
+     "dev": "Expanded Apps",
+     "ratings": 1,
+     "desc": "Start beekeeping with confidence using the trusted Dummies guide—now a simple, mobile tool built for real life at the hive. Learn how to set up your hive, care for honey bees, and harvest honey with c"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "Beehiveful",
+     "dev": "CritFusion, LLC",
+     "ratings": 0,
+     "desc": "Beehiveful is a daily beekeeping advisor built for real beekeepers in the US.\n\n  Every morning, Beehiveful turns the weather forecast for your apiary into specific, actionable advice: when to inspect,"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Queenright Beekeeping Logbook",
+     "dev": "Joni Pepin",
+     "ratings": 1,
+     "desc": "Unlimited Hives + Premium Apiary Analysis for FREE!\n\nThe Queenright beekeeping logbook has everything a modern beekeeper needs to manage their apiary. \n\n- UNLIMITED HIVES - no artificial limits or for"
+    },
+    {
+     "name": "Beekeeping - Hive Inspections",
+     "dev": "ADR Apps",
+     "ratings": 1,
+     "desc": "Beesly - The Modern Beekeeping Companion\n\nTransform your beekeeping with Beesly, the comprehensive app designed by beekeepers, for beekeepers. Whether you're managing one hive or an entire operation, "
+    },
+    {
+     "name": "BeeHub App",
+     "dev": "Levani Gventsadze",
+     "ratings": 0,
+     "desc": "BeeHub – Your Complete Beekeeping Companion\n\nTransform the way you manage your apiaries with BeeHub, the intuitive beekeeping management app designed for hobbyist and professional beekeepers alike.\n\n*"
+    },
+    {
+     "name": "Bee Factory!",
+     "dev": "Green Panda Games",
+     "ratings": 245432,
+     "desc": "Welcome to the most exciting Bee idle game! Are you ready to manage your own tycoon factory and become the richest man alive? \n\n- Unlock +100 super fun bees \n- Sell TONS of honey \n- Upgrade your bees "
+    },
+    {
+     "name": "Plant Identifier: Plantiary",
+     "dev": "Plantiary",
+     "ratings": 28301,
+     "desc": "Meet your ad-free field guide for home and garden. From living room styling to wild trails, Plantiary identifies plants, trees, flowers, houseplants, mushrooms, insects, and birds, while helping you d"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "notary central",
+   "top": [
+    {
+     "name": "NotaryCentral",
+     "dev": "Alexander Leon",
+     "ratings": 3,
+     "desc": "The all-in-one app for notaries\nStay Compliant. Work Smarter. Grow with Confidence.\n\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "Instant Notary App",
+     "dev": "OnlineNotary.net/Instant Notary LLC",
+     "ratings": 8069,
+     "desc": "OnlineNotary.net is a Virginia based company that can legally perform online notary to any US Citizen or US Resident. Our experienced and friendly, professionally licensed and certified notaries can h"
+    },
+    {
+     "name": "Notary eJournal",
+     "dev": "Jurat",
+     "ratings": 190,
+     "desc": "The Notary eJournal by Jurat INC is an electronic notary journal created to provide a digital replacement for the standard hard-bound notary journals that exist in the market. Designed by notaries in "
+    },
+    {
+     "name": "NotaryGadget",
+     "dev": "Realtyzam, LLC",
+     "ratings": 729,
+     "desc": "NotaryGadget  is the ultimate app for notary signing agents. It makes just about everything you do easier - sending invoices, tracking payments, tracking mileage, tracking notarial acts, managing your"
+    },
+    {
+     "name": "Bancserv App",
+     "dev": "Chris Lizar",
+     "ratings": 3,
+     "desc": "Bancserv's notary application allows our notaries to view their assignments, confirm the exact scheduled time, and complete orders faster than ever before.  Save time and effort by downloading the Ban"
+    },
+    {
+     "name": "Solidifi Notary Network",
+     "dev": "Solidifi U.S. Inc.",
+     "ratings": 24,
+     "desc": "The Solidifi Notary Network app for iOS allows Solidifi Notaries to have quick and easy access to all of their Solidifi orders. You can accept or decline signings, manage your calendar, get travel and"
+    },
+    {
+     "name": "NotaryAct - Electronic Journal",
+     "dev": "NotaryAct",
+     "ratings": 98,
+     "desc": "Replace the Paper Journal. Stay Compliant. Save Hours Every Week.\n\nNotaryAct is the original and most trusted electronic notary journal built by notaries, for notaries. Since 2012, over 25,000 notary "
+    },
+    {
+     "name": "Notary 90210",
+     "dev": "The Effren Group, Inc.",
+     "ratings": 13,
+     "desc": "Notary 90210 is your on-demand mobile notary service. Created by notaries with a vision to bring our services to the public with the ease of opening an app on your phone. With a trackable GPS service,"
+    },
+    {
+     "name": "The Notary App",
+     "dev": "Nandha kumar Ravi",
+     "ratings": 0,
+     "desc": "Experience the Notary Application, a comprehensive business automation tool designed to simplify scheduling, amplify marketing efforts, and enhance overall management of your notary business.\n\nWhat is"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "nail tech connect",
+   "top": [
+    {
+     "name": "NailTechConnect",
+     "dev": "CHARMED & ARMED INTERNATIONAL INC",
+     "ratings": 19,
+     "desc": "Join thousands of nail technicians who trust MakarttPro to support their journey. Download now and get everything you need to run and grow your nail tech business—all in one place.\n\nYour clients now h"
+    },
+    {
+     "name": "NailTechConnect for Clients",
+     "dev": "CHARMED & ARMED INTERNATIONAL INC",
+     "ratings": 5,
+     "desc": "Book Smarter with NailTechConnect: Your Personalized Nail Appointment App\n\nNailTechConnect is the easiest way to book appointments with your favorite independent nail technicians. Whether you're a reg"
+    },
+    {
+     "name": "My Nail Connection",
+     "dev": "Leslie Flores",
+     "ratings": 0,
+     "desc": "SUBSCRIPTION DETAILS\nGlow Up - booking on My Nail Connection: $10.99 per month, auto-renewing,\nwith the first month free. Locked at that price for life as a founding tech.\nPayment is charged to your A"
+    },
+    {
+     "name": "Nailzy.com",
+     "dev": "nailsa2z",
+     "ratings": 1032,
+     "desc": "Nailzy is the all-in-one platform for nail professionals, salon owners, and beauty businesses.\n\nProfessionals can create a free booking website, manage appointments, organize client records, track sta"
+    },
+    {
+     "name": "Easy Nail Supply",
+     "dev": "Easy Nail Supply",
+     "ratings": 8,
+     "desc": "Online nail resources for professional nails technicians."
+    },
+    {
+     "name": "Cuticle Code",
+     "dev": "Cuticle Code",
+     "ratings": 0,
+     "desc": "Cuticle Code is where independent nail techs run their bookings — and where their clients book them.\n\nIf your nail tech uses Cuticle Code: book them in seconds. See their real availability, request yo"
+    },
+    {
+     "name": "YouCam Nails - Nail Art Salon",
+     "dev": "PERFECT MOBILE CORP.",
+     "ratings": 5886,
+     "desc": "Design your own unique nail art with the best nail salon app YouCam Nails, and join a creative nail art & makeup community! Create your own stunning nail art designs with cute stickers, vibrant colors"
+    },
+    {
+     "name": "Cut The Crap - Nail Supplies",
+     "dev": "Cut The Crap Nail Supplies",
+     "ratings": 0,
+     "desc": "Welcome to CTC Nail Supplies, the ultimate hub for nail technicians seeking high-quality, uniquely formulated gel products and nail art supplies. Born from the expertise of seasoned nail techs, our pl"
+    },
+    {
+     "name": "Nail Salon™",
+     "dev": "Libii Tech Limited",
+     "ratings": 6712,
+     "desc": "**Want to have a manicure? Come on, Spice up your nails with our new app, Nail Salon!**\n\nCreate your very own manicure designs in Nail Salon. You could paint on different skin color，choose from loads "
+    },
+    {
+     "name": "CurvLife",
+     "dev": "Firsple Limited",
+     "ratings": 17466,
+     "desc": "CurvLife is a 21st century brand that inspires confidence in women by providing art nails. The Brand is designed with the busy working mom in mind. To help her be confident, and her strong self for wh"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "local florist delivery",
+   "top": [
+    {
+     "name": "Local Florist Delivery",
+     "dev": "LocalFloristDelivery.org",
+     "ratings": 0,
+     "desc": "Support Local. Send Love.\n\nLocalFloristDelivery.org connects you with trusted local florists across the U.S. to deliver beautiful flower arrangements quickly and reliably. Whether it's for birthdays, "
+    },
+    {
+     "name": "Teleflora – Flower Delivery",
+     "dev": "Teleflora",
+     "ratings": 72,
+     "desc": "Order beautiful flowers that are always 100% arranged and delivered by local florists right from the Teleflora app!\n\nTeleflora’s app makes it easy to order flowers on the go and get flower delivery ri"
+    },
+    {
+     "name": "Bleems - Flowers & Gifts",
+     "dev": "Bleems Website Design and Management Co.",
+     "ratings": 12359,
+     "desc": "Bleems - Flowers, Confections, Gifts & AI Shopper  \n\nCelebrate every moment with Bleems, the easiest way to send flowers, chocolates, cakes, confections, perfumes, incense, and unique gifts. Enjoy sam"
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    },
+    {
+     "name": "Flowers delivery - Myflowers",
+     "dev": "MYFLOWERS LTD",
+     "ratings": 147,
+     "desc": "Flowers delivery across the UK, straight from your phone. MyFlowers is a flower delivery app for fresh bouquets, plants and gifts — with free delivery in as little as 3 hours, 24/7.\n\nUse promo code AP"
+    },
+    {
+     "name": "FNP: Gifts, Flowers, Cakes App",
+     "dev": "Ferns N Petals Pvt. Ltd.",
+     "ratings": 1466,
+     "desc": "FNP (Ferns N Petals) is your one-stop app for online cake delivery, gifts for him & her, anniversary & valentine gifts, flowers, and more! Whether you need to order cakes online, find birthday gifts f"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "trucker budget",
+   "top": [
+    {
+     "name": "Trucker Budget",
+     "dev": "Kirill Afanasiev",
+     "ratings": 18,
+     "desc": "Stop guessing your trucking profits. Know your numbers.\nTrucker Budget is the all-in-one trucking app for owner-operators to track mileage, expenses, loads, and real profit — without spreadsheets or a"
+    },
+    {
+     "name": "Truckers Budget™",
+     "dev": "Slava Silyaev",
+     "ratings": 3,
+     "desc": "Most finance apps were built for people sitting at a desk. This one was built for the cab.\n\nTruckers Budget is the all-in-one money tracker for truck drivers - owner-operators, lease operators, indepe"
+    },
+    {
+     "name": "TruckBooks: Trucker Expenses",
+     "dev": "ThriveWorksMedia",
+     "ratings": 7,
+     "desc": "TruckBooks is the expense tracker built for owner-operator truck drivers.\n\nCapture fuel, tolls, repairs, truck supplies, receipts and per diem in seconds, right when they happen. No backlog. No shoebo"
+    },
+    {
+     "name": "Trucker Pocket",
+     "dev": "Anatol Kovali",
+     "ratings": 10,
+     "desc": "Are you an owner-operator looking to take control of your trucking finances? TruckerPocket is here to help you manage your money with ease and efficiency.\nTracking and managing finances as an owner op"
+    },
+    {
+     "name": "Hammer: Truck GPS & Maps",
+     "dev": "TruckersReport.com",
+     "ratings": 36408,
+     "desc": "Smarter Trucking Starts Here.\n\nHammer is a powerful GPS navigation app designed specifically for commercial truck drivers. Built by the community at TruckersReport.com, Hammer Truck GPS delivers preci"
+    },
+    {
+     "name": "Trucker Path: Truck GPS & Fuel",
+     "dev": "Trucker Path Inc.",
+     "ratings": 153628,
+     "desc": "North America’s most popular app for Truckers. BUILT FOR TRUCKERS, BY TRUCKERS! Get all trucker tools in one FREE APP! Best Trucking APP featured by truckers! Trucker Path is a mapping tool used by mo"
+    },
+    {
+     "name": "TruckMap - Truck GPS Routes",
+     "dev": "Tenstreet",
+     "ratings": 79526,
+     "desc": "TruckMap is the best free mobile app built for Truck Drivers. The only app with truck optimized GPS routes for commercial vehicles, turn-by-turn routing, diesel fuel, weigh stations, overnight parking"
+    },
+    {
+     "name": "Trucker Guide: Truck GPS Maps",
+     "dev": "Trucker Guide LLC",
+     "ratings": 10209,
+     "desc": "Drive smarter with Trucker Guide GPS. Find truck parking, cheapest fuel, weigh stations & real-time routes — all in one app.\nTrucker Guide – the all-in-one GPS navigation tool developed specifically f"
+    },
+    {
+     "name": "TruckSmart ™",
+     "dev": "Travelcenters of America",
+     "ratings": 18570,
+     "desc": "TruckSmart is now earnify™pro.\n \nearnifypro delivers a faster, more intuitive way to manage your rewards, track activity, and get more from every interaction at TA, Petro Stopping Centers and TA Expre"
+    },
+    {
+     "name": "Chain Driver",
+     "dev": "Chaine, Inc.",
+     "ratings": 2628,
+     "desc": "Join over 100k drivers and carriers that use chain to connect with the brokers they work with. Using chain helps improve your reputation with your broker customers, and get more repeat loads through c"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "esthetician appointment book",
+   "top": [
+    {
+     "name": "Esthetician Appointment Book",
+     "dev": "Ievgen Chugunov",
+     "ratings": 0,
+     "desc": "Book clients, track income, never miss an appointment - Beauty Booking is the all-in-one app for beauty pros who run their own work. Clients can now also book you online, through your own page. Made f"
+    },
+    {
+     "name": "Booksy for Customers",
+     "dev": "Booksy",
+     "ratings": 859106,
+     "desc": "Self-care, on your schedule. Instantly book with your favorite beauty and wellness providers, anytime and anywhere.\n\nJoin over 50 million clients who use Booksy to find and book top-rated beauty and w"
+    },
+    {
+     "name": "Fresha for customers",
+     "dev": "Fresha.com Holding Inc.",
+     "ratings": 60753,
+     "desc": "With 700 million+ appointments booked to date, 100,000 businesses registered and over 450,000 stylists and professionals to choose from, Fresha is the simplest, most reliable way to book salon, beauty"
+    },
+    {
+     "name": "Noona - Book anything",
+     "dev": "Tímatal ehf.",
+     "ratings": 1309,
+     "desc": "Noona is a marketplace for services and experiences. \n\nIn Iceland (our home country), \"Noona\" means \"now\". \n\nOur goal is to help you book all of your appointments in a single app, without having to ma"
+    },
+    {
+     "name": "Esthetician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 13954,
+     "desc": "Pass your State Board of Esthetics exam with the help of the new Esthetician Exam Center app! \n\nThousands of Esthetics questions, and their detailed explanations are now available at your fingertips.\n"
+    },
+    {
+     "name": "Esthetician Exam Prep",
+     "dev": "MastrAPI",
+     "ratings": 313,
+     "desc": "Pass your Esthetics State Board exam with flying colors! Boost your confidence in passing first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nUpdate"
+    },
+    {
+     "name": "Esthetician Exam Practice 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 374,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "Esthetician: Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 1115,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the state boards material with 1500+ exam-like questions and 800+ flashcards that help you remember more. Get access to over a dozen practice exams that will help you pa"
+    },
+    {
+     "name": "Esthetician Exam Prep Practice",
+     "dev": "秀娟 周",
+     "ratings": 57,
+     "desc": "Esthetician Exam Prep Practice is an application carefully designed and developed by industry test experts. With over 900 high-quality questions and answers, multiple test modes, and a scientific anal"
+    },
+    {
+     "name": "Esthetics State Board Exams",
+     "dev": "KYLIEPREP",
+     "ratings": 3,
+     "desc": "Are you preparing for the Esthetician Exam? Then you're in the right place.\n\nOur mission? A FIRST-TIME PASS for you and loads of fun in the process!\n\nYou will crush the exam with over 1600 exam-like q"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "beekeeping community, forums",
+   "top": [
+    {
+     "name": "Beekeeping Community, Forums",
+     "dev": "Astera Dijital Hizmetler Anonim Sirketi",
+     "ratings": 1,
+     "desc": "Beekeeping Community is the complete app for beekeepers — track your hives, identify bees, pests, and diseases with AI, and get answers from 12,000+ beekeepers around the world.\n\nWhether you're catchi"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "Tapatalk - 200,000+ Forums",
+     "dev": "Everforo, Inc",
+     "ratings": 15546,
+     "desc": "Tapatalk connects to over 200,000 online forums worldwide. Post easily with unlimited Photo and Video sharing and instant push notifications. Tapatalk forever change the way you interact with online f"
+    },
+    {
+     "name": "Bee Network:Phone-based Asset",
+     "dev": "Bee Games Ltd",
+     "ratings": 4619,
+     "desc": "Bee Network is the world's leading Web3 open platform and decentralized ecosystem, where you can join over 54 million users globally to experience:\n\n- Mine BEE through a \"hive-like collaboration\"\n- Ma"
+    },
+    {
+     "name": "Forum, a Facebook app",
+     "dev": "Meta Platforms, Inc.",
+     "ratings": 6967,
+     "desc": "Facebook is great for keeping up with friends, watching videos, and staying connected. Forum is where you go deeper in groups. It's a space designed for real discussions, shared interests, and the peo"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Fora Communities: 1000+ Forums",
+     "dev": "VerticalScope Inc.",
+     "ratings": 1326,
+     "desc": "Fora Communities enables the world to share expertise and discover knowledge on subjects they love. Connect to all your favorite communities in one place.\n\nIncluding:\nArchery Talk\nAVS Forum\nBenzworld\n"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    },
+    {
+     "name": "Beekeeping for Dummies®",
+     "dev": "Expanded Apps",
+     "ratings": 1,
+     "desc": "Start beekeeping with confidence using the trusted Dummies guide—now a simple, mobile tool built for real life at the hive. Learn how to set up your hive, care for honey bees, and harvest honey with c"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "birding map",
+   "top": [
+    {
+     "name": "Birding Map",
+     "dev": "剑 金",
+     "ratings": 0,
+     "desc": "Birding Map - Record Every Encounter with Wings\n\nBirding Map is a tracking tool designed specifically for birding enthusiasts, preserving your birding stories through maps and photos.\n\nCore Features\n "
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "BaseMap: 3D Hunting Maps & GPS",
+     "dev": "BaseMap Inc",
+     "ratings": 9192,
+     "desc": "3D maps, Offline 3D maps, nationwide land ownership, location sharing and all the tools you need to have more successful hunts.\n\nOFFLINE GPS and TRACKING\n•\tCache maps for offline use without service.\n"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    },
+    {
+     "name": "Birdbuddy: ID & Collect Birds",
+     "dev": "Buddy Bird Inc",
+     "ratings": 61868,
+     "desc": "Birdbuddy is the world’s most recognized app for discovering and learning about birds – whether you’re using our smart bird feeder in your backyard or identifying birds anywhere with just your phone.\n"
+    },
+    {
+     "name": "Bird Identifier: BirdScope",
+     "dev": "Scala technology limited",
+     "ratings": 2937,
+     "desc": "BirdScope offers incredibly quick identification assistance, catering to bird watchers at all experience levels and outdoor enthusiasts alike. Using advanced AI image recognition and audio analysis te"
+    },
+    {
+     "name": "OpenBirding",
+     "dev": "Adam Jackson",
+     "ratings": 4,
+     "desc": "Find your next birding destination with OpenBirding, a simple and easy way to explore hotspots anywhere you go. Whether traveling or birding locally, everything you need is right in your pocket.\n\nFEAT"
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

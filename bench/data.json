@@ -32022,6 +32022,33 @@
    },
    "label": "utility",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Countdown Star",
+    "category": "Lifestyle",
+    "desc": "Countdown Star is the best way to countdown to — and count up from — all of your favorite events.\n\nCountdown to birthdays, holidays, an upcoming vacation, a wedding, the New Year, parties, sporting events, concerts and more.\nCount up from anniversaries, the day you were born, and other special event"
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Speedtest by Ookla",
+    "category": "Utilities",
+    "desc": "Use Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n \nExplore mobile network coverage with Speedtest Maps based on real-world data gathered by the Speedtest app. See performance by provider to find out where you’re likely to"
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Sound Amplifier",
+    "category": "Utilities",
+    "desc": "Sound Amplifier turns your phone into a hearing aid. Make your volume 100x louder and eliminate background noise while protecting your ears. Just connect your existing headphones.\n\nWhat you can do with Sound Amplifier\n• Easily listen to conversations with friends and loved ones\n• Use bluetooth headp"
+   },
+   "label": "utility",
+   "split": "test"
   }
  ]
 }

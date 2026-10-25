@@ -31813,6 +31813,46 @@
    "note": "Ücretsiz alternatifler var ve bu kitle uygulamaya hiç para vermiyor",
    "label": "Para yapmaz",
    "split": "train"
+  },
+  {
+   "note": "Bu işi yapan app'ler arasında bir tek benim girebileceğim boşluk yok, hepsi 100 bin yorumlu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Mağazada sadece 3 yorum, ikonu bozuk, 2019'dan beri güncellenmemiş",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Bunu yapmak için sunucu, lisanslı içerik ve uzman ekip lazım, tek başıma olmaz",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "İnsanlar bunun için bir kuruş vermez, hepsi ücretsiz alternatif arıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Tıbbi doz önerisi veriyor, Apple incelemesi kesin reddeder",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Fikir hiç heyecan vermiyor, bakınca esniyorum",
+   "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Ben kaynak kaynak hesaplayıcı arıyordum, bu bir oyun",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Kaydırdıkça hep aynı hesap makinesi çıkıyor, bu da onun klonu",
+   "label": "Çok benzer",
+   "split": "dev"
   }
  ],
  "kind": [

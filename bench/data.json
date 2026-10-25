@@ -29228,6 +29228,90 @@
     "unrel"
    ],
    "split": "test"
+  },
+  {
+   "term": "dental hygiene exam prep",
+   "apps": [
+    {
+     "name": "Dental Hygiene Exam Prep",
+     "dev": "Get Exam",
+     "ratings": 92,
+     "desc": "Give your studying method a major upgrade. \nImprove your knowledge with 700+ exam-like questions and 700+ flashcards. Remember more using Flashcards. Get access to over a dozen practice exams that wil"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 62,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Boards",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "Stressed about the NBDHE Dental Hygiene Boards? You're not alone.\n\nFour years of dental hygiene school. Hundreds of clinical hours. All of it comes down to one exam.\n\nJoin 20,000+ dental hygiene stude"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cwi exam prep",
+   "apps": [
+    {
+     "name": "CWI Exam Prep",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 6,
+     "desc": "Master all essential topics for your Certified Welding Inspector(CWI) exam with Fun and Engaging Quizzes! \n\nDive into the world of CWI with our comprehensive quiz app, designed to boost your knowledge"
+    },
+    {
+     "name": "CWI Welding Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 12,
+     "desc": "CWI WELDING EXAM PREP: PASS ALL THREE PARTS OF THE AWS CWI EXAM\n\nThe CWI exam has a 30 percent first-attempt pass rate. Most candidates fail because they treat it as a single test. It is three separat"
+    },
+    {
+     "name": "AWS CWI Exam Test Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 4,
+     "desc": "Prepare for success in your welding career with the AWS CWI Exam Test Prep 2026 app. Whether you’re an experienced welder or just starting your journey toward Certified Welding Inspector (CWI) certifi"
+    },
+    {
+     "name": "AWS-CWI Practices and Exams",
+     "dev": "Nguyen Hieu",
+     "ratings": 6,
+     "desc": "This Free version only has 30 basic questions to show you the general view of the app. The full ExamGuider version includes more than 1000 questions that cover the whole sections of AWS- CWI exams. Yo"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

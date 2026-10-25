@@ -29804,6 +29804,36 @@
    "app": "Flashcards for the NCLEX nursing exam.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Calculates the correct dose of warfarin for a patient from their INR and tells them how many milligrams to take.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tracks your daily water intake and sends reminders to drink a glass of water.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tells users whether a wild mushroom they photographed is safe to eat.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Converts between metric and imperial units for cooking measurements.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Gives personalised legal advice on whether to sign a contract and what to write in it.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Keeps a simple logbook of beekeeping hive inspections with dates and notes.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [

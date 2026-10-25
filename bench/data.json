@@ -30079,6 +30079,198 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "massage therapy mblex prep",
+   "apps": [
+    {
+     "name": "MBLEx Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 199,
+     "desc": "MBLEx Test Prep 2026 is an application that has been carefully designed and developed by industry exam experts. With more than 1,500 high-quality test questions and answer explanations, multiple test "
+    },
+    {
+     "name": "Massage Therapy MBLEx Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Study for the MBLEx (Massage & Bodywork Licensing Examination) with original practice questions written from the publicly available FSMTB content outline and standard massage therapy curriculum. Every"
+    },
+    {
+     "name": "MBLEx Test Prep Practice 2024",
+     "dev": "Best Fun Games",
+     "ratings": 1057,
+     "desc": "Pass your Massage & Bodywork Licensing Examination (MBLEx) with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ questions "
+    },
+    {
+     "name": "MBLEX EXAM PREP | 2026",
+     "dev": "Prepia Inc",
+     "ratings": 204,
+     "desc": "Aligned with 2026 MBLEx Content Outline -> FULL COVERAGE\n\nMaster the MBLEx (Massage & Bodywork Licensing Examination) with our all‑in‑one MBLEx exam prep app! Access the ultimate MBLEx practice test b"
+    },
+    {
+     "name": "AMTA Exam Prep",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 8936,
+     "desc": "The official American Massage Therapy Association’s study app will help you prepare for the MBLEx like never before. Study anywhere, anytime with 1000 challenging practice questions and full answer ra"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "ai dog grooming and haircut",
+   "apps": [
+    {
+     "name": "AI Dog Grooming and Haircut",
+     "dev": "Ruslan Tsitser",
+     "ratings": 0,
+     "desc": "AI dog grooming preview — see your pup's haircut before the salon visit. Upload a photo, pick a style, and get a realistic before-and-after makeover in seconds.\n\nHOW IT WORKS\n• Upload a photo from you"
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "Hair AI: Hairstyle Filter, Cut",
+     "dev": "Spark Dynamic",
+     "ratings": 5567,
+     "desc": "AI Hair Try On, AI Hairstyle App is change hair color changer hairapp hairstyle try on curtain bangs filter app good! AI hairstyle app for men & beard apps for men hairstyle app lets you try facial ha"
+    },
+    {
+     "name": "SQUIRE™",
+     "dev": "Squīr Technologies",
+     "ratings": 12581,
+     "desc": "DISCOVER & BOOK THE BEST BARBERS IN YOUR CITY\n\nSQUIRE lets you find, book, and pay for a haircut or shave in a few taps. Our mission is to keep you looking sharp, hassle free.\n\n- Discover skillful bar"
+    },
+    {
+     "name": "Keep It Cut",
+     "dev": "Keep It Cut",
+     "ratings": 2489,
+     "desc": "Keep It Cut is a men's hair salon offering Unlimited Haircut Memberships. Our guys come in and either pay for a single haircut, or pay a monthly membership fee for UNLIMITED HAIRCUTS. View website for"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "chiropractic plus newcastle",
+   "apps": [
+    {
+     "name": "Chiropractic Plus Newcastle",
+     "dev": "Chiropractic Plus Newcastle",
+     "ratings": 0,
+     "desc": "The Chiropractic Plus mobile app allows you to book appointments, check-in and view our helpful content. \n\nUse the barcode in the app on your first visit to our clinic, and then check in easily on sub"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "personal trainer prep: test",
+   "apps": [
+    {
+     "name": "Personal Trainer Prep: Test",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Get ready for your personal trainer certification exam with 875+ original practice questions written to match the official CPT exam blueprint — every answer includes a clear explanation so you underst"
+    },
+    {
+     "name": "Pocket Prep NASM CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 3416,
+     "desc": "Unlock 1,000 CPT practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT "
+    },
+    {
+     "name": "NASM CPT Exam Prep 2026 EZPrep",
+     "dev": "EZ Test Prep",
+     "ratings": 374,
+     "desc": "Pass the NASM CPT Exam Without Pulling a Mental Hamstring\n\nYou’ve learned the muscles, memorized the planes of motion, and endured hours of fitness jargon that somehow makes lunges sound even worse. N"
+    },
+    {
+     "name": "Prepia NASM CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 331,
+     "desc": "Prepare smarter and achieve success with the ultimate prep tool for your NASM CPT (National Academy of Sports Medicine Certified Personal Trainer) exam! Whether you're on the go or at home, our NASM C"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

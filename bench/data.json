@@ -25150,6 +25150,122 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "aoa/aosa optometry's meeting",
+   "top": [
+    {
+     "name": "AOA/AOSA Optometry's Meeting",
+     "dev": "AMERICAN OPTOMETRIC ASSOCIATION",
+     "ratings": 0,
+     "desc": "Optometry’s Meeting is the profession’s premier annual meeting with opportunities for doctors, paraoptometric and office staff, future doctors and industry representatives."
+    },
+    {
+     "name": "AOA Events App",
+     "dev": "AMERICAN OPTOMETRIC ASSOCIATION",
+     "ratings": 0,
+     "desc": "The event app for the American Optometric Association and American Optometric Student Association events. This app will feature multiple events for these associations and will include course listings,"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "AAOS Annual Meeting",
+     "dev": "American Academy of Orthopaedic Surgeons Mobile",
+     "ratings": 658,
+     "desc": "The Annual Meeting mobile app is your go-to AAOS Annual Meeting resource. You can choose your ideal learning path by adding education programs, Exhibit Hall activities, and must-see exhibitors to your"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "AAP Annual Meeting",
+     "dev": "American Academy of Periodontology",
+     "ratings": 85,
+     "desc": "The AAP Annual Meeting mobile app lets you view schedules, presentations, exhibitors, and speaker details for the annual conference You can take notes on presentations and draw on slides and handouts."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy jobs",
+   "top": [
+    {
+     "name": "PhlebX - Phlebotomy @ Home",
+     "dev": "PhlebX INC",
+     "ratings": 7,
+     "desc": "We are providing blood draw services to individuals and organizations, at the comfort of their home, at their community or onsite at their workplace.\nWe offer same-day service that is available 24-hou"
+    },
+    {
+     "name": "Speedy Sticks",
+     "dev": "Speedy Sticks LLC",
+     "ratings": 6,
+     "desc": "Speedy Sticks – Manage and Book Phlebotomy Appointments Seamlessly\n\nThe Speedy Sticks app is your all-in-one solution for mobile phlebotomy—whether you're a patient booking services or a phlebotomist "
+    },
+    {
+     "name": "ShiftKey - PRN Healthcare Jobs",
+     "dev": "ShiftKey, LLC",
+     "ratings": 27396,
+     "desc": "ShiftKey gives you the FREEDOM to work when and where you want. Open up your world - and connect with available nursing, therapy, and dental shifts near you*.\n\nShiftKey connects CNAs, LPNs, RNs, RTs, "
+    },
+    {
+     "name": "Mobile Phlebotomy App",
+     "dev": "Do-Ya Medical Services, LLC",
+     "ratings": 0,
+     "desc": "Mobile Phlebotomy App is the all-in-one operations app for mobile phlebotomy businesses — the owners and staff who draw labs at patients' homes and offices.\n\nRun your whole operation from one screen:\n"
+    },
+    {
+     "name": "Mobile Phleb",
+     "dev": "My Personal Health Records Express Inc.",
+     "ratings": 0,
+     "desc": "Mobile Phleb application enables Northwell Health Labs Phlebotomist’s to view the home draw orders assigned.  The phlebotomist will visit the patient at a scheduled time and collect samples."
+    },
+    {
+     "name": "JobStack for Work: Gig Jobs",
+     "dev": "Trueblue, Inc",
+     "ratings": 32128,
+     "desc": "Find flexible jobs with JobStack for Work.\n\nStart your job search and find flexible local work with PeopleReady’s job finder app, JobStack for Work! Take control of your job search and work when you w"
+    },
+    {
+     "name": "Vivian - Find Healthcare Jobs",
+     "dev": "NurseFly, Inc.",
+     "ratings": 26202,
+     "desc": "At Vivian, we ensure your next step is a step forward. That’s why we built a jobs marketplace that serves healthcare professionals first. Built on intelligent matching, transparent information and the"
+    },
+    {
+     "name": "Phlebotomist",
+     "dev": "Creliant Labs Pvt. Ltd.",
+     "ratings": 0,
+     "desc": "CrelioHealth for Phlebotomists is directly connected to the LIS with seamless integration and is the only app that offers all of the features Phlebotomists need to manage their patients\nFeatures\nSee a"
+    },
+    {
+     "name": "Aya Healthcare Job Search",
+     "dev": "Aya Healthcare, Inc",
+     "ratings": 7796,
+     "desc": "Build the healthcare career of your dreams with instant access to the most jobs, and the most exclusive opportunities, in the industry. Travel. Per Diem. Permanent. One agency — all the possibilities."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

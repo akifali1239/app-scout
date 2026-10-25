@@ -31449,6 +31449,48 @@
    "hi": "resistor color code reference",
    "lo": "food delivery marketplace with courier network",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "emt scope of practice protocols",
+   "lo": "funny ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "surveyor stakeout calculator",
+   "lo": "meme maker",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "nrp neonatal resuscitation algorithm",
+   "lo": "horoscope daily",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam prep questions",
+   "lo": "cute stickers",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nec electrical code calculator for electricians",
+   "lo": "photo collage maker",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "bmi calculator",
+   "lo": "social dating app with video chat",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque unit converter",
+   "lo": "cloud gaming service",
+   "split": "dev"
   }
  ],
  "note": [
@@ -33162,6 +33204,51 @@
    },
    "label": "utility",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Miles: Mileage Tracker",
+    "category": "Finance",
+    "desc": "Automatically logs your drives and calculates tax deductions."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Wikipedia",
+    "category": "Reference",
+    "desc": "Free encyclopedia with millions of articles in many languages."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Flashlight Pro",
+    "category": "Utilities",
+    "desc": "Turns your iPhone LED into a bright torch with strobe mode."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Wordle Clone: Daily Words",
+    "category": "Games",
+    "desc": "Guess the hidden five-letter word in six tries."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Buddy: AI Chatbot",
+    "category": "Productivity",
+    "desc": "Chat with GPT-powered AI assistant for answers and writing."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
   }
  ]
 }

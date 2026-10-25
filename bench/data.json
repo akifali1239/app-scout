@@ -31263,6 +31263,56 @@
    "app": "Keeps a simple logbook of beekeeping hive inspections with dates and notes.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Calculates insulin doses for diabetic users from their blood glucose and carbohydrate intake.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Flashcards and practice questions for the NAPLEX pharmacist licensing exam.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Place real-money sports bets and withdraw winnings to your bank account.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Measures your blood pressure and heart rate using the phone camera and flashlight.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Stream the latest movies and TV series for free without ads.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Quiz app for the series 7 securities exam with explanations for each answer.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Mortgage amortization calculator that shows monthly payments and total interest.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Trade stocks and crypto with your own money through a built-in brokerage account.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Checklist and torque reference tables for aircraft maintenance technicians.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tells you which antibiotic to take for your symptoms and for how many days.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [

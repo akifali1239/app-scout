@@ -26271,6 +26271,616 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "acupuncture is my life network",
+   "top": [
+    {
+     "name": "Acupuncture is my Life Network",
+     "dev": "TvStartup Inc.",
+     "ratings": 0,
+     "desc": "Understand how acupuncture and other forms of treatment can help treat different health issues and more."
+    },
+    {
+     "name": "Visual Acupuncture 3D",
+     "dev": "GraphicVizion",
+     "ratings": 152,
+     "desc": "Study acupuncture visually and interactively.  \nGet a good feel for the flow of meridian pathways and their (anatomical) point locations. \n \nIncludes a complete interactive anatomy model (muscles, bon"
+    },
+    {
+     "name": "A Manual of Acupuncture 2025",
+     "dev": "The Journal of Chinese Medicine Publications Ltd.",
+     "ratings": 169,
+     "desc": "A Manual of Acupuncture – The Definitive App for Students & Practitioners.\n\n\nThis is the latest mobile app (iPhone/iPad) version of the foremost points textbook in the Western world - A Manual of Acup"
+    },
+    {
+     "name": "Acupuncture Points",
+     "dev": "Miridia Technology, Inc.",
+     "ratings": 94,
+     "desc": "Acupuncture Mastery Software\nVideo Demo!  View it here: http://www.miridiatech.com/products/points/iphone.php\n\n\"Just wanted to let you know I really like the points program.  I am a student in TCM and"
+    },
+    {
+     "name": "Acupuncture Master",
+     "dev": "Xi'an Vesalius Digital Technology Co., Ltd.",
+     "ratings": 9,
+     "desc": "\"3D Acupuncture Learning Platform Combined with Anatomy\"\nThis platform helps you view the meridians and acupoints of the entire human body anytime, anywhere, systematically and comprehensively learn k"
+    },
+    {
+     "name": "The Tapping Solution",
+     "dev": "The Tapping Solution, LLC",
+     "ratings": 23753,
+     "desc": "Lower your stress levels, reduce anxiety, overcome fears, relieve pain, get better sleep, and so much more. All made possible with access to hundreds of meditations in the Tapping Solution App. You'll"
+    },
+    {
+     "name": "Chrono-Acupuncture Lite",
+     "dev": "Cheng-Ta Hsieh",
+     "ratings": 6,
+     "desc": "Are you an acupuncturist? Or would you like to be healthier? This app computes the principle acupuncture points for anytime of the day.\n\nChrono-Acupuncture Methods Available:\n - LingGuiBaFa\n - FeiTeng"
+    },
+    {
+     "name": "Tsubook",
+     "dev": "Studio Levart",
+     "ratings": 49,
+     "desc": "Tsubook is a mobile application with instant access to all the information you need about points, meridians and other content related to Traditional Chinese Medicine. It is both a reference book and a"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "modern acupuncture usa",
+   "top": [
+    {
+     "name": "Modern Acupuncture USA",
+     "dev": "ACU Development Inc",
+     "ratings": 3,
+     "desc": "Modern Acupuncture wants to help make your life better!  This free app helps you manage your plans, find nearby locations and schedule appointments when it’s most convenient for you. Optimize your tim"
+    },
+    {
+     "name": "A Manual of Acupuncture 2025",
+     "dev": "The Journal of Chinese Medicine Publications Ltd.",
+     "ratings": 169,
+     "desc": "A Manual of Acupuncture – The Definitive App for Students & Practitioners.\n\n\nThis is the latest mobile app (iPhone/iPad) version of the foremost points textbook in the Western world - A Manual of Acup"
+    },
+    {
+     "name": "Visual Acupuncture 3D",
+     "dev": "GraphicVizion",
+     "ratings": 152,
+     "desc": "Study acupuncture visually and interactively.  \nGet a good feel for the flow of meridian pathways and their (anatomical) point locations. \n \nIncludes a complete interactive anatomy model (muscles, bon"
+    },
+    {
+     "name": "Chrono-Acupuncture Lite",
+     "dev": "Cheng-Ta Hsieh",
+     "ratings": 6,
+     "desc": "Are you an acupuncturist? Or would you like to be healthier? This app computes the principle acupuncture points for anytime of the day.\n\nChrono-Acupuncture Methods Available:\n - LingGuiBaFa\n - FeiTeng"
+    },
+    {
+     "name": "Acupuncture Points",
+     "dev": "Miridia Technology, Inc.",
+     "ratings": 94,
+     "desc": "Acupuncture Mastery Software\nVideo Demo!  View it here: http://www.miridiatech.com/products/points/iphone.php\n\n\"Just wanted to let you know I really like the points program.  I am a student in TCM and"
+    },
+    {
+     "name": "Acupuncture Master",
+     "dev": "Xi'an Vesalius Digital Technology Co., Ltd.",
+     "ratings": 9,
+     "desc": "\"3D Acupuncture Learning Platform Combined with Anatomy\"\nThis platform helps you view the meridians and acupoints of the entire human body anytime, anywhere, systematically and comprehensively learn k"
+    },
+    {
+     "name": "Tsubook",
+     "dev": "Studio Levart",
+     "ratings": 49,
+     "desc": "Tsubook is a mobile application with instant access to all the information you need about points, meridians and other content related to Traditional Chinese Medicine. It is both a reference book and a"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "ai personal trainer - faber",
+   "top": [
+    {
+     "name": "AI Personal Trainer - Faber",
+     "dev": "Laszlo Kovacs",
+     "ratings": 8,
+     "desc": "Faber  – Your Ultimate AI-Driven Fitness Companion\nUnlock your fitness potential with Faber, the all-in-one app that combines advanced AI with science-backed training methods to bring you the best-per"
+    },
+    {
+     "name": "Keep Trainer: Gym Workout Log",
+     "dev": "Calorie Tech Ltd.",
+     "ratings": 14049,
+     "desc": "Keep Trainer is your AI fitness coach for gym and home training.\n\n• AI Personalized workout plans — gym or bodyweight, beginner to advanced\n• Log sets, reps & weights — see your strength progress over"
+    },
+    {
+     "name": "Workout Trainer AI",
+     "dev": "Skimble",
+     "ratings": 7670,
+     "desc": "Hit your fitness goals anywhere with Workout Trainer. Powered by AI and expert-led, follow along to your personalized weekly plans including multimedia workouts for every fitness level. With thousands"
+    },
+    {
+     "name": "Zing AI: Home & Gym Workouts",
+     "dev": "Zing Coach Inc.",
+     "ratings": 30754,
+     "desc": "Zing is the ultimate AI Coach, revolutionizing fitness with AI-powered, personalized workouts designed by top health and fitness experts. Whether you're a beginner or an advanced athlete, Zing AI Coac"
+    },
+    {
+     "name": "Fitness AI Gym Workout Planner",
+     "dev": "FitnessAI Inc.",
+     "ratings": 55952,
+     "desc": "Workout at home or at the gym with FitnessAI’s advanced training algorithm to guide you through the perfect set, rep and weight combination to reach your fitness goals.\n \n● Get results with whatever e"
+    },
+    {
+     "name": "BodBot AI Workout Planner",
+     "dev": "BodBot",
+     "ratings": 2881,
+     "desc": "BodBot – Better AI, Better Workouts. \n\nYour Own AI-Powered Personal Trainer\nBodBot delivers hyper-personalized workouts tailored to your goals, equipment, fitness level, and schedule. Whether you're t"
+    },
+    {
+     "name": "Flex AI Workout Trainer & Log",
+     "dev": "Flex Artificial Intelligence Inc.",
+     "ratings": 2410,
+     "desc": "Flex AI is the world’s first true AI personal trainer — built for lifters who want to train smarter, progress faster, and perfect their form.\n\nWhether you’re chasing size, strength, or consistency, Fl"
+    },
+    {
+     "name": "Motra AI Workout Fitness Coach",
+     "dev": "Train Fitness Inc.",
+     "ratings": 3040,
+     "desc": "Motra (formerly known as Train Fitness) is the first app to offer automatic exercise tracking, using only the motion of your Apple Watch. Trusted by 100,000+ weight lifters, Motra is the future of AI "
+    },
+    {
+     "name": "Fitbod: Gym & Fitness Planner",
+     "dev": "Fitbod Inc.",
+     "ratings": 286506,
+     "desc": "*Apple Editor’s Choice Award Winner*\n\n\nBuild muscle, gain strength and lose weight with a customized workout plan just for you. Fitbod is the ultimate fitness platform made to help enhance your streng"
+    },
+    {
+     "name": "Planfit AI Gym Workout Planner",
+     "dev": "Planfit Inc.",
+     "ratings": 8213,
+     "desc": "Stop guessing your workout. Start seeing results. \nWhether you’re at home or in the gym, Planfit’s personalized workout plan helps you exercise smarter, achieve your fitness goals, and stay consistent"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "ai dietitian & meal plans:tera",
+   "top": [
+    {
+     "name": "AI Dietitian & Meal Plans:Tera",
+     "dev": "EcoWarrior, Inc.",
+     "ratings": 50,
+     "desc": "Personalized AI meal plans, recipes & Instacart grocery lists tailored to your health goals, conditions & dietary needs — powered by food-as-medicine science.\n\n\nThe Problem: How to Tailor Your Meal Pl"
+    },
+    {
+     "name": "eMeals - Healthy Meal Plans",
+     "dev": "eMeals, Inc.",
+     "ratings": 52668,
+     "desc": "eMeals is the easiest way for busy families to plan healthy meals. With 15 different weekly meal and diet plans there is sure to be enough recipe inspiration to please even the pickiest eater. Our mea"
+    },
+    {
+     "name": "Plan to Eat",
+     "dev": "Plan To Eat, LLC",
+     "ratings": 6106,
+     "desc": "Meal planning doesn’t have to feel like an inconvenience. Store all your recipes in one place, auto-generate a shopping list for your week, and let Plan to Eat help you find joy in meal planning again"
+    },
+    {
+     "name": "Samsung Food: Meal Planner",
+     "dev": "Whisk food",
+     "ratings": 6386,
+     "desc": "Samsung Food — The Most Powerful Free Meal Planning App\n\nWhat if your meal planner could do it all — for free?\n\nSamsung Food brings you everything you need to plan meals, save recipes, shop smarter, a"
+    },
+    {
+     "name": "Eat This Much - Meal Planner",
+     "dev": "Eat This Much Inc.",
+     "ratings": 22135,
+     "desc": "Put your diet on autopilot with Eat This Much. Tell us your diet goals, the foods you like, your budget, and what your schedule looks like, and we'll automatically generate a complete meal plan to mee"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Calo: AI Food Calorie Counter",
+     "dev": "Next Vision Limited",
+     "ratings": 25548,
+     "desc": "Achieve Your Weight Goals with Ease Using Calo\nLooking for an effective way to meet your weight and health goals? Welcome to Calo, your go-to app for seamless calorie tracking, meal planning, and adop"
+    },
+    {
+     "name": "Cal AI - Calorie Tracker",
+     "dev": "Viral Development LLC",
+     "ratings": 368234,
+     "desc": "HOW TO USE CAL AI:\n\n1) Answer lifestyle questions to build your plan\n\n2) Snap a photo of your meal*\n\n3) Get your nutritional breakdown*\n\nIf you want to get your dream body, Cal AI will help you get th"
+    },
+    {
+     "name": "Mealime Meal Plans & Recipes",
+     "dev": "Mealime Meal Plans Inc",
+     "ratings": 54092,
+     "desc": "Welcome to Mealime – the game changer for busy individuals, couples, and families who desire healthy meals without the fuss. With over 7 million users adopting healthier, stress-free lifestyles, it's "
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "personal trainer app",
+   "top": [
+    {
+     "name": "Fitness App (ABC Trainerize)",
+     "dev": "Trainerize.com",
+     "ratings": 68325,
+     "desc": "ABC Trainerize is the all-in-one coaching software for personal trainers, online coaches, gyms, and fitness studios. Build workout programs, deliver nutrition coaching, message clients, track progress"
+    },
+    {
+     "name": "LADDER Strength Training Plans",
+     "dev": "Ladder Technologies, Inc.",
+     "ratings": 204061,
+     "desc": "Try Ladder COMPLETELY FREE for 7 days. NO PAYMENT collected during trial.\n\nLADDER IS THE #1 APP FOR STRENGTH TRAINING\nApple's 2025 App of the Year Finalist\nApple's Editors Choice Award\nWomen's Health "
+    },
+    {
+     "name": "Everfit - Train smart",
+     "dev": "Everfit Technologies Inc.",
+     "ratings": 2705,
+     "desc": "Everfit is the #1 Fitness Intelligence platform built to connect fitness coaches and clients. Our goal is to help coaches save time, stay organized, streamline daily work, and empower their clients — "
+    },
+    {
+     "name": "Fitbod: Gym & Fitness Planner",
+     "dev": "Fitbod Inc.",
+     "ratings": 286506,
+     "desc": "*Apple Editor’s Choice Award Winner*\n\n\nBuild muscle, gain strength and lose weight with a customized workout plan just for you. Fitbod is the ultimate fitness platform made to help enhance your streng"
+    },
+    {
+     "name": "TrueCoach",
+     "dev": "TrueCoach, Inc.",
+     "ratings": 35503,
+     "desc": "TrueCoach is the number one platform for coaches and trainers who want to manage more clients with less admin work. Our easy to use workout builder features a 900+ video exercise library, plus the abi"
+    },
+    {
+     "name": "My PT Hub",
+     "dev": "Fitii LLC",
+     "ratings": 1860,
+     "desc": "My PT Hub is an online web and mobile application, enabling personal trainers & fitness professionals to manage their clients by creating customisable training and nutrition programmes, whilst trackin"
+    },
+    {
+     "name": "JEFIT Workout Plan Gym Tracker",
+     "dev": "Jefit Inc.",
+     "ratings": 46905,
+     "desc": "Get Fit and Strong with JEFIT: Your Reliable Gym Planner and Workout Tracker\n\nJEFIT is the ultimate workout tracker to plan your strength training, log workouts, and track exercise progress.\nWhether y"
+    },
+    {
+     "name": "Gym Workout Planner For Women",
+     "dev": "Shred Apps, LLC",
+     "ratings": 4968,
+     "desc": "Download the #1 female-focused gym workout app! Whether you're going to the gym to lose weight in those stubborn areas or to sculpt your butt, abs, legs and more, Gym Workouts For Women is the perfect"
+    },
+    {
+     "name": "Trainerfu For Personal Trainer",
+     "dev": "Manobal Jain",
+     "ratings": 3207,
+     "desc": "If you are a personal fitness trainer and looking for an online personal training app that can help you to train and manage all of your clients in one single place then you are at the right place. Wel"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dietitian exam prep 2026",
+   "top": [
+    {
+     "name": "Dietitian Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 35,
+     "desc": "Prepare to excel in the CDR Registered Dietitian (RD) Exam with our comprehensive study resources tailored for 2026. This app is designed to help aspiring dietitians master the necessary knowledge and"
+    },
+    {
+     "name": "CDR RD: Dietitian Exam 2026",
+     "dev": "INAPPLAB OU",
+     "ratings": 62,
+     "desc": "Preparing for the Dietetic Registration (RD) Exam? Our RD prep app is your trusted companion for success! With expertly designed practice questions, detailed explanations, and proven study strategies,"
+    },
+    {
+     "name": "Pocket Prep Medical 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6562,
+     "desc": "Unlock thousands of Medical certification exam practice questions and mock exams for the NHA CPT, CDR RD, PTCB PTCE, AAPC CPC, AAVSB VTNE, and more with Pocket Prep, the largest provider of mobile tes"
+    },
+    {
+     "name": "CDR RD Exam: Prep Test 2026",
+     "dev": "Wiktor Pabich",
+     "ratings": 1,
+     "desc": "The fastest way to prepare for the RD exam. Built around all Commission on Dietetic Registration content areas, with practice modes designed to build real confidence - not just familiarity with answer"
+    },
+    {
+     "name": "Dietitian Exam Prep 2024",
+     "dev": "TRENDING MOBAPPS SRL",
+     "ratings": 38,
+     "desc": "DIETITIAN Exam Prep 2024  allows you to study anywhere, anytime, right from your mobile device. A simple and convenient way to practice for your RD & RDN on the go.\n\nStudy anytime.Study anywhere.Maste"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Dietitian Exam To Go",
+     "dev": "Visual Veggies Software, LLC",
+     "ratings": 30,
+     "desc": "RD Exam Prep – Practice Tests for Dietitian Exam (CDR)\n\nPrepare with confidence using one of the most advanced RD exam prep apps for the Registration Exam for Dietitians (CDR exam)—now available anyti"
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    },
+    {
+     "name": "FNP Exam Mastery | Prep 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13151,
+     "desc": "Pass the AANPCB/ANCC or Triple Your Money Back! FNP Mastery is the #1 rated FNP exam prep app, developed by U.S.-based nurse practitioners who’ve been where you are.\n\nStart free today and get 10 board"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "vtne exam prep 2026 | vet tech",
+   "top": [
+    {
+     "name": "VTNE Exam Prep 2026 | Vet Tech",
+     "dev": "EZ Test Prep",
+     "ratings": 242,
+     "desc": "**Pass the VTNE Without Needing Nine Lives**\n\nYou’ve survived animal restraint labs, memorized more drug names than a pharmacist, and learned how to keep a cat calm while it screams into the void. Now"
+    },
+    {
+     "name": "VTNE Exam Prep 2026: Vet Tech",
+     "dev": "Get Exam",
+     "ratings": 15,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the veterinary technician material with 1500+ exam-like questions and 450+ flashcards that help you remember more. Get access to over a dozen practice exams that will he"
+    },
+    {
+     "name": "VTNE Exam Prep Vet Tech Test",
+     "dev": "Best Fun Games",
+     "ratings": 1183,
+     "desc": "Pass your Veterinary Technician National Examination (VTNE) exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,500+ ques"
+    },
+    {
+     "name": "VTNE Exam Prep Practice 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 5,
+     "desc": "Help you prepare for the VTNE certification exam and pass it on your first attempt at the actual exam! Use the mobile app VTNE Practice Exam Prep 2026 developed by our exam experts to help prepare for"
+    },
+    {
+     "name": "VTNE NAVLE Exam Prep | 2026",
+     "dev": "Prepia Inc",
+     "ratings": 43,
+     "desc": "Prepare faster and easier with Vet Prep App, your all-in-one tool to succeed! Whether you're at the clinic or relaxing at home, take our app with you and confidently ace your exams.\n\nVet Prep App is t"
+    },
+    {
+     "name": "Pocket Prep Medical 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6562,
+     "desc": "Unlock thousands of Medical certification exam practice questions and mock exams for the NHA CPT, CDR RD, PTCB PTCE, AAPC CPC, AAVSB VTNE, and more with Pocket Prep, the largest provider of mobile tes"
+    },
+    {
+     "name": "VTNE Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 31,
+     "desc": "VTNE Test Prep 2026 is an application that has been carefully designed and developed by industry exam experts. It has over 1,500 high quality test questions with answer explanations, multiple test mod"
+    },
+    {
+     "name": "VTNE Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 60,
+     "desc": "VTNE Exam Prep 2026 is an exam preparation application that will help you pass the Veterinary Technicians National Exam (VTNE) administered by the American Association of Veterinary State Boards (AAVS"
+    },
+    {
+     "name": "VTPrep: Vet Tech Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 207,
+     "desc": "Pass your VTNE with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nUpdated for the 2026 VTN"
+    },
+    {
+     "name": "VTNE Practice Tests 2026",
+     "dev": "KYLIEPREP",
+     "ratings": 1,
+     "desc": "Introducing the VTNE Exam Tutor, your ultimate study companion for the Veterinary Technician National Exam (VTNE).\n\n\nThe VTNE exam is a critical certification exam for veterinary technicians who aspir"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "optometry boards prep",
+   "top": [
+    {
+     "name": "Optometry Boards Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "You are one exam away from becoming a licensed optometrist.\n\nThe NBEO® Part 1 is comprehensive and demanding. It covers the full depth of optometry science. Walking in underprepared is not an option.\n"
+    },
+    {
+     "name": "Dental Boards Mastery: INBDE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1540,
+     "desc": "Pass the INBDE® or Triple Your Money Back! The most popular INBDE prep app, developed by a U.S.-based team of dentists.\n\n3,000+ INBDE Exam Practice Questions (Including 350+ Mental Dental Videos!)\n\n- "
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "Crack iNBDE Dental Boards Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 1,
+     "desc": "You didn't spend four years in dental school to fail the Dental Boards.\n\nThe iNBDE (Integrated National Board Dental Examination) is the last exam standing between you and your DDS or DMD license. Eve"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "KMK Optometry Pages",
+     "dev": "KMK Optometry",
+     "ratings": 6,
+     "desc": "\"KMK AI Reader is your all-in-one study companion—designed to help you learn more efficiently and engage with your content like never before.\n\nAccess your full library of KMK digital textbooks and mat"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "relief vet tech",
+   "top": [
+    {
+     "name": "Roo - Veterinary Relief",
+     "dev": "Roo Veterinary, Inc.",
+     "ratings": 2115,
+     "desc": "Enjoy the largest veterinary relief network on the go with Roo’s free app for Vets, Techs, and hospitals to book shifts wherever you hop! \n\nOver 20,000 Vets and Techs use Roo to find relief shifts tha"
+    },
+    {
+     "name": "The VRC Team",
+     "dev": "The Veterinary Relief Company, LLC",
+     "ratings": 0,
+     "desc": "Booking App for Veterinary Relief Shifts - Doctors, Technicians, Veterinary Assistants & Hospitals\n\nAre YOU a member yet? Download and join The Veterinary Relief Company for FREE! - The VRC Team app i"
+    },
+    {
+     "name": "Pawp: 24/7 Vet & Pet Care",
+     "dev": "Pawp, Inc.",
+     "ratings": 14860,
+     "desc": "As featured in Forbes, NBC, Money, People, Insider, and Variety, Pawp is a modern vet clinic that puts an expert in your back pocket so you’re never alone when it comes to your pet’s health. Pawp’s pe"
+    },
+    {
+     "name": "Vetster – Online Vets 24/7",
+     "dev": "Vetster Inc.",
+     "ratings": 2794,
+     "desc": "Vetster connects you with trusted veterinarians available 24/7 to provide online care for your pet from the comfort of your own home. Get ongoing care for $10/month or book a single appointment.\n\nDown"
+    },
+    {
+     "name": "Vet Patrol - Veterinary Games",
+     "dev": "BWEB SARL",
+     "ratings": 5596,
+     "desc": "Become a vet and help heal animals at the zoo who need help. Here you can get dressed up in your vet outfit, attend to the lion panda, elephant, giraffe and crocodile to help them in their time of nee"
+    },
+    {
+     "name": "Airvet for Pet Parents",
+     "dev": "airVet, Inc",
+     "ratings": 11130,
+     "desc": "Airvet partners with workplaces to give employees 24/7 on-demand access to virtual vet care, making sure you have easy access to expert care and support for anything that comes your way. Our award-win"
+    },
+    {
+     "name": "Dutch Vet - Online vet 24/7",
+     "dev": "Dutch",
+     "ratings": 706,
+     "desc": "Our licensed vets can treat over 90% of issues virtually. No stress, hassle, or big bill. From sudden illnesses and chronic conditions to prevention and second opinions, we’re here to help your pet be"
+    },
+    {
+     "name": "Bond Vet",
+     "dev": "Bond Veterinary, Inc",
+     "ratings": 8,
+     "desc": "Bond Vet brings the veterinary clinic into the modern world, elevating it for pets and people alike. With evening/weekend hours, same-day visits, and a seamless tech-enabled experience, we’re always t"
+    },
+    {
+     "name": "Hound - Vet Med Jobs & Relief",
+     "dev": "Hound, Inc.",
+     "ratings": 5,
+     "desc": "Built by vet med for vet med, Hound gives veterinary professionals flexibility and transparency in how and where they want to work - for free. We’re trusted by tens of thousands of workers in all 50 s"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "pharmacy technician prep",
+   "top": [
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "PTCB PTCE Practice Test - 2026",
+     "dev": "Thanh Hung",
+     "ratings": 1500,
+     "desc": "Get ready to pass your Pharmacy Technician Certification Exam (PTCE) with confidence! The PTCE Practice Test app helps you master key pharmacy concepts through realistic questions, detailed explanatio"
+    },
+    {
+     "name": "Pharmacy Technician Prep",
+     "dev": "Tracy Gates",
+     "ratings": 0,
+     "desc": "Pharmacy Technician Prep\n\nPrepare with confidence using a complete pharmacy technician exam prep system built around structured exams, real-world scenarios, and a full mock certification test.\n\nPharma"
+    },
+    {
+     "name": "Pharmacy Technician Prep Exam",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Study for the pharmacy technician certification exam (PTCB / PTCE) with original practice questions written for this app from the publicly available PTCB knowledge domains. Every question has a clear "
+    },
+    {
+     "name": "PTCB & PTCE Exam Prep 2026",
+     "dev": "TRENDING MOBAPPS SRL",
+     "ratings": 259,
+     "desc": "PASS THE PTCE WITH CONFIDENCE\n\nPreparing for the Pharmacy Technician Certification Examination can feel overwhelming. Medications, federal requirements, calculations, patient safety, and prescription "
+    },
+    {
+     "name": "PTCB",
+     "dev": "MastrAPI",
+     "ratings": 564,
+     "desc": "Pass your Pharmacy Technician exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "MLB Clutch Hit Baseball 26",
+     "dev": "WILD CALY PTE. LTD.",
+     "ratings": 15033,
+     "desc": "Welcome to MLB Clutch Hit Baseball 26 – the revolutionary, fan-favorite mobile baseball game, officially licensed by MLB and MLBPI, now featuring all-new 2026 World Baseball Classic exclusive content!"
+    },
+    {
+     "name": "Prepia Pharmacy Tech Exam Prep",
+     "dev": "Prepia Inc",
+     "ratings": 904,
+     "desc": "Prepare confidently for your national PHARMACY TECHNICIAN  exam with 1,600+ realistic practice questions designed to help you study smarter and pass with confidence.\n\nWhether you're at work or relaxin"
+    },
+    {
+     "name": "Pharmacy Technician PTCE Mock Test and Explanation",
+     "dev": "Abdullah Nurum",
+     "ratings": 972,
+     "desc": "This app is built for people who want to take the PTCB exam. It includes the following sections: Tests(Mock Test and Learning mode), Book Outline, Flash Cards, Jobs and Schools. The Tests section incl"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

@@ -92,6 +92,10 @@
    {
     "true": "The phrase reads like an exact app title or an organization name, even a long or descriptive one, and a top result's title or developer carries its distinctive words (e.g. 'check in tools for the joint chiropractic clinics', 'pilot driver app', 'pharmacy technician letter')",
     "false": "The phrase is what a person types to find any app for a topic, exam, certification or tool, with the same words shared by many unrelated developers' titles (e.g. 'chiropractic exam prep', 'pilot logbook', 'epa 608 practice test')"
+   },
+   {
+    "true": "The phrase is the exact name of one app, publisher or organization, and one result's title or developer repeats all of its distinctive words as a name (e.g. 'pharmacy technician letter', 'paramedic coach', 'pilot driver app')",
+    "false": "The phrase is a topic plus a generic word such as review, special populations, airway, guide, notes, coach-style tool or study aid that several unrelated apps could be titled (e.g. 'paramedic airway review', 'paramedic special pops review', 'chiropractic exam prep')"
    }
   ]
  },

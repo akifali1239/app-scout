@@ -24499,6 +24499,597 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "farrier fleet",
+   "top": [
+    {
+     "name": "Farrier Fleet",
+     "dev": "Simon Fleet",
+     "ratings": 0,
+     "desc": "Farrier Fleet helps farriers keep clients, horses, appointments, shoeing records, hoof photos, and loadouts organised in one place.\n\nDesigned around the day-to-day needs of working farriers, Farrier F"
+    },
+    {
+     "name": "Simply Fleet: Fleet Management",
+     "dev": "Mrigaen Kapadia",
+     "ratings": 258,
+     "desc": "Simply Fleet is a fleet maintenance app (mobile + web) that helps you manage fleet vehicles, machines, equipment, and small tools. It helps teams stay on top of preventive maintenance, inspections, fu"
+    },
+    {
+     "name": "Fleet Insight",
+     "dev": "Penske Truck Leasing Co. L.P",
+     "ratings": 41,
+     "desc": "All Penske customers registered in Fleet Insight™ can download the Fleet Insight app. Fleet Insight is designed to make your job easier by providing real-time visibility into unit details and document"
+    },
+    {
+     "name": "IntelliShift - Fleet",
+     "dev": "Vehicle Tracking Solutions",
+     "ratings": 40,
+     "desc": "Your fleet, wherever the work is.\n\nIntelliShift Fleet puts live asset location, engine health, and open maintenance in your team's pocket, so they can check a vehicle's status without going back to a "
+    },
+    {
+     "name": "InTouch Fleet",
+     "dev": "InTouch GPS",
+     "ratings": 20,
+     "desc": "We understand you need access to your fleet even when you are away from the office computer. With the InTouch GPS Mobile App you can now access the important information you need about your fleet anyt"
+    },
+    {
+     "name": "eFleets Mobile",
+     "dev": "Enterprise Fleet Management",
+     "ratings": 35,
+     "desc": "The eFleets Mobile App empowers Enterprise Fleet Management (EFM) clients and their drivers by offering a range of features to enhance fleet savings and simplify the driving experience.\n\n\nThis App all"
+    },
+    {
+     "name": "Stellantis Fleet",
+     "dev": "FCA US LLC",
+     "ratings": 5,
+     "desc": "We’ve launched an all-new app for Stellantis Fleet, designed to bring this year’s catalog to life! Explore the latest features, vehicles, and services with a seamless, user-friendly experience. Update"
+    },
+    {
+     "name": "Link-X Fleet Solutions",
+     "dev": "Link-X Fleet Solutions",
+     "ratings": 3,
+     "desc": "Link-X is the end-to-end fleet management software solution that connects all industry resources to its platform. Link-X provides crucial data and reporting for companies or owner-operators to reduce "
+    },
+    {
+     "name": "Standard Fleet",
+     "dev": "Standard Fleet, Inc.",
+     "ratings": 25,
+     "desc": "Keep your connected fleet vehicles out of trouble with Standard Fleet.\n\nStandard Fleet is a Fleet Management platform designed for all connected vehicles — no dongles needed. Proactively manage your F"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "maniagenda: nail tech booking",
+   "top": [
+    {
+     "name": "ManiAgenda: Nail Tech Booking",
+     "dev": "Home Of Deva S.L.",
+     "ratings": 0,
+     "desc": "The appointment book made for nail techs.\n\nManiAgenda keeps your appointments, clients and earnings in one place, so you can stop juggling a paper diary, DMs and WhatsApp chats.\n\nBOOK IN SECONDS\n• You"
+    },
+    {
+     "name": "My Fashion Nail Salon Game",
+     "dev": "BWEB SARL",
+     "ratings": 11961,
+     "desc": "Fashion is a flare like no other, and what better way to show off a new fashion than by getting a manicure done on your nails with this nail salon game! Here you can really feel like a celebrity and h"
+    },
+    {
+     "name": "Nailzy.com",
+     "dev": "nailsa2z",
+     "ratings": 1032,
+     "desc": "Nailzy is the all-in-one platform for nail professionals, salon owners, and beauty businesses.\n\nProfessionals can create a free booking website, manage appointments, organize client records, track sta"
+    },
+    {
+     "name": "Nail Tech Appointment: AppNail",
+     "dev": "Akyno Apps",
+     "ratings": 103,
+     "desc": "AppNail – Appointment Book for Nail Technicians and Beauty Salons\n\nOrganize your appointments, increase your productivity, and professionalize your service with AppNail, the complete appointment book "
+    },
+    {
+     "name": "Nail Salon - Girl Art Game",
+     "dev": "Unickie Technology Co., Ltd.",
+     "ratings": 54389,
+     "desc": "Do you like to play games of nail design and nail polish? Come and experience the charm of beautiful nails at Nail Salon!\nNail Art is a handmade manicure bazaar simulation game where you are a profess"
+    },
+    {
+     "name": "Nail Tech Booking App",
+     "dev": "Alexander Hitrik",
+     "ratings": 2,
+     "desc": "Nail Tech Booking App is an all-in-one app for nail professionals who want to run their nail business with clarity and confidence.\n\nManage clients, appointments, nail services, notes, photos, finances"
+    },
+    {
+     "name": "Acrylic Nails!",
+     "dev": "Crazy Labs",
+     "ratings": 444350,
+     "desc": "Congrats you have your own nail salon! \n\nTime to give some hands an acrylic DIY makeover - drill, lengthen, shape, and polish some gorgeous nails. \n\nIt’s up to you to makeover nails with art and give "
+    },
+    {
+     "name": "Nail Woman: Baddies Long Run",
+     "dev": "Matchingham Games",
+     "ratings": 4640,
+     "desc": "Hi Baddie Girl! Are you ready for the longest nail-walk? Get ready to rock the podium with your long nails! \n\nPlay this fun game, show your charming catwalk and twerk at the final with all baddies.\n\nM"
+    },
+    {
+     "name": "Nail Technician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 1805,
+     "desc": "Pass your State Board of Nail Technology exam with the help of the new Nail Technician Exam Center app! \n\nThousands of Nail Tech questions and their detailed explanations are now available at your fin"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "bunting - birding companion",
+   "top": [
+    {
+     "name": "Bunting - Birding Companion",
+     "dev": "Rivolu LLC",
+     "ratings": 2,
+     "desc": "Bunting is a field journal for birders. Built for the way birding actually happens: outdoors, hands full, often with no signal.\n\nStart a session when you set out. Log with a tap, from your lock screen"
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    },
+    {
+     "name": "Birdbuddy: ID & Collect Birds",
+     "dev": "Buddy Bird Inc",
+     "ratings": 61868,
+     "desc": "Birdbuddy is the world’s most recognized app for discovering and learning about birds – whether you’re using our smart bird feeder in your backyard or identifying birds anywhere with just your phone.\n"
+    },
+    {
+     "name": "Merlin Bird ID by Cornell Lab",
+     "dev": "Cornell University",
+     "ratings": 113546,
+     "desc": "What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.\n\nMerlin helps you identify birds you see and hear. Merlin is unlike any"
+    },
+    {
+     "name": "Bird Identifier: BirdScope",
+     "dev": "Scala technology limited",
+     "ratings": 2937,
+     "desc": "BirdScope offers incredibly quick identification assistance, catering to bird watchers at all experience levels and outdoor enthusiasts alike. Using advanced AI image recognition and audio analysis te"
+    },
+    {
+     "name": "Smart Bird ID: Identify Birds",
+     "dev": "Yellow Cardinal Inc.",
+     "ratings": 16799,
+     "desc": "Identify, Collect and Learn – Free. No Ads. Ever.\n\nSmart Bird ID is the all-in-one bird identifier, bird song identifier, bird call identifier, bird sounds guide, and bird watching app for birders, fa"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "countsy - countdown widget",
+   "top": [
+    {
+     "name": "Countsy - Countdown Widget",
+     "dev": "Oguz Aydemir",
+     "ratings": 106,
+     "desc": "Your next birthday is 127 days away. Your wedding? 43. That vacation you've been dreaming about? Just 12. Countsy puts a beautiful countdown widget on your Home Screen and Lock Screen so every glance "
+    },
+    {
+     "name": "Countdown",
+     "dev": "Find Appiness LLC",
+     "ratings": 187774,
+     "desc": "Countdown is a free, super easy to use countdown timer and reminder for the important events & dates in your life.\n\nFeatures:\n• Check your events on the Lock Screen with our widget (Premium feature)\n•"
+    },
+    {
+     "name": "Countdown Buddy",
+     "dev": "Taptics Ltd.",
+     "ratings": 26026,
+     "desc": "EVERYTHING YOU ARE WAITING FOR - IN A WIDGET\n\nDesign your own personalized countdown or count-up widgets for your home screen & lock screen.  \nCountdown Widget is a super fun way to track the days unt"
+    },
+    {
+     "name": "Countdown  ‎",
+     "dev": "Sevenlogics, Inc.",
+     "ratings": 11424,
+     "desc": "Count down to your next event — a vacation, your favorite band's concert, a movie premiere, a graduation, an anniversary, and more — in style!\n\nFeatures:\n\nLOCK SCREEN WIDGETS: Add countdown widgets to"
+    },
+    {
+     "name": "Countdown@",
+     "dev": "Wuhan Linggu Dingdang Technology Co., Ltd",
+     "ratings": 40189,
+     "desc": "Countdown@ is a super easy to use countdown timer for the important events in your life.\n\nCount down to your next event: Vacation, Birthday, Holiday, Party, Thanksgiving, Christmas, Halloween, and mor"
+    },
+    {
+     "name": "Widget | Countdown to birthday",
+     "dev": "Appville Limited",
+     "ratings": 4350,
+     "desc": "Widgets - that’s what makes your home screen bright and useful instantly. Choose from a variety of standard yet fantastic categories or well-thought out themes. No matter what your choice is going to "
+    },
+    {
+     "name": "TimeCount - Countdown & Widget",
+     "dev": "App Forgeron LLC",
+     "ratings": 24272,
+     "desc": "Countdown to your life's most special moments.\n\nIt’s the small things in life that matter most – birthdays, anniversaries, weddings, and heartwarming gatherings with your favorite people. With TimeCou"
+    },
+    {
+     "name": "Countdown & Count Up Timer",
+     "dev": "Yoji Shimobayashi",
+     "ratings": 2315,
+     "desc": "How long until the day you’re waiting for? How long has it been since a moment worth remembering?\n\nCountdown & Count Up Timer makes important dates easy to follow. Count down to something you’re looki"
+    },
+    {
+     "name": "Countdown: Event Countdown",
+     "dev": "ROOT38 LIMITED",
+     "ratings": 23872,
+     "desc": "Event Countdown is the beautifully simple countdown, calendar and widget app for the important days in your life. Counting down since 2015, rated 4.7 stars from over 130,000 ratings worldwide.\n\nThe or"
+    },
+    {
+     "name": "Countdown Star",
+     "dev": "Joseph Merrill",
+     "ratings": 215956,
+     "desc": "Countdown Star is the best way to countdown to — and count up from — all of your favorite events.\n\nCountdown to birthdays, holidays, an upcoming vacation, a wedding, the New Year, parties, sporting ev"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "tattoo kultur magazine",
+   "top": [
+    {
+     "name": "Tattoo Kultur magazine",
+     "dev": "PressPad Sp. z o.o.",
+     "ratings": 1,
+     "desc": "Kultur Magazine's Tattoo Kultur is a special edition magazine focused on showcasing tattooed professionals and artists and the work that they do. A magazine for the Tattoo enthusiasts worldwide, we br"
+    },
+    {
+     "name": "AI Tattoo Generator - InkLab",
+     "dev": "88 Tech",
+     "ratings": 2546,
+     "desc": "AI Tattoo Generator - InkLab: Turn Your Imagination Into Ink\n\nExplore your creativity with AI Tattoo Generator - InkLab, the most advanced tattoo design app for generating personalized, high-quality t"
+    },
+    {
+     "name": "Tattoo AI - Tattoo Design",
+     "dev": "HUBX",
+     "ratings": 51004,
+     "desc": "Tattoo AI: Your Go-To App for Creating Unique Tattoos Effortlessly! Whether you’re a tattoo enthusiast, a first-timer considering getting inked, or a tattoo artist looking for inspiration, Tattoo AI h"
+    },
+    {
+     "name": "AI Tattoo Generator - INKDNA",
+     "dev": "Meijing Mechanical & Electrical Environmental Protection (Shanghai) Co., Ltd.",
+     "ratings": 5782,
+     "desc": "InkDNA - AI Tattoo Generator \n\nWith the AI Tattoo Generator, you can instantly generate unique tattoo designs and unlock endless tattoo inspiration. You can also share your designs with your friends a"
+    },
+    {
+     "name": "Tattoo Design Try On - Tatship",
+     "dev": "Convinced Creations Company Limited",
+     "ratings": 1117,
+     "desc": "Tattoo Design Try On: Tatship\nVirtual Tattoo Try-On for Safe and Easy Decisions\n\nReady to get inked but not sure where or what to choose? Tatship is your personal tattoo simulator—the ultimate virtual"
+    },
+    {
+     "name": "Next Ink: AI Tattoo Design",
+     "dev": "IdeaLabs",
+     "ratings": 1913,
+     "desc": "Welcome to your personal tattoo design guide! Whether you're dreaming of a bold new piece or something uniquely yours, Next Ink is here to help you create the perfect tattoo.\n\nExplore a Variety of Sty"
+    },
+    {
+     "name": "Tattoo : How to Draw & Editor",
+     "dev": "Gorasiya Vishal Nanjibhai",
+     "ratings": 4,
+     "desc": "Are you a tattoo lover ? Do you want to learn tattoo drawing ? Do you want some tattoo ideas ? You will get all in one pack.\n\nCreate your beautiful photo with our application, tattoo photo editor. You"
+    },
+    {
+     "name": "PreInk: AI Tattoo Generator",
+     "dev": "Reface Europe UAB",
+     "ratings": 2446,
+     "desc": "PreInk: Your Personal Tattoo Designer and Virtual Try-On\n\nPreInk transforms your tattoo experience. \nCreate personalized tattoo designs easily with just a few taps, and then see how they look on your "
+    },
+    {
+     "name": "INKHUNTER - AI Tattoo Design",
+     "dev": "InkHunter",
+     "ratings": 25002,
+     "desc": "Try on virtual tattoos with AUGMENTED REALITY before it’s inked forever. The app projects any tattoo design on any part of your body so you can see how it will look.\n\n- Try on your own tattoo design, "
+    },
+    {
+     "name": "TATTOO PRT",
+     "dev": "Xiamen Wenyin Intelligent Technology Co., Ltd.",
+     "ratings": 8,
+     "desc": "The app connects via Bluetooth. Key features include:\nImage editing and processing, with support for printing on tattoo transfer paper.\nDocument printing support."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "florist now- flowers & gifts",
+   "top": [
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Bleems - Flowers & Gifts",
+     "dev": "Bleems Website Design and Management Co.",
+     "ratings": 12359,
+     "desc": "Bleems - Flowers, Confections, Gifts & AI Shopper  \n\nCelebrate every moment with Bleems, the easiest way to send flowers, chocolates, cakes, confections, perfumes, incense, and unique gifts. Enjoy sam"
+    },
+    {
+     "name": "FNP: Gifts, Flowers, Cakes App",
+     "dev": "Ferns N Petals Pvt. Ltd.",
+     "ratings": 1466,
+     "desc": "FNP (Ferns N Petals) is your one-stop app for online cake delivery, gifts for him & her, anniversary & valentine gifts, flowers, and more! Whether you need to order cakes online, find birthday gifts f"
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    },
+    {
+     "name": "Flowwow: Gifting Marketplace",
+     "dev": "FLOWWOW LLC",
+     "ratings": 3285,
+     "desc": "Flowwow is an online marketplace that connects sellers and customers in more than 1,300 cities around the world. \nOn Flowwow, you can order fresh seasonal flowers, delicious desserts, and gifts for an"
+    },
+    {
+     "name": "Florose - Flowers and Gifts",
+     "dev": "ROSE AL-FAKHERAH",
+     "ratings": 41,
+     "desc": "Florose is where love and thoughtfulness bloom. \n\nWe believe in creating moments that touch the heart and leave a lasting smile. Whether it's a birthday, anniversary, or a simple gesture of love, Flor"
+    },
+    {
+     "name": "The Cozy Florist",
+     "dev": "RiftSky Games",
+     "ratings": 30754,
+     "desc": "Looking for a heartwarming game to relax without boredom? Eager to meet like-minded friends but afraid of social awkwardness? This game filled with flowers and surprises solves all your worries!\nDual "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "esthetician games",
+   "top": [
+    {
+     "name": "Makeup Stylist -DIY Salon game",
+     "dev": "LI SAIHUA",
+     "ratings": 121400,
+     "desc": "Do you dream of becoming a makeup artist? Have you been looking for a fun makeover fashion salon games for girls？Makeup Styling is exactly what you are waiting for! Choose your favorite model and give"
+    },
+    {
+     "name": "Makeup ASMR: Makeover Story",
+     "dev": "Makeup Games for FUN",
+     "ratings": 121145,
+     "desc": "Welcome to Welcome to Makeup ASMR: Makeover Story! Immerse yourself in a relaxing yet thrilling makeup gaming experience! You can help them solve problems such as acne, dark circles, and wrinkles on t"
+    },
+    {
+     "name": "Perfect Wax 3D: ASMR Makeover",
+     "dev": "AI Games FZ",
+     "ratings": 37107,
+     "desc": "Discover your inner beauty expert with Perfect Wax 3D, the great addition to the ASMR games universe. Step into a vibrant depilation beauty salon, your very own ASMR clinic, where you take on the enga"
+    },
+    {
+     "name": "Esthetician Exam Prep Test",
+     "dev": "Best Fun Games",
+     "ratings": 573,
+     "desc": "Pass your Esthetician State Board exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ questions written by experts, "
+    },
+    {
+     "name": "Beauty Care!",
+     "dev": "RUBY OYUN VE YAZILIM DANISMANLIK SANAYI TICARET ANONIM SIRKETI",
+     "ratings": 339555,
+     "desc": "Complete SATISFYING mini games to unlock more tool and update your office.\n\nCan you trim all the hair?"
+    },
+    {
+     "name": "Makeover Games: Makeup Salon",
+     "dev": "Salon™",
+     "ratings": 42817,
+     "desc": "Hey girls! Welcome to Beauty SPA Salon! \nNow, you are the owner of this salon! Treat your clients with different desires. \n\nWe have 6 different services and please start from a comfortable facial SPA."
+    },
+    {
+     "name": "Makeover Artist-Makeup Games",
+     "dev": "Hugesoft Technology Co., Ltd.",
+     "ratings": 34452,
+     "desc": "Welcome to Makeover Artist-Makeup Games, where you become the ultimate makeup artist extraordinaire. Immerse yourself in a world of fashion and makeup as you embark on dramatic storylines that will te"
+    },
+    {
+     "name": "Dress Up & Beauty Salon Games",
+     "dev": "Usama Ahmad Butt",
+     "ratings": 15,
+     "desc": "Welcome to beauty salon games, the best game! Will you participate in the beauty care competition? Come and participate in the beauty and fashion show competition in this amazing school competition. Y"
+    },
+    {
+     "name": "Make up Artist - Makeup Games",
+     "dev": "Survival Games Production",
+     "ratings": 12,
+     "desc": "Diy Makeup artist is a free game for girls to gives you hours of fun for you and the whole family, developing attention to your beauty and teach the girls to take care of himself by preparing his hair"
+    },
+    {
+     "name": "My Town: Beauty Spa Salon Game",
+     "dev": "My Town Games LTD",
+     "ratings": 9342,
+     "desc": "Have a perfect spa day at your very own Hair Salon & Beauty Spa in this My Town game for girls\n\nIt’s time to sit back and treat yourself to a spa day of pampering at the My Town : Hair Salon & Beauty "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "hvac games",
+   "top": [
+    {
+     "name": "HVAC Challenge: Quiz & Trainer",
+     "dev": "Tauris McBride",
+     "ratings": 9,
+     "desc": "HVAC Challenge: Quiz & Trainer, how well do you REALLY know your HVAC equipment?\n\nThink you can name every part on a commercial chiller? Prove it. HVAC Challenge drops you inside a real 3D HVAC machin"
+    },
+    {
+     "name": "HVAC Mastery",
+     "dev": "arjan qema",
+     "ratings": 2,
+     "desc": "HVAC Mastery is the hands-on study companion for anyone learning the heating, ventilation, air conditioning, and refrigeration trade — from first-year apprentices to experienced technicians brushing u"
+    },
+    {
+     "name": "Danfoss Troubleshooter",
+     "dev": "Danfoss A/S",
+     "ratings": 3,
+     "desc": "Troubleshooter is now part of the new Ref Tools app, our essential, all-in-one mobile app for air conditioning and refrigeration technicians. Ref Tools gives you access to the tools, guidance, support"
+    },
+    {
+     "name": "HVAC Know It All",
+     "dev": "HVAC Know It All Inc.",
+     "ratings": 223,
+     "desc": "HVAC Know It All is a community of HVAC/R professionals. The goal, through educational discussion, is to become better technicians, installers, company owners, educators and students of the trade.\n\nPR"
+    },
+    {
+     "name": "Electrical Troubleshooting MS",
+     "dev": "David White",
+     "ratings": 121,
+     "desc": "Totally FREE!\nNo ads or pop-ups!\n\nHow this App Works:\n\nThis app has 17 different electrical problems that are randomly selected to provide a fun and challenging learning experience. It is certain to h"
+    },
+    {
+     "name": "HVAC AI: Tools & Simulator",
+     "dev": "RODRIGO DIAZ",
+     "ratings": 2,
+     "desc": "HVAC AI is the all-in-one app for HVAC technicians, engineers and students. Diagnose faults, read error codes, calculate refrigerant values, and replace your old laminated PT chart with the Refrigeran"
+    },
+    {
+     "name": "서울|부산 밝은세상안과",
+     "dev": "ILOVEEYE Center Co., Ltd.",
+     "ratings": 0,
+     "desc": "온라인 예약 , 복약지도 , 내원확인을 앱으로 할 수 있으며 , 쇼핑몰에서 병원 물품을 편리하게 구매할 수 있습니다.\n\n[주요기능]\n-수술전 검사 예약\n-수술후 진료예약\n-수술후 관리(수술 후 주의사항, 복약지도,안약점안방법)\n-마이차트(수술정보,서류안내)\n-쿠폰관리\n-수술 리뷰\n-눈 관리 용품 쇼핑몰 제품 구매\n-제품 리뷰"
+    },
+    {
+     "name": "HVAC School",
+     "dev": "Kalos Services Inc.",
+     "ratings": 85,
+     "desc": "The app that helps you remember some things you forgot along the way, as well as helps you remember some things you forgot to know in the first place.\n\nFor all current and aspiring HVAC technicians: H"
+    },
+    {
+     "name": "EPA 608 Exam Prep & HVAC Test",
+     "dev": "Best Fun Games",
+     "ratings": 1633,
+     "desc": "Pass your EPA 608 certification exams with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 1,600+ questions written by experts, d"
+    },
+    {
+     "name": "Handyman! 3D",
+     "dev": "Rooster Games",
+     "ratings": 19124,
+     "desc": "Can you be a very successful construction expert?\n\n- Free  to play. Play it anywhere anytime.\n- Funny gameplay\n- Awesome graphics.\n\n\n\n\nFor Privacy Policies visit : http://roostergames.net/PrivacyPolic"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "volume booster and amplifier",
+   "top": [
+    {
+     "name": "Extra Volume Booster",
+     "dev": "沄 鱼",
+     "ratings": 1522,
+     "desc": "This is a powerful Volume Booster. It can increase the volume of the low-level audio files to higher quality sound than the default value of the system to obtain additional volume enhancement and soun"
+    },
+    {
+     "name": "Volume Booster – Sound Booster",
+     "dev": "Bung Bien Vu",
+     "ratings": 186,
+     "desc": "Enjoy a clean and powerful audio experience designed for effortless control.\n\nEasily connect to your favorite Bluetooth speakers or headphones and fine-tune your sound with built-in volume, EQ, and ba"
+    },
+    {
+     "name": "LoudPhone: Increase Volume",
+     "dev": "LSA LTD",
+     "ratings": 4,
+     "desc": "Hear every word. Even the quiet talkers.\n  \n  LoudPhone turns your iPhone and headphones into a real-time sound amplifier. It picks up the sounds around you through your microphone and plays them back"
+    },
+    {
+     "name": "Max Volume Booster & Louder",
+     "dev": "ZENPALI GROUP JOINT STOCK COMPANY",
+     "ratings": 142,
+     "desc": "Max Volume Booster & Louder app is your ultimate solution for maximizing phone volume beyond default settings.\n\nBoost your audio output for Bluetooth speakers or headphones effortlessly. Sync and enjo"
+    },
+    {
+     "name": "Volume Booster Bass Booster",
+     "dev": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+     "ratings": 25483,
+     "desc": "Is your phone volume just not cutting it? Transform your listening experience with Volume Booster, the ultimate sound booster designed to unleash your device's true audio potential! Say goodbye to muf"
+    },
+    {
+     "name": "Louder Volume Booster: Amplify",
+     "dev": "Gokhan BAYRAM",
+     "ratings": 13,
+     "desc": "Louder Volume Booster: Amplify – Make Your Music Louder & Richer!\n\nTake your audio experience to the next level with Louder Volume Booster.     Whether you’re listening to music, watching videos, or p"
+    },
+    {
+     "name": "Volume Booster - EQ Amplifier",
+     "dev": "Nguye Thi Hien",
+     "ratings": 7344,
+     "desc": "Volume booster is a simple, small but powerful app to boost volume of your phone and tablet to extra volume. Useful for movies, audio books, music and games.\nVolume booster can increase volume of all "
+    },
+    {
+     "name": "Volume Boost – Sound Amplifier",
+     "dev": "Evgenia Pervushina",
+     "ratings": 3693,
+     "desc": "Use the power of your smartphone and latest technologies for maximum sound amplification. Increase the volume and improve the sounds around you. App helps you to improve your sound perception. The app"
+    },
+    {
+     "name": "Volume Booster - Bass Boost |",
+     "dev": "Bohdan Merduh",
+     "ratings": 25,
+     "desc": "Turn up the volume and enjoy crystal-clear audio with Volume Booster. Perfect for music, movies, games, and calls — this app boosts your device’s sound output for a more powerful listening experience."
+    },
+    {
+     "name": "Volume Increaser: Bass Booster",
+     "dev": "秦伟 薛",
+     "ratings": 399,
+     "desc": "Discover the ultimate audio enhancement with ez Booster, the must-have app for anyone serious about sound quality. Whether you're using headphones, Bluetooth devices, or speakers, ez Booster transform"
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

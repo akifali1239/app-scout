@@ -1254,6 +1254,26 @@
    "term": "simulator tractor farming",
    "label": "game",
    "split": "train"
+  },
+  {
+   "term": "hiring welders near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "warehouse jobs hiring now",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "cna staffing agency",
+   "label": "jobs",
+   "split": "train"
+  },
+  {
+   "term": "lake view dental clinic",
+   "label": "local_business",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -33730,6 +33750,46 @@
   {
    "note": "Kaydırdıkça hep aynı hesap makinesi çıkıyor, bu da onun klonu",
    "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Bu app'in tüm özellikleri Apple'ın kendi uygulamasında zaten ücretsiz var, kimse para vermez",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Kullanıcılar bu tür app'e sadece bir kez bakıp siliyor, abonelik satmak mümkün değil",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Gerçek zamanlı 3D render ve çok oyunculu sunucu gerektiriyor, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Tıbbi cihazla Bluetooth entegrasyonu ve FDA onayı lazım, benim için fazla zor",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bunu kesin reddeder, telifli sınav sorularını birebir kullanıyor",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Kumar benzeri içerik var, App Store inceleme kuralları buna izin vermez",
+   "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "Fikir çok sıradan, kimsenin heyecanlanacağı bir şey yok",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Son güncellemesi 2019, ekranlar eski iOS tasarımında ve çöküyor",
+   "label": "Kalitesiz / eski",
    "split": "dev"
   }
  ],

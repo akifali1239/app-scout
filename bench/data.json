@@ -1169,6 +1169,41 @@
    "term": "welding inspector exam prep",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "pharmacy technician exam rev",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nbdhe dental hygiene prep 2026",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "oat optometry test prep 2026",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "vtne vet tech test prep 2026",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "paramedic nremt",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "optometry admission test",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "aoa/aosa optometry's meeting",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -32085,6 +32120,30 @@
    "hi": "legal case management software",
    "lo": "flashlight app",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "occupational therapy prep 2026",
+   "lo": "watch faces iwatch",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nbdhe dental hygiene prep 2026",
+   "lo": "blur photo editor free",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "drill bit size chart",
+   "lo": "ride sharing app with live driver matching",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic nremt",
+   "lo": "max sound booster",
+   "split": "dev"
   }
  ],
  "note": [

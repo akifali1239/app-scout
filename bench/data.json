@@ -35123,6 +35123,96 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Plumber Quote Chat AI",
+    "category": "Business",
+    "desc": "Describe the job and GPT drafts a plumbing quote for your customer."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Recipe Genie: AI Cook",
+    "category": "Food & Drink",
+    "desc": "Tell GPT your ingredients and it writes a recipe."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Book a Tutor Near You",
+    "category": "Education",
+    "desc": "Find and book a local math tutor; pay in app."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Dog Walker On Demand",
+    "category": "Lifestyle",
+    "desc": "Request a verified dog walker and track the walk live."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Daily Stoic Podcast Clips",
+    "category": "Music",
+    "desc": "Short audio clips of stoic philosophy, new episode every day."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Yoga Flow Video Classes",
+    "category": "Health & Fitness",
+    "desc": "Stream guided yoga video classes from beginner to advanced."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Stud Finder & Level",
+    "category": "Utilities",
+    "desc": "Use the phone sensors as a bubble level and magnetic stud finder."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Drill Bit Size Chart",
+    "category": "Reference",
+    "desc": "Look up drill bit and tap sizes in imperial and metric."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Idle Farm Tycoon",
+    "category": "Games",
+    "desc": "Grow crops, upgrade barns and earn coins in this idle game."
+   },
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pharmacology Flashcard Reference",
+    "category": "Medical",
+    "desc": "Drug classes, doses and interactions searchable offline."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

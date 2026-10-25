@@ -37,7 +37,7 @@
    "brier": 0.0492,
    "n": 295,
    "versions": 3,
-   "tried": 164,
+   "tried": 168,
    "test_errors": [
     [
      "pharmacy technician letter",
@@ -6315,7 +6315,7 @@
    "n": 100
   }
  ],
- "updated": "2026-10-25T00:41:50+00:00",
+ "updated": "2026-10-25T01:13:37+00:00",
  "raw": {
   "intent": {
    "version": "v3",

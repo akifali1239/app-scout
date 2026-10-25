@@ -1049,6 +1049,26 @@
    "term": "qibla finder",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "drywall calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "quizlet",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "nurse staffing agency jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "emt study guide",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [
@@ -30271,6 +30291,156 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "nutricrm - dietitian software",
+   "apps": [
+    {
+     "name": "NutriCRM - Dietitian Software",
+     "dev": "TRADING BANIYA",
+     "ratings": 0,
+     "desc": "Manage your entire nutrition practice from your phone. NutriCRM gives dietitians, nutritionists, and health coaches a complete toolkit for client management, diet planning, and progress tracking. No l"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Fay Nutrition Dietitians",
+     "dev": "Fay Health, Inc",
+     "ratings": 6993,
+     "desc": "At Fay, we know that health is not one-size-fits-all. Everyone is unique, with different bodies, goals, preferences and circumstances. Your nutrition care should be tailored to you and working for you"
+    },
+    {
+     "name": "Foodvisor - AI Calorie Counter",
+     "dev": "Foodvisor",
+     "ratings": 17757,
+     "desc": "*** APP STORE EDITORS' CHOICE ***\n\nJoin over 15 million users who have transformed their lives with Foodvisor, the #1 nutrition app, supercharged with AI.\n\nOur users lose an average of 15.83 lb in 3 m"
+    },
+    {
+     "name": "Formula － weight loss diet app",
+     "dev": "FJOR NUTRITION, INC.",
+     "ratings": 35108,
+     "desc": "Formula.care - Your Guide to Carnivore, Mediterranean, Anti-Inflammatory, and Cortisol Detox Nutrition\n\nUnlock the full potential of the Carnivore, Mediterranean, Anti-Inflammatory, and Cortisol Detox"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "phlebotomy ascp pbt prep",
+   "apps": [
+    {
+     "name": "Phlebotomy ASCP PBT Prep",
+     "dev": "Md Tariqul Islam",
+     "ratings": 0,
+     "desc": "Pass Your ASCP PBT Exam with Confidence – 2025 Ready!\nPhlebotomy ASCP PBT Prep is your complete study tool for the Phlebotomy Technician Certification Exam (PBT) by ASCP and NHA CPT. Perfect for stude"
+    },
+    {
+     "name": "Phlebotomy ASCP PBT Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 6,
+     "desc": "Prepare for your phlebotomy certification exam with Phlebotomy ASCP PBT Exam Prep 2026 app! This comprehensive app offers a wide range of features designed to help you master the essential skills and "
+    },
+    {
+     "name": "ASCP PBT Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 18,
+     "desc": "Help you prepare for the ASCP PBT certification exam and pass it on your first attempt at the actual exam! Use the mobile app ASCP PBT Exam Prep 2026 developed by our exam experts to help prepare for "
+    },
+    {
+     "name": "Phlebotomy NHA CPT Test Prep",
+     "dev": "Ultra Prep",
+     "ratings": 11,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your te"
+    },
+    {
+     "name": "Phlebotomy Test",
+     "dev": "Danila Danilenko",
+     "ratings": 56,
+     "desc": "Features:\n\n - Comprehensive question bank covering all exam categories, with detailed answers for thorough preparation.\n - Easy navigation through categories for focused study on specific topics.\n - E"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "audiology a.i.",
+   "apps": [
+    {
+     "name": "Audiology A.I.",
+     "dev": "Audiology A.I.",
+     "ratings": 1,
+     "desc": "Audiology A.I., the ultimate solution to leverage technology and optimize your clinic's patient acquisition and nurture systems. This powerful tool empowers business owners and their teams to attract "
+    },
+    {
+     "name": "Oticon Companion",
+     "dev": "Oticon A/S",
+     "ratings": 78945,
+     "desc": "This app lets you control your hearing aids from your mobile device. It comes with an app for Apple Watch helping you discreetly change programs and adjust volume (when within Bluetooth range).\n\nJust "
+    },
+    {
+     "name": "myPhonak",
+     "dev": "Sonova AG",
+     "ratings": 122871,
+     "desc": "The new myPhonak comes with improved functionality and a new design to make your hearing experience as seamless and as tailored to your needs as possible. myPhonak provides you access to enhanced hear"
+    },
+    {
+     "name": "Mimi Hearing Test",
+     "dev": "Mimi Hearing Technologies",
+     "ratings": 43496,
+     "desc": "The Mimi Hearing Test is an easy and reliable assessment of your hearing, delivering understandable results in just 5 minutes.  \n  \n- Modern assessment: Test quickly and thoroughly a wide range of fre"
+    },
+    {
+     "name": "ReSound Smart 3D",
+     "dev": "ReSound",
+     "ratings": 92965,
+     "desc": "The ReSound Smart 3D app lets you control your hearing aids directly from your mobile device. You can change programs, and make simple or more advanced sound adjustments and save them as favorites. Th"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -31491,6 +31661,30 @@
    "hi": "torque unit converter",
    "lo": "cloud gaming service",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "tax software for accountants",
+   "lo": "free wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "hvac load calculator for contractors",
+   "lo": "funny meme sticker pack",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator",
+   "lo": "video streaming platform",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "legal case management software",
+   "lo": "flashlight app",
+   "split": "train"
   }
  ],
  "note": [
@@ -33249,6 +33443,42 @@
    },
    "label": "ai_wrapper",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pocket Ruler Pro",
+    "category": "Utilities",
+    "desc": "Measure small objects on screen with an on-screen ruler."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Shakespeare Complete Works",
+    "category": "Books",
+    "desc": "Read all plays and sonnets with notes and a glossary."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Dragon Quest Idle",
+    "category": "Games",
+    "desc": "Tap to level up your hero and defeat monsters in an idle RPG."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Resume Writer AI",
+    "category": "Productivity",
+    "desc": "Type a job title and GPT writes your resume and cover letter."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
   }
  ]
 }

@@ -1069,6 +1069,56 @@
    "term": "emt study guide",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "speech therapy practice",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "forklift cargo tycoon",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "forklift factory simulator",
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "term": "pretend city firefighter life",
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "term": "trucker dating",
+   "label": "other",
+   "split": "dev"
+  },
+  {
+   "term": "welding gas cylinder tracker",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "machinist tap drill chart",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "surveying leveling field notes",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "otr occupational therapy prep",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "firefighter radio",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

@@ -25471,6 +25471,786 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "pilates by izzy",
+   "top": [
+    {
+     "name": "STRONG BY IZZY",
+     "dev": "Izzy Samuel Pty lTD",
+     "ratings": 173,
+     "desc": "TRANSFORM YOUR BODY. EMPOWER YOUR MIND. \n\nSTRONG is a strength based Pilates platform designed to build strength, control, and long term results through structured, intelligent movement.\n\nSTRONG is bu"
+    },
+    {
+     "name": "Pilates Anytime | Workouts",
+     "dev": "Timeshift Media, Inc.",
+     "ratings": 8661,
+     "desc": "A BEAUTIFUL NEW WAY TO EXPERIENCE PILATES ANYTIME\n\nWe have completely redesigned our app with a focus on stunning visuals and seamless navigation, so you can spend less time searching and more time mo"
+    },
+    {
+     "name": "Pilates 40+ Workout for Women",
+     "dev": "At team LLC",
+     "ratings": 0,
+     "desc": "After 40, your body starts to change:\n- muscle tone decreases\n- joints feel stiffer\n- metabolism slows down\n- back and neck tension becomes more common.\n\nPilates 40+ helps you stay strong, flexible, a"
+    },
+    {
+     "name": "Pilates Project",
+     "dev": "My Pilates Project Pty Ltd",
+     "ratings": 63,
+     "desc": "Join master Pilates Teacher Maghan Fittler and her world-class instructors on a tailored Pilates journey through an easy-to-access app designed just for you. Enjoy unrestricted access to a global comm"
+    },
+    {
+     "name": "Pilates by Bryony",
+     "dev": "Pili and Kiki Limited",
+     "ratings": 71,
+     "desc": "Welcome to Pilates By Bryony!\n\nPilates By Bryony creates transformative, long lasting and sustainable results. Once you try it you won't look back.\n\nThe Pilates By Bryony digital experience is truly l"
+    },
+    {
+     "name": "The Pilates Class",
+     "dev": "The Pilates Class Online, LLC",
+     "ratings": 512,
+     "desc": "Transform Your Body, Mind & Lifestyle with The Pilates Class\n\nPilates is one of the most powerful ways to create sustainable, long lasting change, and The Pilates Class (TPC) takes it to the next leve"
+    },
+    {
+     "name": "April Plank Pilates",
+     "dev": "Sutra Fitness, Inc.",
+     "ratings": 14,
+     "desc": "On-demand pilates workouts using the reformer, chair, tower, jumpboard, and mat.  My workouts are designed to help you feel stronger, leaner, energized, balanced, and empowered.\n\nHi Everyone and Welco"
+    },
+    {
+     "name": "Pilates | Down Dog",
+     "dev": "Yoga Buddhi Co.",
+     "ratings": 10489,
+     "desc": "From the developers of the highest rated Yoga App, Down Dog, Pilates gives you a brand new workout every time! Unlike following pre-recorded videos, in this low-impact full body mat workout built arou"
+    },
+    {
+     "name": "Pilates Body",
+     "dev": "PilatesBody Studios LLC",
+     "ratings": 172,
+     "desc": "Fall in love with movement. Build strength. Feel more confident than ever.\n\nPilates Body by Raven is the Pilates, Barre & Sculpt app led by celebrity trainer Raven Ross, designed to make fitness fun, "
+    },
+    {
+     "name": "TF STUDIO",
+     "dev": "Franken Worldwide Inc.",
+     "ratings": 336,
+     "desc": "Your at-home Pilates app for long, lean results. Access Power Pilates workouts that sculpt and strengthen, without the bulk. Start your 7-day free trial today.\n\nT — F Studio’s dynamic Power Pilates me"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "beebase: beekeeping & hive log",
+   "top": [
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "Wild Hive - Build & Survive",
+     "dev": "Studio 42",
+     "ratings": 191,
+     "desc": "Wild Hive is a bee colony roguelite driven by a ruthless honey market. Grow your hive, hatch a swarm of worker bees, and sell the honey they make on a realistic stock market. The honey quota climbs ev"
+    },
+    {
+     "name": "BeeBase: Beekeeping & Hive Log",
+     "dev": "Stepan Bezhuk",
+     "ratings": 0,
+     "desc": "BeeBase: Smart Beekeeping Log\n\nStop losing track of your hives. BeeBase is the ultimate digital logbook designed to help beekeepers manage apiaries, hives, and inspections effortlessly in one place.\n\n"
+    },
+    {
+     "name": "HiveSense: Smart Hive Tracker",
+     "dev": "Jan Rowinski",
+     "ratings": 5,
+     "desc": "THE SMART BEEKEEPING APP — BUILT FOR THE FIELD\n\nHiveSense is the all-in-one hive tracker and apiary manager for hobbyist and commercial beekeepers. Log inspections offline, connect Bluetooth hive sens"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Apiarist - Beekeeper Assistant",
+     "dev": "Oleg Soloviev",
+     "ratings": 147,
+     "desc": "Manage your apiary easily and professionally  \n\nThis app is designed specifically for beekeepers — from beginners to experienced professionals. It will help you efficiently manage your beekeeping busi"
+    },
+    {
+     "name": "B-hyve",
+     "dev": "Orbit Irrigation",
+     "ratings": 332276,
+     "desc": "The B-hyve smart sprinkler timer app allows you to control or monitor your sprinklers from anywhere in the world with the convenience of your smart device. \n \nSmart Watering\nKnowing how long and how o"
+    },
+    {
+     "name": "Baby Beekeepers - Save & Care for Bees",
+     "dev": "Kids Fun Club by TabTale",
+     "ratings": 17,
+     "desc": "~~> Have you heard the BUZZ? It's your chance to be a BUSY BEEkeeper! \n~~> Rescue and care for adorable bees so that they can keep buzzing and pollinating sweet flowers! \n~~> Make delicious honey, bui"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "digi-pas machinist level",
+   "top": [
+    {
+     "name": "Digi-Pas Machinist Level",
+     "dev": "JSB Tech",
+     "ratings": 58,
+     "desc": "Digi-Pas® Mobile App is a user-friendly and affordable app, designed specifically to be used in conjunction with the brand's latest 2-Axis Digital Machinist Levels. Users can fully utilise the wireles"
+    },
+    {
+     "name": "Digipas Smart Levels",
+     "dev": "JSB Tech",
+     "ratings": 271,
+     "desc": "Digi-Pas Smart Level Companion® Mobile App is a user-friendly and affordable app, designed specifically to be used in conjunction with the brand's latest 2-Axis Digital Machinist Levels, the Digipas S"
+    },
+    {
+     "name": "Spirit Level Plus",
+     "dev": "Tue Nguyen Minh",
+     "ratings": 2344,
+     "desc": "Spirit Level is optimized for iPhone 13 and iPhone 13 Pro!\n\nAlso check out iMetalBox: 7 in 1, get 6 more tools with the price of one!\n\nYou can use Spirit Level for:\n- Carpentry works\n- Measure angles "
+    },
+    {
+     "name": "The Phillips Machinist",
+     "dev": "Phillips Corporation",
+     "ratings": 393,
+     "desc": "The Phillips Machinist is your personalized digital manufacturing assistant, with quick access to essential machine codes and calculators, direct contact with Phillips engineers, and practical resourc"
+    },
+    {
+     "name": "Bubble Level Tool - Digital",
+     "dev": "Rihab Mehboob",
+     "ratings": 2482,
+     "desc": "Bubble Level Tool - Digital lets you see the current angle of your device, along with reseting and locking the angle too.\n\nTilt the device to measure the precise angle and easily switch between portra"
+    },
+    {
+     "name": "RIDGID Level",
+     "dev": "RIDGID Software Solutions",
+     "ratings": 41,
+     "desc": "RIDGID Level features three vials for plumb, level and 45° miter. The display shows the exact measurements currently being reported by the sensors and it supports overlaying leveling information on to"
+    },
+    {
+     "name": "Level-",
+     "dev": "Tim O's Studios, LLC",
+     "ratings": 746,
+     "desc": "This level has a perfect design that is simple to use and accurate. \n\n\nDownload now and see how truly great this level is."
+    },
+    {
+     "name": "Level Adjuster",
+     "dev": "UniCom Technology",
+     "ratings": 88,
+     "desc": "Precision Measurement Tool\n\nThe Bubble Level app transforms an iPhone into a professional-grade tool for precise leveling. Ideal for tasks such as hanging pictures, aligning furniture, or checking gro"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "paralegal exam by rocket prep",
+   "top": [
+    {
+     "name": "Paralegal Exam by Rocket Prep",
+     "dev": "Darya Pyzhyk",
+     "ratings": 4,
+     "desc": "Advance Your Paralegal Career\nElevate your paralegal career with Rocket Prep's mobile-optimized study resource for the Paralegal Exam. This exam validates your knowledge and skills in various areas of"
+    },
+    {
+     "name": "PSI Test Prep",
+     "dev": "Memorang",
+     "ratings": 4215,
+     "desc": "Practice Questions | Detailed Progress Tracking | Custom Study Sessions | Explanations | References\n\nThe PSI Test Prep app is your best streamlined, mobile companion to prepare for your licensure test"
+    },
+    {
+     "name": "Quimbee",
+     "dev": "Sellers International, LLC",
+     "ratings": 2505,
+     "desc": "Quimbee is an all-in-one learning platform built to support law students and bar examinees at every stage of their legal learning journeys. More than 900,000 students have trusted Quimbee Study Aids f"
+    },
+    {
+     "name": "7Sage LSAT",
+     "dev": "7Sage Education Technology, Inc.",
+     "ratings": 3285,
+     "desc": "Ace the LSAT with 7Sage, the all-in-one prep platform that helped half a million students raise their scores. Master the fundamentals with video lessons, take official PrepTests, drill Logical Reasoni"
+    },
+    {
+     "name": "BarMax Bar Exam, MBE & MPRE",
+     "dev": "TestMax, Inc.",
+     "ratings": 3707,
+     "desc": "Developed by Harvard Law School alumni, BarMax is the top-rated bar exam review course in the App Store, with the highest overall pass rates. \n\nBarMax is free to download, giving you access to our MPR"
+    },
+    {
+     "name": "Becker’s CPA Exam Review",
+     "dev": "Becker Professional Development Corporation",
+     "ratings": 12416,
+     "desc": "For over 60 years, Becker has set the gold standard in CPA Exam preparation. Now, everything you need to help with your studies is in your pocket. Whether you're squeezing in practice questions on you"
+    },
+    {
+     "name": "Rosh Review | Exam Prep Qbank",
+     "dev": "Rosh Review LLC",
+     "ratings": 8183,
+     "desc": "Rosh Review is a comprehensive educational resource for physicians, medical students, PAs, nurse practitioners, and nurses.\n \nPlan, prepare, and pass your high-stakes exam with Qbanks for:\n \nPhysician"
+    },
+    {
+     "name": "Real Estate Exam For Dummies",
+     "dev": "Higher Learning Technologies",
+     "ratings": 8307,
+     "desc": "PASS your Real Estate Exam guaranteed, or get triple your money back! \n\nAre you ready to ace your Real Estate License exam on the first try? Real Estate For Dummies is here to ensure your success! Wit"
+    },
+    {
+     "name": "LSAT Max LSAT Prep & Tutoring",
+     "dev": "TestMax, Inc.",
+     "ratings": 4702,
+     "desc": "Your success is our success. \n\nCreated by the same Harvard Law School alumni behind BarMax, LSATMax is the pioneer in comprehensive LSAT prep courses on mobile.\n\nJoin over 500,000 students who have tr"
+    },
+    {
+     "name": "LSAT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 106,
+     "desc": "LSAT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It features more than 800 high-quality test questions with answer explanations, multiple "
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "rig log: trucker hos logbook",
+   "top": [
+    {
+     "name": "TruckX - Electronic Logbook",
+     "dev": "TruckX Inc",
+     "ratings": 2709,
+     "desc": "TruckX is a leading, FMCSA-approved ELD and Fleet Management Platform. Whether you are a driver, owner-operator, or fleet manager, TruckX offers a user-friendly fleet management system for commercial "
+    },
+    {
+     "name": "Rig Log: Trucker HOS Logbook",
+     "dev": "Omar Al-Ejel",
+     "ratings": 0,
+     "desc": "Rig Log keeps your logbook straight without the paperwork.\n\nLOG BY VOICE\nSet up seven Siri shortcuts once, then just say it — parking, fuel, sleeper berth, back on the road. No touching the phone at h"
+    },
+    {
+     "name": "Motive Driver",
+     "dev": "Motive Technologies Inc",
+     "ratings": 11620,
+     "desc": "ELD COMPLIANCE\nThe Motive Driver App makes recording Hours of Service (HOS) on your iPhone or iPad fast and easy.\nIt complies with the FMCSA regulations, including Part 395. When used with the Motive "
+    },
+    {
+     "name": "Trucker Path: Truck GPS & Fuel",
+     "dev": "Trucker Path Inc.",
+     "ratings": 153628,
+     "desc": "North America’s most popular app for Truckers. BUILT FOR TRUCKERS, BY TRUCKERS! Get all trucker tools in one FREE APP! Best Trucking APP featured by truckers! Trucker Path is a mapping tool used by mo"
+    },
+    {
+     "name": "Trucker Guide: Truck GPS Maps",
+     "dev": "Trucker Guide LLC",
+     "ratings": 10209,
+     "desc": "Drive smarter with Trucker Guide GPS. Find truck parking, cheapest fuel, weigh stations & real-time routes — all in one app.\nTrucker Guide – the all-in-one GPS navigation tool developed specifically f"
+    },
+    {
+     "name": "Drivers Daily Log",
+     "dev": "Drivers Daily Log",
+     "ratings": 602,
+     "desc": "Drivers Daily Log is a replacement for the paper logbook used by some commercial drivers.  Drivers Daily Log is not an ELD as required by current FMCSA law but may be used by certain EXEMPT carriers s"
+    },
+    {
+     "name": "ELDMandate HOS",
+     "dev": "Bizringer Inc",
+     "ratings": 1456,
+     "desc": "ELD Mandate is an app for Hours of Service. Features included are Proactive Violations Alert System, GPS Tracking, IFTA miles calculated automatically, and much more."
+    },
+    {
+     "name": "Trucker Tools",
+     "dev": "Trucker Tools, LLC",
+     "ratings": 2052,
+     "desc": "Trucker Tools is your digital co-driver for smooth operations. Find, book, and track loads, submit PODs, and get paid faster—all from your phone. Access key points of interest, fuel, and weight calcul"
+    },
+    {
+     "name": "BigRoad ELD",
+     "dev": "Complete Innovations Inc",
+     "ratings": 3132,
+     "desc": "BigRoad ELD is an easy-to-use electronic logging device certified with FMCSA and 3rd Party Certified in Canada. Use it as part of the Unity Suite of software products to run your entire business smoot"
+    },
+    {
+     "name": "HOS App - Driver ELD Logbook",
+     "dev": "Lucid ELD Inc",
+     "ratings": 1,
+     "desc": "Stay compliant and keep moving. ELD App is an FMCSA-registered electronic logbook trusted by commercial drivers across the USA. Simple setup, easy daily use, and real human support when you need it.\n\n"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "feathers: birding field notes",
+   "top": [
+    {
+     "name": "Feathers: Birding Field Notes",
+     "dev": "Land Urchin LLC",
+     "ratings": 2,
+     "desc": "Document every detail of your birding journey.\nFeathers for iOS is a companion app to the Feathers web platform, designed for capturing bird sightings and sessions while in the field.\n\nKey features\n\t•"
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "Merlin Bird ID by Cornell Lab",
+     "dev": "Cornell University",
+     "ratings": 113546,
+     "desc": "What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.\n\nMerlin helps you identify birds you see and hear. Merlin is unlike any"
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    },
+    {
+     "name": "iBird Pro Guide to Birds",
+     "dev": "Mitch Waite Group",
+     "ratings": 6930,
+     "desc": "iBird Pro with Percevia™ is a self-contained, take-anywhere-no-Internet-required app that turns your iPhone into a field guide to birds of North America, the United Kingdom, and Hawaii. iBird is super"
+    },
+    {
+     "name": "Learn Bird Watching—Larkwire",
+     "dev": "Larkwire",
+     "ratings": 1292,
+     "desc": "BIRDS OF NORTH AMERICA\n\nLearn birds the fun way!\n\nLearn to identify the birds that you're seeing and hearing. Take birding and birdwatching to a new level!\n\nLarkwire is a complete, game-based system f"
+    },
+    {
+     "name": "Bird Identifier: BirdScope",
+     "dev": "Scala technology limited",
+     "ratings": 2937,
+     "desc": "BirdScope offers incredibly quick identification assistance, catering to bird watchers at all experience levels and outdoor enthusiasts alike. Using advanced AI image recognition and audio analysis te"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pilates instructor",
+   "top": [
+    {
+     "name": "Pilates Atlas",
+     "dev": "Jessy Bad",
+     "ratings": 2,
+     "desc": "Pilates Atlas is the reference tool serious instructors actually use.\n\nEvery classical mat and Reformer exercise, clearly broken down with:\n- Visual reference\n- Muscle anatomy\n- Spring settings\n- Prac"
+    },
+    {
+     "name": "Reformd - Interval Timer",
+     "dev": "Peter Misthos",
+     "ratings": 5,
+     "desc": "Reformd - Professional Fitness Class Management\n\nReformd is the essential tool for fitness instructors who need reliable, professional-grade class management. Designed specifically for instructors tea"
+    },
+    {
+     "name": "Reformly: Pilates Classes",
+     "dev": "PUERH CONSULTING GROUP PTY LTD",
+     "ratings": 0,
+     "desc": "Reformly is the class-planning companion for Pilates instructors. Build sequences in minutes, teach with a glanceable timer, and keep a record of every class you've taught — mat, reformer, cadillac, c"
+    },
+    {
+     "name": "Class Choreography | Pilates",
+     "dev": "Class Choreography, LLC",
+     "ratings": 16,
+     "desc": "Designed for instructors by instructors, Class Choreography is the premier destination for fresh pilates classes to teach. New videos drop on Wednesdays at 9am CST. Start your free trial NOW!\n\nOur vid"
+    },
+    {
+     "name": "Your Pilates Class",
+     "dev": "Sophie Moschos",
+     "ratings": 0,
+     "desc": "Your Pilates Class is an on-demand Pilates platform created by a Reformer instructor, for Reformer instructors.\n\nDesigned for busy teachers who spend their days guiding others, this app helps you fina"
+    },
+    {
+     "name": "Pilates Anytime | Workouts",
+     "dev": "Timeshift Media, Inc.",
+     "ratings": 8661,
+     "desc": "A BEAUTIFUL NEW WAY TO EXPERIENCE PILATES ANYTIME\n\nWe have completely redesigned our app with a focus on stunning visuals and seamless navigation, so you can spend less time searching and more time mo"
+    },
+    {
+     "name": "Planoura Pilates Class Planner",
+     "dev": "Black Lion Inc",
+     "ratings": 0,
+     "desc": "Planoura is a professional Pilates class planning app built specifically for Pilates instructors. Designed to support both new and experienced trainers, Planoura helps you plan smarter, teach better, "
+    },
+    {
+     "name": "Pilatesology - Pilates Online",
+     "dev": "Pilatesology Inc",
+     "ratings": 334,
+     "desc": "Pilatesology: The Purest Pilates Experience\nLooking for the real, results-driven Pilates that transforms your body the way Joseph Pilates intended? \n\nPilatesology is your go-to source for 100% authent"
+    },
+    {
+     "name": "The Pilates HQ App",
+     "dev": "Sutra Fitness, Inc.",
+     "ratings": 2,
+     "desc": "Introducing the Pilates HQ App - the ultimate community for Pilates Teachers! Elevate your teaching skills and personal practice with our Live & On-Demand Classes.\nDiscover an effortless way to create"
+    },
+    {
+     "name": "Club Pilates",
+     "dev": "Xponential Fitness LLC",
+     "ratings": 133716,
+     "desc": "Welcome to the Club Pilates App! Download the app to maximize your membership with the Club Pilates community. Find and favorite your preferred studios, classes, and instructors to personalize your Cl"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "firefighter fitness",
+   "top": [
+    {
+     "name": "Fire Rescue Fitness",
+     "dev": "Aaron Zamzow",
+     "ratings": 2,
+     "desc": "Fire Rescue Fitness (FRF) is a health, fitness, and workout platform for first responders (firefighters, EMTs, and medics).  Users of the app are educated and empowered to improve performance, reduce "
+    },
+    {
+     "name": "TSP FITNESS",
+     "dev": "JASON KURT HIBBERT",
+     "ratings": 7,
+     "desc": "TSP Fitness brings tactical training, structured workouts, exercise guidance, and readiness tools together in one mobile experience.\n\nBuild consistency with training designed to support strength, cond"
+    },
+    {
+     "name": "LADDER Strength Training Plans",
+     "dev": "Ladder Technologies, Inc.",
+     "ratings": 204061,
+     "desc": "Try Ladder COMPLETELY FREE for 7 days. NO PAYMENT collected during trial.\n\nLADDER IS THE #1 APP FOR STRENGTH TRAINING\nApple's 2025 App of the Year Finalist\nApple's Editors Choice Award\nWomen's Health "
+    },
+    {
+     "name": "MTNTOUGH Fitness & Resilience",
+     "dev": "MTNTOUGH Fitness, LLC",
+     "ratings": 3601,
+     "desc": "\"MTNTOUGH Is the Last Fitness App You Need\" - Men's Journal\nGet functional fitness workouts and training programs designed to optimize athleticism and increase mental toughness, all from your phone, i"
+    },
+    {
+     "name": "Home Workout - No Equipments",
+     "dev": "Leap Health",
+     "ratings": 126169,
+     "desc": "Want an easy way to stay active, lose weight, and build muscle? Home Workout helps you train with purpose through focused exercise routines designed for everyday life—from bodyweight workouts and ligh"
+    },
+    {
+     "name": "Reclaim Firefighter Fitness",
+     "dev": "Reclaim Fitness Group LLC",
+     "ratings": 9,
+     "desc": "With the Reclaim Firefighter Fitness App, you will have access to workout programs designed specifically to help you reach your fitness and health goals! You can follow & track your workouts, your nut"
+    },
+    {
+     "name": "SHRED: Gym & Home Workouts",
+     "dev": "Shred Labs, LLC",
+     "ratings": 40385,
+     "desc": "No more guessing what to do next. SHRED’s AI-powered coaching gives you the structure, motivation, and personalization you need to reach your goals—lose weight, get stronger, or stay consistent. Every"
+    },
+    {
+     "name": "Macrofit Fitness",
+     "dev": "MacroFit Inc",
+     "ratings": 5769,
+     "desc": "Welcome to the Macrofit App.\nHome to the most diverse portfolio of athletes for fitness and sport specific training.\n\nWe work with professional athletes and trainers in the following sports:  Surfing,"
+    },
+    {
+     "name": "Gymnadz - Women's Fitness App",
+     "dev": "Gym Nadz Limited",
+     "ratings": 6356,
+     "desc": "Transform your health with GymNadz – the #1 women’s fitness app in the GCC. Whether you want to lose weight, tone up, or build strength, GymNadz gives you the tools, motivation, and community to succe"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "welding engineer exam prep",
+   "top": [
+    {
+     "name": "Welding Engineer Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Turn spare minutes into Certified Welding Engineer exam readiness.\n\nPractice 505+ real Welding Engineer Exam Prep questions with clear explanations, realistic mock exams, and progress tracking - free "
+    },
+    {
+     "name": "CWENG Welding Engineer Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare for success with our Welding Engineer Exam Prep Mastery 2025 app. This essential study companion helps you develop the technical knowledge and analytical skills required to pass the CWEng exam"
+    },
+    {
+     "name": "CWI Welding Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 12,
+     "desc": "CWI WELDING EXAM PREP: PASS ALL THREE PARTS OF THE AWS CWI EXAM\n\nThe CWI exam has a 30 percent first-attempt pass rate. Most candidates fail because they treat it as a single test. It is three separat"
+    },
+    {
+     "name": "PSI Test Prep",
+     "dev": "Memorang",
+     "ratings": 4215,
+     "desc": "Practice Questions | Detailed Progress Tracking | Custom Study Sessions | Explanations | References\n\nThe PSI Test Prep app is your best streamlined, mobile companion to prepare for your licensure test"
+    },
+    {
+     "name": "CWI Exam Prep",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 6,
+     "desc": "Master all essential topics for your Certified Welding Inspector(CWI) exam with Fun and Engaging Quizzes! \n\nDive into the world of CWI with our comprehensive quiz app, designed to boost your knowledge"
+    },
+    {
+     "name": "Sparky AI: IBEW Test Prep",
+     "dev": "Michael Briglio",
+     "ratings": 37,
+     "desc": "Pass the IBEW aptitude test. Ace the interview. Start a paid apprenticeship. Set Alerts for EVERY LOCAL, and never miss an Apprenticeship opportunity.\n\nSparky AI is the complete IBEW / NJATC aptitude "
+    },
+    {
+     "name": "Pocket Prep Professional 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 7035,
+     "desc": "Unlock thousands of Professional certification exam practice questions and mock exams for the PMI PMP, PMI CAPM, SHRM-CP, HRCI PHR, and more with Pocket Prep, the largest provider of mobile test prep "
+    },
+    {
+     "name": "ASWB Exam Practice 2026",
+     "dev": "Prepia Inc",
+     "ratings": 1611,
+     "desc": "ASWB Exam Prep – Pass the BSW, LCSW, MSW, & Advanced Generalist Exams\nAligned with 2026 ASWB Guidelines\n\nGet ready to pass your ASWB exams with the best study tool for social workers. Whether you’re p"
+    },
+    {
+     "name": "CDL Prep Test 2026 Exam",
+     "dev": "Health & Wellness Apps Limited",
+     "ratings": 989,
+     "desc": "CDL Prep — Get ready for your CDL exam with the ultimate preparation tool! \n\nOur CDL Prep Test app provides over 3000 questions for all US states, ensuring that you have access to the most up-to-date "
+    },
+    {
+     "name": "CDL Study: Practice Test 2026",
+     "dev": "Adrian Del Jesus Sanchez Mendez",
+     "ratings": 2132,
+     "desc": "CDL Practice Test 2026 — State-Specific CDL & HazMat Prep, 98 % Pass Rate\n\nLooking for the most accurate CDL practice test for 2026?\nCDL Study packs 2,000+ state questions, a full HazMat test and smar"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "pesticide applicator exam",
+   "top": [
+    {
+     "name": "Pesticide Applicator Exam",
+     "dev": "Nordic Social Media AB",
+     "ratings": 35,
+     "desc": "Prepare efficiently for the National Certified Pesticide Applicator Exam with this all-in-one study app. Featuring flashcards, mock exams, in-depth references—and now a built‑in AI assistant—you’ll co"
+    },
+    {
+     "name": "Pesticide License Exam Prep",
+     "dev": "Md Tariqul Islam",
+     "ratings": 1,
+     "desc": "Prepare with confidence using Pesticide License Exam Prep, a complete pesticide applicator exam prep app built from the National Pesticide Applicator Certification Core Manual (2014 – latest edition)."
+    },
+    {
+     "name": "Pesticide Applicator Prep Exam",
+     "dev": "Deeun Inc.",
+     "ratings": 0,
+     "desc": "PESTICIDE APPLICATOR PREP: CALIBRATE. MIX. APPLY. PASS.\n\nThe calculator every applicator needs. The questions every exam asks. One app.\n\nSPRAYER CALIBRATION CALCULATOR\n\nWrong calibration means wasted "
+    },
+    {
+     "name": "Pesticide Applicator Coach",
+     "dev": "Mfeliz Web",
+     "ratings": 2,
+     "desc": "Master Your Pesticide Applicator Exam and Get Certified!\n\nStop worrying about your certification. Whether you are aiming for a Private, Commercial, or State-specific license, Pesticide Applicator Coac"
+    },
+    {
+     "name": "FL Pesticide Applicator Exam",
+     "dev": "Nordic Social Media AB",
+     "ratings": 2,
+     "desc": "Prepare efficiently for the Florida Pesticide Applicator Exam with this all-in-one study app. Featuring flashcards, mock exams, in-depth references—and now a built-in AI assistant—you'll cover Core an"
+    },
+    {
+     "name": "PSI Test Prep",
+     "dev": "Memorang",
+     "ratings": 4215,
+     "desc": "Practice Questions | Detailed Progress Tracking | Custom Study Sessions | Explanations | References\n\nThe PSI Test Prep app is your best streamlined, mobile companion to prepare for your licensure test"
+    },
+    {
+     "name": "PestPrep: Pesticide Exam Prep",
+     "dev": "Nordic Social Media AB",
+     "ratings": 5,
+     "desc": "Getting your pesticide applicator license shouldn't take longer than it needs to. PestPrep puts everything you need to pass your pesticide certification exam in one app: practice tests, flashcards, au"
+    },
+    {
+     "name": "Pocket Prep Professional 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 7035,
+     "desc": "Unlock thousands of Professional certification exam practice questions and mock exams for the PMI PMP, PMI CAPM, SHRM-CP, HRCI PHR, and more with Pocket Prep, the largest provider of mobile test prep "
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "PTCB Exam Prep 2026 | EZPrep",
+     "dev": "EZ Test Prep",
+     "ratings": 1236,
+     "desc": "Ace Your PTCB Without Mixing Up Heart Meds and Laxatives.\n\nSo you’ve chosen the noble path of counting pills, deciphering doctor chicken scratch, and making sure no one confuses their antibiotics with"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "cdl hazmat practice test",
+   "top": [
+    {
+     "name": "CDL Test Prep 2026 Class A B",
+     "dev": "Hanh Le",
+     "ratings": 48032,
+     "desc": "Pass your 2026 CDL exam on the first try. Join over 1M+ drivers with 46,000+ reviews and a 4.9-star rating.\n\nMiss a question and you instantly see WHY: a plain-English breakdown of your specific mista"
+    },
+    {
+     "name": "CDL Prep",
+     "dev": "Jeffrey Diaz",
+     "ratings": 6924,
+     "desc": "CDL Prep is the best way to prepare for the Commercial Drivers License General Knowledge, and various endorsement exams. CDL Prep contains questions on the following topics: General Commercial, Air Br"
+    },
+    {
+     "name": "HazMat Test 2026 & ERG 2024",
+     "dev": "GCSE Exams",
+     "ratings": 2096,
+     "desc": "Ace Your CDL HazMat Endorsement Test with Confidence!\n\nNow fully bilingual — study the entire app in English or Spanish (Español).\n\nPrepare for your Commercial Driver's License (CDL) Hazardous Materia"
+    },
+    {
+     "name": "CDL Hazmat Practice Test",
+     "dev": "Erdem Kara",
+     "ratings": 14,
+     "desc": "Welcome to the CDL Hazmat Practice Test App, your ultimate companion in mastering the essential aspects of CDL Hazardous Material Endorsement exam. Our app is tailored to meet your training needs, pro"
+    },
+    {
+     "name": "CDL HazMat Practice Test 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 37,
+     "desc": "1,000+ CDL HazMat-style questions, 500+ flashcards, full-length practice tests, and realistic exam simulations — built specifically for the CDL HazMat (H) endorsement.\n\nAdding a HazMat endorsement to "
+    },
+    {
+     "name": "CDL Exam Prep 2026: Practice",
+     "dev": "Thanh Hung",
+     "ratings": 27598,
+     "desc": "CDL Exam Prep 2026 is the AI-powered CDL test prep app with the highest rating (4.91 stars) to help you pass your commercial driver's license exam on the first try. Study for all CDL endorsements with"
+    },
+    {
+     "name": "CDL Prep Practice Test Genie",
+     "dev": "Elegant eLearning",
+     "ratings": 14412,
+     "desc": "Ace your CDL permit (CLP), HazMat, and all other endorsement tests in 2026. CDL Genie gives you exam-level practice questions for every endorsement.\n\nWhat makes CDL Genie unique:\n- 99.06% verified pas"
+    },
+    {
+     "name": "DMV Genie: Permit Test 2026",
+     "dev": "Elegant eLearning",
+     "ratings": 183840,
+     "desc": "Pass your DMV permit or license test on the first try - guaranteed. DMV Genie is the #1 app for DMV test preparation, trusted by over 9 million drivers. We cover all 50 states and every DMV exam: car,"
+    },
+    {
+     "name": "CDL Prep Test 2026",
+     "dev": "Wei Zhang",
+     "ratings": 15287,
+     "desc": "To obtain a Commerical Driver's License (CDL) requires the driver to first obtain a learner's permit by passing the written driving test. To help you pass the written driving test easily, this app was"
+    },
+    {
+     "name": "CDL Practice Test® 2026",
+     "dev": "The PATG Group, Inc.",
+     "ratings": 6094,
+     "desc": "CDL Practice Test® is the original CDL exam prep — and the largest question-and-answer pool available. Practice is free.\n\nPass the 2026 written exam for Class A, Class B, and every endorsement. 1,600+"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "geology map",
+   "top": [
+    {
+     "name": "Backseat Geologist",
+     "dev": "Blake Morgan",
+     "ratings": 76,
+     "desc": "Ever wanted a geologist to ride along and explain what's outside your window? \n\nBeing a geologist myself, I went on vacation and wished I had someone to read geologic map descriptions as we drove acro"
+    },
+    {
+     "name": "Rockd",
+     "dev": "University of Wisconsin-Madison Shared Apps",
+     "ratings": 187,
+     "desc": "Explore, learn about, and document your geologic surroundings! Whether you are a professional geoscientist or curious about the rocks around you and the stories they tell, Rockd allows you to explore "
+    },
+    {
+     "name": "Mine Locator Map",
+     "dev": "Qvyshift LLC",
+     "ratings": 361,
+     "desc": "Mines near me: Mine map showing locations of historical mines and metallic and nonmetallic mineral resources in the United States.\n\nLocate abandoned mines, active mines, prospects, deposits, and proce"
+    },
+    {
+     "name": "DeepTime for Geology",
+     "dev": "Hunt Mountain Software",
+     "ratings": 7,
+     "desc": "DeepTime puts geological time at your fingertips. DeepTime is a full interactive version of the latest geological time scale: tap on any time unit to see more detail about it, including how its GSSP ("
+    },
+    {
+     "name": "GeoMind - 3D Terrain Analysis",
+     "dev": "semih torun",
+     "ratings": 0,
+     "desc": "**Unlock the Secrets of the Earth with GeoMind: The Ultimate 3D Geology & Terrain Analysis Tool for Professionals**\n\nAre you a professional geologist, mining engineer, or earth science researcher look"
+    },
+    {
+     "name": "Google Earth",
+     "dev": "Google",
+     "ratings": 47356,
+     "desc": "Create and collaborate on immersive, data-driven maps from anywhere, with the new Google Earth.\nSee the world from above with high-resolution satellite imagery, explore 3D terrain and buildings in hun"
+    },
+    {
+     "name": "NSW Geology Maps",
+     "dev": "Geological Survey of NSW",
+     "ratings": 2,
+     "desc": "View geology maps and airborne geophysical images produced by the Geological Survey of NSW (Australia).  The maps and images are downloaded to your phone so that no mobile reception is required in the"
+    },
+    {
+     "name": "iMineralogist: Rock Map",
+     "dev": "IAROSLAV BEZRUCHKO",
+     "ratings": 2,
+     "desc": "Explore rocks, minerals, fossils, and geology — then share what you find with a community that helps you learn.\n\niMineralogist is a field map for rockhounds, mineral collectors, geology students, and "
+    },
+    {
+     "name": "Digger's Map: Find Minerals",
+     "dev": "Slava Barouline",
+     "ratings": 507,
+     "desc": "# Interested in geology and minerals? Would like to know where gold, silver and gemstone mines are?\n# Our unique app offers a massive global database with more than 300,000 locations and 60+ minerals!"
+    },
+    {
+     "name": "Detector Maps",
+     "dev": "GOLD DISCOVERY SOLUTIONS PTY LTD",
+     "ratings": 250,
+     "desc": "Detector Maps is the field tool that keeps you on the gold - and on the relics. Built by geologists for prospectors, relic hunters and metal detectorists across the United States, Australia, New Zeala"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

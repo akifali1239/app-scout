@@ -109,7 +109,8 @@
    "Is `top_results[{i}]` built mainly for the need expressed by `search_term`, so that a searcher would pick it to solve exactly that need?",
    "Judge `top_results[{i}]` by its own name and description, not by its category or how popular it is. Would someone who typed `search_term` install it and find that exact need solved, even if the app is niche or small?",
    "Imagine the searcher of `search_term` has one concrete job in mind. Does `top_results[{i}]` exist to do that same job for that same kind of user (not merely the same industry, a broader weather/security/utility category, or a neighbouring job)?",
-   "Read `top_results[{i}]`'s description for what it is mainly for. Would a person who typed `search_term` install it for exactly that task? Answer yes for a dedicated tool, chart or reference for it, even if small; answer no for a broad app (weather, security, general utility) that only includes it as one feature, or for a neighbouring task with a similar name."
+   "Read `top_results[{i}]`'s description for what it is mainly for. Would a person who typed `search_term` install it for exactly that task? Answer yes for a dedicated tool, chart or reference for it, even if small; answer no for a broad app (weather, security, general utility) that only includes it as one feature, or for a neighbouring task with a similar name.",
+   "Compare what `top_results[{i}]` is actually for with what the searcher of `search_term` wants to do. Answer yes only if the app's own title or description says it does that exact job for that user: a dedicated calculator, chart, tracker or reference for it counts, even if small. Answer no if the app is a client-side or customer-side tool for a different audience, a general utility/weather/security app, a store or service of the same trade, or its name merely shares words with the search."
   ],
   "criteria": [
    {
@@ -131,6 +132,10 @@
    {
     "true": "Dedicated to the searched task (a small chart, reference or calculator for it counts)",
     "false": "A broad multi-purpose app that only includes it as one feature, or a neighbouring task with a similar name"
+   },
+   {
+    "true": "Dedicated to the exact job the search asks for, for the same kind of user, as shown by its own title or description",
+    "false": "Different audience (e.g. client booking vs professional tool), broad utility, a service or shop in the same trade, or only shares words with the search"
    }
   ]
  },

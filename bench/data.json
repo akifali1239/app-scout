@@ -1274,6 +1274,56 @@
    "term": "lake view dental clinic",
    "label": "local_business",
    "split": "dev"
+  },
+  {
+   "term": "chiropractic boards 1",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy ascp pbt exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "dental assistant danb prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "pilot institute",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "rvt vet tech exam prep 2026",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician prep exam",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "personal trainer exam prep app",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "dietitian exam prep 2024",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "oat prep: optometry admission",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "pilates en casa",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

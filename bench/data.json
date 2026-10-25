@@ -31676,6 +31676,256 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "boater exam practice",
+   "apps": [
+    {
+     "name": "USA National Boater Exam",
+     "dev": "Ghaith Alshehabat",
+     "ratings": 0,
+     "desc": "Prepare for your boating safety exam with focused practice built around the rules, equipment, and real-world decisions boaters are expected to know.\n\nUSA National Boater Exam includes a 1,200-question"
+    },
+    {
+     "name": "DMV: Practice Before Exam 2026",
+     "dev": "BENJAMIN PETER LOWRY",
+     "ratings": 215,
+     "desc": "Pass your DMV exam in 2026 on the first try — guaranteed!\n\nStudy effectively with state-specific practice tests, detailed explanations, and smart hints.\n\nOur app is the ultimate DMV test preparation t"
+    },
+    {
+     "name": "USCG Exam Prep",
+     "dev": "Equitable Management Limited",
+     "ratings": 10,
+     "desc": "USCG Exam Prep provides recreational boaters and merchant mariners a convenient and accessible platform to study for the FCC and U.S. Coast Guard license exams.\n\nWhether you are studying for your Deck"
+    },
+    {
+     "name": "Electrician Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 104,
+     "desc": "Help you prepare for the Journeyman Electrician license exam and pass it on your first attempt at the actual exam! Use the mobile app Electrician Exam Prep 2026 developed by our exam experts to help p"
+    },
+    {
+     "name": "Sea Trials - USCG License Exam",
+     "dev": "Mariner License Prep, LLC",
+     "ratings": 379,
+     "desc": "IMPORTANT:  \nALL QUESTIONS ARE SOURCED EXCLUSIVELY FROM PUBLICLY AVAILABLE MATERIALS AND USCG MATERIALS SHOWN BELOW:  \n\nUSCG Sample Exams (https://www.dco.uscg.mil/nmc/examinations/)  \n\nSEA TRIALS IS "
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "sonography practice test",
+   "apps": [
+    {
+     "name": "Sonography Practice Test",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Preparing for your ultrasound certification exam? Whether you’re studying for the SPI, ARDMS, ARRT, or CCI credential, the Sonography Practice Test app is your comprehensive and easy-to-use study tool"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RV"
+    },
+    {
+     "name": "Sonography Exam Prep: SPI",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Sonography Exam Prep SPI is an offline ultrasound physics & instrumentation study app for SPI candidates. Purchase required for full access (auto-renewable subscription or lifetime unlock).\n\nWHAT YOU "
+    },
+    {
+     "name": "EchoRef",
+     "dev": "Rishi Kumar",
+     "ratings": 1382,
+     "desc": "EchoRef is a free iOS ultrasonography educational reference covering point-of-care ultrasound (POCUS), transthoracic echocardiography (TTE), and transesophageal echocardiography (TEE). Additionally, i"
+    },
+    {
+     "name": "Ultrasound Touch",
+     "dev": "珠海医凯电子科技有限公司",
+     "ratings": 0,
+     "desc": "The EC30 series handheld color ultrasound diagnostic system is a mobile software system for the EC30 series of handheld ultrasound equipment.\n\nThe system software supports EC30 series handheld ultraso"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "occupational therapy exam 2026",
+   "apps": [
+    {
+     "name": "Occupational Therapy Exam 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 58,
+     "desc": "Crush the OT Exam Without Losing Your Grip on Reality\n\nYou picked occupational therapy to make a difference, change lives, and maybe wear scrubs to work. But before you can do any of that, there’s the"
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nail tech booking app",
+   "apps": [
+    {
+     "name": "Nail Tech Booking App",
+     "dev": "Alexander Hitrik",
+     "ratings": 2,
+     "desc": "Nail Tech Booking App is an all-in-one app for nail professionals who want to run their nail business with clarity and confidence.\n\nManage clients, appointments, nail services, notes, photos, finances"
+    },
+    {
+     "name": "Nail Tech Appointment: AppNail",
+     "dev": "Akyno Apps",
+     "ratings": 103,
+     "desc": "AppNail – Appointment Book for Nail Technicians and Beauty Salons\n\nOrganize your appointments, increase your productivity, and professionalize your service with AppNail, the complete appointment book "
+    },
+    {
+     "name": "Nailzy.com",
+     "dev": "nailsa2z",
+     "ratings": 1032,
+     "desc": "Nailzy is the all-in-one platform for nail professionals, salon owners, and beauty businesses.\n\nProfessionals can create a free booking website, manage appointments, organize client records, track sta"
+    },
+    {
+     "name": "Fresha for customers",
+     "dev": "Fresha.com Holding Inc.",
+     "ratings": 60753,
+     "desc": "With 700 million+ appointments booked to date, 100,000 businesses registered and over 450,000 stylists and professionals to choose from, Fresha is the simplest, most reliable way to book salon, beauty"
+    },
+    {
+     "name": "Sammy: Nail Tech Booking",
+     "dev": "Maksim Buranbaev",
+     "ratings": 25,
+     "desc": "Sammy is the smart booking assistant made for independent nail, lash, brow and hair professionals.\n• 24/7 online booking with your personal link\n• Automatic SMS and WhatsApp reminders that cut no-show"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "personal trainer exam prep app",
+   "apps": [
+    {
+     "name": "Personal Trainer Exam Prep App",
+     "dev": "Tourkia CHIHI",
+     "ratings": 0,
+     "desc": "Personal Trainer Exam Prep App For Self Learning\n\nWith this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our 5 study modes embed"
+    },
+    {
+     "name": "Pocket Prep NASM CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 3416,
+     "desc": "Unlock 1,000 CPT practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT "
+    },
+    {
+     "name": "Prepia NASM CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 331,
+     "desc": "Prepare smarter and achieve success with the ultimate prep tool for your NASM CPT (National Academy of Sports Medicine Certified Personal Trainer) exam! Whether you're on the go or at home, our NASM C"
+    },
+    {
+     "name": "Fitness App (ABC Trainerize)",
+     "dev": "Trainerize.com",
+     "ratings": 68325,
+     "desc": "ABC Trainerize is the all-in-one coaching software for personal trainers, online coaches, gyms, and fitness studios. Build workout programs, deliver nutrition coaching, message clients, track progress"
+    },
+    {
+     "name": "Trainerfu For Personal Trainer",
+     "dev": "Manobal Jain",
+     "ratings": 3207,
+     "desc": "If you are a personal fitness trainer and looking for an online personal training app that can help you to train and manage all of your clients in one single place then you are at the right place. Wel"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

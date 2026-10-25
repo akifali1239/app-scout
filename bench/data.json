@@ -1204,6 +1204,56 @@
    "term": "aoa/aosa optometry's meeting",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "cdl permit practice test",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "roofing estimate calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "real estate license exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "oak street dental",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "medisys clinic portal",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "truck driver jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "travel nurse openings",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "bluebeam",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "procore",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "simulator tractor farming",
+   "label": "game",
+   "split": "train"
   }
  ],
  "brand": [

@@ -30491,6 +30491,256 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "real estate exam",
+   "apps": [
+    {
+     "name": "Real Estate Exam For Dummies",
+     "dev": "Higher Learning Technologies",
+     "ratings": 8307,
+     "desc": "PASS your Real Estate Exam guaranteed, or get triple your money back! \n\nAre you ready to ace your Real Estate License exam on the first try? Real Estate For Dummies is here to ensure your success! With over 550 exam-like questions and detailed explanations, our app is your ultimate study companion.\n"
+    },
+    {
+     "name": "Dearborn Real Estate Exam Prep",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13113,
+     "desc": "The #1 Real Estate Exam study tool! Pass your exams with our 500+ questions, quizzes, flashcards, and updated content.\n\nDearborn Real Estate has helped millions earn their Real Estate License. And you will be next. Get instant access to a comprehensive library of video content, detailed Q&As, essent"
+    },
+    {
+     "name": "Aceable Real Estate, Insurance",
+     "dev": "Aceable Inc.",
+     "ratings": 14733,
+     "desc": "AceableAgent and Aceable Insurance are the most convenient ways to earn your real estate or insurance license and jumpstart a new career. Take flexible, self-paced real estate and insurance courses anywhere, any time, and from any device.\n\nJoin over 800,000 students who have trusted Aceable to launc"
+    },
+    {
+     "name": "Real Estate Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 1377,
+     "desc": "Pass your Real Estate License Exam with confidence! The Real Estate Practice Test app is your complete study companion for mastering the knowledge, skills, and strategies you need to become a licensed real estate professional. Built for future agents, brokers, and investors, this app provides realis"
+    },
+    {
+     "name": "Real Estate Exam Prep Practice",
+     "dev": "秀娟 周",
+     "ratings": 81,
+     "desc": "Real Estate Exam Prep Practice is an application software carefully designed and developed by exam experts in the industry. It has more than 1,100 high-quality test questions and answer explanations, multiple test modes, and a scientific analysis system to help you practice efficiently anytime, anyw"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "nclex",
+   "apps": [
+    {
+     "name": "NCLEX RN Mastery Exam - 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 31222,
+     "desc": "Pass the NCLEX-RN® or Triple Your Money Back! NCLEX Mastery is the most trusted NCLEX prep app. Used by over 3 million future nurses. Built by U.S. registered nurses who’ve been where you are.\n\nStart free today and get 10 NCLEX-style questions every single day. No credit card required. \n\n4,000+ NCLE"
+    },
+    {
+     "name": "Saunders Comp Review NCLEX RN",
+     "dev": "Skyscape Medpresso Inc",
+     "ratings": 12534,
+     "desc": "Often called the ‘the best NCLEX® exam review book ever,’ Saunders Comprehensive Review for the NCLEX-RN® Examination,  provides everything you need to prepare for the NCLEX exam — complete content review and 6000+ NCLEX examination-style questions.\n\nSkyscape's App is based on the print edition of o"
+    },
+    {
+     "name": "Archer Review NCLEX",
+     "dev": "Archer Review",
+     "ratings": 22616,
+     "desc": "Archer Next-Generation NCLEX – with a single motto to Make Quality Test Prep Affordable & Effective!\n\nOver several years, Archer Review has provided affordable and successful courses to nursing students, medical students, and physicians. Archer applies a high-yield focused test preparation strategy "
+    },
+    {
+     "name": "NCLEX 2026 Simple Exam Prep",
+     "dev": "ExamReady",
+     "ratings": 1518,
+     "desc": "Pass Your NCLEX-RN & NCLEX-PN with Help That Works - Fully Updated for 2026\n\nPreparing for the NCLEX can feel overwhelming, but you're not alone. This exam prep app is built by licensed nurse educators and NCLEX specialists. Practice NCLEX questions every day, take an NCLEX practice quiz or a realis"
+    },
+    {
+     "name": "UWorld Nursing",
+     "dev": "UWorld LLC",
+     "ratings": 2112,
+     "desc": "Discover a better way to pass your nursing exams. The UWorld Nursing app connects your digital course features to your mobile device for a seamless study experience. Visit nursing.uworld.com to begin your NCLEX-RN®, NCLEX-PN®, clinical med math, or FNP prep — free trials available!\n\nWhy UWorld? Beca"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "speed test internet wifi scan",
+   "apps": [
+    {
+     "name": "Speedtest by Ookla",
+     "dev": "Ookla",
+     "ratings": 28178,
+     "desc": "Use Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n \nExplore mobile network coverage with Speedtest Maps based on real-world data gathered by the Speedtest app. See performance by provider to find out where you’re likely to"
+    },
+    {
+     "name": "Internet Speed Test Speedcheck",
+     "dev": "Ookla",
+     "ratings": 98438,
+     "desc": "Use Speedcheck to test the speed of internet connections and add your results to SpeedSpot's WiFi speed database. You can use the companion app, SpeedSpot's WiFi Finder right from with the app to find the fastest WiFi hotspots around the globe.\n\n- Test your Download & Upload Speed and Ping on Cellul"
+    },
+    {
+     "name": "Speed Test | HighSpeedInternet",
+     "dev": "CLEAR LINK TECHNOLOGIES, LLC",
+     "ratings": 19296,
+     "desc": "HighSpeedInternet.com’s free internet Speed Test helps you see exactly how your internet connection is performing. With just a single tap on your mobile device, test your Wi-Fi (DSL, Fiber, Cable, Satellite) or cellular (5G, 4G, LTE) speeds quickly and accurately.\n\n\nMillions of users trust HighSpeed"
+    },
+    {
+     "name": "Speed Test Internet Wifi Scan",
+     "dev": "WarthogLab",
+     "ratings": 57,
+     "desc": "Speed Test Internet - Your Ultra Precise Connection Testing Tool for 3G, 4G, 5G or WIFI !\n\nEver wondered how fast your internet connection really is? Speed Test Internet Pro is here to help answer that question. It's a reliable tool that measures the upload and download speeds, as well as the latenc"
+    },
+    {
+     "name": "Speed Test & Wifi Analyzer +",
+     "dev": "Appenvision Ltd",
+     "ratings": 24394,
+     "desc": "Stay in full control of your connection with a multifunctional network analyzer, built to help you understand exactly how your Internet and WiFi behave. Whether you're fixing an issue, improving performance, or tracking signal strength, you get clear tools to analyze your network and stay aware of w"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "chiropractic federal credit union mobile",
+   "apps": [
+    {
+     "name": "Chiropractic FCU",
+     "dev": "Chiropractic Federal Credit Union Mobile",
+     "ratings": 6,
+     "desc": "Chiropractic Federal Credit Union Mobile provides members convenient access to our website, mobile check deposit, mobile banking, branch and contact information."
+    },
+    {
+     "name": "SAFE Federal Credit Union",
+     "dev": "SAFE Federal Credit Union",
+     "ratings": 9342,
+     "desc": "SAFE FCU members can easily access their money anytime, anywhere from a mobile device. It is fast, secure, and free.\n\n*Check your account balances\n*View recent transactions\n*Transfer money between your accounts\n*Pay bills\n*Find ATMs and branch locations"
+    },
+    {
+     "name": "HawaiiUSA FCU Mobile Banking",
+     "dev": "HawaiiUSA Federal Credit Union",
+     "ratings": 22656,
+     "desc": "HawaiiUSA FCU’s Mobile Banking App has been redesigned to give members a better banking experience. Available on iPhone®, iPad®, and iPod touch®k. Available on latest 2 versions of iOS.\n\nFEATURES\n\nSimplified login process, including Face ID™ and Touch ID™ features\nNotifications – receive account ale"
+    },
+    {
+     "name": "Navy Federal Credit Union",
+     "dev": "Navy Federal Credit Union",
+     "ratings": 814847,
+     "desc": "Bank easy with the Navy Federal mobile app! With a great look and feel, we’ve made the mobile app easier to find information on your accounts and transactions. Breeze through payments, transfers, and check deposits with just a few taps. Quickly sign-in using Touch ID®, Face ID®. Apply for new accoun"
+    },
+    {
+     "name": "SC Federal Credit Union",
+     "dev": "South Carolina Federal Credit Union",
+     "ratings": 20735,
+     "desc": "Our Mobile Banking app puts your accounts in the palm of your hand and offers:\n\n•\tAnytime convenience - Take care of financial matters wherever you go.\n•\tBetter organization - View all of your transactions easily and at-a-glance.\n•\tTime-saving features - Transfer money, pay bills, and more in a matt"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "countdown widget",
+   "apps": [
+    {
+     "name": "Countdown",
+     "dev": "Find Appiness LLC",
+     "ratings": 187312,
+     "desc": "Countdown is a free, super easy to use countdown timer and reminder for the important events & dates in your life.\n\nFeatures:\n• Check your events on the Lock Screen with our widget (Premium feature)\n• Glance at your events on your Apple Watch\n• Glance at your events using our widget in StandBy (Prem"
+    },
+    {
+     "name": "Countdown@",
+     "dev": "Wuhan Linggu Dingdang Technology Co., Ltd",
+     "ratings": 40108,
+     "desc": "Countdown@ is a super easy to use countdown timer for the important events in your life.\n\nCount down to your next event: Vacation, Birthday, Holiday, Party, Thanksgiving, Christmas, Halloween, and more - in style!\n\nFeatures:\n• Create different types of events\n• Widget to view your most important eve"
+    },
+    {
+     "name": "Countdown  ‎",
+     "dev": "Sevenlogics, Inc.",
+     "ratings": 11422,
+     "desc": "Count down to your next event — a vacation, your favorite band's concert, a movie premiere, a graduation, an anniversary, and more — in style!\n\nFeatures:\n\nLOCK SCREEN WIDGETS: Add countdown widgets to your lock screen! First, set up your countdown in the Countdown app. Then, pull down your lock scre"
+    },
+    {
+     "name": "Countdown Buddy",
+     "dev": "Taptics Ltd.",
+     "ratings": 25976,
+     "desc": "EVERYTHING YOU ARE WAITING FOR - IN A WIDGET\n\nDesign your own personalized countdown or count-up widgets for your home screen & lock screen.  \nCountdown Widget is a super fun way to track the days until a momentous occasion such as:\n\n- Your birthday, or another special someone’s birthday\n- A long-aw"
+    },
+    {
+     "name": "TimeCount - Countdown & Widget",
+     "dev": "App Forgeron LLC",
+     "ratings": 24194,
+     "desc": "Countdown to your life's most special moments.\n\nIt’s the small things in life that matter most – birthdays, anniversaries, weddings, and heartwarming gatherings with your favorite people. With TimeCount, you can easily countdown and cherish these unforgettable occasions.\n\nCountdown and More!\nKeep tr"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

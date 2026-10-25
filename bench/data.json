@@ -32228,6 +32228,51 @@
    "app": "Tells you which antibiotic to take for your symptoms and for how many days.",
    "label": true,
    "split": "test"
+  },
+  {
+   "app": "Estimates your blood alcohol level and tells you if it is safe to drive.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Scans a pill with the camera and says whether it is safe to take with your other drugs.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Stream pirated TV series and new movies without ads.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Detects atrial fibrillation from your fingertip on the camera and warns you.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Crypto trading signals with guaranteed daily profit.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Torque spec lookup tables for mechanics, reference only.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Flashcards to study for the FAA private pilot written exam.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Electrical code quiz for journeyman exam preparation.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Study guide for the NREMT paramedic certification exam.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [

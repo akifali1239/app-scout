@@ -26981,6 +26981,500 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "miller welding calculator",
+   "top": [
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "Weld It 3D",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 20504,
+     "desc": "Weld, smooth and paint objects to your heart's content! Each level is designed as a relaxing puzzle. First you have to weld the objects from their seperation areas, than rand the excess weld and lastl"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Harbor Freight Tools",
+     "dev": "Harbor Freight Tools",
+     "ratings": 233400,
+     "desc": "HARBOR FREIGHT COUPONS\nFind the latest coupons, instant savings, Inside Track Club member deals, and more with the Harbor Freight Tools app.\n \nSHOP\nBrowse the latest tools, watch them in action with o"
+    },
+    {
+     "name": "SSAB WeldCalc",
+     "dev": "SSAB AB",
+     "ratings": 5,
+     "desc": "The SSAB WeldCalc app is a simplified version of the advanced SSAB WeldCalc desktop pro version.\n \nBased on the welding method, the welding joint, steel grades and thicknesses, it gives you the result"
+    },
+    {
+     "name": "Weldmonger",
+     "dev": "Weldmonger Enterprises LLC",
+     "ratings": 276,
+     "desc": "Hey Jody here, Thanks for visiting my online store!  \n\nEvery product has been thoroughly tested by myself and I'm confident that you'll enjoy what you buy. If not, just reach out to us and we'll take "
+    },
+    {
+     "name": "OneCalc: All-in-one Calculator",
+     "dev": "tasser gyati",
+     "ratings": 5092,
+     "desc": "All-in-one Calculator is a free calculator app for iPhone and iPad featuring over 40+ calculators and unit converters categorized under finance, health, date & time, construction, shopping and everyda"
+    },
+    {
+     "name": "McCalc Fusion Calculator",
+     "dev": "McElroy Manufacturing, Inc.",
+     "ratings": 18,
+     "desc": "The McCalc Fusion Pressure Calculator is designed to help you quickly find the correct fusion pressure for your job.\n\nTo properly heat-fuse polyethylene pipe, the fusion pressure must be adjusted so t"
+    },
+    {
+     "name": "WeldConnect",
+     "dev": "Fronius International GmbH",
+     "ratings": 17,
+     "desc": "WeldConnect, the new welding app from Fronius, provides you with a whole host of options for functional use and wireless interaction with the current generation of Fronius systems in many different la"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pilot institute",
+   "top": [
+    {
+     "name": "Pilot Institute App",
+     "dev": "Pilot Institute",
+     "ratings": 21,
+     "desc": "Pilot Institute has trained over 400,000 happy pilots. Pilot Institute classes help you achieve your aviation dreams."
+    },
+    {
+     "name": "VOR Simulator Pro",
+     "dev": "Pilot Institute",
+     "ratings": 19,
+     "desc": "Master radio navigation with this comprehensive VOR simulator. Perfect for pilots and aviation enthusiasts wanting to practice VOR skills on the ground.\n\nPractice realistic dual VOR positioning to fix"
+    },
+    {
+     "name": "FAA PART 107 Practice Test",
+     "dev": "Thanh Hung",
+     "ratings": 1965,
+     "desc": "Get ready to pass your FAA Part 107 drone pilot exam with confidence! The FAA Part 107 Practice Test app gives you all the tools you need to study smarter, not harder — with realistic tests, detailed "
+    },
+    {
+     "name": "Sporty's Pilot Training",
+     "dev": "Sporty's Pilot Shop",
+     "ratings": 11008,
+     "desc": "Sporty’s innovative Pilot Training app brings a variety of aviation training courses to one location, allowing you to access all of your Sporty's aviation content from your iPad, iPhone or AppleTV.\n\nI"
+    },
+    {
+     "name": "King Ground School Companion",
+     "dev": "King Schools, Inc.",
+     "ratings": 10486,
+     "desc": "The KING Ground School Companion App enables you to download and take video lessons from any of our award winning online Ground School and Test Prep courses, Checkride courses and Single-Subject Flyin"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nail tech booking app",
+   "top": [
+    {
+     "name": "Nail Tech Booking App",
+     "dev": "Alexander Hitrik",
+     "ratings": 2,
+     "desc": "Nail Tech Booking App is an all-in-one app for nail professionals who want to run their nail business with clarity and confidence.\n\nManage clients, appointments, nail services, notes, photos, finances"
+    },
+    {
+     "name": "Nail Tech Appointment: AppNail",
+     "dev": "Akyno Apps",
+     "ratings": 103,
+     "desc": "AppNail – Appointment Book for Nail Technicians and Beauty Salons\n\nOrganize your appointments, increase your productivity, and professionalize your service with AppNail, the complete appointment book "
+    },
+    {
+     "name": "Nailzy.com",
+     "dev": "nailsa2z",
+     "ratings": 1032,
+     "desc": "Nailzy is the all-in-one platform for nail professionals, salon owners, and beauty businesses.\n\nProfessionals can create a free booking website, manage appointments, organize client records, track sta"
+    },
+    {
+     "name": "Fresha for customers",
+     "dev": "Fresha.com Holding Inc.",
+     "ratings": 60753,
+     "desc": "With 700 million+ appointments booked to date, 100,000 businesses registered and over 450,000 stylists and professionals to choose from, Fresha is the simplest, most reliable way to book salon, beauty"
+    },
+    {
+     "name": "Sammy: Nail Tech Booking",
+     "dev": "Maksim Buranbaev",
+     "ratings": 25,
+     "desc": "Sammy is the smart booking assistant made for independent nail, lash, brow and hair professionals.\n• 24/7 online booking with your personal link\n• Automatic SMS and WhatsApp reminders that cut no-show"
+    },
+    {
+     "name": "Ring My Stylist: Booking App",
+     "dev": "Brilliant Business Agency LLC",
+     "ratings": 887,
+     "desc": "Run your beauty business with confidence. Ring My Stylist is the all-in-one scheduling app that empowers independent stylists to accept online bookings 24/7, collect deposits, reduce no-shows, and man"
+    },
+    {
+     "name": "Princess Beauty Coloring Book",
+     "dev": "KIDEO TECH LTD",
+     "ratings": 4971,
+     "desc": "A very fun, educational and safe application specially for girls with a lot of games: coloring & drawing, manicure, dress-up, home cleanup & puzzles.\n\nWe believe that safe and smart education is very "
+    },
+    {
+     "name": "Goldie: Appointment Scheduler",
+     "dev": "Quartet",
+     "ratings": 12868,
+     "desc": "Goldie (formerly Appointfix) is a free appointment scheduling and planner app designed to help you manage and grow your business. Built for salons, barbers, and beauty professionals to take their busi"
+    },
+    {
+     "name": "Booksy Biz: Booking & Payments",
+     "dev": "Booksy",
+     "ratings": 14977,
+     "desc": "Booksy is the booking app and business tool for beauty pros doing it on their own. Side-hustlers turned full-timers. Commissioned turned independent. Solo pros building a name behind the chair. And th"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "pdf password remover offline",
+   "top": [
+    {
+     "name": "PDF Password Remover Offline",
+     "dev": "Parsottambhai Dhameliya",
+     "ratings": 22,
+     "desc": "This PDF Password Remover Offline is the Best PDF Password Remover app.\n\nThis PDF Password Remover Offline App is straightforward to get rid of passwords pdf from pdf files.\n\nYou can decrypt a pdf fil"
+    },
+    {
+     "name": "unlock pdf & lock pdf",
+     "dev": "Sounak Sarkar",
+     "ratings": 55,
+     "desc": "Protect your sensitive PDF documents with strong password encryption or remove passwords from PDFs you own with just a few taps. PDF Lock & Unlock is a fast, secure, and easy-to-use tool designed to h"
+    },
+    {
+     "name": "PDF Unlock: Offline PDF Tools",
+     "dev": "Dipak Chhag",
+     "ratings": 2,
+     "desc": "PDF Unlock: Offline PDF Tools\n\nYour complete offline PDF toolkit to scan documents, unlock and protect PDFs, convert files, manage PDF passwords, and more — all without an internet connection.\n\nKey Fe"
+    },
+    {
+     "name": "PDFelement: PDF Editor, Viewer",
+     "dev": "Wondershare Technology Group Co.,LTD",
+     "ratings": 7566,
+     "desc": "PDFelement is optimized for the latest Liquid Glass experience, with a more refined interface, clearer navigation, and smoother interactions for your PDF workflow.\n\nAI PDF Editor, PDF Reader, PDF Scan"
+    },
+    {
+     "name": "PDF: Lock & Unlock",
+     "dev": "Hardik Dhameliya",
+     "ratings": 6,
+     "desc": "Instantly lock and unlock PDF password using PDF: Lock & Unlock.\n\nYour PDF will be locked or unlocked and ready for download within seconds.\n\nMost PDFs can be unlocked!\n\nFiles with an owner password c"
+    },
+    {
+     "name": "Unlock PDF – Password Remover",
+     "dev": "Lubomir Dlhy",
+     "ratings": 0,
+     "desc": "Unlock PDF removes the password from protected PDF files - entirely on your iPhone.\n\nPick a locked PDF, enter its password once, and save or share an unlocked copy that opens anywhere without a passwo"
+    },
+    {
+     "name": "PDF Reader - Easy Editor",
+     "dev": "SPARK TECH LIMITED",
+     "ratings": 3402,
+     "desc": "Turbo PDF: Scanner & Editor is a highly reliable scanner application that effectively transforms your smartphone into a robust PDF scanner. This application enables seamless conversion of photos and p"
+    },
+    {
+     "name": "Power PDF - PDF Manager",
+     "dev": "ComcSoft Corporation",
+     "ratings": 1006,
+     "desc": "Power PDF is a powerful tool to create, secure and view PDF documents on iPad/iPhone. \n\nPower PDF lets you create PDF documents on your iPhone/iPad with ease. It supports: \n\n- Create PDF documents fro"
+    },
+    {
+     "name": "iScan - PDF & Document Scanner",
+     "dev": "EXORID Ltd",
+     "ratings": 7822,
+     "desc": "Are you in hunt for a PDF Scanner app which will make your life easier? If yes, you have come to the right place! Prepare yourself to be amazed by the incredible functionality of IScan: Document & PDF"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "forklift inspection app",
+   "top": [
+    {
+     "name": "Forklift Inspection App",
+     "dev": "Snappii",
+     "ratings": 0,
+     "desc": "A free trial includes 15 form submissions per month. \n\nHeavy Equipment Inspectors! Finally, there is a template to conduct forklift inspections without having to drag your laptop and camera. Instantly"
+    },
+    {
+     "name": "MasterCheck",
+     "dev": "2229665 Ontario Limited",
+     "ratings": 4,
+     "desc": "Expressly for employees whose company already utilizes MasterCheck’s forklift safety and management software. The MasterCheck app puts the power of completing digital forklift inspections and forms te"
+    },
+    {
+     "name": "Mitti (by SafetyCulture)",
+     "dev": "Mitti Holdings Pty Ltd",
+     "ratings": 32183,
+     "desc": "Trusted by 80,000 organisations worldwide, Mitti (by SafetyCulture) is the operations system for every shift, site and standard.\nBuilt for the people doing the work, not just the people managing it. M"
+    },
+    {
+     "name": "chk Forklift Checklist",
+     "dev": "Shannon So",
+     "ratings": 0,
+     "desc": "Forklift Prestart Checklist & Safety Report is a digital inspection app designed for forklift operators, supervisors, and businesses that require consistent prestart compliance and clear inspection re"
+    },
+    {
+     "name": "TFS Inspection",
+     "dev": "Total Fleet Solutions, Ltd.",
+     "ratings": 3,
+     "desc": "The Total Fleet Solutions Inspection App is exclusively designed for our customers. It provides an easy-to-use method for customers to perform inspections on forklifts and other material handling equi"
+    },
+    {
+     "name": "The Digital Inspection",
+     "dev": "Strategic Solutions, Inc.",
+     "ratings": 8,
+     "desc": "The Digital Inspection allows you to create a customizable inspections to support a variety of inspection and workflow processes.  Users can choose the category, priority, order and specify whether pi"
+    },
+    {
+     "name": "Spectacular Inspection System",
+     "dev": "AaceSystems LLC",
+     "ratings": 61,
+     "desc": "The Spectacular Inspection System is simply the best home inspection software available. It was created for property inspectors to generate a pdf report about the properties they inspect. Our app stor"
+    },
+    {
+     "name": "OrangeQC",
+     "dev": "OrangeQC",
+     "ratings": 1396,
+     "desc": "Refreshingly Simple Inspection Software\n\nOrangeQC is the simplest way to perform and manage janitorial inspections online.\n\nStop performing inspections on paper and see the power of doing them digital"
+    },
+    {
+     "name": "Safety Reports Inspection | SR",
+     "dev": "Safety-Reports.com, Inc.",
+     "ratings": 138,
+     "desc": "Safety Reports Inspection | SR is an inspection app built by a Certified Safety Professional for safety professionals. Our app utilizes comprehensive inspection checklists based on regulatory standard"
+    },
+    {
+     "name": "Inspectify Home Inspection App",
+     "dev": "Inspectify, Inc.",
+     "ratings": 52,
+     "desc": "The Home Inspection App is designed for Inspectify inspectors to quickly and easily complete inspections and deliver reports.\n\nNow, as an Inspectify inspector, you can see your upcoming jobs and detai"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "welding gas cylinder tracker",
+   "top": [
+    {
+     "name": "Welding Gas Cylinder Tracker",
+     "dev": "Lateef Razaq-Oyetola",
+     "ratings": 0,
+     "desc": "Welding Gas Cylinder Tracker keeps your cylinder inventory, refill history and costs in one place.\n\nRecord each cylinder’s gas type, capacity, serial number, supplier and owned or rented status. Mark "
+    },
+    {
+     "name": "Fuelly: MPG & Service Tracker",
+     "dev": "Fuelly, LLC",
+     "ratings": 29561,
+     "desc": "Easily track your vehicle’s fuel economy and vehicle maintenance records.  Set up reminders to keep on top of maintenance tasks such as oil changes and tire rotations.  Fuelly makes it easy for you to"
+    },
+    {
+     "name": "Ship Tracker",
+     "dev": "Rocketech sp. z o.o.",
+     "ratings": 1831,
+     "desc": "Explore the ocean with our new Ship Tracker app. Whether you're a maritime enthusiast, a professional in the industry, or simply an avid traveler, our app offers a wealth of features tailored to meet "
+    },
+    {
+     "name": "Pure Gas",
+     "dev": "Jeffrey Jackson",
+     "ratings": 2894,
+     "desc": "CORE LOCATION SERVICES MUST BE ENABLED\n\nPure Gas is a simple front end app for the popular website pure-gas.org.  You get a list of all ethanol-free gas stations sorted nearest to furthest.  Just clic"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Gas-Trak Online (GTO)",
+     "dev": "A-Gas Ltd",
+     "ratings": 1,
+     "desc": "With Gas-Trak Online (GTO), managing your F-Gas refrigerant usage, cylinder tracking and job scheduling has never been easier.\n\nDescription\nLooking for a system to manage your refrigerant and industri"
+    },
+    {
+     "name": "Fabora: Steel & Metal Tools",
+     "dev": "jason bennett",
+     "ratings": 8,
+     "desc": "Fabora puts 27 fabrication and welding tools in one app: steel and metal weight, weld settings and a weld fault finder, a rebar calculator, fixed ladder and ship ladder design, stair stringers, steel "
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Tracer - Gas Detector",
+     "dev": "ReFleX Wireless Inc.",
+     "ratings": 3,
+     "desc": "Introducing our revolutionary gas detector, designed to detect methane, propane, formaldehyde, and hydrogen with unparalleled accuracy. Powered by your smartphone via USB, eliminating the hassle of ba"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dental assistant danb prep",
+   "top": [
+    {
+     "name": "Dental Assistant DANB Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Dental Assistant DANB exam with confidence. Dental Assistant DANB Prep gives you hundreds of realistic practice questions with a clear, detailed explanation for every answer.\n\nWHY THIS APP\n•"
+    },
+    {
+     "name": "DANB CDA Practice Test",
+     "dev": "MastrAPI",
+     "ratings": 169,
+     "desc": "Pass your DANB / CDA exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nIf you're loo"
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "Dental Assistant | Exam Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 25,
+     "desc": "Prepare for the Dental Assistant Exam with Our Comprehensive Exam Prep App!\nDental Assistant Exam Prep is designed to help candidates excel in the Certified Dental Assistant exam, administered by the "
+    },
+    {
+     "name": "Dental Assistant Exam - Prep",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Pass your DANB exams with confidence. Dental Assistant Exam Prep is the focused, offline study app for the Radiation Health & Safety (RHS), Infection Control (ICE), and General Chairside (GC) componen"
+    },
+    {
+     "name": "Dental Assistant Prep: Exam",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into your dental assistant certification exam ready. Dental Assistant Prep gives you 960 practice questions with a clear explanation for every single answer, so you don't just memorize the right "
+    },
+    {
+     "name": "Dental Assisting Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 0,
+     "desc": "DENTAL ASSISTANT PREP: PASS YOUR CDA OR RDA CERTIFICATION EXAM \n\nThe CDA exam from DANB has a 60 percent first-attempt pass rate. Candidates who fail are most often weak on tooth anatomy and numbering"
+    },
+    {
+     "name": "CDA DANB Prep 2025",
+     "dev": "Krager Labs LLC",
+     "ratings": 37,
+     "desc": "Conquer the DANB Exam! Master the Certified Dental Assistant (CDA) Exam with 100+ Practice Questions.\n\nAre you an aspiring dental assistant seeking to pass the Certified Dental Assistant (CDA) exam wi"
+    },
+    {
+     "name": "Dental Boards Mastery: INBDE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1540,
+     "desc": "Pass the INBDE® or Triple Your Money Back! The most popular INBDE prep app, developed by a U.S.-based team of dentists.\n\n3,000+ INBDE Exam Practice Questions (Including 350+ Mental Dental Videos!)\n\n- "
+    },
+    {
+     "name": "GoTu: #1 in Dental Talent",
+     "dev": "TempMee Hygienist Inc.",
+     "ratings": 2437,
+     "desc": "GoTu is the top dental marketplace that effortlessly connects dental professionals with dental offices in need. Whether you’re a dental hygienist, dental assistant, associate dentist, or front office "
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "surveying leveling field notes",
+   "top": [
+    {
+     "name": "Surveying Leveling Field Notes",
+     "dev": "HFX Lab",
+     "ratings": 4,
+     "desc": "Supports automatic calculation and checking of the Height of Instrument method.\nYou can edit column titles.\nYou can share your document as a '.csv' file."
+    },
+    {
+     "name": "FastField: Field Service Forms",
+     "dev": "FastField, Inc.",
+     "ratings": 17113,
+     "desc": "No more clipboards. No more chasing paperwork. No more end-of-day calls to find out where jobs stand.\n\nFastField is the mobile forms platform built for field service teams, so managers dispatch with c"
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    },
+    {
+     "name": "LevelNote: Digital Field Book",
+     "dev": "Tadahiro Inoue",
+     "ratings": 0,
+     "desc": "LevelNote is a digital field book for leveling on construction sites.\nWith paper-like workflows, you can measure elevations, set out (marking), and manage records quickly.\n\n[Key Features]\n\n■ Measureme"
+    },
+    {
+     "name": "Geo Field Area - GPS Measure",
+     "dev": "STOMBERG s.r.o",
+     "ratings": 1514,
+     "desc": "Geo Field Area - GPS Measure is a convenient and easy-to-use app for measuring land areas on a map. It allows you to easily determine the area of any plot using built-in GPS and cartographic data.\n\nWh"
+    },
+    {
+     "name": "Fulcrum GIS field data capture",
+     "dev": "Spatial Networks, Inc",
+     "ratings": 114,
+     "desc": "Field teams often struggle with inefficient tools that slow operations and compromise data accuracy. Fulcrum transforms field workflows with intuitive, AI-powered mobile GIS software for seamless data"
+    },
+    {
+     "name": "Avenza Maps: Offline Mapping",
+     "dev": "Avenza Systems Inc.",
+     "ratings": 128016,
+     "desc": "New Description: \n\nAvenza Maps is a powerful offline navigation app for professional field work. Use offline maps with GPS navigation to stay on track anywhere—no signal required, so you can navigate "
+    },
+    {
+     "name": "GPS Land Measurement & Survey",
+     "dev": "LogiSian Technology Solutions",
+     "ratings": 3006,
+     "desc": "GPS Area Measure - Mapulator is a powerful measurement app for iPhone designed for professionals and individuals who need field area measurements, GPS measure distance, and land surveying tools. Wheth"
+    },
+    {
+     "name": "FOUNDATION Field Log",
+     "dev": "Foundation Software, Inc.",
+     "ratings": 280,
+     "desc": "Foundation Software clients can download the FOUNDATION mobile® Field Log app for iOS devices and log in with an iOS-enabled FOUNDATION mobile® account. To enable your account for iOS, please have you"
+    },
+    {
+     "name": "ArcGIS Field Maps",
+     "dev": "ESRI",
+     "ratings": 53,
+     "desc": "ArcGIS is available on your desktop, in a browser, and now on your iPhone or iPad. ArcGIS Field Maps is Esri’s premier maps app on mobile devices. Field Maps helps mobile workers understand their surr"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

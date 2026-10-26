@@ -35751,6 +35751,338 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "birding journal",
+   "apps": [
+    {
+     "name": "MyBirdBook",
+     "dev": "Jennifer Walker",
+     "ratings": 3,
+     "desc": "Key Features:\n\nSmart Bird Search: Start typing a bird name, and we’ll instantly pull the correct species from the extensive eBird database to ensure your records are accurate.\n\nRegional Imports: Plann"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    },
+    {
+     "name": "Merlin Bird ID by Cornell Lab",
+     "dev": "Cornell University",
+     "ratings": 113546,
+     "desc": "What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.\n\nMerlin helps you identify birds you see and hear. Merlin is unlike any"
+    },
+    {
+     "name": "MyBird - Birding Journal",
+     "dev": "Rahin Mustafa",
+     "ratings": 1,
+     "desc": "Why MyBird?\n\nMyBird turns scattered bird photos into your personal catalogue. Every sighting, \nphoto, note, and location — organised by species, and always at your fingertips.\n\nBuilt for birders and p"
+    },
+    {
+     "name": "Bird List: Birding Journal",
+     "dev": "Eduardo Simioni",
+     "ratings": 0,
+     "desc": "Your birding life, in your pocket — and yours alone.\n\nBird List is a complete birding and bird-photography journal, built to work 100% offline and to respect your data like no other app in its class.\n"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "optometry boards prep",
+   "apps": [
+    {
+     "name": "Optometry Boards Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "You are one exam away from becoming a licensed optometrist.\n\nThe NBEO® Part 1 is comprehensive and demanding. It covers the full depth of optometry science. Walking in underprepared is not an option.\n"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    },
+    {
+     "name": "Dental Boards Mastery: INBDE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1540,
+     "desc": "Pass the INBDE® or Triple Your Money Back! The most popular INBDE prep app, developed by a U.S.-based team of dentists.\n\n3,000+ INBDE Exam Practice Questions (Including 350+ Mental Dental Videos!)\n\n- "
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nccaom acupuncture mastery",
+   "apps": [
+    {
+     "name": "NCCAOM Acupuncture Mastery",
+     "dev": "iCert Inc.",
+     "ratings": 0,
+     "desc": "Prepare effectively for the NCCAOM Acupuncture Exam with NCCAOM Acupuncture Exam Prep, the most comprehensive and user-friendly study tool designed for aspiring licensed acupuncturists. This app provi"
+    },
+    {
+     "name": "Acupuncture Exam Mastery",
+     "dev": "Learn-Train Inc",
+     "ratings": 0,
+     "desc": "Prepare effectively for the NCCAOM Acupuncture Exam with NCCAOM Acupuncture Exam Prep, the most comprehensive and user-friendly study tool for aspiring licensed acupuncturists. This all-in-one resourc"
+    },
+    {
+     "name": "Visual Acupuncture 3D",
+     "dev": "GraphicVizion",
+     "ratings": 152,
+     "desc": "Study acupuncture visually and interactively.  \nGet a good feel for the flow of meridian pathways and their (anatomical) point locations. \n \nIncludes a complete interactive anatomy model (muscles, bon"
+    },
+    {
+     "name": "A Manual of Acupuncture 2025",
+     "dev": "The Journal of Chinese Medicine Publications Ltd.",
+     "ratings": 169,
+     "desc": "A Manual of Acupuncture – The Definitive App for Students & Practitioners.\n\n\nThis is the latest mobile app (iPhone/iPad) version of the foremost points textbook in the Western world - A Manual of Acup"
+    },
+    {
+     "name": "Acupuncture Points",
+     "dev": "Miridia Technology, Inc.",
+     "ratings": 94,
+     "desc": "Acupuncture Mastery Software\nVideo Demo!  View it here: http://www.miridiatech.com/products/points/iphone.php\n\n\"Just wanted to let you know I really like the points program.  I am a student in TCM and"
+    },
+    {
+     "name": "Tsubook",
+     "dev": "Studio Levart",
+     "ratings": 49,
+     "desc": "Tsubook is a mobile application with instant access to all the information you need about points, meridians and other content related to Traditional Chinese Medicine. It is both a reference book and a"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "vcely – beekeeping journal",
+   "apps": [
+    {
+     "name": "VCELY – Beekeeping Journal",
+     "dev": "Code Creator, s.r.o.",
+     "ratings": 0,
+     "desc": "VCELY is a simple beekeeping journal for your pocket. Log inspections, honey harvests and feeding right at the hive – with a few taps, no long typing.\n\nQUICK NOTES\n• Shortcuts for common tasks: queen "
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "American Bee Journal",
+     "dev": "Dadant & Sons Inc",
+     "ratings": 26,
+     "desc": "The American Bee Journal is dedicated to providing information about Beekeeping to everyone from the individual who keep bees for a hobby to the commercial beekeeper with thousands of colonies. We are"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "nail tech manager",
+   "apps": [
+    {
+     "name": "Nail Tech Manager",
+     "dev": "Nigel Green",
+     "ratings": 4,
+     "desc": "Nail Tech Manager (NTM) allows you to manage all of your clients, bookings, services and stock information in one place. It has been designed by Nail Technicians for Nail Technicians and will continue"
+    },
+    {
+     "name": "Nail Tech Booking App",
+     "dev": "Alexander Hitrik",
+     "ratings": 2,
+     "desc": "Nail Tech Booking App is an all-in-one app for nail professionals who want to run their nail business with clarity and confidence.\n\nManage clients, appointments, nail services, notes, photos, finances"
+    },
+    {
+     "name": "Nail Tech Schedule & Reminder",
+     "dev": "JZ Mobile LLC",
+     "ratings": 15,
+     "desc": "Nail Tech Pro Scheduler is a fantastic tool used to manage your time by maintaining a client focused schedule of your appointments that is utilized to track clients and their visits.   A client focuse"
+    },
+    {
+     "name": "NailTechConnect",
+     "dev": "CHARMED & ARMED INTERNATIONAL INC",
+     "ratings": 19,
+     "desc": "Join thousands of nail technicians who trust MakarttPro to support their journey. Download now and get everything you need to run and grow your nail tech business—all in one place.\n\nYour clients now h"
+    },
+    {
+     "name": "Nail Technician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 1805,
+     "desc": "Pass your State Board of Nail Technology exam with the help of the new Nail Technician Exam Center app! \n\nThousands of Nail Tech questions and their detailed explanations are now available at your fin"
+    },
+    {
+     "name": "Nails Exam: Nail Tech Prep",
+     "dev": "LineCentury",
+     "ratings": 490,
+     "desc": "Pass the California nail technician exam — first try.\n\nCalifornia rewrote this exam on April 1, 2026. Safety and Infection Control went from 38% to\n50% of the paper, and Skin Care is an entirely new c"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "pharmacy technician mastery",
+   "apps": [
+    {
+     "name": "Pharmacy Technician Mastery",
+     "dev": "iCert Inc.",
+     "ratings": 0,
+     "desc": "Prepare with confidence for your pharmacy technician certification with Pharmacy Technician Exam Prep, the ultimate study resource for aspiring pharmacy technicians. Covering both the PTCB PTCE and Ex"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "PTCB Exam Prep 2026 | EZPrep",
+     "dev": "EZ Test Prep",
+     "ratings": 1236,
+     "desc": "Ace Your PTCB Without Mixing Up Heart Meds and Laxatives.\n\nSo you’ve chosen the noble path of counting pills, deciphering doctor chicken scratch, and making sure no one confuses their antibiotics with"
+    },
+    {
+     "name": "Pharmacy Technician PTCE Mock Test and Explanation",
+     "dev": "Abdullah Nurum",
+     "ratings": 972,
+     "desc": "This app is built for people who want to take the PTCB exam. It includes the following sections: Tests(Mock Test and Learning mode), Book Outline, Flash Cards, Jobs and Schools. The Tests section incl"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "PTCB PTCE Exam Prep Test: 2025",
+     "dev": "Best Fun Games",
+     "ratings": 444,
+     "desc": "Pass your PTCB®, PTCE®, (Pharmacy Technician Certification Exam®,) with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ qu"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

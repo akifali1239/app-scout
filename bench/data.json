@@ -1419,6 +1419,56 @@
    "term": "ultrasound anatomy",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "dental hygiene flashcards 2026",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy study guide q&a",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "occupational therapy exam 2026",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "scuba games",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "plumber hunting",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician games",
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "term": "nail tech game",
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "term": "hands of hope chiropractic",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "apex massage therapy",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "miller welding app",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [

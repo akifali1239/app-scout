@@ -37350,6 +37350,46 @@
    "note": "Aradığım şey kaynak sertifika sınavıydı, bu bir oyun",
    "label": "Alakasız",
    "split": "train"
+  },
+  {
+   "note": "App Store'da bu işi yapan 25 app var, hepsi yüksek puanlı",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Zaten büyük firmalar bu alanı tamamen doldurmuş, girecek yer yok",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Arama sonuçlarının ilk sayfası aynı işi yapan appler ile dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu kartı dün de gördüm ve reddetmiştim, yine karşıma çıktı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Listede üst üste aynı fikir iki kez gösterilmiş",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Geçen hafta reddettiğim kartın hemen hemen aynısı bu",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikir kişisel veri topluyor, App Store gizlilik kuralları yüzünden reddedilir",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Son güncellemesi 2019, arayüzü eski iOS tasarımında kalmış",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
   }
  ],
  "kind": [

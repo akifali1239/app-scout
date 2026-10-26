@@ -1374,6 +1374,51 @@
    "term": "bass booster sound",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "pharmacy technician certification exam test prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "optometry boards prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "esthetician state board",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "nursing drug guide",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "internet speed meter",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "forklift inspection app",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "bartender game",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "sonography game",
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "term": "ultrasound anatomy",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

@@ -36083,6 +36083,364 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "color match identifier",
+   "apps": [
+    {
+     "name": "Color Match Identifier",
+     "dev": "Eren Arda Carboga",
+     "ratings": 0,
+     "desc": "Discover, capture and mix colors with your iPhone.\n\nColorMatch turns your camera into a color picker. Point it at anything around you, tap or drag on the live preview and instantly see the color's nam"
+    },
+    {
+     "name": "Color Identifier: Color Picker",
+     "dev": "Irina Metelkina",
+     "ratings": 1997,
+     "desc": "Color Identifier app helps you to detect the color of any pixel on the photo or image. Just upload the image into the app, zoom it and scroll to the color you are interested in. The app shows colors i"
+    },
+    {
+     "name": "Paint Match: Color Identifier",
+     "dev": "Easy To Use Apps",
+     "ratings": 20,
+     "desc": "Find the exact paint color of anything around you. Point your camera at a wall, furniture, fabric, or paint chip and Paint Match instantly identifies the closest shades from real paint brands — no col"
+    },
+    {
+     "name": "Color Name AR",
+     "dev": "Vlad Polyanskiy",
+     "ratings": 8244,
+     "desc": "Color Name is an indispensable assistant to help you choose paints, wallpaper, and decorative elements.  Besides, it is a handy instrument for everyday use. \n\nDo you want to know what Fuchsia Color lo"
+    },
+    {
+     "name": "Paint Color Matcher Identifier",
+     "dev": "Csaba Huszar",
+     "ratings": 1,
+     "desc": "Find Your Perfect Paint Color Instantly with AI\n\nPaint Color Analyzer AI transforms your camera or photo library into a powerful color analysis tool. Stop guessing the right shade and start your next "
+    },
+    {
+     "name": "Color Identifier: Paint Match",
+     "dev": "Mobile Card Games & Travel Apps LLC",
+     "ratings": 156,
+     "desc": "Identify colors instantly and match paint colors with this powerful color detection app. Color Identifier Paint Match is the ultimate tool to find color names, identify exact paint color matches, and "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "reading light",
+   "apps": [
+    {
+     "name": "Reading Light Glowow",
+     "dev": "Aleksei Khaliapin",
+     "ratings": 787,
+     "desc": "Transform your iPhone into the ultimate reading light, vibrant mood lamp, and dynamic torch with Glowow! More than just a simple screen light, Glowow illuminates your world with a stunning array of fe"
+    },
+    {
+     "name": "Reading light: Luma",
+     "dev": "Damir Stuhec",
+     "ratings": 65,
+     "desc": "Luma transforms your device into a gentle, customizable reading light designed for book lovers who crave the perfect glow. Whether you’re diving into a novel at bedtime or studying in the dark, Luma c"
+    },
+    {
+     "name": "Readlight: Night Reading Light",
+     "dev": "Emre Balli",
+     "ratings": 339,
+     "desc": "Love reading in bed but hate straining your eyes or waking your partner? Readlight turns your phone into the perfect, eye-friendly book lamp.\n\nInstead of a harsh screen glare, Readlight emits a soft, "
+    },
+    {
+     "name": "Nighty Lighty: Dim Flashlight",
+     "dev": "Shuichi Nagao",
+     "ratings": 399,
+     "desc": "Nighty Lighty: Ultimate Night Light & Flashlight App\n\nTransform your iPhone / iPad into the perfect night light and flashlight companion with Nighty Lighty. This versatile app is your go-to solution f"
+    },
+    {
+     "name": "Loomy Night Light",
+     "dev": "David Hobbs",
+     "ratings": 1461,
+     "desc": "Loomy Night Light uses your phone's screen to illuminate a room using any of 3 different light modes - Night Light, Mood Light and Lava Lamp. \n\nEach mode is customisable and can be set on a timer up t"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "sound amplifier",
+   "apps": [
+    {
+     "name": "Sound Amplifier | Volume Boost",
+     "dev": "Irakli Tsuladze",
+     "ratings": 2310,
+     "desc": "Enhance Your Hearing with Audio Amplifier!\nDon't miss out on a single sound – open the door to a world of amplified audio!\n\nKey Features\n\n+ Louder Volume Boost:\n> Select from various sound amplificati"
+    },
+    {
+     "name": "Sound Amplifier",
+     "dev": "Mighty Fine Apps LLC",
+     "ratings": 1239,
+     "desc": "Sound Amplifier turns your phone into a hearing aid. Make your volume 100x louder and eliminate background noise while protecting your ears. Just connect your existing headphones.\n\nWhat you can do wit"
+    },
+    {
+     "name": "Volume Boost – Sound Amplifier",
+     "dev": "Evgenia Pervushina",
+     "ratings": 3691,
+     "desc": "Use the power of your smartphone and latest technologies for maximum sound amplification. Increase the volume and improve the sounds around you. App helps you to improve your sound perception. The app"
+    },
+    {
+     "name": "LISTENING DEVICE - HEARING AID",
+     "dev": "Application Development 21",
+     "ratings": 1515,
+     "desc": "LISTENING DEVICE + SOUND AMPLIFIER 4 Music & Video + CAPTION CALL + Customized for the Hard of HEARING\n◆Listening Device delivers powerful sound amplification for clearer everyday hearing\n◆Enhance spe"
+    },
+    {
+     "name": "Sound Amplifier +",
+     "dev": "heekyung moon",
+     "ratings": 14,
+     "desc": "Sound Amplifier picks up the voices and sounds around you with your phone's microphone and plays them into your earphones in real time — so a soft-spoken friend, the TV across the room or a lecture fr"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "ems protocols",
+   "apps": [
+    {
+     "name": "PPP Agency",
+     "dev": "Acid Remap LLC",
+     "ratings": 22,
+     "desc": "For the standard version of Paramedic Protocol Provider with over 350 available protocols, please visit http://itunes.apple.com/app/paramedic-protocol-provider/id323130614?mt=8\n\nPPP Agency is a sponso"
+    },
+    {
+     "name": "EMS Protocols To-Go: Field Use",
+     "dev": "EMS Dev Solutions, LLC",
+     "ratings": 0,
+     "desc": "Custom EMS Protocols for Your Department\n\nEquip your team with lightning-fast, offline access to your department’s unique EMS protocols and critical resources—no more fumbling with PDFs or binders.\n\n\n"
+    },
+    {
+     "name": "MD Medical Protocols for EMS",
+     "dev": "Maryland EMS",
+     "ratings": 2,
+     "desc": "The Maryland Medical Protocols for Emergency Medical Services is the official and definitive reference manual for all Maryland EMS clinicians, including emergency medical responders (EMR); emergency m"
+    },
+    {
+     "name": "Paramedic Protocol Provider",
+     "dev": "Acid Remap LLC",
+     "ratings": 53,
+     "desc": "Paramedic Protocol Provider provides quick offline access to over 350 field treatment protocols from the USA and Canada.\n\nAn annual in-app subscription will be required to download or update protocols"
+    },
+    {
+     "name": "Muru",
+     "dev": "Muru",
+     "ratings": 132,
+     "desc": "Built by medics, for medics, Muru delivers you the right tools you need during a call. Intuitive, blazingly fast, and built for the mission-critical work you do. \n\nProtocol Finder\n--------------------"
+    },
+    {
+     "name": "NC Protocol Hub",
+     "dev": "Wills Dean",
+     "ratings": 21,
+     "desc": "NC Protocol Hub displays the North Carolina EMS protocols, procedures, policies, and appendices for all first responders that need immediate and easy access.\nUsers may also download and view their loc"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "trading signal profit",
+   "apps": [
+    {
+     "name": "Profit AI - Trading Assistant",
+     "dev": "Valenyr Information Technology Consultants FZCO",
+     "ratings": 3466,
+     "desc": "Tired of guessing the markets? Profit AI helps you trade smarter by analyzing charts in seconds.\n\n\nHow It Works:\n\n- Upload a Chart – Snap a picture or upload any trading chart.\n\n- AI-Powered Analysis "
+    },
+    {
+     "name": "Profit AI trading: Signals bot",
+     "dev": "SwiftSoft",
+     "ratings": 91,
+     "desc": "Profit AI Trading Signal Bot is an advanced AI-powered trading analysis app that delivers chart-based signal suggestions, intelligent technical analysis, and professional interactive charts. Analyze c"
+    },
+    {
+     "name": "Profit AI Trade Signal Scanner",
+     "dev": "Allegro Digital",
+     "ratings": 2,
+     "desc": "Profit AI is the all-in-one AI trading assistant for crypto, stocks, forex, and commodities. Real-time market data, AI-scored signals, and instant chart analysis — all in your pocket.\n\n▸ AI CHART ANAL"
+    },
+    {
+     "name": "AI Trading Signal Profit Chart",
+     "dev": "Alejandro Rodriguez Uson",
+     "ratings": 6,
+     "desc": "Unlock the power of artificial intelligence in trading. AI Trading Signal delivers real-time, data-driven insights to help you make smarter investment decisions.\n\nOur advanced algorithms analyze marke"
+    },
+    {
+     "name": "MetaTrader 4",
+     "dev": "MetaQuotes Software Corp.",
+     "ratings": 81538,
+     "desc": "Connect to hundreds of brokers and trade on currency markets from the MetaTrader 4 for iPhone or iPad!\n\nThe mobile trading platform allows you to perform trading operations and analyze currency quotes"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "pharmacology",
+   "apps": [
+    {
+     "name": "Pharmacology Mnemonics - Tips",
+     "dev": "Dignaben Sakariya",
+     "ratings": 5,
+     "desc": "Preparing for Medical Exams? Then this app is perfectly made for you. Study with fun & remember more in less time with pharmacology mnemonics covering topic. Unbelievably effective. Ridiculously effic"
+    },
+    {
+     "name": "Pharmacy Shift",
+     "dev": "Nikita Bulygin",
+     "ratings": 3,
+     "desc": "Pharmacy Shift makes studying pharmacology feel like a game.\n\nLearn drug uses and classes, review what you miss, and build confidence through short, focused shifts.\n\nLEARN BY PLAYING\n\nSort medications"
+    },
+    {
+     "name": "Pharmacology for Nursing 2026",
+     "dev": "和荣 叶",
+     "ratings": 60,
+     "desc": "Pharmacology for Nursing 2026 is a test prep app that will help you pass the Pharmacology exam with a high score on your first attempt!\n\nPharmacology for Nursing 2026 will not only help you gain insig"
+    },
+    {
+     "name": "Flashcard Pharmacology",
+     "dev": "Edward Rippe",
+     "ratings": 13,
+     "desc": "Flashcard Pharmacology is an essential resource designed for first and second year Medical students studying pharmacology.  PA students, Pharmacy students and Nursing students will find it useful as w"
+    },
+    {
+     "name": "Picmonic Nursing School Study",
+     "dev": "Picmonic - The Visual Learning Community",
+     "ratings": 21205,
+     "desc": "Prepare for nursing school and pass your nursing exams with Picmonic! For FREE you can access our most popular Videos, Multiple Choice Quiz Questions, and Daily Quiz with Spaced Repetition for 5 days."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "physical therapy exercises",
+   "apps": [
+    {
+     "name": "Medbridge GO for Patients",
+     "dev": "MedBridge Education LLC",
+     "ratings": 151615,
+     "desc": "The Medbridge GO mobile app for patients gets you moving! Keep up with your home exercise program in the app powered by award-winning content and technology.\n\nPatients can also set reminders, track ov"
+    },
+    {
+     "name": "Prehab: Physical Therapy, Pain",
+     "dev": "The Prehab Guys",
+     "ratings": 1707,
+     "desc": "Access state of the art physical therapy and injury prevention workouts online in the comforts of your own home or gym! [P]rehab is a team of world renown Doctors of Physical Therapy & Certified Stren"
+    },
+    {
+     "name": "movewise: Physical Therapy",
+     "dev": "Thatchnology LLC",
+     "ratings": 20,
+     "desc": "movewise: Physical Therapy in Your Pocket\n\nTransform your wellness journey with movewise, the premier at home physical therapy app designed by Doctors of Physical Therapy to deliver personalized daily"
+    },
+    {
+     "name": "Jen: Physical Therapy Workouts",
+     "dev": "The Mobility Method LLC",
+     "ratings": 484,
+     "desc": "Jen: Your Physical Therapy App\nRevolutionize Your Health with Expert-Led Physical Therapy\n\nJen is not just an app; it's your personal gateway to enhanced mobility, reduced pain, and increased strength"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

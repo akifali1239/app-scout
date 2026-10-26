@@ -35290,6 +35290,56 @@
    "note": "Son güncellemesi 2019, ekranlar eski iOS tasarımında ve çöküyor",
    "label": "Kalitesiz / eski",
    "split": "dev"
+  },
+  {
+   "note": "Bu kategoride 25 app var, hepsi on binlerce yorumlu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Adamlar milyonlarca indirmeli, ben nasıl girerim bu pazara",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu kartı dün de gördüm, listede hep aynısı çıkıyor",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Aynı fikir üç kez üst üste geldi, tekrar tekrar aynısı",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "İnsanlar bunun için asla para vermez, hepsi bedava alternatif kullanıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Gerçek zamanlı donanım sensörü ve özel backend gerekiyor, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu telifli içerik gerekçesiyle reddeder, marka logoları var",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Konu bana hiçbir şey ifade etmiyor, sıkıcı",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Ekran görüntüleri bulanık, app yıllardır güncellenmemiş",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Aradığım şey kaynak sertifika sınavıydı, bu bir oyun",
+   "label": "Alakasız",
+   "split": "train"
   }
  ],
  "kind": [

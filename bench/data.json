@@ -27520,6 +27520,262 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "piano tuning app pt-a1 - us",
+   "top": [
+    {
+     "name": "Piano Tuning App PT-A1 - US",
+     "dev": "Yamaha Corporation of America",
+     "ratings": 4,
+     "desc": "YAMAHA PT-A1 is a piano tuning software for professional piano technicians who have mastered the basic skills of piano tuning. \nSimplicity and accuracy were the major considerations when designing the"
+    },
+    {
+     "name": "Piano ∞",
+     "dev": "Better Day Wireless, Inc.",
+     "ratings": 566,
+     "desc": "Piano Infinity is everything you will ever need in a piano.   Get access to five instruments with sheet music, piano lessons, composing, and recording features.  You can even play along on your own ke"
+    },
+    {
+     "name": "Simply Piano: Learn Piano Fast",
+     "dev": "Simply Ltd",
+     "ratings": 854410,
+     "desc": "Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.\n\n- Tons of fun songs like Imagine, Chandelier, All Of "
+    },
+    {
+     "name": "Piano ٞ",
+     "dev": "Impala Studios",
+     "ratings": 170737,
+     "desc": "Join over 14 million music lovers discovering piano. Learn the fun and easy way, no lessons needed.\nPlay songs, practice piano, and create music in one intuitive app.\n\nChoose how you play: follow the "
+    },
+    {
+     "name": "Piano Academy by Yokee Music",
+     "dev": "Yokee Music",
+     "ratings": 70033,
+     "desc": "The fastest and most fun way to learn to play the piano!\n\nPiano Academy is for anyone looking to learn the piano from scratch or those who have prior knowledge and want to continue learning by practic"
+    },
+    {
+     "name": "Piano app by Yokee",
+     "dev": "Yokee Music",
+     "ratings": 149339,
+     "desc": "◆◆◆ PLAY THE HOTTEST SONGS. NO EXPERIENCE NECESSARY. ◆◆◆\nPlay timeless Piano classics and popular radio hits for free. No prior experience necessary!\n\nYokee’s Piano app is so easy to use, you’ll be pl"
+    },
+    {
+     "name": "Virtuoso Piano Free 3",
+     "dev": "Peter Nagy",
+     "ratings": 165,
+     "desc": "\"Another free gem\" - Engadget\n\"Producing a surprisingly realistic sound as you tap away\" - The Sunday Times\n\"New and Noteworthy\" - Apple\n\nVirtuoso, the world's most popular Multi-Touch piano ever, is "
+    },
+    {
+     "name": "Piano DX",
+     "dev": "Better Day Wireless, Inc.",
+     "ratings": 1409,
+     "desc": "***Featured by Apple as New and Noteworthy in over 18 countries!***\n\nPiano DX is the best piano app available for your iPhone, iPod Touch, and iPad. It has more features than any other piano app, many"
+    },
+    {
+     "name": "Perfect Piano - Learn to Play",
+     "dev": "Revontulet Soft Inc",
+     "ratings": 8463,
+     "desc": "Perfect Piano is an intelligent piano simulator design for your iPhone and iPad. With in-built genuine piano timbre, this app can teach you how to play piano and amuse you at the same time! \n\n[ Smart "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "co pilot budget",
+   "top": [
+    {
+     "name": "Copilot: Track & Budget Money",
+     "dev": "Copilot Money, Inc.",
+     "ratings": 30496,
+     "desc": "Apple Editor's Choice. Apple Design Award Finalist.\n\n\"Made the jump from Mint years ago and never looked back. Run, don't walk.\" -App Store review\n\n\"An app that I love and use.\" -MKBHD\n\n\nAvailable on "
+    },
+    {
+     "name": "Monarch: Budget & Track Money",
+     "dev": "Monarch Money, Inc.",
+     "ratings": 112515,
+     "desc": "Consider Monarch your home base for money clarity. Simplify your finances by bringing all your accounts into one easy view, have confidence in always knowing where your money is and where it's going, "
+    },
+    {
+     "name": "YNAB",
+     "dev": "You Need A Budget LLC",
+     "ratings": 61767,
+     "desc": "Have you ever worried about money? You are not alone. \n\nDownload YNAB, get good at money, and never worry about money again.\n\n“We started YNAB January 1st with $37 saved and ended the year with $42,00"
+    },
+    {
+     "name": "Rocket Money - Bills & Budgets",
+     "dev": "Rocket Money",
+     "ratings": 396132,
+     "desc": "Join over 10 million members in using Rocket Money, the all-in-one personal finance app.\n\nSave more, spend less, see everything, and take back control of your financial life.\n\n\"One of the best persona"
+    },
+    {
+     "name": "Buddy: Budget Planner App",
+     "dev": "Buddy Budgeting AB",
+     "ratings": 9528,
+     "desc": "Buddy helps you set up a budget and keep track of your expenses, either by yourself or together with your loved ones.\nHere’s what is waiting for you inside:\n\n\nBUDGETS\nBuddy will help you not to oversp"
+    },
+    {
+     "name": "Monefy: Bills & Money Tracker",
+     "dev": "Reflective Technologies ApS",
+     "ratings": 6721,
+     "desc": "How to track your expenses successfully? We know that it’s easy. You only need to add each expense you do… no more than that! And Monefy is going to help you. Just add new transactions when you are bu"
+    },
+    {
+     "name": "Budget Bestie",
+     "dev": "Budget Bestie Corp.",
+     "ratings": 3150,
+     "desc": "hey bestie, ready to make budgeting effortless? with budget bestie, you can take full control of your money on your own terms—whether you get paid weekly, biweekly, twice a month, or monthly, we’ve go"
+    },
+    {
+     "name": "Budget Planner: Budget, Bills",
+     "dev": "Pretty View LLC",
+     "ratings": 2323,
+     "desc": "Organize your monthly finance with the easiest and practical app. Available now for your iPhone. One of the best apps for Money-management. Control your Wallet while tracking all your spending, create"
+    },
+    {
+     "name": "EveryDollar: Budget Management",
+     "dev": "The Lampo Group Incorporated",
+     "ratings": 84126,
+     "desc": "EveryDollar is the personal budget app for any money goal: save money, pay off debt & more. Create quick budgets easily with your personal budget planner. Tracking expenses & transactions is simple: p"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "hvac motor solutions",
+   "top": [
+    {
+     "name": "HVAC Motor Solutions",
+     "dev": "Regal Rexnord Corporation",
+     "ratings": 3,
+     "desc": "HVAC Motor Solutions is your one-stop-shop residential HVAC contractor resource portal. \n\nWith HVAC Motor Solutions in your pocket, here’s what you’ll find: \n\nTools to help you succeed on your motor r"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "The Dealer Toolbelt",
+     "dev": "Regal Rexnord Corporation",
+     "ratings": 0,
+     "desc": "Stop searching the web for HVAC motor info. The Dealer Toolbelt (dtb) gives you everything you need to know about Regal and Evergreen® motors, all in one place. Find the right replacement motor and in"
+    },
+    {
+     "name": "measureQuick HVAC",
+     "dev": "measureQuick",
+     "ratings": 8,
+     "desc": "Ready to work smarter, not harder? The measureQuick HVAC App gives you everything you need to diagnose HVAC systems quickly and accurately. With powerful new tools and features, you can solve any job "
+    },
+    {
+     "name": "CE HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 1590,
+     "desc": "CE HVAC PRO is 100% free for HVAC technicians and always will be. Easily check warranty entitlement, available inventory, order status, manuals, and tech specs for all the HVAC models we carry. Our mi"
+    },
+    {
+     "name": "Motili On-Site",
+     "dev": "Motili Inc",
+     "ratings": 24,
+     "desc": "This mobile app for Motili's HVAC contractor network makes it easy for contractors to see available jobs in their work area and accept and schedule them. Contractors use the app on site to guide them "
+    },
+    {
+     "name": "Fieldpiece Job Link",
+     "dev": "Fieldpiece Instruments",
+     "ratings": 512,
+     "desc": "The Fieldpiece Job Link System is a robust app used with our compatible HVACR wireless tools for troubleshooting, diagnosing and evaluating HVACR systems. Job Link is the HVACR Pros’ Hub for wireless "
+    },
+    {
+     "name": "Carrier® Service Technician",
+     "dev": "Carrier Corporation",
+     "ratings": 108,
+     "desc": "Solving challenging HVAC/R problems is your job. Helping you get the right parts, supplies, and equipment—and manage sites in the field—is ours.\n\nThe Carrier Service Technician app brings residential "
+    },
+    {
+     "name": "Baker HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 601,
+     "desc": "BAKER DISTRIBUTING COMPANY strives to make life as an HVAC/R Professional easier, saving you time and hassle through innovation. Our mobile app HVAC/R PRO provides access to product information and ea"
+    },
+    {
+     "name": "Gemaire HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 820,
+     "desc": "Gemaire’s mobile app is your HVAC “Easy Button”. It can make your life easier and save time by providing access to product information useful tools whether you’re on-site, in the drive-thru, or just s"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "florist event planner - stem",
+   "top": [
+    {
+     "name": "Florist Event Planner - Stem",
+     "dev": "Karol Jaworski",
+     "ratings": 0,
+     "desc": "Stem is the professional floral business app built for event and wedding florists. Manage every event from consultation to delivery - recipes, procurement, timelines, and profit tracking in one place."
+    },
+    {
+     "name": "Zola - Wedding Planner",
+     "dev": "Zola, Inc.",
+     "ratings": 97816,
+     "desc": "Ready to plan your wedding? Do it all with Zola.\nZola’s free tools make wedding planning a joy, not a job.\n\n• Venues & vendors: Finding your dream team shouldn’t feel like a scavenger hunt. Get person"
+    },
+    {
+     "name": "Wedding Planner by WeddingWire",
+     "dev": "WeddingWire",
+     "ratings": 45894,
+     "desc": "We do weddings. Ready to plan yours? Wedding Planner by WeddingWire is the only (free!) wedding app you’ll ever need. Start planning today with:\n\nLocal Vendors: Search over 250,000 local wedding profe"
+    },
+    {
+     "name": "Eventee - Your Event Buddy",
+     "dev": "Eventee s.r.o.",
+     "ratings": 2245,
+     "desc": "Let’s get you an event app that you will actually love to use! Who wouldn’t like to have everything in one place? With Eventee you can check the schedule and create your personal agenda, book workshop"
+    },
+    {
+     "name": "Partiful: Party Invite Maker",
+     "dev": "Partiful",
+     "ratings": 261537,
+     "desc": "The easiest way to plan and discover social events. Create free event invite pages, send text updates, sell tickets, and find the best events near you.\n\nACTUALLY FUN EVENT PAGES (100% FREE)\n- Create p"
+    },
+    {
+     "name": "Wedding Seating Chart Planner",
+     "dev": "Puzzle Party, LLC",
+     "ratings": 395,
+     "desc": "Seat Puzzle is the best way to create lightweight mockups for your events. Professionals use Seat Puzzle to manage events for all their clients and look great on the job. Easily organize your space, m"
+    },
+    {
+     "name": "The Knot: Wedding Planner App",
+     "dev": "The Knot Inc.",
+     "ratings": 221853,
+     "desc": "Plan Your Dream Day with The Knot: The #1 Rated Free Wedding Planner App\n\nNEW! Introducing The Knot's Peace of Mind Program\nPlan your wedding with total confidence thanks to The Knot’s Peace of Mind P"
+    },
+    {
+     "name": "Planmore: Schedule Planner App",
+     "dev": "Daily Calendar & Planner Apps",
+     "ratings": 4833,
+     "desc": "Planmore is a professional planning app that helps you plan more schedules. It integrates all in one place, including calendars, events, tasks, reminders, and notes, so you can keep track of them anyt"
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

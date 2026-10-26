@@ -29064,6 +29064,646 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "farrier pro manager",
+   "top": [
+    {
+     "name": "Farrier Pro Manager",
+     "dev": "Rafael De la Torre Diaz",
+     "ratings": 0,
+     "desc": "Descripción: Farrier Pro Manager es una aplicación diseñada para herradores y profesionales del cuidado del casco equino que quieren gestionar su trabajo de forma sencilla, organizada y profesional.\n\n"
+    },
+    {
+     "name": "Best Farrier",
+     "dev": "Best Mobile Professional, LLC",
+     "ratings": 10,
+     "desc": "Best Farrier is a scheduling and invoicing app for farriers, built for mobile devices, that helps you run your business efficiently on the go. All your business information is in one place, easily and"
+    },
+    {
+     "name": "Horse Racing Manager 2026",
+     "dev": "Third Time, Inc",
+     "ratings": 6393,
+     "desc": "Online races are here! \n\n• Introducing HRM TV, the hub for online horse racing!\n• Live PVP races occur every 5 minutes!\n• Will you be able to top the global leaderboard?\n\nBecome the number one horse r"
+    },
+    {
+     "name": "EQUINET - Mustad Farrier App",
+     "dev": "Mustad Hoofcare",
+     "ratings": 9,
+     "desc": "EQUINET is an app designed to make every day business management easier for farriers. \n\nApp features:\n1. HORSE & CONTACT LOGS: instant overview of all your contacts and horses in one place.\n\n2. HORSE "
+    },
+    {
+     "name": "iHorse™ Racing 2：Horse manager",
+     "dev": "Gamemiracle Company Ltd",
+     "ratings": 65,
+     "desc": "Become the top horse racing stable manager and the best horse trainer in the world! Play the role of a thoroughbred horse owner, stable manager and horse trainer in iHorse™ Racing 2：Horse manager. Fin"
+    },
+    {
+     "name": "DRF Horse Racing News & Data",
+     "dev": "Sports Information Group LLC",
+     "ratings": 4963,
+     "desc": "Horse Racing is a breeze with the DRF App, the official app of the Daily Racing Form! \n\nWinning horseplayers have trusted the Daily Racing Form for more than 130 years. Get access to the same inside i"
+    },
+    {
+     "name": "American Farrier’s Association",
+     "dev": "American Farrier’s Association",
+     "ratings": 1,
+     "desc": "The American Farrier’s Association app connects you with the most up to date information for members, certification requirements, news and events.  Use the app to connect with members, locate certific"
+    },
+    {
+     "name": "iHorse™ Arcade Horse Racing",
+     "dev": "Gamemiracle Company Ltd",
+     "ratings": 50,
+     "desc": "iHorse™ Arcade Horse Racing is the award winning horse racing game that entails more than 20 years of our experience in developing horse racing games. Immerse yourself in the exciting world of horse r"
+    },
+    {
+     "name": "BarnManager",
+     "dev": "Digital Crumbs LLC",
+     "ratings": 25,
+     "desc": "Horses are more than a pet and more than a hobby. Horses are a lifestyle. BarnManager supports trainers, students, parents, barn owners, horse owners, riders, grooms, vets, farriers and more to manage"
+    },
+    {
+     "name": "1/ST BET PRO",
+     "dev": "Xpressbet, LLC",
+     "ratings": 893,
+     "desc": "1/ST BET PRO \n\nHorse Racing Betting is a breeze with 1/ST BET PRO! Bet on the world’s best racetracks with 1/ST BET PRO, the only betting app featuring DRF data.\n\nAccess DRF Formulator past performanc"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nccco crane exam",
+   "top": [
+    {
+     "name": "Crane Operator Exam Prep NCCCO",
+     "dev": "Deeun Inc.",
+     "ratings": 20,
+     "desc": "CRANE OPERATOR EXAM PREP: PASS YOUR NCCCO CCO CERTIFICATION\n\nThe NCCCO written exam requires a 70 percent score. Load charts account for 26 percent of the Core exam. Candidates who fail are almost alw"
+    },
+    {
+     "name": "Mobile Crane Operator Prep",
+     "dev": "Darya Pyzhyk",
+     "ratings": 1,
+     "desc": "Advance Your Career with Our Mobile Crane Operator Exam Prep App\n\nElevate your professional journey with Rocket Prep's mobile-optimized exam prep app for the Mobile Crane Operator certification exam. "
+    },
+    {
+     "name": "CCO Prep",
+     "dev": "CCO Enterprises, LLC",
+     "ratings": 6,
+     "desc": "Prepare for your NCCCO Certified Crane Operator exam with confidence. CCO Prep gives you the study tools, practice questions, and realistic exam simulations you need to pass — all in one app.\n\n500+ PR"
+    },
+    {
+     "name": "Mobil Crane Operator Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 8,
+     "desc": "Prepare for success with our Mobile Crane Operator Exam Prep app. This essential study companion helps you gain the knowledge and skills required to pass the Mobile Crane Operator exam and advance you"
+    },
+    {
+     "name": "Rosh Review | Exam Prep Qbank",
+     "dev": "Rosh Review LLC",
+     "ratings": 8183,
+     "desc": "Rosh Review is a comprehensive educational resource for physicians, medical students, PAs, nurse practitioners, and nurses.\n \nPlan, prepare, and pass your high-stakes exam with Qbanks for:\n \nPhysician"
+    },
+    {
+     "name": "NCCCO online Practice test",
+     "dev": "Ben Wallenberg",
+     "ratings": 15,
+     "desc": "NCCCO online Practice test — Free Practice Tests & Exam Prep\n\nPass your NCCCO online Practice test on the first try with hundreds of real practice questions, detailed answer explanations, and instant "
+    },
+    {
+     "name": "Mobil Crane Operator Mock Test",
+     "dev": "Erdem Kara",
+     "ratings": 15,
+     "desc": "Welcome to the Mobile Crane Operator exam Practice Test, your ultimate companion in mastering the essential aspects of Mobile Crane Operator exam. Our app is tailored to meet your training needs, prov"
+    },
+    {
+     "name": "Pocket Prep Nursing 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 9019,
+     "desc": "Unlock thousands of Nursing certification exam practice questions and mock exams for the CCRN, PMHNP-BC, CEN, CNOR, MEDSURG, CMSRN, and more with Pocket Prep, with Pocket Prep, the largest provider of"
+    },
+    {
+     "name": "Pocket Prep Medical 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6562,
+     "desc": "Unlock thousands of Medical certification exam practice questions and mock exams for the NHA CPT, CDR RD, PTCB PTCE, AAPC CPC, AAVSB VTNE, and more with Pocket Prep, the largest provider of mobile tes"
+    },
+    {
+     "name": "FNP Exam Mastery | Prep 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13151,
+     "desc": "Pass the AANPCB/ANCC or Triple Your Money Back! FNP Mastery is the #1 rated FNP exam prep app, developed by U.S.-based nurse practitioners who’ve been where you are.\n\nStart free today and get 10 board"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "scuba-cast",
+   "top": [
+    {
+     "name": "Scuba-Cast",
+     "dev": "Scuba-Cast LLC",
+     "ratings": 1,
+     "desc": "Scuba-Cast helps divers explore estimated dive conditions around Cozumel using marine forecasts, reef intelligence, port status updates, and diver-submitted reports.\n\nWhether planning a shore dive, bo"
+    },
+    {
+     "name": "PADI",
+     "dev": "PADI Americas, Inc.",
+     "ratings": 45697,
+     "desc": "The New PADI App\nLearn, log, stay inspired , and book your next adventure\n\n…all in one app.\n\n\n\nLearn Anywhere\nBoth online and offline. \nThe best scuba diving training materials in the world are availa"
+    },
+    {
+     "name": "SSI App - Education and Fun",
+     "dev": "HEAD Watersports GmbH",
+     "ratings": 8383,
+     "desc": "DIGITAL DIVE LOG\nFast dive logging for scuba, freediving, extended range & rebreather dives. Sync from Mares, Suunto, Shearwater, Aqualung & more. GPS tagging, QR codes & Dive Site Database included.\n"
+    },
+    {
+     "name": "Scuba Diving Computer Oceanic+",
+     "dev": "Huish Outdoors, LLC",
+     "ratings": 4681,
+     "desc": "Dive into a World of Adventure with Oceanic+ on Your Apple Watch Ultra!\nReady to make every dive or snorkeling experience an unforgettable journey? \nOceanic+ transforms your Apple Watch Ultra into a f"
+    },
+    {
+     "name": "VR Diving Pro - Scuba Dive with Google Cardboard",
+     "dev": "Yi Wang",
+     "ratings": 272,
+     "desc": "This App provides the Experience of Diving underwater with VR.\nThe Ocean is beautiful!!\nNow, let's open our Eyes and make this adventure."
+    },
+    {
+     "name": "Garmin Dive™",
+     "dev": "Garmin",
+     "ratings": 852,
+     "desc": "Whether you’re a beginner or an experienced diver, Garmin Dive is the ultimate diving companion. Once you pair your phone with a Descent™ dive computer or another compatible Garmin device¹, you can en"
+    },
+    {
+     "name": "Breathe - Smart Scuba Dive Log",
+     "dev": "EPIC APPS UK",
+     "ratings": 297,
+     "desc": "Breathe is an innovative digital scuba dive log set to revolutionise the world of recreational scuba diving. Gone are the days when you need to carry around a paper log book to log your dives (never m"
+    },
+    {
+     "name": "Bed Diving",
+     "dev": "Geisha Tokyo Inc.",
+     "ratings": 13834,
+     "desc": "Are you ready to dive into the bed? Jump in, but make sure you don’t fall out!\nShow off your superb hand-eye coordination and fast reflexes in this diving action game.\nStep into wonderful dreams! But "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "faa a&p written test",
+   "top": [
+    {
+     "name": "FAA A&P Powerplant Test Prep",
+     "dev": "Dauntless Software",
+     "ratings": 20,
+     "desc": "Spend less time studying and more time flying! This is the FAA Aviation Mechanic - Powerplant  version of GroundSchool, our FAA knowledge (written) test preparation featuring up-to-date questions, fre"
+    },
+    {
+     "name": "Prepware Aviation Maintenance",
+     "dev": "ASA",
+     "ratings": 370,
+     "desc": "Comprehensive preparation, study and test tool for the FAA Knowledge Exam. Flashcard style review of questions, answers and explanations included for you to study by subject or with a true-to-form pra"
+    },
+    {
+     "name": "King Test Prep Companion",
+     "dev": "King Schools, Inc.",
+     "ratings": 2327,
+     "desc": "The KING Test Prep Companion App is part of the King VIP Study Method to get a guaranteed high score on your FAA Knowledge Test. It works with the question database of your Ground School and Test Prep"
+    },
+    {
+     "name": "FlyCowboys - Pilot Training",
+     "dev": "Navero LLC",
+     "ratings": 100,
+     "desc": "Pass your FAA written exam - and actually understand the material.\n\nFlyCowboys is the smart way to prepare for your Private Pilot (PPL), Instrument Rating (IFR), or Commercial Pilot (CPL) knowledge te"
+    },
+    {
+     "name": "FAA A&P Airframe Test Prep",
+     "dev": "Dauntless Software",
+     "ratings": 32,
+     "desc": "Spend less time studying and more time flying! This is the FAA Aviation Mechanic - Airframe  version of GroundSchool, our FAA knowledge (written) test preparation featuring up-to-date questions, free "
+    },
+    {
+     "name": "Mr. Wolfe's A&P Prep",
+     "dev": "Mr Wolfe Aviation LLC",
+     "ratings": 2,
+     "desc": "Pass the FAA Aviation Maintenance exams with a tutor in your pocket.\n\nMr. Wolfe's A&P Prep isn't another question bank grinder. It's an AI tutor built on FAA aligned content that explains the systems "
+    },
+    {
+     "name": "Private Pilot Test Prep - FAA",
+     "dev": "Aeroapps Technology",
+     "ratings": 1521,
+     "desc": "The #1 Private Pilot test prep app is now free, and includes over 900 FAA questions and explanations to help prepare for the FAA Private Pilot Knowledge Test. \n\nUpgrade to the complete ground school c"
+    },
+    {
+     "name": "PPL Exam & Study – FAA & EASA",
+     "dev": "Flygo-Aviation Ltd",
+     "ratings": 85,
+     "desc": "Ace your FAA & EASA PPL or LAPL theory exam with FlyGo's complete study system — one app for question banks, explanations and study books.\n\nPay once. No subscription, ever. And with Family Sharing, yo"
+    },
+    {
+     "name": "FAA Private Pilot Prep",
+     "dev": "Dauntless Software",
+     "ratings": 73,
+     "desc": "Spend less time studying and more time flying! This is the FAA Private and Recreational Pilot version of GroundSchool, our FAA knowledge (written) test preparation featuring up-to-date questions, free"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "cnc machinist calculator pro",
+   "top": [
+    {
+     "name": "CNC Machinist Calculator Pro",
+     "dev": "Shane Anderson",
+     "ratings": 678,
+     "desc": "CNC Machinist Calculator Pro is a machining calculator designed for manufacturing engineers, machinists, CNC operators, tool & die makers, and at home hobbyists. CNC Machinist Calculator Pro is great "
+    },
+    {
+     "name": "CNC Machinist Calculator Ultra",
+     "dev": "Shane Anderson",
+     "ratings": 26,
+     "desc": "Unlock the full potential of your CNC machining operations with CNC Machinist Calculator Ultra, the premier tool designed for machinists, engineers, and anyone involved in machining processes. \n\nWith "
+    },
+    {
+     "name": "FSWizard",
+     "dev": "Eldar Gerfanov",
+     "ratings": 47,
+     "desc": "CNC Milling and Turning Speed and Feed Calculator (Wizard)\nAbsolutely the best CNC machinist speed and feed calculator around.\nCalculate cutting conditions simply by choosing your work and tool materi"
+    },
+    {
+     "name": "CNC Machinist Calculator App",
+     "dev": "Blue Mantiq LLC",
+     "ratings": 1,
+     "desc": "The right RPM and feed, at the machine, in under three seconds, and the math to prove it.\n\nPunch in what you're cutting and what you're cutting it with. CNC Speeds & Feeds converts published starting "
+    },
+    {
+     "name": "CNC Machinist Calculator",
+     "dev": "Vladislav Zhirnov",
+     "ratings": 1,
+     "desc": "Meet Milling • Drilling • Turning — the pocket‑sized industrial calculator trusted by CNC programmers, tool‑room veterans, and manufacturing engineers worldwide. In under a second, it turns scribbles "
+    },
+    {
+     "name": "Machinist Calc Pro 2",
+     "dev": "Calculated Industries",
+     "ratings": 5,
+     "desc": "The Machinist Calc Pro 2 now includes materials and tool settings combined with DOC and WOC to solve all your speed and feed calculations for face, end or slot milling plus turning, drilling and borin"
+    },
+    {
+     "name": "CNC Speeds & Feeds Calculator",
+     "dev": "heekyung moon",
+     "ratings": 0,
+     "desc": "Speeds and feeds for CNC milling in one tap: pick a material and HSS or carbide, and the spindle RPM and feed rate appear straight away. Tap drill, bolt circle, taper and turning surface finish sit al"
+    },
+    {
+     "name": "The Phillips Machinist",
+     "dev": "Phillips Corporation",
+     "ratings": 393,
+     "desc": "The Phillips Machinist is your personalized digital manufacturing assistant, with quick access to essential machine codes and calculators, direct contact with Phillips engineers, and practical resourc"
+    },
+    {
+     "name": "Machining Advisor Pro",
+     "dev": "Harvey Tool",
+     "ratings": 163,
+     "desc": "Machining Advisor Pro quickly, seamlessly, and accurately provides recommended running parameters for CNC machining with your Helical Solutions and Harvey Tool products. Generate specialized speeds an"
+    },
+    {
+     "name": "CNC Lathe Simulator Lite",
+     "dev": "旭 陈",
+     "ratings": 11,
+     "desc": "CNC Lathe Simulator is a software simulator of a numerical control lathe is an educational methodological development intended for basic familiarization of novice machine building specialists with the"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "beehive: beekeeping manager",
+   "top": [
+    {
+     "name": "Beehive: Beekeeping Manager",
+     "dev": "Moonbeam Catcher LLC",
+     "ratings": 1,
+     "desc": "Beehive: The Modern Beekeeping Journal\n  \nStreamline your apiary management with Beehive, the intuitive app designed for both hobbyist and professional beekeepers. Say goodbye to paper logs and hello "
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "HiveTracks",
+     "dev": "HiveTracks, Inc.",
+     "ratings": 1119,
+     "desc": "HiveTracks guides you to do what's best for your bees with confidence and peace of mind. \n\nMade by a team of beekeepers and pollinator enthusiasts, the HiveTracks App provides an innovative way to tra"
+    },
+    {
+     "name": "B-hyve",
+     "dev": "Orbit Irrigation",
+     "ratings": 332276,
+     "desc": "The B-hyve smart sprinkler timer app allows you to control or monitor your sprinklers from anywhere in the world with the convenience of your smart device. \n \nSmart Watering\nKnowing how long and how o"
+    },
+    {
+     "name": "MyApiary Manager",
+     "dev": "ADDURRE GROUP LIMITED",
+     "ratings": 1,
+     "desc": "Beekeeping managed well\n\nAchieve transformative results by tracking what really matters.\nWith our Digital Dashboards, everyone is kept up to date and knows what to do.\n\n\n• Hive records synchronised be"
+    },
+    {
+     "name": "HiveBloom",
+     "dev": "Martin Fuhry",
+     "ratings": 291,
+     "desc": "HiveBloom: Free beehive management for healthier, happier bees\n\nKeep your colonies thriving with HiveBloom, the beekeeping journal that makes hive management clear and effortless. Whether you're tendi"
+    },
+    {
+     "name": "AI BeeKeeper Voice Assistant",
+     "dev": "Tracey Brown",
+     "ratings": 19,
+     "desc": "Voice-Powered Beekeeping\n\nThe ultimate beekeeping companion for modern apiarists. Record inspections hands-free, track your colonies with AI-powered insights, and manage your entire operation from you"
+    },
+    {
+     "name": "Mann Lake Ltd",
+     "dev": "Mann Lake Ltd.",
+     "ratings": 19,
+     "desc": "Mann Lake Bee & Ag Supply is the leading supplier of beekeeping equipment and supplies and is committed to providing beekeepers with the tools they need to support healthy and thriving honey bee colon"
+    },
+    {
+     "name": "HiveHelp.AI: Beekeeper's App",
+     "dev": "Anthony Ziebell",
+     "ratings": 104,
+     "desc": "Welcome to HiveHelp.AI, your ultimate Beekeeper's App, where technology meets tradition in the art of beekeeping. Let Beek, our AI-powered beekeeping guide, lead you through an enriching journey with "
+    },
+    {
+     "name": "Apiarist - Beekeeper Assistant",
+     "dev": "Oleg Soloviev",
+     "ratings": 147,
+     "desc": "Manage your apiary easily and professionally  \n\nThis app is designed specifically for beekeepers — from beginners to experienced professionals. It will help you efficiently manage your beekeeping busi"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "court interpreter exam prep",
+   "top": [
+    {
+     "name": "Court Interpreter Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Court Interpret with confidence. Court Interpreter Prep gives you 750+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nInterpreting Modes"
+    },
+    {
+     "name": "DPSI Law: Interpreter Prep",
+     "dev": "Seyed Amini",
+     "ratings": 0,
+     "desc": "DPSI Law: Interpreter Prep is built for UK candidates studying for the Diploma in Public Service Interpreting (Law option). Whether you are revising legal terminology, rehearsing courtroom dialogue or"
+    },
+    {
+     "name": "Court Interpreter Exam Prep",
+     "dev": "satoshi yoshida",
+     "ratings": 0,
+     "desc": "Get ready for the Court Interpreter certification exam with 150 original practice questions across 10 topic areas you can study anytime, anywhere - completely offline.\n\nDisclaimer: This is an unoffici"
+    },
+    {
+     "name": "NBCMI CMI Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 8,
+     "desc": "Prepare for the NBCMI CMI Exam with Our Comprehensive Test Prep App!\nNBCMI CMI Exam Prep 2026 is designed to help you prepare for the Certified Medical Interpreter (CMI) exam, offered by the National "
+    },
+    {
+     "name": "Quimbee",
+     "dev": "Sellers International, LLC",
+     "ratings": 2505,
+     "desc": "Quimbee is an all-in-one learning platform built to support law students and bar examinees at every stage of their legal learning journeys. More than 900,000 students have trusted Quimbee Study Aids f"
+    },
+    {
+     "name": "Pocket Prep MSW 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6735,
+     "desc": "Unlock 1,000 MSW practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key MSW "
+    },
+    {
+     "name": "7Sage LSAT",
+     "dev": "7Sage Education Technology, Inc.",
+     "ratings": 3285,
+     "desc": "Ace the LSAT with 7Sage, the all-in-one prep platform that helped half a million students raise their scores. Master the fundamentals with video lessons, take official PrepTests, drill Logical Reasoni"
+    },
+    {
+     "name": "BarMax Bar Exam, MBE & MPRE",
+     "dev": "TestMax, Inc.",
+     "ratings": 3707,
+     "desc": "Developed by Harvard Law School alumni, BarMax is the top-rated bar exam review course in the App Store, with the highest overall pass rates. \n\nBarMax is free to download, giving you access to our MPR"
+    },
+    {
+     "name": "LSAT Max LSAT Prep & Tutoring",
+     "dev": "TestMax, Inc.",
+     "ratings": 4702,
+     "desc": "Your success is our success. \n\nCreated by the same Harvard Law School alumni behind BarMax, LSATMax is the pioneer in comprehensive LSAT prep courses on mobile.\n\nJoin over 500,000 students who have tr"
+    },
+    {
+     "name": "LSAT Prep",
+     "dev": "MastrAPI",
+     "ratings": 284,
+     "desc": "Pass your LSAT exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe Law School Admi"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "carpentry games",
+   "top": [
+    {
+     "name": "Construction Simulator 3D",
+     "dev": "Rollic Games",
+     "ratings": 3383,
+     "desc": "Are you interested in building your construction company?\n\nBuild different buildings with satisfying gameplays.\n\nDownload Construction Simulator 3D and play now!"
+    },
+    {
+     "name": "Carpenter Simulator 3D games",
+     "dev": "KUNHAR GAMES LTD",
+     "ratings": 13,
+     "desc": "Step into the world of woodworking and craftsmanship with 'Carpenter Furniture Repair Sim'! Immerse yourself in the role of a skilled carpenter, where creativity and precision come together to assembl"
+    },
+    {
+     "name": "Handyman! 3D",
+     "dev": "Rooster Games",
+     "ratings": 19124,
+     "desc": "Can you be a very successful construction expert?\n\n- Free  to play. Play it anywhere anytime.\n- Funny gameplay\n- Awesome graphics.\n\n\n\n\nFor Privacy Policies visit : http://roostergames.net/PrivacyPolic"
+    },
+    {
+     "name": "Woodwork Puzzle",
+     "dev": "海龙 詹",
+     "ratings": 0,
+     "desc": "Using carpentry to solve problems"
+    },
+    {
+     "name": "House Flipper Home Design",
+     "dev": "PLAYWAY SPOLKA AKCYJNA",
+     "ratings": 188267,
+     "desc": "Have you ever dreamed about running your own renovation company?\nHouse Flipper is the best free one-man makeover crew on the market. Become an interior designer and start your very own business. Carry"
+    },
+    {
+     "name": "Woodturning 3D",
+     "dev": "Voodoo",
+     "ratings": 471507,
+     "desc": "The best woodturning simulator.\nComplete customer orders.\nTurn a piece of wood into the given shape.\nCut (carve), polish, paint and add a stencil to your work.\nEarn money and improve your lathe room."
+    },
+    {
+     "name": "PCU Anywhere",
+     "dev": "Panhandle Credit Union",
+     "ratings": 1265,
+     "desc": "In the Panhandle CU Anywhere app, you can:\nCheck account and loan balances,\nView recent transactions,\nMake payments, whether you’re paying a company or a friend,\nTransfer money between your Panhandle "
+    },
+    {
+     "name": "Idle Lumber Mill - Wood Game",
+     "dev": "Sablo Studio",
+     "ratings": 7393,
+     "desc": "Build your own lumber empire and become a lumber tycoon!\n\nWelcome to Lumber Mill - a brand new idle simulation game. In this idle simulation game, you start running a small sawmill and working hard to"
+    },
+    {
+     "name": "Road Builder Construction Game",
+     "dev": "Sahibzada Aqeel Ahmad",
+     "ratings": 1190,
+     "desc": "Have you ever dreamed of a construction builder? The wait is over, you can fulfill your dream by playing this construction simulator game. Start your career with road construction and once you know al"
+    },
+    {
+     "name": "Idle Lumber Empire - Wood Game",
+     "dev": "AppQuantum Publishing Ltd",
+     "ratings": 107271,
+     "desc": "Idle Lumber Empire – Build your ultimate wood tycoon clicker game!\n\nStep into the world of idle building games and discover the thrill of managing a low-poly 3D factory in this addictive idle game. St"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "forklift cargo tycoon",
+   "top": [
+    {
+     "name": "Forklift Cargo Tycoon",
+     "dev": "Manzoor Ahmad",
+     "ratings": 1,
+     "desc": "\"Extreme Forklift driving 3D simulator Is Totally Stupidest simulation Game... you Can't Stop Playing\". We have always come with challenging gameplay, with a new turn to the parking arena; we give you"
+    },
+    {
+     "name": "Transport Tycoon Empire: City",
+     "dev": "Alda Games s.r.o.",
+     "ratings": 12851,
+     "desc": "Collect vehicles, deliver cargo, finish contracts and even master city building to become ultimate transport tycoon! Find the best strategy and your cargo will flood every train station, airport and d"
+    },
+    {
+     "name": "Forklift Extreme Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 307,
+     "desc": "Drive powerful forklifts and master warehouse logistics in one of the most advanced forklift simulators on mobile.\n\nTransport cargo, upgrade machines and manage warehouse operations across detailed in"
+    },
+    {
+     "name": "Transit King: Truck Simulator",
+     "dev": "Xombat ApS",
+     "ratings": 1166,
+     "desc": "Join a world of transport in this truck management game where you become the CEO of your own logistics company. Fill your garage with a large variety of trucks, semi trucks, buses and even ships. As y"
+    },
+    {
+     "name": "Forklift Rush Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 203,
+     "desc": "Take control of powerful forklifts and become the ultimate warehouse operator in Forklift Rush Simulator — a realistic forklift driving game where precision, skill and speed matter.\n\nLoad pallets, mov"
+    },
+    {
+     "name": "Forklift Truck Simulator 2024",
+     "dev": "Frigate Games",
+     "ratings": 156,
+     "desc": "Welcome to the Forklift Truck Transport Simulator, Load the goods into various vehicles like Trucks, Ships, Trains and more. Play as a forklift truck driver and complete the task of loading the goods "
+    },
+    {
+     "name": "Cargo Fulfillment",
+     "dev": "MondayOFF",
+     "ratings": 863,
+     "desc": "Hey there boss, welcome to fulfillment center. This place needs your help, there are tons of packages to deliver.\n\nStart your journey by delivering packages to your customers by yourself, one by one, "
+    },
+    {
+     "name": "Logistics Empire Truck Manager",
+     "dev": "XYRALITY GmbH",
+     "ratings": 51,
+     "desc": "LOGISTICS EMPIRE – THE SMARTEST AND MOST INNOVATIVE TYCOON SIMULATION\nThis isn’t just a game. Logistics Empire is the world’s first tycoon simulation built entirely on a real-life map of the actual wo"
+    },
+    {
+     "name": "CAR:GO - Anywhere!",
+     "dev": "CarGo Technologies doo",
+     "ratings": 2886,
+     "desc": "With the CarGo app enjoying the city has never been that easy. Download the app and enter where you want to go. A nearby service provider will help you to get wherever you want.\n \nCarGo app has a lot "
+    },
+    {
+     "name": "Truck Stop Tycoon-idle game",
+     "dev": "聪 马",
+     "ratings": 62726,
+     "desc": "From a nobody to a tycoon - start building your commercial empire now!\n \nWelcome to \"Truck Stop Tycoon\" - an idle tycoon game perfect for those who love to manage and build their own business life!\n \n"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "trucker dating",
+   "top": [
+    {
+     "name": "Date Truckers",
+     "dev": "First Beat Media Inc.",
+     "ratings": 6,
+     "desc": "The trucking profession can be hard when it comes to dating due to shift work and long hours. Date Truckers is the most popular app online for single truckers and ladies eager to meet them!\n\nJoin us t"
+    },
+    {
+     "name": "TruckerSucker gay dating chat",
+     "dev": "RANDALL BAKER",
+     "ratings": 458,
+     "desc": "Make no mistake; this is the app that you have been searching for. If you are not on TruckerSucker you are missing out! Signup now and Join the thousands of Masculine men who make TruckerSucker their "
+    },
+    {
+     "name": "Trucker Social Inc",
+     "dev": "Trucker Social Inc",
+     "ratings": 5,
+     "desc": "The only trucking app built to advance careers, connect recruiters with the right candidates, connect buyers with sellers, encourage learning, share stories, and make deeper connections.\nMembership is"
+    },
+    {
+     "name": "Military Dating App - MD Date",
+     "dev": "Meet Cupid Up Dating App Ltd.",
+     "ratings": 17588,
+     "desc": "Feel Safe in the Arms of a Man in Uniform\n\nWould you like to meet mature singles Military men and women who protect us every day? If your idea of the perfect mate is an enlisted soldier, Army, Navy, M"
+    },
+    {
+     "name": "Farmers Dating App - FarmersD",
+     "dev": "Sugar Life Limited",
+     "ratings": 16998,
+     "desc": "FarmersD is the best dating app for people who are into countryside life.\n\nFarmersD is the Dating App only for single farmers, country singles, rural singles, cowboys, cowgirls, ranchers, horse lovers"
+    },
+    {
+     "name": "CDLLife",
+     "dev": "CDLLife",
+     "ratings": 3537,
+     "desc": "CDLLife - Where Trucking Lives\n\nThe nation's #1 trucking app, rebuilt from the ground up to be the fastest, simplest way to find the trucking content you actually want. News, jobs, videos, and real st"
+    },
+    {
+     "name": "Sable Dating",
+     "dev": "Sable North Inc.",
+     "ratings": 1,
+     "desc": "Video-First Profiles.\n- Experience a dating revolution with our video-first profiles. Get a genuine glimpse into someone's world and personality from the very start. No more wondering if there's chemi"
+    },
+    {
+     "name": "PeekUp: The Casual Dating App",
+     "dev": "Cleverflow",
+     "ratings": 3414,
+     "desc": "PeekUp is a revolutionary new dating app for fun and honest dating! In PeekUp, success depends on your mood! Who do you want to be today? A fluffy bunny, an alien, or an \"iron\" lady? Maybe a superhero"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

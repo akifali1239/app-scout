@@ -37520,6 +37520,54 @@
    "hi": "dosage calculator",
    "lo": "food delivery marketplace",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex practice questions",
+   "lo": "free ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pe exam civil engineering prep",
+   "lo": "wallpaper gallery",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "welding inspector cwi exam prep",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic protocol reference",
+   "lo": "sleep sounds",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician nec code lookup",
+   "lo": "cat photo widgets",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "social network for pilots",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque specs table",
+   "lo": "ride sharing marketplace",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "flashcards study app",
+   "lo": "video streaming platform",
+   "split": "test"
   }
  ],
  "note": [

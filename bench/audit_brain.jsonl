@@ -745,3 +745,9 @@
 {"ts": "2026-10-27T20:41:24+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "reason": "kind küçük set: 5 tek anlamlı vaka (test 3, dev 2)."}
 {"ts": "2026-10-27T20:41:24+00:00", "actor": "claude", "action": "brain_add_components", "cap": "note", "reason": "note test hataları (rekabet/benzer karışıklığı) için sıralı karar talimatı eklendi; ölçümü optimizasyon döngüsü yapacak."}
 {"ts": "2026-10-27T20:41:24+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Optimizasyondan yeni promosyon/geri alma yok; salınım/brier kötüleşmesi yok, geri alma yapılmadı. Altın niş koşullarını sağlayıp reviews.json'da olmayan aday yok."}
+{"ts": "2026-10-27T21:41:59+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 6, "reason": "intent en zayıf test (0.9518): 6 tek anlamlı vaka (test 3, dev 2, train 1)."}
+{"ts": "2026-10-27T21:41:59+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 4, "reason": "note zayıf (0.9623): rekabet/benzer/para/kalite ayrımı için 4 net vaka."}
+{"ts": "2026-10-27T21:41:59+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 5, "reason": "pairs küçük set: pay/build/audience için belirgin hi/lo 5 çift."}
+{"ts": "2026-10-27T21:41:59+00:00", "actor": "claude", "action": "brain_add_components", "cap": "intent", "reason": "intent hataları (oyun adı/iş ilanı) için kısa kapsayıcı talimat eklendi; ölçüm optimizasyon döngüsünde."}
+{"ts": "2026-10-27T21:41:59+00:00", "actor": "claude", "action": "brain_add_components", "cap": "note", "reason": "note rekabet/benzer ayrımı için sebep-listeli talimat eklendi."}
+{"ts": "2026-10-27T21:41:59+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Optimizasyondan yeni promosyon/geri alma yok (audit.jsonl son kayıt 25 Eki); salınım/brier kötüleşmesi yok, geri alma yapılmadı. Altın niş: koşulları sağlayıp reviews.json'da olmayan aday yok."}

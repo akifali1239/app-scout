@@ -44557,6 +44557,31 @@
    "app": "Tells you which prescription drugs to stop taking based on a photo of your pills.",
    "label": true,
    "split": "train"
+  },
+  {
+   "app": "Calculates insulin bolus doses from carbs and blood glucose for diabetic patients.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Flashcards for memorizing OSHA 30 construction safety regulations for the exam.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Suggests chemotherapy drug dosages for oncology nurses at the bedside.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts pipe diameters between metric and imperial sizes for plumbers.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Reads your skin photo and tells you whether a mole is cancerous.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -45644,6 +45669,30 @@
    "dim": "build",
    "hi": "sheet metal bend allowance calculator",
    "lo": "social marketplace connecting plumbers with customers",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "wedding photographer contract and invoice templates",
+   "lo": "free wallpaper packs",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "dental hygienist board exam question bank",
+   "lo": "pet rock simulator",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists with fixed formulas",
+   "lo": "social network for truckers with live chat and payments",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "HVAC technician refrigerant pressure-temperature chart pro",
+   "lo": "emoji keyboard theme",
    "split": "dev"
   }
  ],

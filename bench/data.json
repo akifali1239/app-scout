@@ -1989,6 +1989,21 @@
    "term": "welding symbols chart",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "hvac technician jobs hiring",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "clash of clans",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician practice test",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [
@@ -44204,6 +44219,64 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "fe exam prep",
+   "apps": [
+    {
+     "name": "Engineering & FE Prep",
+     "dev": "EnginPeers LLC",
+     "ratings": 192,
+     "desc": "Worried about your Fundamentals of Engineering exam? Need to quickly review and prep for Engineering exams or specific subjects? EnginPeer's Prep app will help you pass with flying colors - all on the"
+    },
+    {
+     "name": "FE Exam Prep: NCEES Practice",
+     "dev": "iAPPSSTUDIO",
+     "ratings": 2,
+     "desc": "Master the FE Exam with Confidence\n\nPrepare for the Fundamentals of Engineering (FE) exam administered by NCEES with the most comprehensive study companion available. Designed by engineering educators"
+    },
+    {
+     "name": "FE Exam AI Prep",
+     "dev": "Hangzhou Star Vision Technology Co., Ltd",
+     "ratings": 1,
+     "desc": "FE Exam AI Prep helps engineering students turn practice results into a focused, evidence-based study plan.\n\nCORE FEATURES\n\n• Practice with original questions organized by FE exam topic\n• Take full-le"
+    },
+    {
+     "name": "PassStamp: PE & FE Exam Prep",
+     "dev": "Ingenio Productions LLC",
+     "ratings": 1,
+     "desc": "Studying for the PE or FE while working full time? You don't have 300 spare hours, and you can't afford to walk in unsure. PassStamp is an NCEES-aligned PE and FE exam prep app built for engineers who"
+    },
+    {
+     "name": "PrepFE - FE Civil Exam Prep",
+     "dev": "PrepFE, Inc.",
+     "ratings": 22,
+     "desc": "Don't spend time relearning topics from scratch and using poor resources. Jump right into practice problems and learn by doing! Supplement your learning with flash cards to learn the FE Reference Hand"
+    },
+    {
+     "name": "FE Mechanical Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 1,
+     "desc": "FE Mechanical Exam Prep 2026 is designed to assist candidates in preparing for the Fundamentals of Engineering (FE) Mechanical Exam, offered by the National Council of Examiners for Engineering and Su"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

@@ -45609,6 +45609,42 @@
    "hi": "pipe thread size chart",
    "lo": "ai tutor that grades handwritten exams",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental hygiene board exam prep",
+   "lo": "emoji sticker maker",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "wire gauge ampacity calculator",
+   "lo": "rainbow wallpaper pack",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "rebar spacing calculator",
+   "lo": "multiplayer battle royale game with matchmaking",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "paramedic cardiac drug dosage reference",
+   "lo": "funny voice changer",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "court reporter steno practice",
+   "lo": "glitter text art",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "sheet metal bend allowance calculator",
+   "lo": "social marketplace connecting plumbers with customers",
+   "split": "dev"
   }
  ],
  "note": [
@@ -48284,6 +48320,60 @@
    },
    "label": "utility",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Fuel Log Tracker",
+    "category": "Utilities",
+    "desc": "Track fuel fill-ups, mileage and cost per mile for your truck."
+   },
+   "label": "utility",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Chat Pilot AI",
+    "category": "Productivity",
+    "desc": "Ask our AI assistant anything. Powered by GPT, get answers, essays and emails instantly."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Nursing Drug Guide",
+    "category": "Medical",
+    "desc": "Look up drug classes, doses, side effects and nursing considerations offline."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Stoic Quotes",
+    "category": "Lifestyle",
+    "desc": "A new motivational quote and short article every morning."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Dog Walker Booking",
+    "category": "Lifestyle",
+    "desc": "Book and pay a local dog walker; we match you with a vetted walker nearby."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Block Puzzle Saga",
+    "category": "Games",
+    "desc": "Clear lines in hundreds of levels of colorful block puzzles."
+   },
+   "label": "game",
+   "split": "dev"
   }
  ]
 }

@@ -44602,6 +44602,31 @@
    "app": "Reads your skin photo and tells you whether a mole is cancerous.",
    "label": true,
    "split": "dev"
+  },
+  {
+   "app": "Calculates pediatric acetaminophen dose by weight and age.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Reads your ECG strip photo and diagnoses arrhythmias.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Flashcards for the NREMT paramedic exam.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Convert gauge to millimeter wire sizes for electricians.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tells you if a blood pressure reading means you need a doctor.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -45713,6 +45738,36 @@
    "dim": "pay",
    "hi": "HVAC technician refrigerant pressure-temperature chart pro",
    "lo": "emoji keyboard theme",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "Dental hygienist patient charting and billing app",
+   "lo": "Cat sound soundboard for kids",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "NICU nurse medication calculator",
+   "lo": "Free wallpaper collection for everyone",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "Simple tip split calculator",
+   "lo": "Real-time multiplayer 3D flight simulator with live ATC voice",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "Law firm client intake and invoicing tool for solo attorneys",
+   "lo": "Funny voice changer for prank calls",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "Welding procedure spec (WPS) helper for certified welders",
+   "lo": "Random color palette generator",
    "split": "dev"
   }
  ],
@@ -48442,6 +48497,51 @@
     "desc": "Clear lines in hundreds of levels of colorful block puzzles."
    },
    "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Wordle Pal",
+    "category": "Games",
+    "desc": "Daily word guessing game with streaks."
+   },
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Ask PDF AI",
+    "category": "Productivity",
+    "desc": "Chat with your PDFs using GPT to get instant summaries."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Cooking Daily Tips",
+    "category": "Food & Drink",
+    "desc": "Short articles and videos with weekly recipe ideas."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Drug Dose Reference",
+    "category": "Medical",
+    "desc": "Offline reference tables of common drug dosages for nurses."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Wedding Photographer Booking",
+    "category": "Business",
+    "desc": "Book a local photographer and pay a deposit for your wedding date."
+   },
+   "label": "service",
    "split": "dev"
   }
  ]

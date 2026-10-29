@@ -47954,6 +47954,36 @@
    "note": "Fikir bayağı bir not defteri, hiçbir ilgi çekici yanı yok",
    "label": "Sıkıcı fikir",
    "split": "test"
+  },
+  {
+   "note": "Bu kelimede yüzlerce app var, pazar tamamen dolmuş",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Arama sonuçlarında onlarca büyük yayıncı yer alıyor, kalabalık bir kategori",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Piyasa çok kalabalık, yeni bir app'e yer yok",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu, listedeki bir numaralı app'in neredeyse birebir kopyası olurdu",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Mevcut bir rakiple aynı özellikleri sunuyor, ayırt edici hiçbir şey yok",
+   "label": "Çok benzer",
+   "split": "train"
+  },
+  {
+   "note": "Bir app'in klonu gibi görünüyor, farkı yok",
+   "label": "Çok benzer",
+   "split": "dev"
   }
  ],
  "kind": [

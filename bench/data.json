@@ -47427,6 +47427,36 @@
    "hi": "pipe sizing chart",
    "lo": "social network for pets",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoice generator",
+   "lo": "free wallpaper app",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "fire inspector checklist",
+   "lo": "random quote generator",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque conversion chart",
+   "lo": "ai girlfriend chat",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac load calculator",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "nclex pharmacology flashcards",
+   "lo": "photo collage maker",
+   "split": "train"
   }
  ],
  "note": [
@@ -50536,6 +50566,42 @@
    },
    "label": "service",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Idle Tycoon Farm",
+    "category": "Games",
+    "desc": "Tap to grow crops and unlock upgrades in this idle farming game."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Lawyer AI",
+    "category": "Productivity",
+    "desc": "Chat with a GPT-powered assistant about legal questions."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Mobile Notary Booking",
+    "category": "Business",
+    "desc": "Book a mobile notary to come to your location."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Nurse Life Weekly Tips",
+    "category": "Health & Fitness",
+    "desc": "Daily articles and stories for nurses about work-life balance."
+   },
+   "label": "content",
+   "split": "test"
   }
  ]
 }

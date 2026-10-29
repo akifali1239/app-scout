@@ -45104,6 +45104,31 @@
    "app": "Tells you if a blood pressure reading means you need a doctor.",
    "label": true,
    "split": "dev"
+  },
+  {
+   "app": "Calculates insulin doses from a patient's glucose reading and carb count.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Looks up crane load chart ratings for riggers on a job site.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tells you whether a mole looks cancerous from a photo.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Lists standard drill bit sizes for machinists.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Gives legal advice on whether to sign a lease.",
+   "label": true,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -46348,6 +46373,30 @@
    "hi": "tip calculator",
    "lo": "open world 3d racing game",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nec code lookup for electricians",
+   "lo": "wallpaper hd",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hipaa compliance training",
+   "lo": "funny ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "flashlight",
+   "lo": "photo editor with ai filters",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl practice test",
+   "lo": "free live wallpapers",
+   "split": "train"
   }
  ],
  "note": [
@@ -49289,6 +49338,60 @@
     "name": "Unit Converter Pro",
     "category": "Utility",
     "desc": "Convert length, weight and volume with a calculator keypad."
+   },
+   "label": "utility",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Hire a Mobile Notary",
+    "category": "Business",
+    "desc": "Book a certified notary to come to your home or office to sign documents."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Trivia Royale",
+    "category": "Games",
+    "desc": "Battle other players in a fast multiplayer quiz arena with power-ups."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Any Contract",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant that explains and summarizes any contract you upload."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Wire Gauge Chart",
+    "category": "Reference",
+    "desc": "Look up AWG wire sizes, ampacity and resistance tables offline."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Welding Tips",
+    "category": "Education",
+    "desc": "A new video lesson and article every day on welding technique."
+   },
+   "label": "content",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Stopwatch & Timer",
+    "category": "Utility",
+    "desc": "Simple stopwatch, countdown timer and lap tracker."
    },
    "label": "utility",
    "split": "train"

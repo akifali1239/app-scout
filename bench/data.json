@@ -44617,6 +44617,56 @@
     "direct"
    ],
    "split": "test"
+  },
+  {
+   "term": "transcribe video to",
+   "apps": [
+    {
+     "name": "Transcribe - Speech to Text",
+     "dev": "DENIVIP",
+     "ratings": 10855,
+     "desc": "Transcribe audio and video to text with Transcribe – your AI-powered transcription assistant. Get instant, high-quality transcripts, right from your phone.\n\nWhether you need to transcribe voice notes,"
+    },
+    {
+     "name": "Transcribe Video to Text: Vid2",
+     "dev": "Heat Studio LLC",
+     "ratings": 173,
+     "desc": "Transcribe Video to Text – Fast, Accurate, Easy\n\nTurn any video into text instantly with Transcribe Video to Text. Whether you’re a student, content creator, professional, or just need quick captions,"
+    },
+    {
+     "name": "Transcribe Video to Text: TIVO",
+     "dev": "Omar Ahmed",
+     "ratings": 0,
+     "desc": "Transcribe Video to Text: TIVO is your ultimate tool to convert videos into text effortlessly. With Transcribe Video to Text: TIVO, you can automatically generate subtitles and transcripts from any vi"
+    },
+    {
+     "name": "Transcribe Video to Text :Zeni",
+     "dev": "BoldScap",
+     "ratings": 0,
+     "desc": "# Zeni — Transcribe Video to Text Instantly\n\nTurn any video into accurate text in seconds with Zeni, the simplest way to transcribe video to text and generate smart AI notes you can actually use.\n\nWhe"
+    },
+    {
+     "name": "Transcribe Video to Text: V2Tx",
+     "dev": "NextPixel apps",
+     "ratings": 0,
+     "desc": "Transform your videos into text and study notes — fast, accurate, and AI-driven! Video Transcriber helps you instantly transcribe videos and generate AI-powered summaries or study notes — perfect for "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

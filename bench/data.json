@@ -2004,6 +2004,11 @@
    "term": "pharmacy technician practice test",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "pipe sizing chart",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [
@@ -47450,6 +47455,41 @@
    "note": "Bu app son güncellemesi 2019, ekran görüntüleri çok eski",
    "label": "Kalitesiz / eski",
    "split": "train"
+  },
+  {
+   "note": "Bu fikir çok sıradan, kimse heyecanlanmaz",
+   "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Kullanıcı bunun için bir kuruş ödemez, herkes bedava buluyor",
+   "label": "Para yapmaz",
+   "split": "train"
+  },
+  {
+   "note": "Bunu yapmak için derin bir makine öğrenmesi ve donanım entegrasyonu gerekir, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bu tür app'leri sağlık verisi iddiası yüzünden reddeder",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Alakasız, aradığım konuyla hiçbir bağı yok",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Eski, yıllardır güncellenmemiş ve kötü yorumlu app'ler",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "Fikir bayağı bir not defteri, hiçbir ilgi çekici yanı yok",
+   "label": "Sıkıcı fikir",
+   "split": "test"
   }
  ],
  "kind": [

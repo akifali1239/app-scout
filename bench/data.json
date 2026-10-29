@@ -35583,6 +35583,341 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "dental hygiene mastery",
+   "top": [
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "Dentist fear - Doctor games",
+     "dev": "Les Placements R.A. Inc.",
+     "ratings": 53639,
+     "desc": "Going to the dentist is something that not many people like to do, although to have a nice clean smile it has to be done. With the Dentist Fear dentist game you can have fun with cleaning your patient"
+    },
+    {
+     "name": "StudentRDH Dental Hygiene",
+     "dev": "StudentRDH Learning Inc.",
+     "ratings": 19,
+     "desc": "Pass the NBDHE (National Dental Hygiene Board Exam) with confidence! \n\nStudentRDH app includes everything you need: \n• 5000+ practice questions \n• 17+ study guides \n• Mock exams \n\nWhat’s NEW? I’m glad"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep",
+     "dev": "Get Exam",
+     "ratings": 92,
+     "desc": "Give your studying method a major upgrade. \nImprove your knowledge with 700+ exam-like questions and 700+ flashcards. Remember more using Flashcards. Get access to over a dozen practice exams that wil"
+    },
+    {
+     "name": "Dental Hygiene Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 0,
+     "desc": "Preparing for your dental hygiene exams or wanting to deepen your understanding of oral health is essential for students and professionals in the dental field. Our Dental Hygiene Flashcards 2026 app i"
+    },
+    {
+     "name": "Dentist Bling",
+     "dev": "Coco Play",
+     "ratings": 171048,
+     "desc": "Being a dentist has never been so fun... and relaxing!\n\nTreat your patients, fill their cavities, remove that plaque.\nPull out decaying teeth and replace them with shiny new ones. \nKill pesky germs an"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 17,
+     "desc": "Prepare for the NBDHE (National Board Dental Hygiene Examination) with our comprehensive prep course! Whether you're a seasoned student or just beginning your licensed Dental Hygienist certification j"
+    },
+    {
+     "name": "Oral-B",
+     "dev": "P&G Health Care",
+     "ratings": 201459,
+     "desc": "Realize a superior clean with the new revolutionized Oral-B mobile experience.\n\nStudies show that the average person brushes for only 30-60 seconds, compared to the dentist- recommended 2 minutes. Als"
+    },
+    {
+     "name": "DHS Board Review",
+     "dev": "Dental Hygiene Seminars Inc.",
+     "ratings": 34,
+     "desc": "Confidence grows one answer at a time. Build yours with the DHS Board Review App. \n\nJoin the thousands of dental hygiene students who’ve passed their NBDHE with confidence. DHS is the trusted leader i"
+    },
+    {
+     "name": "Dental Hygiene Academy Seminar",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 22,
+     "desc": "This app is exclusively for students who have attended a Dental Hygiene Academy Board Review seminar at www.DentalHygieneAcademy.com\n\nPlease be sure you know your Dental Hygiene Academy pin number to "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician mastery",
+   "top": [
+    {
+     "name": "Pharmacy Technician Mastery",
+     "dev": "iCert Inc.",
+     "ratings": 0,
+     "desc": "Prepare with confidence for your pharmacy technician certification with Pharmacy Technician Exam Prep, the ultimate study resource for aspiring pharmacy technicians. Covering both the PTCB PTCE and Ex"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "PTCB Exam Prep 2026 | EZPrep",
+     "dev": "EZ Test Prep",
+     "ratings": 1236,
+     "desc": "Ace Your PTCB Without Mixing Up Heart Meds and Laxatives.\n\nSo you’ve chosen the noble path of counting pills, deciphering doctor chicken scratch, and making sure no one confuses their antibiotics with"
+    },
+    {
+     "name": "Pharmacy Technician PTCE Mock Test and Explanation",
+     "dev": "Abdullah Nurum",
+     "ratings": 972,
+     "desc": "This app is built for people who want to take the PTCB exam. It includes the following sections: Tests(Mock Test and Learning mode), Book Outline, Flash Cards, Jobs and Schools. The Tests section incl"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "PTCB PTCE Exam Prep Test: 2025",
+     "dev": "Best Fun Games",
+     "ratings": 444,
+     "desc": "Pass your PTCB®, PTCE®, (Pharmacy Technician Certification Exam®,) with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ qu"
+    },
+    {
+     "name": "Prepia Pharmacy Tech Exam Prep",
+     "dev": "Prepia Inc",
+     "ratings": 904,
+     "desc": "Prepare confidently for your national PHARMACY TECHNICIAN  exam with 1,600+ realistic practice questions designed to help you study smarter and pass with confidence.\n\nWhether you're at work or relaxin"
+    },
+    {
+     "name": "Optum Specialty Pharmacy",
+     "dev": "Optum Inc.",
+     "ratings": 6571,
+     "desc": "The Optum Specialty Pharmacy™ mobile app helps you take control of your prescriptions and treatment, wherever you are. It's there when you need it, whether you're looking for support or have a questio"
+    },
+    {
+     "name": "PTCB & PTCE Exam prep",
+     "dev": "Chengdu CloudLedger Technology Co., Ltd",
+     "ratings": 9,
+     "desc": "This APP is developed for the people who want to pass the Pharmacy Technician Certification Board’s (PTCB)® Pharmacy Technician Certification Exam (PTCE).\nPharmacy technicians work in clean, bright en"
+    },
+    {
+     "name": "PTCB PTCE Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 333,
+     "desc": "PTCB PTCE Exam Prep 2026 is an exam preparation application that will help you pass the Pharmacy Technician Certification Board (PTCB) certification exam with a high score on your first attempt.\n\nPTCB"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "hvac decoder",
+   "top": [
+    {
+     "name": "HVAC Decoder",
+     "dev": "Charles Cope",
+     "ratings": 28,
+     "desc": "This app will decode the model number nomenclature of most HVAC companies. It has all the major brand names with many thousands of model numbers. It will also decode the serial number for many HVAC co"
+    },
+    {
+     "name": "SerialCheck: HVAC Age Decoder",
+     "dev": "NanoHawk",
+     "ratings": 0,
+     "desc": "SerialCheck: HVAC & Water Heater Age + Model Decoder\n\nSerialCheck is a streamlined, offline-first tool designed for residential home inspectors, property managers, and service professionals. Quickly d"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "CE HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 1590,
+     "desc": "CE HVAC PRO is 100% free for HVAC technicians and always will be. Easily check warranty entitlement, available inventory, order status, manuals, and tech specs for all the HVAC models we carry. Our mi"
+    },
+    {
+     "name": "Carrier® Service Technician",
+     "dev": "Carrier Corporation",
+     "ratings": 108,
+     "desc": "Solving challenging HVAC/R problems is your job. Helping you get the right parts, supplies, and equipment—and manage sites in the field—is ours.\n\nThe Carrier Service Technician app brings residential "
+    },
+    {
+     "name": "Contactor - HVAC Portal",
+     "dev": "DECODATION",
+     "ratings": 2,
+     "desc": "Contactor is the ultimate tool for HVAC professionals to compare refrigerant prices, locate nearby suppliers, and book pickup appointments — all in one app.\n\nFOR TECHNICIANS:\n• Find suppliers near you"
+    },
+    {
+     "name": "SuperCool Slide Rule HVAC",
+     "dev": "Designstein, llc",
+     "ratings": 194,
+     "desc": "The SuperCool HVAC app provides comprehensive solutions to the most complex problems in the industry. The app provides the user with an interactive experience, possible solutions, on-screen instructio"
+    },
+    {
+     "name": "measureQuick HVAC",
+     "dev": "measureQuick",
+     "ratings": 8,
+     "desc": "Ready to work smarter, not harder? The measureQuick HVAC App gives you everything you need to diagnose HVAC systems quickly and accurately. With powerful new tools and features, you can solve any job "
+    },
+    {
+     "name": "Gemaire HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 820,
+     "desc": "Gemaire’s mobile app is your HVAC “Easy Button”. It can make your life easier and save time by providing access to product information useful tools whether you’re on-site, in the drive-thru, or just s"
+    },
+    {
+     "name": "HVAC Hero",
+     "dev": "HVAC Hero",
+     "ratings": 3,
+     "desc": "Welcome to HVAC Hero – the future of field service for HVAC professionals. Whether you're troubleshooting a complex problem or need quick access to manuals and warranty information, HVAC Hero is here "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "roof guide - carpentry calc",
+   "top": [
+    {
+     "name": "Roof Guide - Carpentry Calc",
+     "dev": "Infoguide Pty Ltd",
+     "ratings": 19,
+     "desc": "Roofing and framing carpentry calculator, decking, stairs, concrete, stud wall calculators.\nIn additions to the roof calculators the decking / flooring, stud wall and concrete calculators also estimat"
+    },
+    {
+     "name": "Construction Master Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 40074,
+     "desc": "FREE Try Before You Buy 14 Day Trial; your App Store account is not charged by Apple during the free trial. Rated 4.8 stars with over 1.12M downloads. The trusted construction calculator used by profe"
+    },
+    {
+     "name": "Construction Calculator",
+     "dev": "xNeat.com",
+     "ratings": 655,
+     "desc": "Award Winning Feet Inch Fraction Construction Calculator for iPhone and iPad. Designed with simplicity, usability and beauty in mind!\n\nFEATURES:\n\n- Elegant & Intuitive interface\n- Decimal to fraction "
+    },
+    {
+     "name": "EagleView",
+     "dev": "EagleView Technologies, Inc.",
+     "ratings": 10377,
+     "desc": "The EagleView App lets contractors order and access EagleView property measurements to help generate estimates, plan for jobs, and show homeowners what they can expect.\n\nFeatures:\n- Easy to use interf"
+    },
+    {
+     "name": "Construction Master 5 Calc",
+     "dev": "Calculated Industries",
+     "ratings": 13284,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nIntroducing the Construction Master 5, an innovative feet-inch-fraction builder's calculator that "
+    },
+    {
+     "name": "Roof Pitch Factor",
+     "dev": "BeOriginal",
+     "ratings": 490,
+     "desc": "Quickly and easily find the pitch to a roof just by looking through your camera. Get the pitch factor or degrees without remembering any complex equations or doing any calculating.\n\nFeatures:\n+ Displa"
+    },
+    {
+     "name": "Construction Roofing calc",
+     "dev": "Vladislav Zhirnov",
+     "ratings": 9,
+     "desc": "Transform your roofing projects with our all-in-one roofing calculator app, specifically designed for roofing professionals and DIY enthusiasts. Whether you're a seasoned contractor or a homeowner tac"
+    },
+    {
+     "name": "JobNimbus: All-In-One Roof App",
+     "dev": "JobNimbus",
+     "ratings": 12730,
+     "desc": "JobNimbus is the #1 all-in-one roofing app that’s making contractors heroes since 2013. Thousands of contractors rely on JobNimbus every day to run every aspect of their business: marketing, sales, pr"
+    },
+    {
+     "name": "GAF QuickMeasure",
+     "dev": "GAF Corp.",
+     "ratings": 1003,
+     "desc": "GAF QuickMeasure™ delivers a complete roof measurement report guaranteed in under 1 hour for single family homes and in under 24 hours for commercial and multifamily properties!  Starting at only $18 "
+    },
+    {
+     "name": "Roof Calculator: Pitch, Angle",
+     "dev": "Phan Nhat Đang",
+     "ratings": 33,
+     "desc": "Use this app to estimate roof area and roofing costs. Enter your house dimensions or house area and roof pitch, and the app will automatically calculate the estimated roof surface area.\n\nResults are e"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "trucker guide",
+   "top": [
+    {
+     "name": "Trucker Guide: Truck GPS Maps",
+     "dev": "Trucker Guide LLC",
+     "ratings": 10209,
+     "desc": "Drive smarter with Trucker Guide GPS. Find truck parking, cheapest fuel, weigh stations & real-time routes — all in one app.\nTrucker Guide – the all-in-one GPS navigation tool developed specifically f"
+    },
+    {
+     "name": "TruckMap - Truck GPS Routes",
+     "dev": "Tenstreet",
+     "ratings": 79526,
+     "desc": "TruckMap is the best free mobile app built for Truck Drivers. The only app with truck optimized GPS routes for commercial vehicles, turn-by-turn routing, diesel fuel, weigh stations, overnight parking"
+    },
+    {
+     "name": "Trucker Path: Truck GPS & Fuel",
+     "dev": "Trucker Path Inc.",
+     "ratings": 153628,
+     "desc": "North America’s most popular app for Truckers. BUILT FOR TRUCKERS, BY TRUCKERS! Get all trucker tools in one FREE APP! Best Trucking APP featured by truckers! Trucker Path is a mapping tool used by mo"
+    },
+    {
+     "name": "Hammer: Truck GPS & Maps",
+     "dev": "TruckersReport.com",
+     "ratings": 36408,
+     "desc": "Smarter Trucking Starts Here.\n\nHammer is a powerful GPS navigation app designed specifically for commercial truck drivers. Built by the community at TruckersReport.com, Hammer Truck GPS delivers preci"
+    },
+    {
+     "name": "MacroPoint For Truckers",
+     "dev": "The Descartes Systems Group",
+     "ratings": 160778,
+     "desc": "Descartes MacroPoint™ for Truckers is the most trusted and secure app used by drivers. Enjoy automated communication of arrival, departure, and in-transit location data to your customers in real time."
+    },
+    {
+     "name": "Trucker Tools",
+     "dev": "Trucker Tools, LLC",
+     "ratings": 2052,
+     "desc": "Trucker Tools is your digital co-driver for smooth operations. Find, book, and track loads, submit PODs, and get paid faster—all from your phone. Access key points of interest, fuel, and weight calcul"
+    },
+    {
+     "name": "CDLLife",
+     "dev": "CDLLife",
+     "ratings": 3537,
+     "desc": "CDLLife - Where Trucking Lives\n\nThe nation's #1 trucking app, rebuilt from the ground up to be the fastest, simplest way to find the trucking content you actually want. News, jobs, videos, and real st"
+    },
+    {
+     "name": "TRANSFLO Mobile+",
+     "dev": "Pegasus TransTech",
+     "ratings": 57836,
+     "desc": "Transflo® Mobile+ is a complete trucking solution rolled into one convenient mobile app. It starts with the on-the-go scanning solutions you need with the fastest document delivery available. Plus, we"
+    },
+    {
+     "name": "TruckLog: Driver Toolkit",
+     "dev": "chris embaye",
+     "ratings": 0,
+     "desc": "TruckLog: Driver Toolkit is the all-in-one logbook app built for professional truck drivers and owner-operators.\n\nTRACK EVERY TRIP\nLog your routes, mileage, origin, destination, and load details in se"
+    },
+    {
+     "name": "CoPilot GPS Navigation",
+     "dev": "Trimble Maps Ltd.",
+     "ratings": 2028,
+     "desc": "Built for you, the driver. Whether you are behind the wheel of a car, a professional truck driver with profits tied to your time on the road or an RVer exploring the country - CoPilot has got you cove"
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

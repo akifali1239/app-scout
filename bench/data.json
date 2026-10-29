@@ -46307,6 +46307,42 @@
    "hi": "torque spec chart",
    "lo": "ai movie generator",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl practice test",
+   "lo": "free ringtones",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "pharmacy technician exam prep",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "ai photo editor with face swap",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate exam flashcards",
+   "lo": "wallpaper maker",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "nec code lookup for electricians",
+   "lo": "emoji keyboard",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator",
+   "lo": "open world 3d racing game",
+   "split": "test"
   }
  ],
  "note": [
@@ -49159,6 +49195,60 @@
     "name": "Metric Thread Calculator",
     "category": "Utilities",
     "desc": "Calculate thread pitch, major and minor diameters for metric screw threads."
+   },
+   "label": "utility",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Crypto Moon Rush",
+    "category": "Games",
+    "desc": "Tap to mine coins, upgrade rigs and compete on leaderboards in this idle game."
+   },
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Ask Doc AI: Symptom Chat",
+    "category": "Medical",
+    "desc": "A chatbot built on ChatGPT that answers your health questions in a chat window."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Welding Tips",
+    "category": "Education",
+    "desc": "A new short article and video every day about welding technique and safety."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pipe Thread Chart",
+    "category": "Reference",
+    "desc": "Look up NPT and BSP thread sizes in a searchable table."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Hire a Local Electrician",
+    "category": "Lifestyle",
+    "desc": "Request quotes and book licensed electricians to visit your home."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Unit Converter Pro",
+    "category": "Utility",
+    "desc": "Convert length, weight and volume with a calculator keypad."
    },
    "label": "utility",
    "split": "train"

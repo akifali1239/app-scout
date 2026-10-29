@@ -47377,6 +47377,36 @@
    "hi": "metric conversion calculator",
    "lo": "ai movie generator",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "nurse dosage calculator",
+   "lo": "free wallpaper hd",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoice app",
+   "lo": "emoji keyboard fun",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "ekg rhythm interpretation",
+   "lo": "baby name generator",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "ai video editor",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe sizing chart",
+   "lo": "social network for pets",
+   "split": "dev"
   }
  ],
  "note": [

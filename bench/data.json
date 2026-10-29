@@ -46079,6 +46079,26 @@
    "app": "Gives legal advice on whether to sign a lease.",
    "label": true,
    "split": "train"
+  },
+  {
+   "app": "Calculates insulin doses from a blood glucose reading.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tells you which medication to take for chest pain.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Flashcards to memorize the NATO phonetic alphabet.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts between AWG wire gauge and millimeters.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -50480,6 +50500,42 @@
    },
    "label": "content",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Sketch Tycoon Idle",
+    "category": "Games",
+    "desc": "Build your art studio empire by tapping and upgrading."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Tax GPT",
+    "category": "Finance",
+    "desc": "Chat with an AI assistant powered by GPT to answer your tax questions."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Cable Length Calculator",
+    "category": "Utilities",
+    "desc": "Calculate voltage drop and cable length for electrical runs."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Local Roofer Booking",
+    "category": "Lifestyle",
+    "desc": "Book a roofer in your area and get an on-site quote."
+   },
+   "label": "service",
+   "split": "train"
   }
  ]
 }

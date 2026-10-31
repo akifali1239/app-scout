@@ -48649,6 +48649,36 @@
    "note": "Bir app'in klonu gibi görünüyor, farkı yok",
    "label": "Çok benzer",
    "split": "dev"
+  },
+  {
+   "note": "Kategorinin ilk sayfası aynı işi yapan onlarca app ile dolu, yeni gelen görünmez",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Bu işte Google ve Microsoft'un ücretsiz araçları var, kimse ödemez",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Sektörde yüz binlerce yorumlu devler var, onlarla yarışamam",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Listedeki üç app ile aynı ekranlar, aynı fikir, sadece rengi farklı olurdu",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Ücretsiz alternatifi yeterli, kimse bunun için para vermez",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Meslek sahipleri bunu açıp bir kere bakıp kapatır, ilgi çekmeyen bir konu",
+   "label": "Sıkıcı fikir",
+   "split": "test"
   }
  ],
  "kind": [

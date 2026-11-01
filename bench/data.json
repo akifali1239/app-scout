@@ -37024,6 +37024,463 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "sailing handicap calculator",
+   "top": [
+    {
+     "name": "Sailing Handicap Calculator",
+     "dev": "Zestech",
+     "ratings": 2,
+     "desc": "The best and most popular sailing handicap calculator app on on the market.  It is commonly used by sailors and race committees all around the world.  It supports all the major worldwide sailing race "
+    },
+    {
+     "name": "18Birdies: Golf GPS Tracker",
+     "dev": "18Birdies LLC",
+     "ratings": 305006,
+     "desc": "Play better golf from the first tee to the final putt.\n\nFeatured by Apple as “The Best App for Golfers” and trusted by more than 10 million golfers, 18Birdies gives every player a smarter way to play,"
+    },
+    {
+     "name": "Calculator₊",
+     "dev": "Impala Studios",
+     "ratings": 1732591,
+     "desc": "America's #1 Calculator App! Download Calculator₊ Now - Your All-in-One Math Solution!\n\nWe're excited to announce the biggest update to Calculator₊ in 10 years! With over 200 million downloads and a w"
+    },
+    {
+     "name": "Simple Handicap",
+     "dev": "Nicholas Breetz",
+     "ratings": 382,
+     "desc": "Best golf handicap tracker!\n\nSimple Handicap was made for the common golfer that wants to learn and track their handicap index without paying for any services. It will also calculate course handicaps."
+    },
+    {
+     "name": "Savvy Navvy: Boat Navigation",
+     "dev": "savvy navvy",
+     "ratings": 8269,
+     "desc": "Savvy Navvy: Your All-in-One Marine Navigation App\n\nSavvy Navvy is the ultimate marine navigation tool that simplifies charts, weather forecasts, tides, GPS tracking, and route planning—right in the p"
+    },
+    {
+     "name": "VA Disability Pay",
+     "dev": "LYNNFIELD LLC",
+     "ratings": 11243,
+     "desc": "VA Disability Pay is an application intended to assist military personnel from all branches of the military service by informing them of their disability benefits. VA Disability Pay gives assistance b"
+    },
+    {
+     "name": "SailFlow: Sailing Forecasts",
+     "dev": "WeatherFlow",
+     "ratings": 5814,
+     "desc": "Whether you’re racing, cruising, day sailing, you need precise sailing forecasts and real-time wind. SailFlow delivers both.\n\nPowered by 90,000+ exclusive Tempest Weather Stations and 150,000+ total s"
+    },
+    {
+     "name": "Big Button Calculator Pro Lite",
+     "dev": "Cider Software LLC",
+     "ratings": 14131,
+     "desc": "This is THE BEST calculator for iOS with big buttons and colorful backgrounds! This version is ad supported.\n\n・Dual-line display - shows the input and result at the same time\n・Percentage and backspace"
+    },
+    {
+     "name": "Calculator Pro Lite",
+     "dev": "Cider Software LLC",
+     "ratings": 3082,
+     "desc": "A modern calculator with extensive customization and powerful features. Design it exactly how you want it. Used by millions. Supported by ads.\n\nMAKE IT YOURS\n・Create custom themes with your own gradie"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "bartender: drink recipes",
+   "top": [
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "8,500+ Drink Recipes",
+     "dev": "Webworks",
+     "ratings": 32451,
+     "desc": "Yes.  You heard it right.  Free.\n\nOver 8,500 Drink & Cocktail recipes at the tap of your fingertips.  Now you know what bartenders are putting into your expensive drinks.  Drink & Cocktail Recipes dat"
+    },
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Mixel - Cocktail Recipes",
+     "dev": "Cool Font LLC",
+     "ratings": 1536,
+     "desc": "What cocktails can you make right now? Tell Mixel what's in your bar, and instantly see every drink you can mix, from the classic to modern craft cocktails. Whether you're a home bartender, mixology e"
+    },
+    {
+     "name": "BARTENDER®",
+     "dev": "BARTENDER Media LLC",
+     "ratings": 38,
+     "desc": "The Bartender.com mobile app is your ultimate cocktail companion, whether you're a professional mixologist, an aspiring home bartender, or simply someone who loves great drinks. With a comprehensive c"
+    },
+    {
+     "name": "Cocktail Recipes & Bar - Sipsy",
+     "dev": "Sonalben Rathod",
+     "ratings": 31,
+     "desc": "Mix your perfect cocktail with Sipsy, the ultimate cocktail recipe & bartending companion! With over 3000 recipes, ingredient-based suggestions, and an AI bartender by your side, Sipsy makes mixology "
+    },
+    {
+     "name": "BarGenius - Bartender App",
+     "dev": "David Parker",
+     "ratings": 81,
+     "desc": "BarGenius is a modern ad-free bartender app built for home mixologists and professionals who want to elevate their craft. BarGenius has the largest collection of cocktails in the world! Discover new r"
+    },
+    {
+     "name": "Bartender App - Drink Recipes",
+     "dev": "Nikita Gnedin",
+     "ratings": 22,
+     "desc": "Thirsty? We have hundreds and hundreds of delicious cocktail recipes from expert bartenders around the world. \n\nNo matter if you're looking for a classic cocktail, a punch for a party or an original c"
+    },
+    {
+     "name": "BarReader: Bartender Assistant",
+     "dev": "PYMESOFT LLC",
+     "ratings": 2,
+     "desc": "A guest orders a drink you’ve never made. Instead of guessing, BaReader shows you the recipe instantly.\n\nBaReader is a hands-free recipe teleprompter built for working bartenders. Just say a cocktail "
+    },
+    {
+     "name": "Mixology - Pocket Bartender",
+     "dev": "Vincent Kiptirgei",
+     "ratings": 82,
+     "desc": "Whether you are making a drink for the first time or you are an experienced mixologist, Pocket Bartender turns your phone into a complete drink-making assistant. Designed with a clean layout and power"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "nail tech state board prep",
+   "top": [
+    {
+     "name": "Nail Technician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 1805,
+     "desc": "Pass your State Board of Nail Technology exam with the help of the new Nail Technician Exam Center app! \n\nThousands of Nail Tech questions and their detailed explanations are now available at your fin"
+    },
+    {
+     "name": "Milady Exam Prep",
+     "dev": "Cengage Learning",
+     "ratings": 1470,
+     "desc": "Preparing for your state board licensing exam doesn't have to be stressful when you use the #1 test prep tool from Milady. Whether you’re studying for Cosmetology, Esthetics, Advanced Esthetics, Barbe"
+    },
+    {
+     "name": "Nail Technician Exam Prep",
+     "dev": "Edu Prep",
+     "ratings": 13,
+     "desc": "Helping you pass your Nail Technician licensing exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first"
+    },
+    {
+     "name": "Nail Technician Practice 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 2,
+     "desc": "Zen Prep is the #1 app for passing your Nail Technician exam — WITHOUT stress and anxiety.\nWith step-by-step training, realistic exam simulators, motivation programs, resources, and expert tips, you’l"
+    },
+    {
+     "name": "Nail Tech State Board Prep",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 3,
+     "desc": "3000+ exam-like questions, 1000+ flashcards, over a dozen practice tests and real-life scenarios make Ultraprep a must-have tool to prepare for the Nail Technician exam.\n\nThe Nail Technician Exam is a"
+    },
+    {
+     "name": "Nail Tech Prep: State & Test",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into the nail technician state board exam ready. Nail Tech Prep 2026 gives you 875+ practice questions with a clear explanation for every single answer, so you don't just memorize the right choic"
+    },
+    {
+     "name": "Nail Technician Exam Prep 2026",
+     "dev": "Get Exam",
+     "ratings": 110,
+     "desc": "PASS YOUR EXAM FIRST TRY\nConquer the Nail Technician exam with our extensive study kit, featuring over 1500 exam-style questions and 500+ flashcards designed to boost your memory and retention. You’ll"
+    },
+    {
+     "name": "NailPrep: Nail Tech Exam Prep",
+     "dev": "Huy Tran Quang",
+     "ratings": 6,
+     "desc": "Pass your nail technician state board exam on the first try - with an AI Tutor available 24/7. NailPrep is the #1 study app for nail tech, cosmetology, and manicurist license exams, featuring 805+ exp"
+    },
+    {
+     "name": "Nails Exam: Nail Tech Prep",
+     "dev": "LineCentury",
+     "ratings": 490,
+     "desc": "Pass the California nail technician exam — first try.\n\nCalifornia rewrote this exam on April 1, 2026. Safety and Infection Control went from 38% to\n50% of the paper, and Skin Care is an entirely new c"
+    },
+    {
+     "name": "Nail Technician Exam Test Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare to excel in your Nail Technician certification exam 2026 with our comprehensive Nail Technician Exam Test Prep app. Developed by industry experts, this app offers the ultimate test preparation"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "geology dictionary offline",
+   "top": [
+    {
+     "name": "Geology Dictionary Offline",
+     "dev": "Andrew Putranto",
+     "ratings": 1,
+     "desc": "Free Geology Dictionary Offline with thousand of Words and Terms.\n\nGeology Dictionary Offline Features :\n\n• This app works offline – you do not need an internet connection. Perfect for your trips or w"
+    },
+    {
+     "name": "Geology Dictionary - Offline",
+     "dev": "Puju Dekivadiya",
+     "ratings": 6,
+     "desc": "**** Geology Dictionary Offline  *****\n\nThe largest and latest Geology dictionary with Meaning of words are provided with definition, synonyms and audios. Meanings are provided with usage and example "
+    },
+    {
+     "name": "Dictionary.com: English Words",
+     "dev": "Curiosity Media",
+     "ratings": 327789,
+     "desc": "Download the #1 free dictionary app!\n\nWith more than 2 million trusted definitions and synonyms, this English dictionary and thesaurus app for iPhone is optimized for your mobile device. Improve your "
+    },
+    {
+     "name": "Oxford Dictionary & Thesaurus",
+     "dev": "MobiSystems, Inc.",
+     "ratings": 29063,
+     "desc": "Trusted by millions of students, professionals, and language learners worldwide, Oxford Dictionary is powered by Oxford Languages, giving you access to millions of words, definitions, and translations"
+    },
+    {
+     "name": "Kamus Hukum Offline",
+     "dev": "Donik Ariyanto",
+     "ratings": 0,
+     "desc": "Aplikasi ini menyediakan berbagai perbendaharaan kata dan istilah dalam Hukum. Jika anda kesulitan menemukan arti suatu istilah di bidang Hukum, silahkan mencoba aplikasi offline ini. Ada puluhan ribu"
+    },
+    {
+     "name": "Merriam-Webster Dictionary",
+     "dev": "Merriam-Webster, Inc.",
+     "ratings": 328812,
+     "desc": "Get America's most useful and respected dictionary, optimized for your iPhone, iPad, and Apple Watch. Continuously updated with the newest words and meanings, this is the premier iOS app for English l"
+    },
+    {
+     "name": "Dictionary Offline - Dict Box",
+     "dev": "Xung Le",
+     "ratings": 11661,
+     "desc": "Dict Box is an offline dictionary & translator app for 50+ languages.\n\nNo internet connection required.\nFast, convenient & easy to use.\nVery smart word suggestions.\nAll dictionaries in one place.\nTran"
+    },
+    {
+     "name": "WordWeb Dictionary",
+     "dev": "Antony Lewis",
+     "ratings": 270,
+     "desc": "The WordWeb English dictionary and thesaurus: fast searching,  spelling suggestions, definitions, usage examples, synonyms, related words - and no adverts. An offline audio version is available separa"
+    },
+    {
+     "name": "Kurdish Dictionary - Dict Box",
+     "dev": "Xung Le",
+     "ratings": 14026,
+     "desc": "فەرهەنگێكی زۆر باش بۆ ئەوانەی ئینگلیزی فێردەبن. ژمارەیەكی زۆر وشەی  تێدایە. زۆر سودمەندە بۆ بەكارهێنەر. پێویستت بە هیچی تر نابێت. بۆیە دایبگرە و سودی لێببینە.\n\nDict Box - English to Kurdish & Kurdish "
+    },
+    {
+     "name": "Merriam-Webster Dictionary+",
+     "dev": "Merriam-Webster, Inc.",
+     "ratings": 22186,
+     "desc": "Get America's most useful and respected dictionary, optimized for your iPhone, iPad, and Apple Watch. Continuously updated with the newest words and meanings, this is the premier iOS app for English l"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "transcribe speech to text",
+   "top": [
+    {
+     "name": "Transcribe - Speech to Text",
+     "dev": "DENIVIP",
+     "ratings": 10928,
+     "desc": "Transcribe audio and video to text with Transcribe – your AI-powered transcription assistant. Get instant, high-quality transcripts, right from your phone.\n\nWhether you need to transcribe voice notes,"
+    },
+    {
+     "name": "Transcribe speech to text AI",
+     "dev": "Editr Apps Inc.",
+     "ratings": 25,
+     "desc": "**Turn Conversations into Clear Notes, Summaries, and Translations!**  \nConvo Note is your all-in-one AI assistant for transcribing, summarizing, and translating audio, video, and text files. Whether "
+    },
+    {
+     "name": "Transcribe Audio to Text & AI",
+     "dev": "WHEELE ACTIVITY SOFTWARE Inc",
+     "ratings": 9,
+     "desc": "Voisia turns meetings, lectures, interviews, and voice notes into clear, searchable text — with speaker labels, an AI summary, and action items.\n\nRecord or import audio, upload when you're ready, and "
+    },
+    {
+     "name": "AI Note Taker - Talk To Text",
+     "dev": "Chan Tai",
+     "ratings": 5,
+     "desc": "In today’s fast-paced world, capturing ideas accurately shouldn’t be a chore.\nAI Note Taker – Talk To Text is your intelligent companion for transforming spoken words into perfectly structured notes -"
+    },
+    {
+     "name": "Live Captions: Transcribe",
+     "dev": "Alexey Beschetnikov",
+     "ratings": 4,
+     "desc": "Transcribe converts voice to text and shows live captions for face-to-face conversations. Read what someone says in large text on your iPhone. Built for people who are deaf or hard of hearing, and for"
+    },
+    {
+     "name": "Otter Transcribe Voice Notes",
+     "dev": "Otter.ai, Inc.",
+     "ratings": 86894,
+     "desc": "Never take meeting notes again. Otter AI is the fastest way to transcribe voice in real time. Get a meeting assistant that records audio, writes notes, automatically captures slides, and generates sum"
+    },
+    {
+     "name": "iTranscribe - Audio to Text",
+     "dev": "TALENT ME TECHNOLOGY PTE. LTD. ",
+     "ratings": 6846,
+     "desc": "Transcribe, Translate, Record, Search, Playback, Manage & Share in one app. Download now for free.\n\niTranscribe will turn your cell phone into a powerful voice recorder and real-time transcriber. \n\nFu"
+    },
+    {
+     "name": "Live Transcribe",
+     "dev": "Mighty Fine Apps LLC",
+     "ratings": 8027,
+     "desc": "Live Transcribe by Mighty Fine Apps. Accurate live captions for d/Deaf and hard of hearing. Reliable in noisy places and group settings. Perfect alongside hearing aids when they aren’t enough.\n\nBUILT "
+    },
+    {
+     "name": "Whisper : Speech to Text",
+     "dev": "Revoo Teknoloji Limited Sirketi",
+     "ratings": 409,
+     "desc": "A Speech to Text app is a useful tool that enables you to convert spoken words into written text, making it easier to transcribe voice recordings. With advancements in open AI technology, such apps ha"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "internet speed meter",
+   "top": [
+    {
+     "name": "Internet Speed Meter Lite",
+     "dev": "Vaibhavi Bhingradiya",
+     "ratings": 18,
+     "desc": "Internet Speed Meter Lite – Smartly Monitor & Optimize Your Internet Experience\n\nTake control of your internet experience with Internet Speed Meter Lite – a powerful, lightweight utility designed to g"
+    },
+    {
+     "name": "InternetMeter + Speed Widget",
+     "dev": "khalil mahyoub abdulwahid abdo",
+     "ratings": 188,
+     "desc": "Simple tool to display internet speed and data usage in Notification Center and Lock Screen in real time.\n\nDisplay your billing cycle status  Lock Screen and Home Screen through widgets.\n\n*. internet "
+    },
+    {
+     "name": "Internet Speed Test Speedcheck",
+     "dev": "Ookla",
+     "ratings": 98437,
+     "desc": "Use Speedcheck to test the speed of internet connections and add your results to SpeedSpot's WiFi speed database. You can use the companion app, SpeedSpot's WiFi Finder right from with the app to find"
+    },
+    {
+     "name": "Speedtest by Ookla",
+     "dev": "Ookla",
+     "ratings": 28202,
+     "desc": "Use Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n \nExplore mobile network coverage with Speedtest Maps based on real-worl"
+    },
+    {
+     "name": "Speed Test SpeedSmart Internet",
+     "dev": "IDB LLC",
+     "ratings": 64650,
+     "desc": "SpeedSmart is a free internet speed test app for evaluating your WiFi and Mobile 5G, 4G LTE connection on your iPhone or iPad. Download now!\n\n*** App Features ***\n\n- Test your Download & Upload Speed\n"
+    },
+    {
+     "name": "Speed Test | HighSpeedInternet",
+     "dev": "CLEAR LINK TECHNOLOGIES, LLC",
+     "ratings": 19318,
+     "desc": "HighSpeedInternet.com’s free internet Speed Test helps you see exactly how your internet connection is performing. With just a single tap on your mobile device, test your Wi-Fi (DSL, Fiber, Cable, Sat"
+    },
+    {
+     "name": "Opensignal Speed Test Ad Free",
+     "dev": "Opensignal Inc.",
+     "ratings": 17847,
+     "desc": "Opensignal is a fully-featured mobile connectivity and network signal speed test tool. \n\nSpeed test, including download, upload and latency - for 3G, 4G/LTE, 5G and WiFi\nFind the best network provider"
+    },
+    {
+     "name": "WIFI & Internet Speed Test",
+     "dev": "Appenvision Ltd",
+     "ratings": 6665,
+     "desc": "1,000,000+ users use the Speedtest, trusted by professionals, to test Internet and WI-FI speed.\n\nThis app is a fast and accurate utility for evaluating your cellular (3G,4G,LTE) and Wi-Fi connection o"
+    },
+    {
+     "name": "Traffic Monitor with Widget",
+     "dev": "Treconite S.L.",
+     "ratings": 452,
+     "desc": "Demand more. Have it all at your fingertips.\nSpeed - Data - Voice - Quality\n\nWith the ad-free Traffic Monitor with built-in Today Extension (Widget) and Watch App you can check your 3G / 4G / 5G speed"
+    },
+    {
+     "name": "FAST Speed Test",
+     "dev": "Netflix, Inc.",
+     "ratings": 243,
+     "desc": "Use the FAST.com app to help you see how fast your Internet connection is, whether on mobile or broadband, anywhere in the world. It has a streamlined design that is quick and easy to understand. And "
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "nala paralegal",
+   "top": [
+    {
+     "name": "NALA CP Practice App",
+     "dev": "National Association of Legal Assistants",
+     "ratings": 39,
+     "desc": "Studies have shown that one of the best ways to prepare for an exam is to test yourself repeatedly on the content. The NALA CP Practice App, which is included as a benefit when you purchase the online"
+    },
+    {
+     "name": "Paralegal Prep: NALA CP & Test",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into the NALA Certified Paralegal (CP) exam ready. Paralegal Prep 2026 gives you 875+ practice questions with a clear explanation for every single answer, so you don't just memorize the right cho"
+    },
+    {
+     "name": "Paralegal Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 35,
+     "desc": "Embark on a comprehensive journey toward success with our Paralegal Exam Prep 2026 App! Whether you're a seasoned student or just beginning your Paralegal Certification journey, our feature-rich app i"
+    },
+    {
+     "name": "NALA Conference & Expo",
+     "dev": "National Association of Legal Assistants",
+     "ratings": 2,
+     "desc": "Find all the details for the NALA Conference here!"
+    },
+    {
+     "name": "Paralegal Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 5,
+     "desc": "Master Paralegal Studies with Flashcards 2026!\nPreparing for a career as a paralegal requires a solid understanding of legal concepts, terminology, and procedures. Our Paralegal Flashcards 2026 app is"
+    },
+    {
+     "name": "Perfectly Paralegal",
+     "dev": "Linda McGrath-Cruz",
+     "ratings": 0,
+     "desc": "Perfectly Paralegal is your all-in-one resource for continuing legal education, professional development, and connecting with fellow paralegals.\n\nWhether you're just beginning your career, preparing f"
+    },
+    {
+     "name": "LSO Paralegal Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Law Society of Ontario (LSO) Paralegal Practice Exam Exam Prep 2026 helps you pass with 351+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 351+ practice questions with detai"
+    },
+    {
+     "name": "Clio for Law Firms and Lawyers",
+     "dev": "Themis Solutions Inc.",
+     "ratings": 9013,
+     "desc": "The Clio mobile app helps you stay profitable and productive by accessing essential case and client information remotely. Update case statuses, communicate with clients and firm members, and review, s"
+    },
+    {
+     "name": "Paralegal Exam by Rocket Prep",
+     "dev": "Darya Pyzhyk",
+     "ratings": 4,
+     "desc": "Advance Your Paralegal Career\nElevate your paralegal career with Rocket Prep's mobile-optimized study resource for the Paralegal Exam. This exam validates your knowledge and skills in various areas of"
+    },
+    {
+     "name": "Paralegal Exam Prep Test 2026",
+     "dev": "Yan Marinich",
+     "ratings": 0,
+     "desc": "Paralegal Exam Prep Test 2026 is a comprehensive Test Preparation App designed to help you Study for your Paralegal Exam. It provides expert-developed content and realistic practice questions to help "
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

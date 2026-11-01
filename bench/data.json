@@ -52022,6 +52022,60 @@
    },
    "label": "utility",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Lineman Rigging Handbook",
+    "category": "Reference",
+    "desc": "Searchable reference of rigging knot types, load tables and hardware ratings for linemen."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Plumb Quote Pro",
+    "category": "Lifestyle",
+    "desc": "Book a licensed plumber near you and get a fixed quote within the hour."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Welding Tips",
+    "category": "Education",
+    "desc": "A new article every morning with welding technique stories and shop-floor advice."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Tile Calc",
+    "category": "Utilities",
+    "desc": "Enter room dimensions and get tile count, grout and waste in seconds."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Farrier AI",
+    "category": "Lifestyle",
+    "desc": "Chat with an AI assistant that answers horse hoof care questions using a language model."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Crane Operator Sim",
+    "category": "Games",
+    "desc": "Play as a tower crane operator and stack containers for fun across 50 levels."
+   },
+   "label": "game",
+   "split": "train"
   }
  ]
 }

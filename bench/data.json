@@ -37521,6 +37521,134 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "paramedic nremt",
+   "top": [
+    {
+     "name": "NREMT Prep. Medic Test 2026",
+     "dev": "MyApps",
+     "ratings": 1043,
+     "desc": "NREMT Prep: EMT & Paramedic Practice Test 2026 — your ultimate study companion built by active emergency physicians and paramedics, designed to help you pass the National Registry of Emergency Medical"
+    },
+    {
+     "name": "MedicTests 2026 EMS Education",
+     "dev": "MedicTests",
+     "ratings": 2067,
+     "desc": "Experience the ultimate EMS Education System, designed exclusively for MedicTests members. \n\nUnlock personalized guidance and engaging learning tools like our personalized learning paths, the Rapid Le"
+    },
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobil"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us f"
+    },
+    {
+     "name": "Paramedic Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 63,
+     "desc": "Paramedic Exam Prep 2026 is an exam preparation app that will help you pass the Paramedic exam administered by the National Registry of Emergency Medical Technicians (NREMT) with a high score on your "
+    },
+    {
+     "name": "NREMT PARAMEDIC Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 65,
+     "desc": "PASS THE NREMT PARAMEDIC EXAM\n\nNREMT Paramedic Exam Prep 2026 helps you study smarter, not harder. With over 1800+ practice questions, AI-powered progress tracking, and realistic exam simulations, you"
+    },
+    {
+     "name": "NREMT Prep: EMT & Paramedic",
+     "dev": "MELIORAPPS INTERACTIVE, SRL",
+     "ratings": 3,
+     "desc": "Pass your EMS certification exam on the first try.\n\nWe built this app for EMTs, paramedics, firefighters, and critical care professionals who need a fast, reliable way to study. 9,000+ questions acros"
+    },
+    {
+     "name": "Paramedic Exam Prep: 2026",
+     "dev": "Edu Prep",
+     "ratings": 8,
+     "desc": "Helping you pass your Paramedic exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first try!\n\nThe NREMT"
+    },
+    {
+     "name": "Paramedic Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 40,
+     "desc": "Paramedic Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It has more than 700 high quality test questions with answer explanations, multiple "
+    },
+    {
+     "name": "EMT B Prep 2026",
+     "dev": "Chengdu Youzou Information Technology Co., Ltd",
+     "ratings": 326,
+     "desc": "Emergency Medical Technicians provide out of hospital emergency medical care and transportation for critical and emergent patients who access the emergency medical services (EMS) system. EMTs have the"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "temp dental assistant jobs app",
+   "top": [
+    {
+     "name": "GoTu: #1 in Dental Talent",
+     "dev": "TempMee Hygienist Inc.",
+     "ratings": 2437,
+     "desc": "GoTu is the top dental marketplace that effortlessly connects dental professionals with dental offices in need. Whether you’re a dental hygienist, dental assistant, associate dentist, or front office "
+    },
+    {
+     "name": "Toothio Pro - Dental Jobs App",
+     "dev": "Toothio",
+     "ratings": 760,
+     "desc": "Toothio is a technology platform that connects dental offices to high quality dental professionals, on-demand, while allowing dental professionals to pick up shifts that fits their schedules.\n\nFOR DEN"
+    },
+    {
+     "name": "Teero - Dental Staffing",
+     "dev": "Teero Inc",
+     "ratings": 3310,
+     "desc": "W-2 flexibility for dental hygienists. Work when you want, where you want, with complete transparency into every office.\n\nNo commitments. No fees. Just straightforward shifts with real employee benefi"
+    },
+    {
+     "name": "Kwikly - Dental Staffing",
+     "dev": "PARKORE INC.",
+     "ratings": 435,
+     "desc": "With Kwikly, you choose the shifts you want, the days you want, the hours you want, even the Dental Offices you want, right from your smartphone. It’s the ultimate way to pick up dental shifts on your"
+    },
+    {
+     "name": "Cloud Dentistry",
+     "dev": "Cloud Dentistry, LLC",
+     "ratings": 527,
+     "desc": "Redefining the dental workforce. Cloud Dentistry connects verified and background checked dental professionals with offices looking to hire temp, part-time, or permanent staff. \n\nCloud Dentistry is th"
+    },
+    {
+     "name": "Stynt Dental Jobs Marketplace",
+     "dev": "Stynt Inc",
+     "ratings": 1480,
+     "desc": "Working on Stynt is easy. Thousands of offices are constantly hiring dentists, hygienists, assistants, office managers and front desk professionals.\n\nStep 1:  Create an account for free and build an a"
+    },
+    {
+     "name": "ShiftKey - PRN Healthcare Jobs",
+     "dev": "ShiftKey, LLC",
+     "ratings": 27396,
+     "desc": "ShiftKey gives you the FREEDOM to work when and where you want. Open up your world - and connect with available nursing, therapy, and dental shifts near you*.\n\nShiftKey connects CNAs, LPNs, RNs, RTs, "
+    },
+    {
+     "name": "Princess Dental Staffing",
+     "dev": "Princess Dental Staffing LLC",
+     "ratings": 80,
+     "desc": "Dental jobs on your terms. Set your availability & temp rate. Accept only the opportunities you want. With no fees and no percentage taken from your pay, you keep more of the money you earn.\n\nHygienis"
+    },
+    {
+     "name": "TempStars",
+     "dev": "Sudden Turtle Dental Consulting Inc.",
+     "ratings": 19,
+     "desc": "Discover your next dental job with TempStars, the leading platform for dental temping in the industry! With our innovative app, dental hygienists and assistants can effortlessly find temp dental jobs "
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

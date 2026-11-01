@@ -2119,6 +2119,36 @@
    "term": "esthetician & cosmetology 2026",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "barber exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nccco crane exam",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "home inspector exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "speedometer gps",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "nail tech income tracker",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "dental assistant training",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

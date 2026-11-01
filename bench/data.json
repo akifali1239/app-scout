@@ -49360,6 +49360,36 @@
    "note": "Meslek sahipleri bunu açıp bir kere bakıp kapatır, ilgi çekmeyen bir konu",
    "label": "Sıkıcı fikir",
    "split": "test"
+  },
+  {
+   "note": "Mağazada aynı işi yapan 70 app var, ilk iki sıra milyonlarca indirmeli",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu aramada hep aynı büyük firmaların app'leri çıkıyor, kapı kapalı",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu kartı bu sabah da görüp geçmiştim, aynısı yine gelmiş",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Listede peş peşe iki kez aynı fikir çıktı, sadece başlık farklı",
+   "label": "Çok benzer",
+   "split": "train"
+  },
+  {
+   "note": "İnsanlar bunun için para vermez, zaten ücretsiz alternatifler yeter",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Bunu tek başıma yapmam imkânsız, donanım ve sunucu altyapısı gerekir",
+   "label": "Yapması zor",
+   "split": "dev"
   }
  ],
  "kind": [

@@ -2084,6 +2084,41 @@
    "term": "sunrise pediatrics patient portal",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "welding weight calculator pro",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nail tech appointment app",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nail technician exam center",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "tattoo editor",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "lso paralegal exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "forklift & box",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "esthetician & cosmetology 2026",
+   "label": "need",
+   "split": "dev"
   }
  ],
  "brand": [

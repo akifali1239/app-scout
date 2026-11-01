@@ -46434,6 +46434,356 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "occupational therapy exam test",
+   "apps": [
+    {
+     "name": "Occupational Therapy Exam Test",
+     "dev": "Prepia Inc",
+     "ratings": 9,
+     "desc": "Study Occupational Therapy smarter and faster with all the tools you need to succeed! Whether you’re taking a break at work or relaxing at home, bring our Occupational Therapy Exam Prep App with you a"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Exam 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 58,
+     "desc": "Crush the OT Exam Without Losing Your Grip on Reality\n\nYou picked occupational therapy to make a difference, change lives, and maybe wear scrubs to work. But before you can do any of that, there’s the"
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "forklift certification test",
+   "apps": [
+    {
+     "name": "Forklift Certified Pro",
+     "dev": "Flat Earth LLC",
+     "ratings": 9,
+     "desc": "Get OSHA-aligned forklift operator training and your certificate — right from your phone. Train at your own pace, pass the final exam, and download your certificate the same day.\n\nForklift Certified i"
+    },
+    {
+     "name": "Forklift Theory Essentials",
+     "dev": "Deep River Development Ltd",
+     "ratings": 3,
+     "desc": "FORKLIFT THEORY ESSENTIALS – Your complete companion for mastering forklift theory and passing your Forklift Operator Test!\n\nKey Features:\n\nExpert-Written Questions: Created by RTITB and ITSSAR accred"
+    },
+    {
+     "name": "Forklift Practice Test",
+     "dev": "Ben Wallenberg",
+     "ratings": 4,
+     "desc": "Forklift Practice Test — Free Practice Tests & Exam Prep\n\nPass your Forklift Practice Test on the first try with hundreds of real practice questions, detailed answer explanations, and instant scoring."
+    },
+    {
+     "name": "CDL Permit: Practice Test 2026",
+     "dev": "Mapola LTD",
+     "ratings": 18161,
+     "desc": "Ace your 2026 CDL exam with a great level of self-assurance!\\n\\nA CDL is a driver's license that allows you to operate commercial motor vehicles. Obtaining a CDL means you have the skills and capabili"
+    },
+    {
+     "name": "Forklift Exam Prep 2026",
+     "dev": "Deeun Inc.",
+     "ratings": 0,
+     "desc": "FORKLIFT PREP: YOUR OSHA CERTIFICATION COMPANION\n\nNearly 100 workers are killed in forklift accidents every year. Most involve tip-overs. Most are preventable.\n\nThis app does not just quiz you. It sho"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician educator",
+   "apps": [
+    {
+     "name": "Pharmacy Technician Educator",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Prepare for the Certified Pharmacy Technician Educator exam with realistic practice questions covering pharmacology, dispensing, sterile compounding, pharmacy law, and instructional methods for traini"
+    },
+    {
+     "name": "Pharmacy Technician PTCE Mock Test and Explanation",
+     "dev": "Abdullah Nurum",
+     "ratings": 972,
+     "desc": "This app is built for people who want to take the PTCB exam. It includes the following sections: Tests(Mock Test and Learning mode), Book Outline, Flash Cards, Jobs and Schools. The Tests section incl"
+    },
+    {
+     "name": "Pharmacy Tec Educator Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Certified Pharmacy Technician Educator Exam Prep 2026 helps you pass with 500+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 500+ practice questions with detailed answer exp"
+    },
+    {
+     "name": "NABP",
+     "dev": "NABP",
+     "ratings": 657,
+     "desc": "Managing your pharmacy career has never been easier. With the NABP app, you can quickly access your e-Profile, stay on top of your continuing pharmacy education status, and keep up to date about the l"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "mobile midwife ehr",
+   "apps": [
+    {
+     "name": "Mobile Midwife EHR",
+     "dev": "Daly Enterprises, Inc",
+     "ratings": 5294,
+     "desc": "OVERVIEW :\nMobile Midwife EHR is the premier electronic charting and patient health records software for the iPad, iPhone and Mac.  A client portal is available on all devices.  Clients can login and "
+    },
+    {
+     "name": "DrChrono EHR / EMR",
+     "dev": "drchrono Inc",
+     "ratings": 3731,
+     "desc": "DrChrono EHR is an all-in-one EHR that seamlessly integrates patient scheduling, clinical workflow, telemedicine/telehealth and medical billing. With our state-of-the art EHR system, you enter patient"
+    },
+    {
+     "name": "Guide to Clinical Midwifery",
+     "dev": "Atmosphere Apps, Inc.",
+     "ratings": 88,
+     "desc": "Guide to Clinical Midwifery is a must-have resource for midwives, women’s health nurse practitioners, and all levels of healthcare providers working in the women’s health field. Organized alphabetical"
+    },
+    {
+     "name": "NextGen Mobile Solutions",
+     "dev": "NextGen Healthcare",
+     "ratings": 3755,
+     "desc": "NextGen® Mobile drives clinical efficiencies for providers, so they can regain time to focus on what matters. The NextGen Mobile platform serves as a mobile extension of the EHR, streamlining key clin"
+    },
+    {
+     "name": "Mobile Doula",
+     "dev": "Daly Enterprises, Inc",
+     "ratings": 348,
+     "desc": "OVERVIEW : \nMobile Doula is the premier client management system for Doulas on the iPad/iPhone/Mac.  Doulas have clients fill out their information on an iPad, iPhone or through the Mobile Doula web-b"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nail tech payroll & commission",
+   "apps": [
+    {
+     "name": "Nail Tech Payroll & Commission",
+     "dev": "Tran Hoa",
+     "ratings": 3,
+     "desc": "Nail Salon Payroll – Your Complete Technician Pay & Check-In Assistant\nManaging your salon just got even easier. Nail Salon Payroll now integrates seamlessly with SpotCheck+, bringing appointment sche"
+    },
+    {
+     "name": "YouCam Nails - Nail Art Salon",
+     "dev": "PERFECT MOBILE CORP.",
+     "ratings": 5886,
+     "desc": "Design your own unique nail art with the best nail salon app YouCam Nails, and join a creative nail art & makeup community! Create your own stunning nail art designs with cute stickers, vibrant colors"
+    },
+    {
+     "name": "Nail Designs - Manicures & Art",
+     "dev": "1290 design d.o.o.",
+     "ratings": 2623,
+     "desc": "Nail Designs is the perfect app to make your nails look stunning. \n\nIf you ever thought that having plain red nails just looks extremely boring, then this app is exactly for you! \n\nNail Designs is the"
+    },
+    {
+     "name": "Nail Technician Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 1805,
+     "desc": "Pass your State Board of Nail Technology exam with the help of the new Nail Technician Exam Center app! \n\nThousands of Nail Tech questions and their detailed explanations are now available at your fin"
+    },
+    {
+     "name": "DaySmart Salon Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 5416,
+     "desc": "Finally, salon software that feels like a business partner. \n\nDaySmart Salon helps stylists, barbers, and beauty pros stay booked, get paid faster, and grow their salon without the stress. \n\nOur all-i"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "ardms rdms sonography mastery",
+   "apps": [
+    {
+     "name": "ARDMS RDMS Sonography Mastery",
+     "dev": "Medical Relevant Inc",
+     "ratings": 0,
+     "desc": "Prepare confidently for the Registered Diagnostic Medical Sonographer (RDMS) exam with a complete and professionally developed study resource. This app is fully aligned with the official ARDMS RDMS ex"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RV"
+    },
+    {
+     "name": "ARDMS SPI Exam Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 11,
+     "desc": "Master the ARDMS SPI Exam with SPI Flashcards 2026!\nPreparing for the ARDMS SPI (Sonographic Principles & Instrumentation) exam is essential for those pursuing a career in diagnostic medical sonograph"
+    },
+    {
+     "name": "Sonography ARDMS Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Sono Exam with confidence. Sonography ARDMS Prep gives you 700+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nUltrasound Physics, Instr"
+    },
+    {
+     "name": "ARDMS SPI Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 21,
+     "desc": "Unlock your potential in the Diagnostic Medical Sonography field with our comprehensive ARDMS SPI Exam Test Prep 2026 course. Designed for aspiring sonographers preparing for the SPI exam, this course"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "nbdhe dental hygiene prep 2026",
+   "apps": [
+    {
+     "name": "NBDHE Dental Hygiene Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 17,
+     "desc": "Prepare for the NBDHE (National Board Dental Hygiene Examination) with our comprehensive prep course! Whether you're a seasoned student or just beginning your licensed Dental Hygienist certification j"
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep",
+     "dev": "Get Exam",
+     "ratings": 92,
+     "desc": "Give your studying method a major upgrade. \nImprove your knowledge with 700+ exam-like questions and 700+ flashcards. Remember more using Flashcards. Get access to over a dozen practice exams that wil"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Boards",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "Stressed about the NBDHE Dental Hygiene Boards? You're not alone.\n\nFour years of dental hygiene school. Hundreds of clinical hours. All of it comes down to one exam.\n\nJoin 20,000+ dental hygiene stude"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Prepare for the National Board Dental Hygiene Examination (NBDHE) with realistic practice questions and clear explanations across every tested discipline.\n\nCovers Scientific Basis for Dental Hygiene P"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

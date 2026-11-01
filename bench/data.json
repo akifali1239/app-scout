@@ -48258,6 +48258,54 @@
    "hi": "torque spec lookup table",
    "lo": "video editing suite",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam prep for project managers",
+   "lo": "free ringtones",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrical load calculation for contractors",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cpa exam flashcards",
+   "lo": "cat sounds",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque spec lookup table",
+   "lo": "multiplayer battle royale game",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe volume calculator",
+   "lo": "video editing suite like premiere",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nclex pharmacology flashcards",
+   "lo": "wallpaper maker",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "journeyman electrician exam practice",
+   "lo": "photo collage",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic drug dose reference",
+   "lo": "meme generator",
+   "split": "test"
   }
  ],
  "note": [

@@ -47869,6 +47869,36 @@
    "app": "Study timer using the Pomodoro technique with focus statistics.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Medication dosage calculator for nurses with weight-based pediatric dosing.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Scaffold load and fall-protection checklist for construction safety inspectors.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Legal rights guide explaining what to do during a traffic stop.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Simple grocery list app with shared lists for families.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Flashcards for learning basic Spanish vocabulary.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Weekly meal planner with printable shopping lists.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

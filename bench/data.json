@@ -46338,6 +46338,36 @@
    "app": "Converts between AWG wire gauge and millimeters.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Tells you how much acetaminophen a child can safely take based on weight.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Diagnoses a skin rash from a photo and recommends a treatment.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Tells you whether you can sue your landlord and what to file.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts between PSI and bar pressure units for mechanics.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Quiz cards to memorize resistor color codes for electricians.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Lists standard pipe thread sizes for plumbers.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [

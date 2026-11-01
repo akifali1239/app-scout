@@ -36558,6 +36558,372 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "nha phlebotomy exam prep 2026",
+   "top": [
+    {
+     "name": "Pocket Prep NHA CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 1138,
+     "desc": "Unlock 1,000 CPT practice questions with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT concepts and improve retention to"
+    },
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals natio"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written b"
+    },
+    {
+     "name": "Phlebotomy CPT NHA Prep 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 277,
+     "desc": "**Pass the Phlebotomy Exam Without Drawing a Blank**\n\nYou’ve practiced the sticks, mastered the tubes, and maybe even survived your first fainting patient. Now it’s time to pass your phlebotomy certif"
+    },
+    {
+     "name": "NHA CPT Exam Prep 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 2,
+     "desc": "5,000+ exam-like questions, 1,000+ flashcards, over a dozen practice tests, and real-life scenarios make Ultraprep a must-have tool to prepare for the NHA CPT.\n\nThe NHA CPT exam, also known as the Nat"
+    },
+    {
+     "name": "NHA CPT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 128,
+     "desc": "NHA CPT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,000 high-quality test questions and answer explanations, multiple test mod"
+    },
+    {
+     "name": "Phlebotomy Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 423,
+     "desc": "Get fully prepared to earn your Phlebotomy Technician certification with the all-in-one Phlebotomy Practice Test app — your personal study coach for passing the exam with ease and confidence. Trusted "
+    },
+    {
+     "name": "Phlebotomy Exam Prep & Study",
+     "dev": "Anthony Perry",
+     "ratings": 0,
+     "desc": "The NHA Certified Phlebotomy Technician exam covers venipuncture, specimen processing, patient safety, and compliance across five domains. About one in four candidates does not pass on the first attem"
+    },
+    {
+     "name": "NHA CPT Exam Prep & Practice",
+     "dev": "Tandraton Limited",
+     "ratings": 2,
+     "desc": "Introducing a comprehensive exam preparation app designed to help you conquer certification exams including NHA CPT, NBSTSA CST, Certified Phlebotomy Technician, and various other allied health fields"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "firefighter app",
+   "top": [
+    {
+     "name": "PulsePoint Respond",
+     "dev": "PulsePoint Foundation",
+     "ratings": 274849,
+     "desc": "PulsePoint Respond is a 911-connected mobile app that can immediately inform you of emergencies occurring in your community and can request your help when cardiopulmonary resuscitation (CPR) is needed"
+    },
+    {
+     "name": "ActiveAlert",
+     "dev": "Active911",
+     "ratings": 740,
+     "desc": "ActiveAlert helps you respond to calls faster by getting the essential details right in your smartphone. No more copying down dispatch information or trying to enter an address while driving.\n\n- Uses "
+    },
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobil"
+    },
+    {
+     "name": "Firefighter I & II Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 189,
+     "desc": "Pass your Firefighter Exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe Firefigh"
+    },
+    {
+     "name": "Fire Hub",
+     "dev": "Yohan Okyere",
+     "ratings": 0,
+     "desc": "Fire Hub is an all-in-one platform built for firefighters.\nIt streamlines scheduling, communication, and access to essential resources. Fire Hub helps your team stay connected, organized, and informed"
+    },
+    {
+     "name": "FD Pocket Guides",
+     "dev": "Paul Brewer",
+     "ratings": 0,
+     "desc": "FD Pocket Guides\nYour essential quick-reference and checklist companion, designed specifically for Fire and EMS professionals.\n\nWhen seconds count, you don’t have time to dig through binders or flip t"
+    },
+    {
+     "name": "Police Scanner Radio & Fire",
+     "dev": "GordonEdwards.net LLC",
+     "ratings": 534682,
+     "desc": "Scanner Radio is the #1 police scanner and alerts you of breaking news so you can listen to the action live with millions of others.\n\nStay up to date with your local news, traffic, emergency and publi"
+    },
+    {
+     "name": "NREMT",
+     "dev": "National Registry of Emergency Medical Technicians",
+     "ratings": 7972,
+     "desc": "Features available to all users\n• Sign in securely with Touch ID or Face ID\n• Verify National Registry status for any provider by name or registry number.\n• Contact the Registry using the Contact Us f"
+    },
+    {
+     "name": "Mission Chief Fire Fighter 911",
+     "dev": "SHPlay GmbH",
+     "ratings": 4421,
+     "desc": "Experience the excitement of an emergency call dispatcher at your finger tips! Create your own dispatch center and choose where in the world your fire and police stations are placed, using real life m"
+    },
+    {
+     "name": "Dispatch Rewind App",
+     "dev": "Daniel Davidson",
+     "ratings": 0,
+     "desc": "Your Global Feed: Know what's going on in the volunteer firefighter community around the globe\nYour Incidents: Know what's going on in your volunteer department\nYour Favorites: Save your favorite inci"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "machinist tap drill chart",
+   "top": [
+    {
+     "name": "Machinist Tap Drill Chart",
+     "dev": "Signet LLC",
+     "ratings": 0,
+     "desc": "The chart on the shop wall says 1/4-20 takes a #7. It does not say what thread you actually end up with.\n\nThis one does. Pick a thread and it names a drill you can pick up out of the index — then show"
+    },
+    {
+     "name": "Drill and Tap Tool - Thread Tapping & Through Hole",
+     "dev": "Chewy Applications",
+     "ratings": 30,
+     "desc": "iOS 10 compatible!\nWhether you use Metric taps and drills, US Standard taps and inch drills, or any combination of size types, this app has the answers.  No typing required; just tap your thread type "
+    },
+    {
+     "name": "Machinist Journeyman",
+     "dev": "smartcalculations",
+     "ratings": 19,
+     "desc": "Machinist Journeyman was just updated with new features to give you the best app possible. You will be amazed by the amount of \"I Use it Everyday\" content in this app.\n\nFeatured in several Trade Publi"
+    },
+    {
+     "name": "Drill Size Charts - Drill bit size tables to show US Number / Letter and Fraction Inch sizes in Decimal Inch and Metric Conversions",
+     "dev": "Chewy Applications",
+     "ratings": 22,
+     "desc": "An easy-to-use set of charts for viewing various drill bit size types and their decimal inch and metric size equivalents and conversions. No typing required, just tap the required size type, and scrol"
+    },
+    {
+     "name": "FSWizard",
+     "dev": "Eldar Gerfanov",
+     "ratings": 47,
+     "desc": "CNC Milling and Turning Speed and Feed Calculator (Wizard)\nAbsolutely the best CNC machinist speed and feed calculator around.\nCalculate cutting conditions simply by choosing your work and tool materi"
+    },
+    {
+     "name": "CNC Machinist Calculator Pro",
+     "dev": "Shane Anderson",
+     "ratings": 678,
+     "desc": "CNC Machinist Calculator Pro is a machining calculator designed for manufacturing engineers, machinists, CNC operators, tool & die makers, and at home hobbyists. CNC Machinist Calculator Pro is great "
+    },
+    {
+     "name": "CNC Machinist Calculator App",
+     "dev": "Blue Mantiq LLC",
+     "ratings": 1,
+     "desc": "The right RPM and feed, at the machine, in under three seconds, and the math to prove it.\n\nPunch in what you're cutting and what you're cutting it with. CNC Speeds & Feeds converts published starting "
+    },
+    {
+     "name": "The Phillips Machinist",
+     "dev": "Phillips Corporation",
+     "ratings": 393,
+     "desc": "The Phillips Machinist is your personalized digital manufacturing assistant, with quick access to essential machine codes and calculators, direct contact with Phillips engineers, and practical resourc"
+    },
+    {
+     "name": "ThreadKing",
+     "dev": "Motionics LLC",
+     "ratings": 13,
+     "desc": "ThreadKing is the ultimate reference and calculator for threads. \n\nIt contains all the information for Metric and UN Taps, Fine/Course Threads, Drill/Tap sizes, Pipe Tap sizes, and Thread Dimension. \n"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dietitian exam prep 2024",
+   "top": [
+    {
+     "name": "Dietitian Exam Prep 2024",
+     "dev": "TRENDING MOBAPPS SRL",
+     "ratings": 38,
+     "desc": "DIETITIAN Exam Prep 2024  allows you to study anywhere, anytime, right from your mobile device. A simple and convenient way to practice for your RD & RDN on the go.\n\nStudy anytime.Study anywhere.Maste"
+    },
+    {
+     "name": "Dietitian Exam Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 35,
+     "desc": "Prepare to excel in the CDR Registered Dietitian (RD) Exam with our comprehensive study resources tailored for 2026. This app is designed to help aspiring dietitians master the necessary knowledge and"
+    },
+    {
+     "name": "CDR RD: Dietitian Exam 2026",
+     "dev": "INAPPLAB OU",
+     "ratings": 62,
+     "desc": "Preparing for the Dietetic Registration (RD) Exam? Our RD prep app is your trusted companion for success! With expertly designed practice questions, detailed explanations, and proven study strategies,"
+    },
+    {
+     "name": "Dietitian Exam To Go",
+     "dev": "Visual Veggies Software, LLC",
+     "ratings": 30,
+     "desc": "RD Exam Prep – Practice Tests for Dietitian Exam (CDR)\n\nPrepare with confidence using one of the most advanced RD exam prep apps for the Registration Exam for Dietitians (CDR exam)—now available anyti"
+    },
+    {
+     "name": "Nourish: Eating Well Made Easy",
+     "dev": "Nourish Inc.",
+     "ratings": 32032,
+     "desc": "Are you trying to improve your health by eating better? Nourish connects you with a Registered Dietitian through telehealth, and gets it covered by your insurance!\n\nNourish provides personalized, empa"
+    },
+    {
+     "name": "Pocket Prep Medical 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6562,
+     "desc": "Unlock thousands of Medical certification exam practice questions and mock exams for the NHA CPT, CDR RD, PTCB PTCE, AAPC CPC, AAVSB VTNE, and more with Pocket Prep, the largest provider of mobile tes"
+    },
+    {
+     "name": "FNP Exam Mastery | Prep 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13151,
+     "desc": "Pass the AANPCB/ANCC or Triple Your Money Back! FNP Mastery is the #1 rated FNP exam prep app, developed by U.S.-based nurse practitioners who’ve been where you are.\n\nStart free today and get 10 board"
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "paralegal flashcards 2026",
+   "top": [
+    {
+     "name": "Paralegal Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 5,
+     "desc": "Master Paralegal Studies with Flashcards 2026!\nPreparing for a career as a paralegal requires a solid understanding of legal concepts, terminology, and procedures. Our Paralegal Flashcards 2026 app is"
+    },
+    {
+     "name": "Paralegal Prep: NALA CP & Test",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into the NALA Certified Paralegal (CP) exam ready. Paralegal Prep 2026 gives you 875+ practice questions with a clear explanation for every single answer, so you don't just memorize the right cho"
+    },
+    {
+     "name": "LSAT Logic Flashcards",
+     "dev": "Magoosh",
+     "ratings": 559,
+     "desc": "Get ready for the Law School Admissions Test (LSAT) with this research-based LSAT Flashcards App. It will help you study for the LSAT quizzing you on analytical thinking and helping you to master the "
+    },
+    {
+     "name": "Quimbee",
+     "dev": "Sellers International, LLC",
+     "ratings": 2505,
+     "desc": "Quimbee is an all-in-one learning platform built to support law students and bar examinees at every stage of their legal learning journeys. More than 900,000 students have trusted Quimbee Study Aids f"
+    },
+    {
+     "name": "LSAT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 106,
+     "desc": "LSAT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It features more than 800 high-quality test questions with answer explanations, multiple "
+    },
+    {
+     "name": "Paralegal Exam Prep Test 2026",
+     "dev": "Yan Marinich",
+     "ratings": 0,
+     "desc": "Paralegal Exam Prep Test 2026 is a comprehensive Test Preparation App designed to help you Study for your Paralegal Exam. It provides expert-developed content and realistic practice questions to help "
+    },
+    {
+     "name": "Paralegal Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 35,
+     "desc": "Embark on a comprehensive journey toward success with our Paralegal Exam Prep 2026 App! Whether you're a seasoned student or just beginning your Paralegal Certification journey, our feature-rich app i"
+    },
+    {
+     "name": "Paralegal Exam by Rocket Prep",
+     "dev": "Darya Pyzhyk",
+     "ratings": 4,
+     "desc": "Advance Your Paralegal Career\nElevate your paralegal career with Rocket Prep's mobile-optimized study resource for the Paralegal Exam. This exam validates your knowledge and skills in various areas of"
+    },
+    {
+     "name": "Quizgecko: AI Flashcards",
+     "dev": "Quizgecko",
+     "ratings": 446,
+     "desc": "Upload your study material. Pass your exam.\n\nQuizgecko turns your PDFs, notes, and documents into quizzes, flashcards, study notes, and audio podcasts. Upload something and you've got a study system i"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "surveying height calculation",
+   "top": [
+    {
+     "name": "surveying height calculation",
+     "dev": "youji okamura",
+     "ratings": 1,
+     "desc": "Convenient if you met in the construction and building site! And it is seems app.\n\n\nDing upholstery installation and leveling, even if not fill out the field book is okay!\n\nI will calculate in the app"
+    },
+    {
+     "name": "Surveying Practice",
+     "dev": "Manish Kumar",
+     "ratings": 0,
+     "desc": "Surveying Practice is an educational application designed to help students understand and practice the fundamental principles of surveying used in civil engineering and land measurement. The app empha"
+    },
+    {
+     "name": "Measuring Tape, Photo Ruler",
+     "dev": "Grymala sp. z o.o.",
+     "ratings": 2622,
+     "desc": "Prime Ruler – A Versatile Tool for Accurate Measurements with AR and Traditional Features!\n\nPrime Ruler combines augmented reality (AR) technology and on-screen tools to make measurements as convenien"
+    },
+    {
+     "name": "AR Measuring Tape Ruler：Metrix",
+     "dev": "MobileTech OU",
+     "ratings": 1073,
+     "desc": "Try Metrix: Digital Measuring Tape, a convenient and precise measurement tool that transforms your smartphone into a virtual ruler. Designed for accuracy and ease of use, it’s perfect for quick measur"
+    },
+    {
+     "name": "Nexgen Surveying",
+     "dev": "Nexgen Enterprises",
+     "ratings": 0,
+     "desc": "With our experienced professional surveyors, field crews, and in-house support staff, we provide our clients with the most cost-effective, high-quality, and precise services in the industry."
+    },
+    {
+     "name": "SurveyingMaster",
+     "dev": "颖达 陈",
+     "ratings": 2,
+     "desc": "【Introdution】\nConvenient surveying calculator, including traversing, leveling, coordinate calculation and intersection...\n\nIt has a powerful function to balance the misclosure in open route, closed ro"
+    },
+    {
+     "name": "Measuring Tape +ㅤ",
+     "dev": "Rocket Apps GmbH",
+     "ratings": 5199,
+     "desc": "Measure anything with Measuring Tape! \n \nLeveraging the power of your device’s camera, augmented reality and advanced AI to create the ultimate Measuring Tape that fits right into your pocket.\n \nOur p"
+    },
+    {
+     "name": "Flow Mobile Surveying",
+     "dev": "David King",
+     "ratings": 0,
+     "desc": "The Fastest Mobile Surveying App\n\nSoftware by The King Brothers - Our software helps Asbestos Surveyors create more reports\n‍\nJoin the forward thinking Surveyors building profitable businesses with Fl"
+    },
+    {
+     "name": "GPS Fields Area Measure Map",
+     "dev": "Rento UAB",
+     "ratings": 12835,
+     "desc": "GPS Fields Area Measure lets you accurately calculate distance, perimeter and area — even without internet.\n\nMark any point with notes, photos or custom data. Ideal for field scouting, equipment track"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

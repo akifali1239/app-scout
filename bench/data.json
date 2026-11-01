@@ -47497,6 +47497,42 @@
    "hi": "nclex pharmacology flashcards",
    "lo": "photo collage maker",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "emt national registry exam prep",
+   "lo": "tip calculator",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "journeyman electrician exam practice",
+   "lo": "wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pharmacist nabp naplex prep",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "cpa exam flashcards",
+   "lo": "free ringtones",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "social network for plumbers",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque spec lookup table",
+   "lo": "video editing suite",
+   "split": "train"
   }
  ],
  "note": [

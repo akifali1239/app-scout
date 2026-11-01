@@ -50578,6 +50578,41 @@
    "note": "Fikir çok sıradan, heyecan vermiyor, üzerinde çalışmak istemem",
    "label": "Sıkıcı fikir",
    "split": "train"
+  },
+  {
+   "note": "Bu işi yapan onlarca app var, arama sonuçlarında girecek yer yok",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Rakiplerin hepsi neredeyse aynı ekran ve özelliklerle çıkmış, birbirinden ayırt edilmiyor",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bunun için para vermez, herkes ücretsiz alternatif kullanıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Gerçek zamanlı donanım sensörü ve harici cihaz entegrasyonu gerektiriyor, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Son güncellemesi yıllar önce, tasarımı eski ve yorumlar kötü, bu alan sönmüş",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "Hastane logosu ve resmi sınav adı kullanılıyor, App Store incelemesinde takılır",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Bu konu bana hitap etmiyor, hedef kitlem başka bir meslek",
+   "label": "Alakasız",
+   "split": "train"
   }
  ],
  "kind": [

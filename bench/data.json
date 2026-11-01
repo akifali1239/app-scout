@@ -46764,6 +46764,36 @@
    "app": "Lists standard pipe thread sizes for plumbers.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Tells you which medication dose to give a child based on weight and symptoms.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Reads your ECG from a phone sensor and diagnoses whether you have atrial fibrillation.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates the load capacity of a steel beam for a building and outputs approved safe limits.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "A simple countdown timer for your workouts with custom intervals and sounds.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Flashcards to memorize Spanish vocabulary with spaced repetition.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Checklist app for organizing a moving-day packing list by room.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

@@ -51363,6 +51363,60 @@
    },
    "label": "content",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Torque Spec Reference",
+    "category": "Reference",
+    "desc": "Look up bolt torque specifications by size and grade."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pipe Fitter AI Assistant",
+    "category": "Productivity",
+    "desc": "Chat with a GPT-powered assistant for plumbing code questions."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Mobile Dog Grooming Booking",
+    "category": "Lifestyle",
+    "desc": "Book a groomer to come to your home and schedule visits."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Welder Stories Podcast",
+    "category": "Entertainment",
+    "desc": "Weekly podcast episodes and interviews with working welders."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Match Puzzle Saga",
+    "category": "Games",
+    "desc": "Swap candies and clear levels in this addictive puzzle game."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Concrete Volume Calculator",
+    "category": "Utilities",
+    "desc": "Calculate cubic yards of concrete for slabs and footings."
+   },
+   "label": "utility",
+   "split": "train"
   }
  ]
 }

@@ -2219,6 +2219,46 @@
    "term": "ekg rhythm strip practice",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "fasting tracker",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "birthday reminder",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "speed test internet wifi scan",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "kiro: chiropractic adjustments",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "phlebx - phlebotomy @ home",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "welding master 3d",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "florist life",
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "term": "bartender right mix",
+   "label": "game",
+   "split": "test"
   }
  ],
  "brand": [

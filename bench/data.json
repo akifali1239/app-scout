@@ -49995,6 +49995,41 @@
    "note": "Bunu tek başıma yapmam imkânsız, donanım ve sunucu altyapısı gerekir",
    "label": "Yapması zor",
    "split": "dev"
+  },
+  {
+   "note": "Dün de aynı kartı reddetmiştim, neden yine karşıma çıkıyor",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Geçen hafta geçtiğim fikrin neredeyse aynısı, sadece ikon değişmiş",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Mağazada bu işi yapan yüzlerce app var, arama sonuçları tıka basa dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Ekranlar 2015'ten kalma gibi, yıllardır güncellenmemiş ve bulanık görünüyor",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Bu app'in benim mesleğimle ya da hedef kitlemle hiçbir ilgisi yok",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu telif gerekçesiyle reddeder, marka adı bariz kullanılmış",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Fikir çok sıradan, heyecan vermiyor, üzerinde çalışmak istemem",
+   "label": "Sıkıcı fikir",
+   "split": "train"
   }
  ],
  "kind": [

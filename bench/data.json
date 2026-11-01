@@ -47711,6 +47711,36 @@
    "app": "Checklist app for organizing a moving-day packing list by room.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Interprets your blood test results and tells you which prescription drug to start.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates concrete mix and rebar spacing for a load-bearing wall with stamped approval.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Drafts a legally binding will from your answers and files it for you.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Daily habit tracker with streaks and gentle reminders.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Unit converter for cooking measurements like cups, grams and ounces.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Study timer using the Pomodoro technique with focus statistics.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [

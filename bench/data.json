@@ -45272,6 +45272,170 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "chiropractic ethics ca",
+   "apps": [
+    {
+     "name": "Chiropractic Ethics CA",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 4,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Ethics CA was created from students who went through the exam themselves!\n\nNew Questions - Very Sim"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "max sound booster: boost music",
+   "apps": [
+    {
+     "name": "Higher Volume: Louder Boost",
+     "dev": "悦 车",
+     "ratings": 3767,
+     "desc": "Are you tired of struggling with low-quality audio or finding yourself constantly adjusting the volume to hear clearly? Look no further – Higher Volume is here to amplify your sound to new heights.\n\nW"
+    },
+    {
+     "name": "Bass Booster Volume Power Amp",
+     "dev": "App Rover",
+     "ratings": 18321,
+     "desc": "Bass Booster will amplify your bass at a maximum and provide you with a better sound quality wherever you are! Play your music from your iTunes library and adjust the sound to your headset or speakers"
+    },
+    {
+     "name": "Bass Booster Volume Boost EQ",
+     "dev": "Companjen Apps B.V.",
+     "ratings": 19068,
+     "desc": "Bass Booster is the best all-in-one Music Player app that gives you full control to improve the sound quality. Stream, download from the cloud or listen to radio. Boost the bass and improve the overal"
+    },
+    {
+     "name": "Volume Booster - EQ Amplifier",
+     "dev": "Nguye Thi Hien",
+     "ratings": 7333,
+     "desc": "Volume booster is a simple, small but powerful app to boost volume of your phone and tablet to extra volume. Useful for movies, audio books, music and games.\nVolume booster can increase volume of all "
+    },
+    {
+     "name": "Volume Booster – Sound Booster",
+     "dev": "Bung Bien Vu",
+     "ratings": 174,
+     "desc": "Enjoy a clean and powerful audio experience designed for effortless control.\n\nEasily connect to your favorite Bluetooth speakers or headphones and fine-tune your sound with built-in volume, EQ, and ba"
+    },
+    {
+     "name": "Volume Booster Bass Booster",
+     "dev": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+     "ratings": 25470,
+     "desc": "Is your phone volume just not cutting it? Transform your listening experience with Volume Booster, the ultimate sound booster designed to unleash your device's true audio potential! Say goodbye to muf"
+    },
+    {
+     "name": "Bass Booster EQ + Volume Boost",
+     "dev": "Plane Cubes",
+     "ratings": 19612,
+     "desc": "Δ Deep Bass Booster + Powerful Volume Amplifier x10\nΔ Full Range Equalizer & Custom presets\nΔ Access your Music anywhere. Connect your library. Download & Listen Offline and in the Background\n\n\"Your M"
+    },
+    {
+     "name": "Volume Boost: Louder Sound MAX",
+     "dev": "Vijaybhai Chotaliya",
+     "ratings": 0,
+     "desc": "Volume Boost: Louder Sound MAX delivers exceptional sound clarity, helping you achieve higher volume and optimize quality effortlessly.\n\nCustomize your audio with advanced Music settings and enjoy imp"
+    },
+    {
+     "name": "AmpMe – Speaker & Music Sync",
+     "dev": "Amp Me inc",
+     "ratings": 53793,
+     "desc": "AmpMe™ is the record breaking #1 iPhone music syncing app that boosts the sound of your music by syncing it with all of your friends’ phones, bluetooth and speakers!\n\nOver 288 Million users already us"
+    },
+    {
+     "name": "Volume Boost – Sound Amplifier",
+     "dev": "Evgenia Pervushina",
+     "ratings": 3691,
+     "desc": "Use the power of your smartphone and latest technologies for maximum sound amplification. Increase the volume and improve the sounds around you. App helps you to improve your sound perception. The app"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

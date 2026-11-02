@@ -37649,6 +37649,646 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "geology: carve daily",
+   "top": [
+    {
+     "name": "Geology: Carve Daily",
+     "dev": "Area Studios, LLC",
+     "ratings": 0,
+     "desc": "Geology is a daily accountability app built on one idea: big things are not\nachieved, they are carved. A little every day, layer over layer, until the\ncross-section of your effort looks like rock stra"
+    },
+    {
+     "name": "Carve The Pencil",
+     "dev": "ZPLAY (HK) TECHNOLOGY CO., LIMITED",
+     "ratings": 11602,
+     "desc": "Welcome to Carve the Pencil, the ultimate mobile casual game that will unleash your creativity and test your precision! Get ready to embark on a unique artistic journey that blends the joy of carving "
+    },
+    {
+     "name": "Rockd",
+     "dev": "University of Wisconsin-Madison Shared Apps",
+     "ratings": 187,
+     "desc": "Explore, learn about, and document your geologic surroundings! Whether you are a professional geoscientist or curious about the rocks around you and the stories they tell, Rockd allows you to explore "
+    },
+    {
+     "name": "Stone Identifier - Rock Finder",
+     "dev": "App Holdings",
+     "ratings": 1543,
+     "desc": "Have you encountered a rock and you don’t know what it is? Maybe you want to learn more about it, minerals or any crystal? Rock Seeker is the ultimate app to help you identify and study more about tho"
+    },
+    {
+     "name": "Backseat Geologist",
+     "dev": "Blake Morgan",
+     "ratings": 76,
+     "desc": "Ever wanted a geologist to ride along and explain what's outside your window? \n\nBeing a geologist myself, I went on vacation and wished I had someone to read geologic map descriptions as we drove acro"
+    },
+    {
+     "name": "Geology — dictionary",
+     "dev": "AppCrab",
+     "ratings": 1,
+     "desc": "Are your geology exam at the corner? Then our app is just for you!\n\n\"Geology\" is your personal helper that provides you with all information required. Can you just imagine that with the help of one mo"
+    },
+    {
+     "name": "Digger's Map: Find Minerals",
+     "dev": "Slava Barouline",
+     "ratings": 507,
+     "desc": "# Interested in geology and minerals? Would like to know where gold, silver and gemstone mines are?\n# Our unique app offers a massive global database with more than 300,000 locations and 60+ minerals!"
+    },
+    {
+     "name": "Flyover Country",
+     "dev": "Flyover Country LLC",
+     "ratings": 313,
+     "desc": "Track your flight with GPS - discover information about the world below and clouds above with offline maps and points of interest. Identify what you're seeing with 3D maps, or point your camera to vie"
+    },
+    {
+     "name": "Geology Toolkit: Field Guide",
+     "dev": "Laurence Wayne",
+     "ratings": 28,
+     "desc": "Geology Toolkit uses AI to identify rocks and minerals, explain formations and create labelled pencil sketches all from a photo, then tells you the story behind them - how they formed, what they're ma"
+    },
+    {
+     "name": "EarthViewer",
+     "dev": "Howard Hughes Medical Institute",
+     "ratings": 107,
+     "desc": "What did Earth’s continents and oceans look like 250 million years ago, or even 1 billion years ago? What do we know about the climate back when our planet formed? How has sea level changed since the "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "orient express sailing journey",
+   "top": [
+    {
+     "name": "Orient Express Sailing Journey",
+     "dev": "Orient Express Sailing Yachts",
+     "ratings": 0,
+     "desc": "Plan and enjoy every moment of your voyage with the Orient Express Sailing Journey application accessible only once connected to the yacht’s Wi‑Fi portal.\nOrient Express Sailing Journey brings togethe"
+    },
+    {
+     "name": "Holland America Line Navigator",
+     "dev": "Holland America Line Inc",
+     "ratings": 37237,
+     "desc": "Log in with your Hollandamerica.com account and get access to your current profile and information, and all of your past or upcoming bookings.\n\nBefore your cruise, you can review all the services avai"
+    },
+    {
+     "name": "NYC Ferry",
+     "dev": "Hornblower Cruises & Events",
+     "ratings": 54255,
+     "desc": "Commuting made comfortable with NYC Ferry. Come see just how easy (and enjoyable) your journey can be.\n\n \n\nHere are 5 great things you can expect from the NYC Ferry app:\n\n   Help NYC “go green” with p"
+    },
+    {
+     "name": "NY Waterway",
+     "dev": "Bytemark, Inc.",
+     "ratings": 10935,
+     "desc": "Your Phone Is Your Ticket.\n\nThis app allows users to purchase NY Waterway tickets paper-free from any location and use their phone as a ticket. All personal information and payments are transmitted en"
+    },
+    {
+     "name": "myAmaCruise",
+     "dev": "AmaWaterways, LLC",
+     "ratings": 32194,
+     "desc": "The myAmaCruise mobile app is packed full of features specifically designed to enhance your river cruise experience.\n\nAccess a live cruise tracking map showing your cruising route, the location of you"
+    },
+    {
+     "name": "Celebrity Cruises",
+     "dev": "Royal Caribbean Cruises Ltd.",
+     "ratings": 309526,
+     "desc": "Celebrity Cruises delivers an elevated premium vacation experience across our fleet of ships traveling to nearly 300 destinations across more than 70 countries spanning all seven continents, and the C"
+    },
+    {
+     "name": "TravelBoast: My Journey Routes",
+     "dev": "ALEXSANDR KUZNETSOV",
+     "ratings": 2133,
+     "desc": "Do you like to travel and do you have Instagram? Excellent! This app will help you to create awesome posts and stories about your travels for your Instagram profile!\n\nIt's really simple. Choose transp"
+    },
+    {
+     "name": "Viking Voyager",
+     "dev": "Viking Cruises",
+     "ratings": 3756,
+     "desc": "At Viking®, we believe in offering you extraordinarily well-designed cruises and digital experiences that bring you closer to the cultures of the world.\n\nEnhance your onboard experience with our mobil"
+    },
+    {
+     "name": "Princess Cruises",
+     "dev": "Global Experience Innovators",
+     "ratings": 3525,
+     "desc": "The Princess Cruises app is your vacation guide and key to planning and unlocking experiences onboard. \n\nBefore you arrive, use this app to:\n- Save time at the port by checking in and providing requir"
+    },
+    {
+     "name": "SailTies: Logbook GPS Tracking",
+     "dev": "Sail Ties Ltd",
+     "ratings": 379,
+     "desc": "SailTies: Track and Connect on Your Sailing Adventures\n\nJoin thousands of sailing enthusiasts who choose SailTies as their trusted sailing companion. With a digital logbook that makes logging every mi"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "forklift mania",
+   "top": [
+    {
+     "name": "Forklift Mania",
+     "dev": "Emre Beyoglu",
+     "ratings": 0,
+     "desc": "Take control of a powerful forklift and navigate through vibrant warehouses filled with colorful boxes. Challenge your brain, test your precision, and master the art of box stacking in this fun and ad"
+    },
+    {
+     "name": "Forklift Extreme Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 307,
+     "desc": "Drive powerful forklifts and master warehouse logistics in one of the most advanced forklift simulators on mobile.\n\nTransport cargo, upgrade machines and manage warehouse operations across detailed in"
+    },
+    {
+     "name": "Forklift Simulator 2021",
+     "dev": "Sacaci Florin",
+     "ratings": 13,
+     "desc": "Forklift is a useful and powerful industrial truck used to lift and move materials over short distances, which is also called lift truck, fork truck, fork hoist and forklift truck. Forklifts have beco"
+    },
+    {
+     "name": "Grand Forklift Simulator",
+     "dev": "AtomWork",
+     "ratings": 20,
+     "desc": "Grand Forklift Simulator\n\nCharacteristics:\n\n- Realistic physics.\n- Different types of Forklift.\n- Random levels.\n- Detailed scenarios.\n- Many types of loads."
+    },
+    {
+     "name": "Forklift Simulator 2024",
+     "dev": "Sinan Seker",
+     "ratings": 4,
+     "desc": "The most realistic Forklift Game ever! Insane graphics, useful controls, new mods...  Carry the materials, Pass the cranes, Follow the trucks! Help the constructions and complate levels!\n\nFeatures:\n\n-"
+    },
+    {
+     "name": "Forklift Truck Simulator 2024",
+     "dev": "Frigate Games",
+     "ratings": 156,
+     "desc": "Welcome to the Forklift Truck Transport Simulator, Load the goods into various vehicles like Trucks, Ships, Trains and more. Play as a forklift truck driver and complete the task of loading the goods "
+    },
+    {
+     "name": "Forklift Rush Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 203,
+     "desc": "Take control of powerful forklifts and become the ultimate warehouse operator in Forklift Rush Simulator — a realistic forklift driving game where precision, skill and speed matter.\n\nLoad pallets, mov"
+    },
+    {
+     "name": "Forklift Certified Pro",
+     "dev": "Flat Earth LLC",
+     "ratings": 9,
+     "desc": "Get OSHA-aligned forklift operator training and your certificate — right from your phone. Train at your own pace, pass the final exam, and download your certificate the same day.\n\nForklift Certified i"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "southeast alaska birding trail",
+   "top": [
+    {
+     "name": "Southeast Alaska Birding Trail",
+     "dev": "National Audubon Society",
+     "ratings": 1,
+     "desc": "The Southeast Alaska Birding Trail is a curated list of nearly 200 sites and 18 communities across the Alaska panhandle where visitors can see diverse species, landscapes, and ecosystems. The Southeas"
+    },
+    {
+     "name": "The Alaska App",
+     "dev": "Alaska.org",
+     "ratings": 50,
+     "desc": "Official Mobile Guide to Alaska's Best Places\nPowered by Alaska.org, The Alaska App is your ultimate interactive Alaskan discovery guide -- whether you’re planning your first trip to Alaska or live he"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "Colorado Trail Explorer",
+     "dev": "State of Colorado Governor's Office of Information Technology",
+     "ratings": 253,
+     "desc": "Discover and explore Colorado’s unique trail experiences with the Colorado Trail Explorer. Available for free, COTREX offers the most comprehensive trail map available for the state and is built atop "
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "Gaia GPS: Mobile Trail Maps",
+     "dev": "TrailBehind",
+     "ratings": 32239,
+     "desc": "Welcome the warm weather with the ultimate collection of hiking trails and camping sites around you – Gaia GPS. Find amazing adventures with topographic maps while spending less time looking at your p"
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "Hiking Project",
+     "dev": "Adventure Projects Inc.",
+     "ratings": 1976,
+     "desc": "Hiking Project is your comprehensive guide to the best hikes near you, wherever you are.\n\nWith the thoroughness of a printed map, we offer full GPS route info, elevation profiles, interactive features"
+    },
+    {
+     "name": "Alaska Pocket Maps",
+     "dev": "Alex Gugel",
+     "ratings": 105,
+     "desc": "Be prepared! Plan your next trip to one of the great Alaska parks. Download maps and guides before you venture into the Wi-Fi free wilderness.\n\nDiscover\n\n- 60+ national parks, state parks, monuments, "
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "dog grooming cure",
+   "top": [
+    {
+     "name": "Dog Grooming Cure",
+     "dev": "ALLIED SYSTEM CO.,LTD.",
+     "ratings": 0,
+     "desc": "■ アプリでいつでも予約ができます。\n希望スタッフのスケジュールを確認して、いつでもどこでも手軽にサロン予約。\n\n■ マイサロン・マイページ機能\nよく利用するサロンをマイサロンに登録。\n予約状況や店舗情報を手軽にチェック。\nマイページでは、来店履歴や予約内容の確認も行なえます。"
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "Pawsh: Book Dog Groomers",
+     "dev": "Pawsh Inc",
+     "ratings": 296,
+     "desc": "Pawsh is the #1 pet grooming app. Get trusted pet care in your home.\n\nFinding a trusted dog groomer can be tough, but Pawsh makes it easy. When you book with us, Pawsh checks all of your pet's records"
+    },
+    {
+     "name": "Scenthound",
+     "dev": "Scenthound Franchising, LLC",
+     "ratings": 136,
+     "desc": "Love a clean, healthy dog®\n\nGetting your pup the routine care they need to stay clean and healthy is easier than ever! With the Scenthound mobile app you'll be able to book ahead of time at your prefe"
+    },
+    {
+     "name": "PawChamp－Dog & Puppy Training",
+     "dev": "FONTADELLA LIMITED",
+     "ratings": 15974,
+     "desc": "Looking for a better way to train your dog?\n\nPawChamp is a personalized dog training app trusted by 1,000,000+ dog parents worldwide. Developed with certified dog trainers, behaviorists, and canine ex"
+    },
+    {
+     "name": "Woof Gang Bakery and Grooming",
+     "dev": "FranPOS Inc.",
+     "ratings": 10,
+     "desc": "At Woof Gang Bakery & Grooming, we believe every dog deserves to be pampered with care, love, and trust. Now, managing your pup’s grooming experience is easier than ever—with the official Woof Gang do"
+    },
+    {
+     "name": "DaySmart Pet Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 1096,
+     "desc": "DaySmart Pet, formerly 123Pet, is an easy to use groomer appointment scheduling app for pet grooming business owners, employees, and independent contractors that lets you manage your grooming business"
+    },
+    {
+     "name": "DapperTails Mobile Grooming",
+     "dev": "The Ruff Life Mobile Grooming",
+     "ratings": 12,
+     "desc": "An app that connects pet parents with premium pet grooming facilities.\n\n- Instant Booking: Effortlessly schedule appointments with top-notch pet grooming facilities.\n- Manage Easily: Track your past a"
+    },
+    {
+     "name": "Dogtopia",
+     "dev": "Dogtopia Enterprises, LLC",
+     "ratings": 559,
+     "desc": "Book your dog for daycare, overnight boarding, and spa appointments at their favorite home away from home. With the Dogtopia app, you can create a profile to request appointments, watch your pup play "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "bartender jobs",
+   "top": [
+    {
+     "name": "Instawork: Work when you want",
+     "dev": "Instawork",
+     "ratings": 100965,
+     "desc": "Find shift-based work that fits your schedule. Search job postings by local businesses who use Instawork to fill short-term and long-term staffing needs. Set your own schedule and see exactly how much"
+    },
+    {
+     "name": "Bartinder",
+     "dev": "Bartinder LLC",
+     "ratings": 10,
+     "desc": "Are you a bartender?  Say goodbye to limited hours and small checks.  Use our platform to find local bartending opportunities that fit around your schedule! Promote yourself with a simple profile and "
+    },
+    {
+     "name": "Seasoned: Jobs & Community",
+     "dev": "Seasoned, LLC",
+     "ratings": 4236,
+     "desc": "Book interviews instantly and chat with recruiters in real time. Simple, direct, and designed to get you hired.\n\nLooking for a job at a bar, restaurant, or anywhere else in the service industry? Get h"
+    },
+    {
+     "name": "Qwick for Professionals",
+     "dev": "Qwick, Inc.",
+     "ratings": 18269,
+     "desc": "Qwick matches hospitality professionals with flexible shifts and future opportunities — all in one easy-to-use app. Whether you’re a seasoned pro or at the early stages of your hospitality career, Qwi"
+    },
+    {
+     "name": "Poached Jobs",
+     "dev": "Poached Jobs Inc.",
+     "ratings": 6783,
+     "desc": "Poached Jobs empowers service industry professionals to take control of their careers and find their next best job in the restaurant industry. \n\nWith Poached Jobs, hospitality professionals connect wi"
+    },
+    {
+     "name": "SHIFT Bartender Community",
+     "dev": "Maksim Tiupin",
+     "ratings": 0,
+     "desc": "SHIFT Bartender Community is a platform built for working bartenders, bar owners, and hospitality professionals around the world.\n\nWe bring education, events, and industry networking into one app — ma"
+    },
+    {
+     "name": "Snagajob - Jobs Hiring Now",
+     "dev": "SnagAJob.com",
+     "ratings": 139247,
+     "desc": "Snagajob is the #1 free, easy job finder app to find part-time jobs and full-time jobs, make job applications easier, get great career advice and more. Great for students, teens or anyone who needs fl"
+    },
+    {
+     "name": "Indeed Flex - Job Search",
+     "dev": "Indeed Flex",
+     "ratings": 7541,
+     "desc": "Find flexible hourly work near you — and book a shift today.\n\nIndeed Flex is the app for temporary jobs, gig work, and part-time shifts that fit around your life. See the pay before you accept, book i"
+    },
+    {
+     "name": "GigSmart Get Gigs",
+     "dev": "GigSmart Inc",
+     "ratings": 11873,
+     "desc": "Download the GigSmart Get Gigs app and unlock the power of working on your own terms while maximizing your earning potential.\n\nGet Gigs gives you the freedom and control to find the best work opportun"
+    },
+    {
+     "name": "Shiftsmart - Find Work",
+     "dev": "Shiftsmart",
+     "ratings": 60503,
+     "desc": "\"With Shiftsmart, find flexible, convenient work that fits your schedule across a wide variety of industries such as retail, convenience, and hospitality.\n\nWhether you're ready to leave the 9-to-5 gri"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "scuba games",
+   "top": [
+    {
+     "name": "Shark Survival 3D Scuba Diving",
+     "dev": "Zahid Mahmood",
+     "ratings": 24,
+     "desc": "Explore coral reefs, deep caves, and ancient shipwrecks in a thrilling scuba diving adventure.\nSearch for gold coins, treasure chests, and rare underwater artifacts while surviving Angry sharks and gi"
+    },
+    {
+     "name": "Submarine Jump!",
+     "dev": "Kwalee Ltd",
+     "ratings": 41996,
+     "desc": "Gain speed and jump out of the water, into the skies!\n\nTap to rotate your submarine to do as many flips as possible, collecting coins to upgrade your vessel. Dive deep into the ocean, exploring the wo"
+    },
+    {
+     "name": "Shoal of fish",
+     "dev": "Coco Play",
+     "ratings": 18360,
+     "desc": "Start fishing!\nGo fish for food while swimming in a shoal of fish.\nYou know shark games, but this one is way deeper. Swim in the shoal of fish and catch all the fish you can think of.\nTake control as "
+    },
+    {
+     "name": "Ocean Survival RPG: Deep Dive",
+     "dev": "Vladimir Shenkel",
+     "ratings": 29,
+     "desc": "In this immersive underwater survival RGP simulator, you find themselves stranded on an unknown ocean, faced with the daunting task of escaping its treacherous depths. As you embark on this gripping a"
+    },
+    {
+     "name": "Hunter underwater spearfishing",
+     "dev": "Oleg Sandalov",
+     "ratings": 1,
+     "desc": "Super realistic 3D underwater hunting specifically for smartphones and tablets! Endless underwater world in HD quality: lakes, seas and oceans are now at your disposal! More than 30 species of fish an"
+    },
+    {
+     "name": "Flip Diving",
+     "dev": "MotionVolt Games Oy",
+     "ratings": 138104,
+     "desc": "• The World's #1 cliff diving game - now on your mobile! •\n\nPull off Frontflips, Backflips & Gainers from high cliffs, rickety platforms, trees, castles, and trampolines! Choose from a wide range of d"
+    },
+    {
+     "name": "Shark Ocean Hunting : Survival",
+     "dev": "Hafiz Muhammad Sajid",
+     "ratings": 1776,
+     "desc": "Dive into the ultimate ocean action experience! Whether you defend the seas as an \nelite sniper hunter or rule the underwater depths as a giant apex predator, \nexperience the thrill of deep-sea combat"
+    },
+    {
+     "name": "Underwater Stealth Spy Game",
+     "dev": "Ahmad Jalil Qarshi",
+     "ratings": 30,
+     "desc": "Play role of a spy who got intel for enemy hidden laboratory under deep sea. They are controlling sharks to save their facility, use harpoon gun and shoot hunt wild sharks and guards around the underw"
+    },
+    {
+     "name": "Scuba Diving Challenge",
+     "dev": "Magnin & Associates",
+     "ratings": 1,
+     "desc": "Enjoy the thrill of scuba diving on your iPhone or iPad.  \n\nUse intuitive thumb controls to easily steer and search underwater through 4 progressively more difficult levels.\n\n   Level 1 - find for can"
+    },
+    {
+     "name": "Diving Simulator 2020",
+     "dev": "Ilia Stepanov",
+     "ratings": 1399,
+     "desc": "FIRST DIVING SIM FOR MOBILE\nGame is completely free!\n\nImmerse yourself in the underwater world of our planet.\nExplore reefs and sunken ships.\nSee amazing marine life.\n\nThis version include 3 diving si"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "ccht dialysis technician exam",
+   "top": [
+    {
+     "name": "CCHT Test Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 104,
+     "desc": "Help you prepare for the NNCC CCHT exam, and pass it on your first attempt at the actual exam! Use the mobile app CCHT Test Prep 2026 developed by our exam experts to help prepare for the exam and boo"
+    },
+    {
+     "name": "CCHT Exam Prep 2026",
+     "dev": "Edu Prep",
+     "ratings": 23,
+     "desc": "Helping you pass your NNCC CCHT certification exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first t"
+    },
+    {
+     "name": "CCHT",
+     "dev": "MastrAPI",
+     "ratings": 125,
+     "desc": "Pass your CCHT (Certified Clinical Hemodialysis Technician) exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current"
+    },
+    {
+     "name": "CCHT TEST PREP 2026 - 2027",
+     "dev": "Tripviler Co., Ltd.",
+     "ratings": 2,
+     "desc": "Pass the CCHT exam on your first try — join 12,400+ hemodialysis technicians who prepared with our app and passed with confidence.\n\nStop guessing. Start mastering. CCHT Exam gives you everything you n"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "CCHT NNCC Exam Test Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 73,
+     "desc": "Are you ready to achieve your dream of becoming Certified Clinical Hemodialysis Technician? Prepare with confidence using our CCHT NNCC Exam Test Prep 2026 app, your comprehensive study companion for "
+    },
+    {
+     "name": "CCHT Prep: Dialysis Tech",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into your CCHT exam ready. CCHT Prep gives you 1,110 practice questions with a clear explanation for every single answer, so you don't just memorize the right choice - you understand the hemodial"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "VTNE Exam Prep Vet Tech Test",
+     "dev": "Best Fun Games",
+     "ratings": 1183,
+     "desc": "Pass your Veterinary Technician National Examination (VTNE) exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,500+ ques"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written b"
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "optometry admission test",
+   "top": [
+    {
+     "name": "Optometry Admission Test",
+     "dev": "Cram Cards",
+     "ratings": 2,
+     "desc": "Optometry Admission Test (OAT) Preparation made beautifully: Accessible. Convenient. Affordable. Powerful. Newly Released OAT Practice Tests & Questions.\n\nHere's how you'll benefit with this app and s"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "OAT Prep: Optometry Admission",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "OAT Prep: Optometry Admission is a complete offline question bank and practice test app for the Optometry Admission Test, with 2,315 original questions and 9 original science reading passages written "
+    },
+    {
+     "name": "OAT Optometry Test Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 1,
+     "desc": "Prepare for the OAT with Our Comprehensive OAT Optometry Test Prep 2026 App!\nOAT Optometry Test Prep 2026 is designed to help candidates prepare for the Optometry Admission Test (OAT). This standardiz"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "Virtual Vision Test",
+     "dev": "Warby Parker Inc",
+     "ratings": 18999,
+     "desc": "Still seeing well out of your current glasses or contacts prescription, but now it's expired? Virtual Vision Test by Warby Parker lets you renew it from home in 10 minutes using just your phone! And i"
+    },
+    {
+     "name": "MCAT Prep Mastery | Test 2022",
+     "dev": "Higher Learning Technologies",
+     "ratings": 639,
+     "desc": "Study smarter, not harder, using the MCAT Mastery app. Be prepared and boost your confidence for the Medical School Admission Test!\n\nStudy on the go and ACE the MCAT Exam! MCAT Mastery is a high-quali"
+    },
+    {
+     "name": "OAT Optometry Admission Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Optometry Admission Test Exam Prep 2026 helps you pass with 2060+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 2060+ practice questions with detailed answer explanations\n- "
+    },
+    {
+     "name": "MCAT Prep by MedSchoolCoach",
+     "dev": "MedSchoolCoach",
+     "ratings": 1175,
+     "desc": "*** 1000 5-Star Reviews! *** - A Complete MCAT® Study Solution in Your Pocket\n\nBoost your knowledge & confidence and reduce anxiety before your MCAT® exam. Get our MCAT® prep app & access hundreds of "
+    },
+    {
+     "name": "CrackDAT Dental Admission Test",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 88,
+     "desc": "Getting into dental school is one of the hardest things you'll ever do.\n\nThe DAT (Dental Admission Test) stands between you and your DDS. The competition is real. And most students are not as prepared"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "personal trainer app for fitness trainers",
+   "top": [
+    {
+     "name": "Fitness App (ABC Trainerize)",
+     "dev": "Trainerize.com",
+     "ratings": 68325,
+     "desc": "ABC Trainerize is the all-in-one coaching software for personal trainers, online coaches, gyms, and fitness studios. Build workout programs, deliver nutrition coaching, message clients, track progress"
+    },
+    {
+     "name": "Fitbod: Gym & Fitness Planner",
+     "dev": "Fitbod Inc.",
+     "ratings": 286506,
+     "desc": "*Apple Editor’s Choice Award Winner*\n\n\nBuild muscle, gain strength and lose weight with a customized workout plan just for you. Fitbod is the ultimate fitness platform made to help enhance your streng"
+    },
+    {
+     "name": "Trainerfu For Personal Trainer",
+     "dev": "Manobal Jain",
+     "ratings": 3207,
+     "desc": "If you are a personal fitness trainer and looking for an online personal training app that can help you to train and manage all of your clients in one single place then you are at the right place. Wel"
+    },
+    {
+     "name": "LADDER Strength Training Plans",
+     "dev": "Ladder Technologies, Inc.",
+     "ratings": 204061,
+     "desc": "Try Ladder COMPLETELY FREE for 7 days. NO PAYMENT collected during trial.\n\nLADDER IS THE #1 APP FOR STRENGTH TRAINING\nApple's 2025 App of the Year Finalist\nApple's Editors Choice Award\nWomen's Health "
+    },
+    {
+     "name": "Everfit - Train smart",
+     "dev": "Everfit Technologies Inc.",
+     "ratings": 2705,
+     "desc": "Everfit is the #1 Fitness Intelligence platform built to connect fitness coaches and clients. Our goal is to help coaches save time, stay organized, streamline daily work, and empower their clients — "
+    },
+    {
+     "name": "TrueCoach",
+     "dev": "TrueCoach, Inc.",
+     "ratings": 35503,
+     "desc": "TrueCoach is the number one platform for coaches and trainers who want to manage more clients with less admin work. Our easy to use workout builder features a 900+ video exercise library, plus the abi"
+    },
+    {
+     "name": "MFIT Personal",
+     "dev": "MFIT PERSONAL APP LTDA",
+     "ratings": 3988,
+     "desc": "MFIT Personal is the best app for personal trainers\n\nEverything you need in one place: anamnesis, physical evaluation, workout prescription, client feedback, and payment collection!\n\nWORK FROM ANYWHER"
+    },
+    {
+     "name": "Playbook - Trainers & Workouts",
+     "dev": "Playbook Technologies Inc",
+     "ratings": 36509,
+     "desc": "Playbook is one of the top fitness apps on the market where you can support your favorite creators directly. THE MAJORITY OF YOUR SUBSCRIPTION GOES DIRECTLY TO THE PEOPLE CREATING THE WORKOUTS AND CLA"
+    },
+    {
+     "name": "Gymverse: Gym Workout Planner",
+     "dev": "FITNESS22 LTD",
+     "ratings": 165208,
+     "desc": "Gymverse acts as your personal trainer, building a fully managed, multi-week training plan tailored to your goals, schedule, and equipment. Set your goals, track every milestone, and celebrate every p"
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

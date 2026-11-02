@@ -49341,6 +49341,42 @@
    "hi": "paramedic drug dose reference",
    "lo": "meme generator",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "ultrasound registry ARDMS SPI exam flashcards",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "HVAC EPA 608 certification practice test",
+   "lo": "cat sounds",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental hygiene NBDHE board exam prep",
+   "lo": "free ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "CDL pre-trip inspection checklist for truck drivers",
+   "lo": "wallpaper maker",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "refrigerant pressure temperature chart lookup",
+   "lo": "multiplayer battle royale game",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "wire gauge ampacity lookup table",
+   "lo": "video editing suite like premiere",
+   "split": "train"
   }
  ],
  "note": [

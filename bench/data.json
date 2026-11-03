@@ -40973,6 +40973,524 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "machinist tool",
+   "top": [
+    {
+     "name": "Machinist Tool",
+     "dev": "Allied Machine & Engineering Corp.",
+     "ratings": 6,
+     "desc": "The Machinist Tool from Allied Machine & Engineering provides numerous tools and resources to assist machinists and engineers with their holemaking and finishing applications. Quickly convert cutting "
+    },
+    {
+     "name": "The Phillips Machinist",
+     "dev": "Phillips Corporation",
+     "ratings": 393,
+     "desc": "The Phillips Machinist is your personalized digital manufacturing assistant, with quick access to essential machine codes and calculators, direct contact with Phillips engineers, and practical resourc"
+    },
+    {
+     "name": "CNC Machinist Calculator Ultra",
+     "dev": "Shane Anderson",
+     "ratings": 26,
+     "desc": "Unlock the full potential of your CNC machining operations with CNC Machinist Calculator Ultra, the premier tool designed for machinists, engineers, and anyone involved in machining processes. \n\nWith "
+    },
+    {
+     "name": "FSWizard",
+     "dev": "Eldar Gerfanov",
+     "ratings": 47,
+     "desc": "CNC Milling and Turning Speed and Feed Calculator (Wizard)\nAbsolutely the best CNC machinist speed and feed calculator around.\nCalculate cutting conditions simply by choosing your work and tool materi"
+    },
+    {
+     "name": "CNC Machinist Calculator Pro",
+     "dev": "Shane Anderson",
+     "ratings": 678,
+     "desc": "CNC Machinist Calculator Pro is a machining calculator designed for manufacturing engineers, machinists, CNC operators, tool & die makers, and at home hobbyists. CNC Machinist Calculator Pro is great "
+    },
+    {
+     "name": "ThreadKing",
+     "dev": "Motionics LLC",
+     "ratings": 13,
+     "desc": "ThreadKing is the ultimate reference and calculator for threads. \n\nIt contains all the information for Metric and UN Taps, Fine/Course Threads, Drill/Tap sizes, Pipe Tap sizes, and Thread Dimension. \n"
+    },
+    {
+     "name": "CNC Machinist Calculator",
+     "dev": "Vladislav Zhirnov",
+     "ratings": 1,
+     "desc": "Meet Milling • Drilling • Turning — the pocket‑sized industrial calculator trusted by CNC programmers, tool‑room veterans, and manufacturing engineers worldwide. In under a second, it turns scribbles "
+    },
+    {
+     "name": "Machinist Journeyman",
+     "dev": "smartcalculations",
+     "ratings": 19,
+     "desc": "Machinist Journeyman was just updated with new features to give you the best app possible. You will be amazed by the amount of \"I Use it Everyday\" content in this app.\n\nFeatured in several Trade Publi"
+    },
+    {
+     "name": "Harbor Freight Tools",
+     "dev": "Harbor Freight Tools",
+     "ratings": 233400,
+     "desc": "HARBOR FREIGHT COUPONS\nFind the latest coupons, instant savings, Inside Track Club member deals, and more with the Harbor Freight Tools app.\n \nSHOP\nBrowse the latest tools, watch them in action with o"
+    },
+    {
+     "name": "Tool CutZZ",
+     "dev": "IMC Group",
+     "ratings": 0,
+     "desc": "Tool CutZZ, which stands for TaeguTec application, contains useful information to help metal cutting professionals choose tools that best suit their needs. \nOne of the main features of this applicatio"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "tattoo helper",
+   "top": [
+    {
+     "name": "Tattoo helper",
+     "dev": "泽铭 吕",
+     "ratings": 0,
+     "desc": "Tattoo helper It is an app developed and designed for tattoo artists.You can edit pictures more conveniently, save working time and work more conveniently."
+    },
+    {
+     "name": "Tattoo AI・Ink Design Generator",
+     "dev": "Cosmoshark",
+     "ratings": 1382,
+     "desc": "See exactly how any tattoo would look on you. Create unique designs with AI, browse 9,000+ free tattoos, or upload your own sketches. Try virtual tattoos on your photos or use Augmented Reality for fa"
+    },
+    {
+     "name": "AI Tattoo Generator - INKDNA",
+     "dev": "Meijing Mechanical & Electrical Environmental Protection (Shanghai) Co., Ltd.",
+     "ratings": 5782,
+     "desc": "InkDNA - AI Tattoo Generator \n\nWith the AI Tattoo Generator, you can instantly generate unique tattoo designs and unlock endless tattoo inspiration. You can also share your designs with your friends a"
+    },
+    {
+     "name": "Tattoo AI - Tattoo Design",
+     "dev": "HUBX",
+     "ratings": 51004,
+     "desc": "Tattoo AI: Your Go-To App for Creating Unique Tattoos Effortlessly! Whether you’re a tattoo enthusiast, a first-timer considering getting inked, or a tattoo artist looking for inspiration, Tattoo AI h"
+    },
+    {
+     "name": "INKHUNTER - AI Tattoo Design",
+     "dev": "InkHunter",
+     "ratings": 25002,
+     "desc": "Try on virtual tattoos with AUGMENTED REALITY before it’s inked forever. The app projects any tattoo design on any part of your body so you can see how it will look.\n\n- Try on your own tattoo design, "
+    },
+    {
+     "name": "Tattoo AI: AI Tattoo Generator",
+     "dev": "Connectinno",
+     "ratings": 0,
+     "desc": "Tattoo AI - AI Tattoo Generator\n\nTransform Your Tattoo Experience with Tattoo AI! Tattoo AI is the ultimate AI-powered tattoo generator that lets you create personalized tattoo designs effortlessly. W"
+    },
+    {
+     "name": "AI Tattoo Maker + Generator",
+     "dev": "Heather Townsend",
+     "ratings": 1176,
+     "desc": "Create unique tattoo ideas and explore endless creative possibilities with our app. Turn your concepts into personalized tattoo designs, experiment with different styles, and preview how your future t"
+    },
+    {
+     "name": "Tattoodo: Book Tattoo Artists",
+     "dev": "TATTOODO",
+     "ratings": 7178,
+     "desc": "Find and book your next tattoo artist. Browse verified artists near you, get matched to the right one for your style, and book your appointment — all in one app.\n\n\nDISCOVER AND BOOK TOP TATTOO ARTISTS"
+    },
+    {
+     "name": "Tattoo Maker Hello Blink",
+     "dev": "Shenzhen Yihengke Electronic Technology Co.,Ltd.",
+     "ratings": 12338,
+     "desc": "Let your child's creativity shine! Tattoo Creator lets kids design their own temporary tattoos, print them using a home printer, and apply them safely to their skin."
+    },
+    {
+     "name": "Tattoo Design -Body Art Editor",
+     "dev": "科峰 王",
+     "ratings": 101,
+     "desc": "Tattoo designs add beautiful tattoos on your body virtually without pain!  It provide a virtual tattoo, but it is very realistic.\n\n How to Use\n• Select photos from photo lib or taken by camera\n• Selec"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "barber items",
+   "top": [
+    {
+     "name": "Barber Items",
+     "dev": "Cagri Keles",
+     "ratings": 286,
+     "desc": "The Barber Items app is your online destination for barber supplies and equipment. \n\nFind huge selection of barber supply and equipment that can make your barbershop run more smoothly without breaking"
+    },
+    {
+     "name": "FW Barber Supply",
+     "dev": "District Barber Shop LLC",
+     "ratings": 0,
+     "desc": "Fort Worth Barber Supply — your barber-owned supply store, now in your pocket.\n\nSHOP 2,100+ PRODUCTS\nBrowse professional clippers, trimmers, shavers, blades, styling products, and more from top brands"
+    },
+    {
+     "name": "Barber Chop",
+     "dev": "Lajeune and Associates, LLC",
+     "ratings": 8277,
+     "desc": "Future barbers and stylists enjoy our characters, which represent diverse hairstyles, beauty, and cultures!!\n\nCharacters:\nA total of (28) characters from different background like BIPOC (Black, Indige"
+    },
+    {
+     "name": "theCut: Find & Book Barbers",
+     "dev": "theCut Inc",
+     "ratings": 17763,
+     "desc": "I needed a barber. Fast.\nBig weekend coming up.\nMy barber? Fully booked.\nSo I downloaded theCut.\nWithin minutes, I was scrolling through barbers near me — real photos, real reviews, real work. I could"
+    },
+    {
+     "name": "WB Barber Supply",
+     "dev": "Bowman Beauty & Barber Supply, Inc",
+     "ratings": 372,
+     "desc": "Experience the convenience and quality of WB Barber Supply through our new mobile app. Established in 1939, we have been trusted as a leading provider of professional salon and barber shop essentials."
+    },
+    {
+     "name": "SQUIRE™",
+     "dev": "Squīr Technologies",
+     "ratings": 12581,
+     "desc": "DISCOVER & BOOK THE BEST BARBERS IN YOUR CITY\n\nSQUIRE lets you find, book, and pay for a haircut or shave in a few taps. Our mission is to keep you looking sharp, hassle free.\n\n- Discover skillful bar"
+    },
+    {
+     "name": "Book your barber™",
+     "dev": "9380-4185 Quebec Inc.",
+     "ratings": 247,
+     "desc": "Book Your Barber connects you directly to your favorite barber for an unmatched grooming experience. Designed to transform your device into a personalized gateway to your barber's chair."
+    },
+    {
+     "name": "The Spot™",
+     "dev": "The Spot Classic Barbershop, LLC",
+     "ratings": 1289,
+     "desc": "With the The Spot Barbershop mobile app, booking men’s barber services in the Miami, Florida area is easier than ever!\n\nWith the The Spot Barbershop app you can:\n\n• Browse haircuts, beard trims, and f"
+    },
+    {
+     "name": "Parker's Barber Shop App",
+     "dev": "Parker's Barber Shop LLC",
+     "ratings": 14,
+     "desc": "Parker's Barber Shop is a chain of old school barber shops based in the Philadelphia suburbs. Download our app to book and manage your appointments, buy gift cards, and get the latest news and discoun"
+    },
+    {
+     "name": "Beardsley's Barber Shop",
+     "dev": "Michael Beardsley",
+     "ratings": 10,
+     "desc": "Beardsley's Barber Shop is a family owned and operated barber shop with multiple locations across the US. We strive to give the best fades, flat tops, and hot lather shaves around. Download the offici"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "best farrier",
+   "top": [
+    {
+     "name": "Best Farrier",
+     "dev": "Best Mobile Professional, LLC",
+     "ratings": 10,
+     "desc": "Best Farrier is a scheduling and invoicing app for farriers, built for mobile devices, that helps you run your business efficiently on the go. All your business information is in one place, easily and"
+    },
+    {
+     "name": "EQUINET - Mustad Farrier App",
+     "dev": "Mustad Hoofcare",
+     "ratings": 9,
+     "desc": "EQUINET is an app designed to make every day business management easier for farriers. \n\nApp features:\n1. HORSE & CONTACT LOGS: instant overview of all your contacts and horses in one place.\n\n2. HORSE "
+    },
+    {
+     "name": "American Farrier’s Association",
+     "dev": "American Farrier’s Association",
+     "ratings": 1,
+     "desc": "The American Farrier’s Association app connects you with the most up to date information for members, certification requirements, news and events.  Use the app to connect with members, locate certific"
+    },
+    {
+     "name": "Farrier Fleet",
+     "dev": "Simon Fleet",
+     "ratings": 0,
+     "desc": "Farrier Fleet helps farriers keep clients, horses, appointments, shoeing records, hoof photos, and loadouts organised in one place.\n\nDesigned around the day-to-day needs of working farriers, Farrier F"
+    },
+    {
+     "name": "Anvil Brand App",
+     "dev": "Flight Path Creative LLC",
+     "ratings": 2,
+     "desc": "Anvil Brand products are made and inspected by active farriers who understand the need of our customers. Our quality shoes and tools meet the expectations of special customers, including the Budweiser"
+    },
+    {
+     "name": "The Shoeing Lab",
+     "dev": "MATKIT YAZILIM TEKNOLOJILERI ANONIM SIRKETI",
+     "ratings": 3,
+     "desc": "The Shoeing Lab is a supplier of farrier and horse owner products. We design new innovative products to bring to the market and stock major brands."
+    },
+    {
+     "name": "Hoofproof",
+     "dev": "HoofProof",
+     "ratings": 2,
+     "desc": "Hoofproof is the complete equine management app designed by farriers, for farriers. Built as part of the modern farrier’s toolkit, it provides a simple and reliable way to capture, document, and manag"
+    },
+    {
+     "name": "My Farrier",
+     "dev": "TENTORO TECHNOLOGIES LLC",
+     "ratings": 0,
+     "desc": "A smart platform connecting horse owners with certified farriers for on-demand hoof care, scheduling, and service management."
+    },
+    {
+     "name": "The Farriers App",
+     "dev": "Big Rattle Technologies",
+     "ratings": 8,
+     "desc": "Calendar - Lots of different views 1 day, 5 day, 7 day or a full month. Different color coded appointment types. Standard customer appointment. A Tentative appointment where your customer is not infor"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "orbit welding validation",
+   "top": [
+    {
+     "name": "Orbit Welding Validation",
+     "dev": "Ovalo Quality Group, Inc.",
+     "ratings": 0,
+     "desc": "Orbit Welding Validation is an innovative app designed for professionals across various welding industries to track, validate, and manage production welding efficiently. This powerful tool empowers we"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Welding MMA",
+     "dev": "Aleksei Shiyan",
+     "ratings": 9,
+     "desc": "MMA Welding is a practical reference guide and calculation assistant for manual metal arc welding.\n\nThe app helps quickly select the appropriate welded joint for pipes and sheet metal elements, check "
+    },
+    {
+     "name": "Fabora: Steel & Metal Tools",
+     "dev": "jason bennett",
+     "ratings": 8,
+     "desc": "Fabora puts 27 fabrication and welding tools in one app: steel and metal weight, weld settings and a weld fault finder, a rebar calculator, fixed ladder and ship ladder design, stair stringers, steel "
+    },
+    {
+     "name": "voestalpine Welding Calculator",
+     "dev": "voestalpine AG",
+     "ratings": 0,
+     "desc": "Welding becomes smart – thanks to the voestalpine Welding Calculator (powered by voestalpine Steel Division and Böhler Welding)!\n\nPlan and optimize your welding tasks. Calculate specific manufacturing"
+    },
+    {
+     "name": "CWI Welding Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 12,
+     "desc": "CWI WELDING EXAM PREP: PASS ALL THREE PARTS OF THE AWS CWI EXAM\n\nThe CWI exam has a 30 percent first-attempt pass rate. Most candidates fail because they treat it as a single test. It is three separat"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "ASME IX Welding",
+     "dev": "Austenite Pty Ltd",
+     "ratings": 0,
+     "desc": "ASME-IX Welding: Master the Welding Code\nElevate your welding career with the ASME-IX Welding app. Designed for welding engineers, inspectors, and professionals, this comprehensive tool provides the k"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "trading signal profit",
+   "top": [
+    {
+     "name": "Profit AI - Trading Assistant",
+     "dev": "Valenyr Information Technology Consultants FZCO",
+     "ratings": 3466,
+     "desc": "Tired of guessing the markets? Profit AI helps you trade smarter by analyzing charts in seconds.\n\n\nHow It Works:\n\n- Upload a Chart – Snap a picture or upload any trading chart.\n\n- AI-Powered Analysis "
+    },
+    {
+     "name": "Profit AI trading: Signals bot",
+     "dev": "SwiftSoft",
+     "ratings": 91,
+     "desc": "Profit AI Trading Signal Bot is an advanced AI-powered trading analysis app that delivers chart-based signal suggestions, intelligent technical analysis, and professional interactive charts. Analyze c"
+    },
+    {
+     "name": "Profit AI Trade Signal Scanner",
+     "dev": "Allegro Digital",
+     "ratings": 2,
+     "desc": "Profit AI is the all-in-one AI trading assistant for crypto, stocks, forex, and commodities. Real-time market data, AI-scored signals, and instant chart analysis — all in your pocket.\n\n▸ AI CHART ANAL"
+    },
+    {
+     "name": "AI Trading Signal Profit Chart",
+     "dev": "Alejandro Rodriguez Uson",
+     "ratings": 6,
+     "desc": "Unlock the power of artificial intelligence in trading. AI Trading Signal delivers real-time, data-driven insights to help you make smarter investment decisions.\n\nOur advanced algorithms analyze marke"
+    },
+    {
+     "name": "MetaTrader 4",
+     "dev": "MetaQuotes Software Corp.",
+     "ratings": 81538,
+     "desc": "Connect to hundreds of brokers and trade on currency markets from the MetaTrader 4 for iPhone or iPad!\n\nThe mobile trading platform allows you to perform trading operations and analyze currency quotes"
+    },
+    {
+     "name": "Crypto Chart AI Trading Signal",
+     "dev": "Muhammad Abdul Rauf",
+     "ratings": 0,
+     "desc": "Chart AI Trading Assistant\nGet deeper with ai insights into your trading charts with confidence and clarity and convert it into cash.\n\nWhat the ai crypto trading signal app does\n\nChart AI Trading Assi"
+    },
+    {
+     "name": "Forex Alerts: Trading Signals",
+     "dev": "Maduranga Edirisinghe",
+     "ratings": 74,
+     "desc": "Forex Alerts helps traders follow the FX market with structured trading signal alerts, buy and sell trade ideas, entry levels, stop loss, take profit targets, and visible signal history.\n\nBuilt for tr"
+    },
+    {
+     "name": "NetDania Stock & Forex Trader",
+     "dev": "NetDania SRL",
+     "ratings": 15400,
+     "desc": "The World’s Highest Rated Trading App\n\n-- NOW WITH TRADING IDEAS AND STRATEGIES FROM TRADING CENTRAL --\n\nBitcoin and 20,000+ other financial instruments. Thousands of real-time stocks and indices. Out"
+    },
+    {
+     "name": "Signalbyt: AI Trading Signals",
+     "dev": "Codememory LLC",
+     "ratings": 1,
+     "desc": "Signalbyt: AI Trading Signals – Maximize Profits in Crypto, Forex & Stocks\n\nElevate your trading performance with Signalbyt, your premier companion for conquering the financial markets. Specializing i"
+    },
+    {
+     "name": "Stock Signal: AI Stocks Watch",
+     "dev": "SAGAMILL PTE. LTD.",
+     "ratings": 11626,
+     "desc": "Stop guessing and start trading with precision. Whether you are a day trader or a swing trader, Stock Signal app bridges the gap between raw data and actionable advice. It doesn't just show you the ch"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "ok to wake clock",
+   "top": [
+    {
+     "name": "SpeakToSnooze Alarm Clock HD",
+     "dev": "j labs",
+     "ratings": 1623,
+     "desc": "OVER 1M DOWNLOADS!!!\n ◉ Say “Snooze alarm” to snooze your alarm! \n ◉ Say “Alarm off” to turn off your alarm!\n\nAWARDS\n• #135 Top Free Apps\n• #9 Top Free Utilities\n\nFEATURES\n ◉ Control your alarm clock "
+    },
+    {
+     "name": "Clock - Wake Up Gently",
+     "dev": "NeonApps",
+     "ratings": 411,
+     "desc": "Alarm Clock combines all the functionality you need into one simple, beautiful package for iPhone and iPad.\n\n• Alarm\nSet alarms for specific dates, with options to repeat them and skip days if needed."
+    },
+    {
+     "name": "Alarm Clock - Wake up Music",
+     "dev": "Impala Studios",
+     "ratings": 35764,
+     "desc": "Wake up your way, every day! Set unlimited alarms, choose for Music or Alarm Sounds, and set up your Snooze preferences. Customize your Nightstand by adjusting it to the color you’d like for your cloc"
+    },
+    {
+     "name": "Motion Alarm Clock",
+     "dev": "Jarig Duval",
+     "ratings": 1290,
+     "desc": "Impossible to sleep through! \nImpossible to mute!\nGets you up on time!\n\n***SHAKE TO MAKE IT STOP***\nMotion Alarm Clock doesn't shut up unless you give it a shake. \nNever worry again about unconsciousl"
+    },
+    {
+     "name": "Sleep Time: Cycle Alarm Clock",
+     "dev": "Azumio Inc.",
+     "ratings": 5371,
+     "desc": "Fall asleep, stay asleep, and wake up refreshed!\n\nSleep Time is a complete sleep tracker and smart alarm clock. Place your phone on the bed and Sleep Time analyzes your sleep cycles through the night,"
+    },
+    {
+     "name": "Wayk: Alarm Clock to Wake Up",
+     "dev": "Dialed Labs Inc.",
+     "ratings": 19610,
+     "desc": "Wayk is an alarm clock built to help you actually get out of bed. Instead of tapping snooze and falling back asleep, you wake up with a mission that must be completed before the alarm turns off.\n\nWayk"
+    },
+    {
+     "name": "Alarm Clock ◎",
+     "dev": "RV AppStudios LLC",
+     "ratings": 3465,
+     "desc": "Get a loud wake up sound with smart alarm settings, weather settings, morning missions, math alarms and more, all from this single full-featured alarm clock app!\n\nAlarm Clock is a smart and powerful t"
+    },
+    {
+     "name": "One Touch Alarm Clock",
+     "dev": "HANBUNCO, INC.",
+     "ratings": 10907,
+     "desc": "Set the alarm time in just two seconds.\nThis simple alarm clock app has been designed for maximum ease of use.\n\nSet your favorite music as your alarm and wake up happy!\n\n\nALARM FUNCTIONS:\n\n- Snooze (3"
+    },
+    {
+     "name": "Alarm Clock App: myAlarm Clock",
+     "dev": "AppMind",
+     "ratings": 14811,
+     "desc": "myAlarm has a lot of features that allow you to customize your wake up experience. Sleep better, wake up easier and be always on time!\n\nEASY ALARM CLOCK\nYou can simply choose a ringtone, relax music o"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "chiropractic group operations",
+   "top": [
+    {
+     "name": "Chiropractor - Healthweave",
+     "dev": "Chiropractic Group Operations",
+     "ratings": 1,
+     "desc": "The partner application for all clients and patients of the CGO group. Make bookings with your chiropractor, modify bookings and even shop for essential health products from within our mobile app."
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Zocdoc - Find and book doctors",
+     "dev": "Zocdoc Inc",
+     "ratings": 179947,
+     "desc": "Zocdoc is the leading healthcare app that makes it easy for you to find and book the right doctor. Each month, millions of people use Zocdoc to search for in-network care and instantly book appointmen"
+    },
+    {
+     "name": "PostureScreen Mobile",
+     "dev": "PostureCo, Inc.",
+     "ratings": 1067,
+     "desc": "Attention chiropractors, physical therapists, athletic trainers, massage therapists, trainers and coaches: trade subjective visual impressions for camera-based measurements you can capture in seconds,"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "KIRO: Chiropractic Adjustments",
+     "dev": "Kiro Health, Inc.",
+     "ratings": 25,
+     "desc": "KIRO is New York City’s highest-rated and most advanced chiropractic brand, with modern studios across Manhattan and Brooklyn. We deliver the most affordable and accessible chiropractic care in the U."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

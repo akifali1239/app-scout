@@ -50924,6 +50924,26 @@
    "app": "Emoji keyboard with animated stickers.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "A chat app that tells you which prescription drugs are safe to mix and in what dose.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "A countdown timer for your cooking, with presets for eggs and pasta.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "The app reads your ECG from the phone camera and diagnoses heart arrhythmia.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "A study flashcard deck for the real estate license exam.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -54024,6 +54044,46 @@
   {
    "note": "Gerçek zamanlı video işleme gerekiyor, tek başıma yapamam",
    "label": "Yapması zor",
+   "split": "train"
+  },
+  {
+   "note": "Ekran görüntüleri bulanık, açıklama yarım, app yıllardır bakımsız görünüyor",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Bu nişte zaten 30'dan fazla app var, büyük firmalar da girmiş",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Apple sağlık verisi toplayan app'leri kolay onaylamıyor, ret yerim",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Bu işi ücretsiz web siteleri yapıyor, kimse app'e para vermez",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Uçuş kontrol yazılımı gibi çok karmaşık bir şey, tek başıma bitiremem",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Bu listede aynı kartı üçüncü kez görüyorum, hep aynısı çıkıyor",
+   "label": "Çok benzer",
+   "split": "train"
+  },
+  {
+   "note": "Konu benim uzmanlık alanımın tamamen dışında, ilgim yok",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Çok sıkıcı bir konu, yapmak istemem",
+   "label": "Sıkıcı fikir",
    "split": "train"
   }
  ],

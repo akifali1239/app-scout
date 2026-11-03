@@ -40400,6 +40400,579 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "welding eng. guide",
+   "top": [
+    {
+     "name": "Welding Eng. Guide",
+     "dev": "CANER YAVUZ",
+     "ratings": 0,
+     "desc": "Comprehensive welding engineering reference and calculation app for welding engineers and technicians.\n\nFORMULAS\nHeat input, preheat temperature, carbon equivalent, fillet weld strength and more — wit"
+    },
+    {
+     "name": "Welding Quiz & AWS Study Guide",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 4,
+     "desc": "Master all essential topics Welding with Fun and Engaging Quizzes! \n\nDive into the world of Welding with our comprehensive quiz app, designed to boost your knowledge, confidence, and skills. Whether y"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    },
+    {
+     "name": "Fabora: Steel & Metal Tools",
+     "dev": "jason bennett",
+     "ratings": 8,
+     "desc": "Fabora puts 27 fabrication and welding tools in one app: steel and metal weight, weld settings and a weld fault finder, a rebar calculator, fixed ladder and ship ladder design, stair stringers, steel "
+    },
+    {
+     "name": "Welding MMA",
+     "dev": "Aleksei Shiyan",
+     "ratings": 9,
+     "desc": "MMA Welding is a practical reference guide and calculation assistant for manual metal arc welding.\n\nThe app helps quickly select the appropriate welded joint for pipes and sheet metal elements, check "
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "EXATON Welding Guide",
+     "dev": "ESAB Group Inc",
+     "ratings": 3,
+     "desc": "Welding Handbook from Exaton: a quick, easy and useful in your pocket tool!\n\nFor those working with welding or interested in welding technology, in our Welding Handbook you will find a welding grade s"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "vet tech companion",
+   "top": [
+    {
+     "name": "Vet Tech Companion",
+     "dev": "Juan Silva",
+     "ratings": 0,
+     "desc": "Vet Tech Companion is designed to support veterinary technicians, veterinary nurses, assistants, students, and veterinary teams with fast access to practical clinical references, documentation tools, "
+    },
+    {
+     "name": "Vetpocket",
+     "dev": "Vetpocket LLC",
+     "ratings": 30,
+     "desc": "Vetpocket™ is THE app for veterinary professionals, developed by a veterinarian and based on trusted sources! \n\nIt includes veterinary calculators, reference material, drug dosages, and our medical ma"
+    },
+    {
+     "name": "VETgirl vital™",
+     "dev": "BluePearl Specialty + Emergency Pet Hospital",
+     "ratings": 10,
+     "desc": "Your veterinary learning and community — all in one vital app.\n\nVETgirl vital ™  brings your education, your community, and your daily learning into one seamless experience. Built for the pace of vete"
+    },
+    {
+     "name": "Airvet for Pet Parents",
+     "dev": "airVet, Inc",
+     "ratings": 11130,
+     "desc": "Airvet partners with workplaces to give employees 24/7 on-demand access to virtual vet care, making sure you have easy access to expert care and support for anything that comes your way. Our award-win"
+    },
+    {
+     "name": "Pawp: 24/7 Vet & Pet Care",
+     "dev": "Pawp, Inc.",
+     "ratings": 14860,
+     "desc": "As featured in Forbes, NBC, Money, People, Insider, and Variety, Pawp is a modern vet clinic that puts an expert in your back pocket so you’re never alone when it comes to your pet’s health. Pawp’s pe"
+    },
+    {
+     "name": "Vetster – Online Vets 24/7",
+     "dev": "Vetster Inc.",
+     "ratings": 2794,
+     "desc": "Vetster connects you with trusted veterinarians available 24/7 to provide online care for your pet from the comfort of your own home. Get ongoing care for $10/month or book a single appointment.\n\nDown"
+    },
+    {
+     "name": "Dutch Vet - Online vet 24/7",
+     "dev": "Dutch",
+     "ratings": 706,
+     "desc": "Our licensed vets can treat over 90% of issues virtually. No stress, hassle, or big bill. From sudden illnesses and chronic conditions to prevention and second opinions, we’re here to help your pet be"
+    },
+    {
+     "name": "Roo - Veterinary Relief",
+     "dev": "Roo Veterinary, Inc.",
+     "ratings": 2115,
+     "desc": "Enjoy the largest veterinary relief network on the go with Roo’s free app for Vets, Techs, and hospitals to book shifts wherever you hop! \n\nOver 20,000 Vets and Techs use Roo to find relief shifts tha"
+    },
+    {
+     "name": "Bond Vet",
+     "dev": "Bond Veterinary, Inc",
+     "ratings": 8,
+     "desc": "Bond Vet brings the veterinary clinic into the modern world, elevating it for pets and people alike. With evening/weekend hours, same-day visits, and a seamless tech-enabled experience, we’re always t"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "big year birding gb",
+   "top": [
+    {
+     "name": "Big Year Birding GB",
+     "dev": "PVI Maine LLC",
+     "ratings": 0,
+     "desc": "Big Year Birding - Great Britain offers all birders from novice to expert a fast and easy way to record sightings in the field.\n\nWhether you are doing a Big Year, local Christmas Bird Count or simply "
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "Birdbuddy: ID & Collect Birds",
+     "dev": "Buddy Bird Inc",
+     "ratings": 61868,
+     "desc": "Birdbuddy is the world’s most recognized app for discovering and learning about birds – whether you’re using our smart bird feeder in your backyard or identifying birds anywhere with just your phone.\n"
+    },
+    {
+     "name": "Vico Nature: Smart Nature View",
+     "dev": "PHOTON SAIL TECHNOLOGIES PTE. LTD.",
+     "ratings": 11352,
+     "desc": "Introducing Vico Nature, the smart nature observation app designed to bring moments of calm and discovery right to your fingertips.\n\nWith Vico Nature, effortlessly observe birds visiting your feeder f"
+    },
+    {
+     "name": "COOLFLY：Free Bird ID&Community",
+     "dev": "Coolfly Inc",
+     "ratings": 1539,
+     "desc": "COOLFLY is a global community where bird lovers share the joy of backyard birdwatching with the world.\n\nWith COOLFLY, you can seamlessly manage your bird feeders, capture beautiful photos and videos o"
+    },
+    {
+     "name": "Smart Bird ID: Identify Birds",
+     "dev": "Yellow Cardinal Inc.",
+     "ratings": 16799,
+     "desc": "Identify, Collect and Learn – Free. No Ads. Ever.\n\nSmart Bird ID is the all-in-one bird identifier, bird song identifier, bird call identifier, bird sounds guide, and bird watching app for birders, fa"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "sommelier india",
+   "top": [
+    {
+     "name": "Sommelier India",
+     "dev": "Magzter Inc.",
+     "ratings": 1,
+     "desc": "Sommelier India is India's premier wine magazine. Filled with news, features, wine profiles and stories about the culture surrounding wine, this bi-monthly (six issues in a 12 month subscription) is w"
+    },
+    {
+     "name": "Vinoperte: AI Wine Sommelier",
+     "dev": "EMILY CECILE BUCKLEY-MATURA",
+     "ratings": 99,
+     "desc": "You open the wine list. Eighty names, half in a language you don't read, and the waiter is standing there. So you point at the second-cheapest bottle and hope.\n\nVinoperte ends the guessing.\n\nPhotograp"
+    },
+    {
+     "name": "Pocket Wine Pairing: Sommelier",
+     "dev": "Time Marketing Limited",
+     "ratings": 359,
+     "desc": "Featured as one of the “Best New Apps” on the App Store!\n\nFood and wine pairing has never been so clear, accessible and easy to understand. The app gives you a detailed index of hundreds of meal types"
+    },
+    {
+     "name": "InVintory: Wine Cellar Manager",
+     "dev": "InVintory Wines Incorporated",
+     "ratings": 4822,
+     "desc": "The best wine cellar management app for collectors. Track every bottle with a powerful wine tracker and label scanner, get advice from your built-in AI sommelier, and keep a tasting journal — organize"
+    },
+    {
+     "name": "Total Wine & More",
+     "dev": "Retail Services & Systems, Inc.",
+     "ratings": 120367,
+     "desc": "Take Total Wine & More with you wherever you go! Our new app makes it easy to search our incredible product selections, shop and pickup in store, enjoy special offers and much more. Make your shopping"
+    },
+    {
+     "name": "Wine.com",
+     "dev": "Wine.com, Inc.",
+     "ratings": 84822,
+     "desc": "The #1 Online Wine Store, Wine.com has the largest selection of wine and spirits (liquor) available to order and deliver across the US. With the Wine.com app, wine country is wherever you want it to b"
+    },
+    {
+     "name": "PairIt Wine Sommelier",
+     "dev": "Artificial Apps, LLC",
+     "ratings": 7,
+     "desc": "PairIt is your personalized wine sommelier. Don’t just wing it with your wine choices, let our parrot sommeliers pick out the best wine—from your own wine collection! Can’t remember the tasting notes "
+    },
+    {
+     "name": "Wine Find: Pocket Sommelier",
+     "dev": "Wine Find",
+     "ratings": 28,
+     "desc": "Wine Find is the worlds most advanced wine discovery app. Wine Find is designed to help users through every step of their wine journey: whether they are just getting started, or are a seasoned veteran"
+    },
+    {
+     "name": "Clink - Your Social Sommelier",
+     "dev": "Samuel Warner",
+     "ratings": 4,
+     "desc": "Clink – Your Social Sommelier\n\nStop guessing which wine to buy.\n\nClink helps you discover wines you’ll actually love through personalized recommendations, menu scanning, social sharing, and group wine"
+    },
+    {
+     "name": "Signature Sommelier",
+     "dev": "Preferabli, Inc.",
+     "ratings": 2,
+     "desc": "Signature Kitchen Suite’s Signature Sommelier App helps wine collectors manage their personal collections. The AI-driven app uses Preferabli's patented Preference Intelligence Engine, the first techno"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "scuba fish hawaii",
+   "top": [
+    {
+     "name": "Scuba Fish Hawaii",
+     "dev": "John P. Hoover",
+     "ratings": 18,
+     "desc": "Updated July 2026. Covers 367 fish seen by scuba divers (and all fish seen by snorkelers). Flip through screens like pages of a book or find a fish quickly by color or shape. Up to 5 photos per fish— "
+    },
+    {
+     "name": "Fishbrain - Fishing App",
+     "dev": "FishBrain",
+     "ratings": 74805,
+     "desc": "Fish smarter with Fishbrain! Find new fishing spots, get detailed local info, and connect with a community of more than 20 million anglers. Fishbrain provides you with the maps and tools you need to i"
+    },
+    {
+     "name": "PADI",
+     "dev": "PADI Americas, Inc.",
+     "ratings": 45697,
+     "desc": "The New PADI App\nLearn, log, stay inspired , and book your next adventure\n\n…all in one app.\n\n\n\nLearn Anywhere\nBoth online and offline. \nThe best scuba diving training materials in the world are availa"
+    },
+    {
+     "name": "FishVerify: ID & Regulations",
+     "dev": "FishVerify LLC",
+     "ratings": 2198,
+     "desc": "FishVerify helps users identify hundreds of Freshwater & Saltwater fish with the click of a camera, simultaneously providing local fishing regulations. The app provides up-to-date rules & regulations "
+    },
+    {
+     "name": "Mo' Bettahs",
+     "dev": "Savory MB, LLC",
+     "ratings": 20837,
+     "desc": "The Restaurant Mo’ Bettahs is a ballad to beach life” – New York Times\n\nOver 100 million bites of teriyaki chicken served.\n\nMo’ Bettahs started with two brothers, Kimo and Kalani Mack. They grew up on"
+    },
+    {
+     "name": "Fish.IO - Sushi Battle",
+     "dev": "ABI GLOBAL LTD.",
+     "ratings": 11811,
+     "desc": "Wanna have a deeper look at the ocean and the lives of marine creatures there? Let's explore Fish.io - a free io game - to see part of a real aquarium's life cycle of hunting and feeding!\n\nWith the fl"
+    },
+    {
+     "name": "Scuba Diving Computer Oceanic+",
+     "dev": "Huish Outdoors, LLC",
+     "ratings": 4681,
+     "desc": "Dive into a World of Adventure with Oceanic+ on Your Apple Watch Ultra!\nReady to make every dive or snorkeling experience an unforgettable journey? \nOceanic+ transforms your Apple Watch Ultra into a f"
+    },
+    {
+     "name": "Paradise - Fish Aquarium",
+     "dev": "ORCA STUDIOS PTY. LTD.",
+     "ratings": 3557,
+     "desc": "Requires an Internet connection and iPhone 6s, iPod Touch 7th Generation, iPad 5, iPad Mini 4 or newer.\n\nWelcome to Fish Paradise, a unique blend of aquarium simulation, decoration, social chat and gi"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "geology here",
+   "top": [
+    {
+     "name": "Geology Here",
+     "dev": "赫 郭",
+     "ratings": 0,
+     "desc": "-If you are a geology student, do you need the best knowledge?\n-If you are a geologist graduate, do you need an ideal job?\n-If you are a teacher of geology and mining, do you need the best teaching en"
+    },
+    {
+     "name": "Rockd",
+     "dev": "University of Wisconsin-Madison Shared Apps",
+     "ratings": 187,
+     "desc": "Explore, learn about, and document your geologic surroundings! Whether you are a professional geoscientist or curious about the rocks around you and the stories they tell, Rockd allows you to explore "
+    },
+    {
+     "name": "Backseat Geologist",
+     "dev": "Blake Morgan",
+     "ratings": 76,
+     "desc": "Ever wanted a geologist to ride along and explain what's outside your window? \n\nBeing a geologist myself, I went on vacation and wished I had someone to read geologic map descriptions as we drove acro"
+    },
+    {
+     "name": "Geology — dictionary",
+     "dev": "AppCrab",
+     "ratings": 1,
+     "desc": "Are your geology exam at the corner? Then our app is just for you!\n\n\"Geology\" is your personal helper that provides you with all information required. Can you just imagine that with the help of one mo"
+    },
+    {
+     "name": "Stone Identifier - Rock Finder",
+     "dev": "App Holdings",
+     "ratings": 1543,
+     "desc": "Have you encountered a rock and you don’t know what it is? Maybe you want to learn more about it, minerals or any crystal? Rock Seeker is the ultimate app to help you identify and study more about tho"
+    },
+    {
+     "name": "Flyover Country",
+     "dev": "Flyover Country LLC",
+     "ratings": 313,
+     "desc": "Track your flight with GPS - discover information about the world below and clouds above with offline maps and points of interest. Identify what you're seeing with 3D maps, or point your camera to vie"
+    },
+    {
+     "name": "Digger's Map: Find Minerals",
+     "dev": "Slava Barouline",
+     "ratings": 507,
+     "desc": "# Interested in geology and minerals? Would like to know where gold, silver and gemstone mines are?\n# Our unique app offers a massive global database with more than 300,000 locations and 60+ minerals!"
+    },
+    {
+     "name": "Geology Toolkit: Field Guide",
+     "dev": "Laurence Wayne",
+     "ratings": 28,
+     "desc": "Geology Toolkit uses AI to identify rocks and minerals, explain formations and create labelled pencil sketches all from a photo, then tells you the story behind them - how they formed, what they're ma"
+    },
+    {
+     "name": "DeepTime for Geology",
+     "dev": "Hunt Mountain Software",
+     "ratings": 7,
+     "desc": "DeepTime puts geological time at your fingertips. DeepTime is a full interactive version of the latest geological time scale: tap on any time unit to see more detail about it, including how its GSSP ("
+    },
+    {
+     "name": "EarthViewer",
+     "dev": "Howard Hughes Medical Institute",
+     "ratings": 107,
+     "desc": "What did Earth’s continents and oceans look like 250 million years ago, or even 1 billion years ago? What do we know about the climate back when our planet formed? How has sea level changed since the "
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "bartender practice",
+   "top": [
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Bartending School by Gigz Labs",
+     "dev": "Gigz Labs Inc.",
+     "ratings": 4,
+     "desc": "Step behind the bar. Bartending School is a hands-on training game where you build real cocktails at a fully playable station - pick the glass, scoop the ice, pour real amounts, shake, strain, and gar"
+    },
+    {
+     "name": "Be a Bartender!",
+     "dev": "Pernod Ricard Europe",
+     "ratings": 934,
+     "desc": "18 +\n\nEver wanted to be on the other side of the bar? Battle your way through hectic nights serving great drinks to enthusiastic and unpredictable guests! Take control of your station and learn how to"
+    },
+    {
+     "name": "Mixology - Pocket Bartender",
+     "dev": "Vincent Kiptirgei",
+     "ratings": 82,
+     "desc": "Whether you are making a drink for the first time or you are an experienced mixologist, Pocket Bartender turns your phone into a complete drink-making assistant. Designed with a clean layout and power"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "Cocktails For Real Bartender",
+     "dev": "Mattia Confalonieri",
+     "ratings": 126,
+     "desc": "Become a real bartender and learn to make over 600 cocktails thanks to simple step-by-step instructions.\n\n• Cocktails divided into practical categories from Non-alcoholic to Zibibbo.\n• Each cocktail h"
+    },
+    {
+     "name": "BARTENDER®",
+     "dev": "BARTENDER Media LLC",
+     "ratings": 38,
+     "desc": "The Bartender.com mobile app is your ultimate cocktail companion, whether you're a professional mixologist, an aspiring home bartender, or simply someone who loves great drinks. With a comprehensive c"
+    },
+    {
+     "name": "BarGenius - Bartender App",
+     "dev": "David Parker",
+     "ratings": 81,
+     "desc": "BarGenius is a modern ad-free bartender app built for home mixologists and professionals who want to elevate their craft. BarGenius has the largest collection of cocktails in the world! Discover new r"
+    },
+    {
+     "name": "Best Bartender - Mixed Drink",
+     "dev": "melanie thomas",
+     "ratings": 32,
+     "desc": "Welcome to Western saloon bar. Do you want become to Bartender ?\nHelp the bartender mix drinks in the right ratios ! Choose from a shelf full of different drinks that range from Vodka, Whiskey, Vermou"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "star gazer night",
+   "top": [
+    {
+     "name": "Star Walk：Find Stars & Planets",
+     "dev": "Vito Technology Inc.",
+     "ratings": 25025,
+     "desc": "Star Walk is the most beautiful stargazing app you’ve ever seen on a mobile device. It will become your interactive guide to the night sky, following your every movement in real-time and allowing you "
+    },
+    {
+     "name": "Star Gazer - Astronomy Sky Map",
+     "dev": "LeoStudio Global",
+     "ratings": 1555,
+     "desc": "Hold your phone up to the Sky and Star Gazer tells you what you're looking at. That bright dot next to the Moon? Point at it and you'll have its name.\n\nStar Gazer, by LeoStudio Global, is a stargazing"
+    },
+    {
+     "name": "Star Gazer & Night Sky Map",
+     "dev": "Appelio",
+     "ratings": 159,
+     "desc": "Explore the Sky Above You\n\nTurn your phone into a powerful tool for exploring the stars. This app helps you instantly recognize constellations, planets, and other celestial objects, just by pointing y"
+    },
+    {
+     "name": "StarMaster: Night Sky & Astro",
+     "dev": "LEVEL MEDIA LIMITED",
+     "ratings": 1167,
+     "desc": "StarMaster is an exquisite stargazing app that enables you to explore the sky through the screen of your device.\nMake an effortless journey through thousands of stars, planets and constellations. All "
+    },
+    {
+     "name": "Sky Tonight - Stargazing Guide",
+     "dev": "Vito Technology Inc.",
+     "ratings": 75836,
+     "desc": "SKY TONIGHT is a brand-new astronomical app for exploring the sky. It helps stargazers answer the three most common questions:\n\n⁕ What is that bright dot in the sky?\n⁕ What astronomical events can I s"
+    },
+    {
+     "name": "Star Walk 2 Plus: Live Sky Map",
+     "dev": "Vito Technology Inc.",
+     "ratings": 95712,
+     "desc": "Star Walk 2 Plus is an exquisite stargazing app that enables you to explore the sky through the screen of your device. Make an effortless journey through thousands of stars, planets and constellations"
+    },
+    {
+     "name": "Star Tracker Lite-Live Sky Map",
+     "dev": "身吉 潘",
+     "ratings": 2134,
+     "desc": "Hey, get outdoor with your friends and start star gazing! Let StarTracker guide you to explore the universe.\n\nJust hold up and point the device to the sky and have fun! You can see any stars, constell"
+    },
+    {
+     "name": "Star Gazer: Sky Map& Astronomy",
+     "dev": "Best Butter LLC",
+     "ratings": 6881,
+     "desc": "Take a look at the stars, planets, galaxies, and constellations. Learn about the astronomical objects that are in our galaxy. Give an answer to some of the most curious questions of our own planet, an"
+    },
+    {
+     "name": "OSR Star Finder",
+     "dev": "Online Star Register",
+     "ratings": 4830,
+     "desc": "Which star belongs to you? Name a star now as the most original gift of the universe! Search, find and gaze at your star with this FREE app which is available in 20 languages!\n\nWith the OSR Star Finde"
+    },
+    {
+     "name": "StarMap 3D+ Plus",
+     "dev": "Sanville Software",
+     "ratings": 6867,
+     "desc": "Use your iPhone's compass and gyroscope to find planets, constellations, satellites, and more with crisp, colorful, high-definition Retina graphics that use every pixel of your iPhone or iPad! Hold th"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "bass booster soundcloud",
+   "top": [
+    {
+     "name": "Bass Booster EQ + Volume Boost",
+     "dev": "Plane Cubes",
+     "ratings": 19616,
+     "desc": "Δ Deep Bass Booster + Powerful Volume Amplifier x10\nΔ Full Range Equalizer & Custom presets\nΔ Access your Music anywhere. Connect your library. Download & Listen Offline and in the Background\n\n\"Your M"
+    },
+    {
+     "name": "Bass Booster Volume Boost EQ",
+     "dev": "Companjen Apps B.V.",
+     "ratings": 19089,
+     "desc": "Bass Booster is the best all-in-one Music Player app that gives you full control to improve the sound quality. Stream, download from the cloud or listen to radio. Boost the bass and improve the overal"
+    },
+    {
+     "name": "Silence Music: Equalizer, Musi",
+     "dev": "Octodev Ltd",
+     "ratings": 13651,
+     "desc": "\"I love this app so muchhh!!!!\" - by jasminn!!!\n\n\"Excellent app with excellent customer service! Thank you.\" - by Beam Jirayu\n\n\"This app is amazing. I love being able to listen to YouTube videos with "
+    },
+    {
+     "name": "Bass Booster, Volume Amplifier",
+     "dev": "Audio Labs",
+     "ratings": 1248,
+     "desc": "Enhance your listening experience with powerful bass, rich sound, and precise volume control. Enjoy deeper low-end audio, clearer playback, and a simple interface designed for everyday music use.\n\nKey"
+    },
+    {
+     "name": "Bass Booster Volume Power Amp",
+     "dev": "App Rover",
+     "ratings": 18320,
+     "desc": "Bass Booster will amplify your bass at a maximum and provide you with a better sound quality wherever you are! Play your music from your iTunes library and adjust the sound to your headset or speakers"
+    },
+    {
+     "name": "Bass Booster - Audio Equalizer",
+     "dev": "Pretty View LLC",
+     "ratings": 4733,
+     "desc": "Get the maximum of each song and enjoy your music as never before with the audio editing tools Bass Booster brings directly to your device.\nImprove the audio quality to every song in your library and "
+    },
+    {
+     "name": "Volume Booster Bass Booster",
+     "dev": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+     "ratings": 25483,
+     "desc": "Is your phone volume just not cutting it? Transform your listening experience with Volume Booster, the ultimate sound booster designed to unleash your device's true audio potential! Say goodbye to muf"
+    },
+    {
+     "name": "AmpMe – Speaker & Music Sync",
+     "dev": "Amp Me inc",
+     "ratings": 53788,
+     "desc": "AmpMe™ is the record breaking #1 iPhone music syncing app that boosts the sound of your music by syncing it with all of your friends’ phones, bluetooth and speakers!\n\nOver 288 Million users already us"
+    },
+    {
+     "name": "Bass Booster Music EQ: BASSY",
+     "dev": "Maryana Yurieva",
+     "ratings": 4895,
+     "desc": "BASSY is an advanced music player able to amplify your bass at a maximum and get a clearer and stronger sound.\n\nKEY FEATURES:\n- Powerful bass boosting effect\n- Clear and stronger sound\n- 10 equalizer "
+    },
+    {
+     "name": "b Buds+   HEADPHONES CONNECT",
+     "dev": "Hearing Aid App Solutions LLC",
+     "ratings": 7983,
+     "desc": "HEADPHONES CONNECT ◆ EQUALIZER ◆ SPEAKER BOOSTER ◆ AUDIO ENHANCER ◆ EXTRA VOLUME BOOSTER\n\nCONNECT HEADPHONES, ENHANCE BASS & BOOST BEAT. Complete audio solution for music lovers & audiophiles. Use wit"
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

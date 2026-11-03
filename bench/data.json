@@ -54521,6 +54521,60 @@
    "hi": "real estate license exam",
    "lo": "qr code scanner",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician code quiz",
+   "lo": "tiktok clone",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "phlebotomy study cards",
+   "lo": "ringtone maker",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "farrier horseshoe sizing guide",
+   "lo": "slot machine",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam simulator",
+   "lo": "free wallpaper",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "insurance adjuster license exam prep",
+   "lo": "ringtone maker",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "surveying unit converter for land surveyors",
+   "lo": "cat sounds",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pomodoro timer",
+   "lo": "video editor like capcut",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "search engine",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "drug dosage calculator",
+   "lo": "food delivery marketplace",
+   "split": "train"
   }
  ],
  "note": [

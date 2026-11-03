@@ -41491,6 +41491,512 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "plumber ice cube",
+   "top": [
+    {
+     "name": "Plumber Crack",
+     "dev": "Fluik",
+     "ratings": 1007,
+     "desc": "All In App Purchases now 70% OFF the regular price!\n\nThrow stuff at the traditional Plumber Crack under the kitchen sink. Or, go for the second most popular crack sighting: the IT Technician under you"
+    },
+    {
+     "name": "CubeSolver AI - Magic Cube 3D",
+     "dev": "Delta Software",
+     "ratings": 7075,
+     "desc": "CubeSolver AI - Magic Cube 3D is an easy yet powerful cube solving utility app specifically designed for magic cube enthusiasts. This AI-powered magic cube solver app offers a seamless and enjoyable e"
+    },
+    {
+     "name": "Ice Pop Maker - Food Game",
+     "dev": "Bluebear Technologies Ltd.",
+     "ratings": 1761,
+     "desc": "Ever wonder how ice pops were made? Create your own icepops from scratch with our awesome new app. \n\nChoose from a tonne of different flavors and decorations to create the ice pop of your dreams. \n\nCh"
+    },
+    {
+     "name": "Jeremiah's Italian Ice Rewards",
+     "dev": "Jeremiah's Original Water Ice, Inc.",
+     "ratings": 15858,
+     "desc": "Hop onto the Jeremiah’s Rewards app to earn tasty treats, score sweet perks, and get the inside scoop on Jeremiah’s Italian Ice! \n\nEarn your way to FREE treats! \n\n- Scoop up 1 point for every $1 purch"
+    },
+    {
+     "name": "ICE2U",
+     "dev": "Ice House America",
+     "ratings": 143,
+     "desc": "The ICE2U app will allow you to purchase ice within the app and earn reward points towards free ice at all participating Twice the Ice and Partner locations.  Load your app with funds, visit a partici"
+    },
+    {
+     "name": "CubeSolver AR",
+     "dev": "Andrei Ciobanu",
+     "ratings": 5664,
+     "desc": "The CubeSolver app helps you solve a 3x3 cube in a few easy steps:\n\n- Scan your cube using the device's camera (or input your cube configuration manually).\n- The app tries to detects each cubie color "
+    },
+    {
+     "name": "RGB Cube Solver &Timer",
+     "dev": "Yikens Technology HK Limited",
+     "ratings": 26589,
+     "desc": "RGB Cube Solver &Timer, the ultimate application designed to transform you into a  Cube solving expert. Mastering this iconic puzzle is a rare skill, but with Cube Solver, it's within your reach. Gone"
+    },
+    {
+     "name": "Ice Cube Pong",
+     "dev": "Aeralas",
+     "ratings": 0,
+     "desc": "The Ice Cube Game \n\nYes, this is the right game. THE funnest game on the App Store. Everyone who owns an iOS device should have this game! It's free, it's addictive, and it's fun! \n\nThe premise is sim"
+    },
+    {
+     "name": "Cube Solver - 3D Cube Timer",
+     "dev": "Shenzhen Yiken Technology Co., Ltd",
+     "ratings": 2130,
+     "desc": "Every day, thousands of users rely on our app to transform their jumbled rubik's cubes into perfectly aligned masterpieces. Our Rubiks Cube Solver app has amassed a vast user base, with enthusiasts fr"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "bartender the right mix",
+   "top": [
+    {
+     "name": "Best Bartender - Mixed Drink",
+     "dev": "melanie thomas",
+     "ratings": 32,
+     "desc": "Welcome to Western saloon bar. Do you want become to Bartender ?\nHelp the bartender mix drinks in the right ratios ! Choose from a shelf full of different drinks that range from Vodka, Whiskey, Vermou"
+    },
+    {
+     "name": "Bartender Perfect Mix",
+     "dev": "Trong Pham",
+     "ratings": 32,
+     "desc": "Mix drinks and add your best ingredients, then give your concoction a shake and see whether you’ve created the world’s greatest drink or a recipe to avoid. Find the right combinations and earn the hig"
+    },
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Wine Guy:Cocktail Bartender - Drink Mixing Game",
+     "dev": "melanie thomas",
+     "ratings": 5,
+     "desc": "Welcome to the exciting cocktail drink mixing simulation game.\n\n There’s nothing better than a fine cocktail on the night.As the role of bartender, In this interesting game,you can create kinds of coc"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "Bartender Mix Genius",
+     "dev": "Ehler Benjes",
+     "ratings": 1,
+     "desc": "Welcome to the bar. Grab the bottles, free your imagination and create your very own cocktails, then let the bartender be the judge.\nBartender Mix Genius 2 is a relaxed, free-to-experiment mixing game"
+    },
+    {
+     "name": "Nimble Strong - Bartender Game",
+     "dev": "Nimble Strong LLC",
+     "ratings": 109,
+     "desc": "Ridiculously fun video game that teaches you how to mix cocktails. Nimble Strong is endorsed by The New York Times, Polygon, Engadget, and 10,000+ customers.\n\nNimble Strong: Bartender in Training is o"
+    },
+    {
+     "name": "Cocktail Drinks Bartender",
+     "dev": "Farrukh Ahmad",
+     "ratings": 5,
+     "desc": "Work as a bartender on the beach drinks bar and show your classy skills of pouring drinks and making the perfect mixture for customers. Cocktail drinks bartender is a time management based game where "
+    },
+    {
+     "name": "8,500+ Drink Recipes",
+     "dev": "Webworks",
+     "ratings": 32451,
+     "desc": "Yes.  You heard it right.  Free.\n\nOver 8,500 Drink & Cocktail recipes at the tap of your fingertips.  Now you know what bartenders are putting into your expensive drinks.  Drink & Cocktail Recipes dat"
+    },
+    {
+     "name": "Be a Bartender!",
+     "dev": "Pernod Ricard Europe",
+     "ratings": 934,
+     "desc": "18 +\n\nEver wanted to be on the other side of the bar? Battle your way through hectic nights serving great drinks to enthusiastic and unpredictable guests! Take control of your station and learn how to"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "imbps - internet speed meter",
+   "top": [
+    {
+     "name": "WIFI & Internet Speed Test",
+     "dev": "Appenvision Ltd",
+     "ratings": 6678,
+     "desc": "1,000,000+ users use the Speedtest, trusted by professionals, to test Internet and WI-FI speed.\n\nThis app is a fast and accurate utility for evaluating your cellular (3G,4G,LTE) and Wi-Fi connection o"
+    },
+    {
+     "name": "Internet Speed Test Speedcheck",
+     "dev": "Ookla",
+     "ratings": 98456,
+     "desc": "Use Speedcheck to test the speed of internet connections and add your results to SpeedSpot's WiFi speed database. You can use the companion app, SpeedSpot's WiFi Finder right from with the app to find"
+    },
+    {
+     "name": "Speed Test | HighSpeedInternet",
+     "dev": "CLEAR LINK TECHNOLOGIES, LLC",
+     "ratings": 19454,
+     "desc": "HighSpeedInternet.com’s free internet Speed Test helps you see exactly how your internet connection is performing. With just a single tap on your mobile device, test your Wi-Fi (DSL, Fiber, Cable, Sat"
+    },
+    {
+     "name": "V-SPEED Speed Test",
+     "dev": "V-SPEED Sp. z o.o.",
+     "ratings": 1285,
+     "desc": "V-SPEED Speed Test is a powerful, advanced tool which helps you to measure Internet connection speed on iOS. The application is equipped with a modern, intuitive interface. For more experienced users,"
+    },
+    {
+     "name": "nPerf internet speed test",
+     "dev": "nPerf SAS",
+     "ratings": 4979,
+     "desc": "More than a simple speed test, nPerf brings you the best and the fullest mobile connection quality measurement tool up to 1 Gb/s speeds! \n\nFull QoS test: In few seconds, test your bitrate speed, laten"
+    },
+    {
+     "name": "iWifi - AR speed & signal test",
+     "dev": "晓艳 黄",
+     "ratings": 17964,
+     "desc": "iWifi - test the speed on next-generation mobile network\n\nFeatures:\n- Test the internet speed of Download, Upload and Ping\n- Connection consistency shows in a graph\n- Discover Wi-fi signal strength\n- "
+    },
+    {
+     "name": "Internet Speed Meter Lite",
+     "dev": "Vaibhavi Bhingradiya",
+     "ratings": 19,
+     "desc": "Internet Speed Meter Lite – Smartly Monitor & Optimize Your Internet Experience\n\nTake control of your internet experience with Internet Speed Meter Lite – a powerful, lightweight utility designed to g"
+    },
+    {
+     "name": "FAST Speed Test",
+     "dev": "Netflix, Inc.",
+     "ratings": 243,
+     "desc": "Use the FAST.com app to help you see how fast your Internet connection is, whether on mobile or broadband, anywhere in the world. It has a streamlined design that is quick and easy to understand. And "
+    },
+    {
+     "name": "Internet Data Speed Meter",
+     "dev": "Eventronic Systems, SL",
+     "ratings": 27,
+     "desc": "With this simple and free application you can measure the quality of your Wi-Fi connection or mobile data, simply touch a button. Measures download speed, upload speed and ping. It also shows your pub"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "speed.test: wi-fi tester",
+   "top": [
+    {
+     "name": "Speedtest by Ookla",
+     "dev": "Ookla",
+     "ratings": 28178,
+     "desc": "Use Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n \nExplore mobile network coverage with Speedtest Maps based on real-worl"
+    },
+    {
+     "name": "Internet Speed Test Speedcheck",
+     "dev": "Ookla",
+     "ratings": 98438,
+     "desc": "Use Speedcheck to test the speed of internet connections and add your results to SpeedSpot's WiFi speed database. You can use the companion app, SpeedSpot's WiFi Finder right from with the app to find"
+    },
+    {
+     "name": "Speed Test | HighSpeedInternet",
+     "dev": "CLEAR LINK TECHNOLOGIES, LLC",
+     "ratings": 19296,
+     "desc": "HighSpeedInternet.com’s free internet Speed Test helps you see exactly how your internet connection is performing. With just a single tap on your mobile device, test your Wi-Fi (DSL, Fiber, Cable, Sat"
+    },
+    {
+     "name": "Speed Test SpeedSmart Internet",
+     "dev": "IDB LLC",
+     "ratings": 64637,
+     "desc": "SpeedSmart is a free internet speed test app for evaluating your WiFi and Mobile 5G, 4G LTE connection on your iPhone or iPad. Download now!\n\n*** App Features ***\n\n- Test your Download & Upload Speed\n"
+    },
+    {
+     "name": "FAST Speed Test",
+     "dev": "Netflix, Inc.",
+     "ratings": 243,
+     "desc": "Use the FAST.com app to help you see how fast your Internet connection is, whether on mobile or broadband, anywhere in the world. It has a streamlined design that is quick and easy to understand. And "
+    },
+    {
+     "name": "Speed Test & Wifi Analyzer +",
+     "dev": "Appenvision Ltd",
+     "ratings": 24394,
+     "desc": "Stay in full control of your connection with a multifunctional network analyzer, built to help you understand exactly how your Internet and WiFi behave. Whether you're fixing an issue, improving perfo"
+    },
+    {
+     "name": "Speed Test & Wi-Fi Analyzer",
+     "dev": "Huacen Co.,LTD",
+     "ratings": 298,
+     "desc": "Speed Test & WiFi Analyzer is a professional Internet Speed Test app designed to measure, analyze, and optimize your network performance. With a fast and accurate Internet Speed Test, you can instantl"
+    },
+    {
+     "name": "SpeedTest•",
+     "dev": "UniCom Technology",
+     "ratings": 6528,
+     "desc": "Speed Test a small, fast network tool. You can monitor your internet speed in real time and show accurate info instantly.\n\nEver wonder why your webpage is loading slowly or looking for internet speed "
+    },
+    {
+     "name": "Google",
+     "dev": "Google",
+     "ratings": 5157665,
+     "desc": "Download the Google app to find quick answers, explore your interests, and ask anything on your mind in any way. Try AI in Google Search with AI Mode, Lens, Search Live, and more.\n\nFeature highlights*"
+    },
+    {
+     "name": "Opensignal Speed Test Ad Free",
+     "dev": "Opensignal Inc.",
+     "ratings": 17838,
+     "desc": "Opensignal is a fully-featured mobile connectivity and network signal speed test tool. \n\nSpeed test, including download, upload and latency - for 3G, 4G/LTE, 5G and WiFi\nFind the best network provider"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "speech therapy practice",
+   "top": [
+    {
+     "name": "Speech Therapy Practice",
+     "dev": "Charles Wu",
+     "ratings": 3,
+     "desc": "Speech Therapy Practice (STP) presents phrases to the user and the user presses a button to tell STP to start listening. The user than says the practice phrase aloud and then when done presses the sto"
+    },
+    {
+     "name": "SpeechLP: Speech Therapy Games",
+     "dev": "ParagraphAI",
+     "ratings": 59,
+     "desc": "Speech therapy practice for kids that actually works — AI-powered articulation games used by 1,000+ speech-language pathologists and the families they refer.\n\nIs your child working on their R sound? A"
+    },
+    {
+     "name": "Otsimo | Speech Therapy SLP",
+     "dev": "Otsimo",
+     "ratings": 180,
+     "desc": "From award-winning creators! Otsimo | Speech Therapy SLP is proud to be the only Speech Therapy app that uses voice and speech recognition technology and machine learning; it understands exactly what "
+    },
+    {
+     "name": "Vocal Image: Speaking Coach",
+     "dev": "Vocal Image OU",
+     "ratings": 10435,
+     "desc": "Tired of replaying a conversation in your head, then freezing when it happens?\n\nVocal Image is an AI communication and soft skills coach. Every day it builds you a short personalized plan that mixes p"
+    },
+    {
+     "name": "Stamurai: Stuttering Treatment",
+     "dev": "Stamurai",
+     "ratings": 810,
+     "desc": "**SUPPORTED BY** Google for Startups, Prosus, Mphasis, Accel, ZS and Social Alpha, Stamurai is a one-stop stuttering treatment app for all ages. \nStuttering aka stammering is a speech disorder that de"
+    },
+    {
+     "name": "Articulation Teacher - Speech",
+     "dev": "SpeakEasy Community",
+     "ratings": 211,
+     "desc": "Improve your child's articulation and pronunciation! Brought to you by a Speech Language Pathologist and the creator of the SpeakEasy: Home Speech Therapy app which has accelerated early language deve"
+    },
+    {
+     "name": "Stutter Stars: Speech Therapy",
+     "dev": "SAY IT Labs",
+     "ratings": 60,
+     "desc": "Stutter Stars is more than just a stuttering app, it’s an immersive speech therapy adventure game designed for both kids and adults. \n\nWhether you’re looking for stuttering speech therapy, an app for "
+    },
+    {
+     "name": "Speech Games And Practice",
+     "dev": "Smile Train Inc.",
+     "ratings": 7,
+     "desc": "The ST Mobile App is a free, interactive speech services application with stories, games and songs drills designed for children with cleft. This app is a resource children can use to practice speech e"
+    },
+    {
+     "name": "Phonology: Speech Therapy",
+     "dev": "Austin Speech Labs Inc.",
+     "ratings": 12,
+     "desc": "Austin Speech Labs, a 501(c)(3) non-profit organization, built Phonology to\nsupport speech recovery practice for stroke survivors and other people working\non speech and auditory comprehension skills.\n"
+    },
+    {
+     "name": "Constant Therapy: Brain+Speech",
+     "dev": "Constant Therapy, Inc.",
+     "ratings": 4102,
+     "desc": "Constant Therapy is an award-winning, science-based exercise app for cognitive, language, and speech practice — built for people living with aphasia, apraxia, dementia, stroke, traumatic brain injury "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dental hygiene seminar",
+   "top": [
+    {
+     "name": "DHS Board Review",
+     "dev": "Dental Hygiene Seminars Inc.",
+     "ratings": 34,
+     "desc": "Confidence grows one answer at a time. Build yours with the DHS Board Review App. \n\nJoin the thousands of dental hygiene students who’ve passed their NBDHE with confidence. DHS is the trusted leader i"
+    },
+    {
+     "name": "Dental Hygiene Academy Seminar",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 22,
+     "desc": "This app is exclusively for students who have attended a Dental Hygiene Academy Board Review seminar at www.DentalHygieneAcademy.com\n\nPlease be sure you know your Dental Hygiene Academy pin number to "
+    },
+    {
+     "name": "StudentRDH Dental Hygiene",
+     "dev": "StudentRDH Learning Inc.",
+     "ratings": 19,
+     "desc": "Pass the NBDHE (National Dental Hygiene Board Exam) with confidence! \n\nStudentRDH app includes everything you need: \n• 5000+ practice questions \n• 17+ study guides \n• Mock exams \n\nWhat’s NEW? I’m glad"
+    },
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 62,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "Tend Dental",
+     "dev": "Noho Dental, Inc",
+     "ratings": 3904,
+     "desc": "Tend makes going to the dentist an experience you’ll actually look forward to. With online booking, transparent pricing, beautiful studios, and a top-rated clinical team, we care for the whole you, no"
+    },
+    {
+     "name": "Teero - Dental Staffing",
+     "dev": "Teero Inc",
+     "ratings": 3310,
+     "desc": "W-2 flexibility for dental hygienists. Work when you want, where you want, with complete transparency into every office.\n\nNo commitments. No fees. Just straightforward shifts with real employee benefi"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "paramedic assessment review",
+   "top": [
+    {
+     "name": "Paramedic Assessment Review",
+     "dev": "Limmer Creative",
+     "ratings": 2,
+     "desc": "The most robust in our modular paramedic apps, Paramedic Assessment Review provides over 1,200 items including study cards, review questions, and practice exams. Designed as an excellent classroom and"
+    },
+    {
+     "name": "Paramedic Airway Review",
+     "dev": "Limmer Creative",
+     "ratings": 0,
+     "desc": "With 600 items, Paramedic Airway Review is designed to be an excellent companion to the airway portion of your paramedic class—or as an in-depth review in preparation for the NREMT or your state exami"
+    },
+    {
+     "name": "Pocket Prep EMS 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 15954,
+     "desc": "Unlock thousands of EMS certification exam practice questions and mock exams for the NREMT EMT, NREMT Paramedic, Firefighter I & II, IBSC FP-C, and more with Pocket Prep, the largest provider of mobil"
+    },
+    {
+     "name": "Paramedic Exam Prep: 2026",
+     "dev": "Edu Prep",
+     "ratings": 8,
+     "desc": "Helping you pass your Paramedic exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first try!\n\nThe NREMT"
+    },
+    {
+     "name": "Paramedic Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 40,
+     "desc": "Paramedic Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. It has more than 700 high quality test questions with answer explanations, multiple "
+    },
+    {
+     "name": "Paramedic Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 63,
+     "desc": "Paramedic Exam Prep 2026 is an exam preparation app that will help you pass the Paramedic exam administered by the National Registry of Emergency Medical Technicians (NREMT) with a high score on your "
+    },
+    {
+     "name": "MedicTests 2026 EMS Education",
+     "dev": "MedicTests",
+     "ratings": 2067,
+     "desc": "Experience the ultimate EMS Education System, designed exclusively for MedicTests members. \n\nUnlock personalized guidance and engaging learning tools like our personalized learning paths, the Rapid Le"
+    },
+    {
+     "name": "NREMT PARAMEDIC Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 65,
+     "desc": "PASS THE NREMT PARAMEDIC EXAM\n\nNREMT Paramedic Exam Prep 2026 helps you study smarter, not harder. With over 1800+ practice questions, AI-powered progress tracking, and realistic exam simulations, you"
+    },
+    {
+     "name": "Paramedic Practice Test 2026",
+     "dev": "Thanh Hung",
+     "ratings": 14,
+     "desc": "Ready to become a paramedic? Practice 400+ practice questions, mock tests & AI analysis to pass the NREMT Paramedic 2026 exam the first time.\n\nOur Paramedic Practice Tests NREMT is specifically design"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "birding life list",
+   "top": [
+    {
+     "name": "Birding Life List - Flock",
+     "dev": "Karol Jaworski",
+     "ratings": 0,
+     "desc": "Flock is the most elegant birding life list app for iPhone. Log every bird you see, build your life list, track year lists, and record birding outings - all in seconds.\n\nQUICK LOG - LOG IN 3 TAPS\nTap "
+    },
+    {
+     "name": "Life List by NatureGuides",
+     "dev": "NatureGuides Ltd.",
+     "ratings": 3,
+     "desc": "Life List is a smart and convenient place to keep your bird lists. Keep a garden list, a year list, a patch list – it's up to you!\n• Import and export your lists\n• Everything syncs to the cloud\n• Tigh"
+    },
+    {
+     "name": "Birda - Bird Watching, Birding",
+     "dev": "Chirp Birding Ltd.",
+     "ratings": 2273,
+     "desc": "Birda is birdwatching, reimagined.\n\nBirda is more than a birdwatching app, it’s your companion for getting outside, noticing more, and reconnecting with nature. Whether you’re spotting your first bird"
+    },
+    {
+     "name": "Birdathon",
+     "dev": "Barry Langdon-Lassagne",
+     "ratings": 15,
+     "desc": "Birdathon is an observation-centric tool for creating birding checklists. It helps you organize your checklists and share them with others. Use Birdathon in the field to quickly record whether and whe"
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    },
+    {
+     "name": "Merlin Bird ID by Cornell Lab",
+     "dev": "Cornell University",
+     "ratings": 113546,
+     "desc": "What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.\n\nMerlin helps you identify birds you see and hear. Merlin is unlike any"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "eBird",
+     "dev": "Cornell University",
+     "ratings": 822,
+     "desc": "eBird Mobile makes it easy to record the birds you see in the field, and seamlessly link these observations with eBird--a global online database of bird records used by hundreds of thousands of birder"
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "Flock Yard Bird List",
+     "dev": "Flock LLC",
+     "ratings": 96,
+     "desc": "Flock is the perfect app for bird lovers that want a place to track the birds in their yard. Flock helps you quickly add the birds you see in your yard, share sightings with friends, and connect with "
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

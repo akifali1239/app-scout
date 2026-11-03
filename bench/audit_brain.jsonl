@@ -1064,3 +1064,5 @@
 {"ts": "2026-11-03T16:41:53+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 4, "reason": "kind: reference/game/content/ai_wrapper tek anlamlı (test2/dev1/train1)."}
 {"ts": "2026-11-03T16:41:53+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 4, "reason": "note: rekabet/para/ret/alakasız tek anlamlı notlar (test2/dev1/train1)."}
 {"ts": "2026-11-03T16:41:53+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "scoreboard değişmedi (optimizer son audit hâlâ 25 Eki; Actions kontrol edilmeli); promosyon/geri alma yok. Altın niş adayı 0. Bileşen eklenmedi. HEAD detached idi, main'e geçildi."}
+{"ts": "2026-11-03T17:41:42+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 4, "reason": "intent: 4 yeni tek anlamlı vaka (diğerleri zaten mevcuttu), keywords.json'dan."}
+{"ts": "2026-11-03T17:41:42+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "scoreboard değişmedi (optimizer son audit hâlâ 25 Eki; Actions kontrol edilmeli); promosyon/geri alma yok. Altın niş adayı 0. Bileşen eklenmedi."}

@@ -50346,6 +50346,41 @@
    "app": "Offline notes app with dark theme and tags.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Electrical wire gauge and ampacity calculator for electricians.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Medication dosage calculator for paramedics based on patient weight.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Fall protection anchor load rating guide for roofers.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Habit tracker with colorful streak charts.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Wallpaper maker with gradient backgrounds.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Simple stopwatch and countdown timer for workouts.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Emoji keyboard with animated stickers.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -55771,6 +55806,42 @@
    },
    "label": "utility",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Hold'em Poker Night",
+    "category": "Games",
+    "desc": "Play Texas hold'em poker with friends at virtual tables."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Bible Verse Audio",
+    "category": "Lifestyle",
+    "desc": "Listen to a new short audio devotional every morning."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Resume Scanner AI",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant that rewrites your resume using GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Chart",
+    "category": "Utilities",
+    "desc": "Look up bolt torque specifications by size and grade."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

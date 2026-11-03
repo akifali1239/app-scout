@@ -2474,6 +2474,26 @@
    "term": "fire alarm code reference",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "candy blast puzzle",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "subway runner",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "law firm of denver",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "lineman apprentice jobs hiring",
+   "label": "jobs",
+   "split": "train"
   }
  ],
  "brand": [
@@ -51958,6 +51978,42 @@
    "dim": "pay",
    "hi": "nclex practice questions",
    "lo": "battery widget",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "paramedic exam prep",
+   "lo": "wallpaper maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "bar exam flashcards",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "ultrasound physics review",
+   "lo": "funny ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl air brakes test",
+   "lo": "photo collage",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cissp practice exam",
+   "lo": "battery widget",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate license exam",
+   "lo": "qr code scanner",
    "split": "train"
   }
  ],

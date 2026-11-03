@@ -2609,6 +2609,36 @@
    "term": "forklift certification",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "angry birds 2",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "clash of clans base layouts",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "spirometry interpretation guide",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "cdl air brakes practice test",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "rn travel nursing jobs",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "mountain view family dentistry",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [
@@ -54149,6 +54179,26 @@
   {
    "note": "Çok sıkıcı bir konu, yapmak istemem",
    "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Bu alanda zaten 30 güçlü rakip var, ilk sayfa dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bunun için para ödemez, hepsi ücretsiz arıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu büyük ihtimalle reddeder, tıbbi tanı iddiası var",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Konuyla ilgim yok, bu kitleye hitap etmiyor",
+   "label": "Alakasız",
    "split": "train"
   }
  ],

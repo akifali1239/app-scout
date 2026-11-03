@@ -51494,6 +51494,132 @@
     "adjacent"
    ],
    "split": "dev"
+  },
+  {
+   "term": "phlebotomy cpt exam prep 2026",
+   "apps": [
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals nationwide. Study smarter with adaptive tools, realistic practice tests, and expert strategies designed t"
+    },
+    {
+     "name": "Pocket Prep NHA CPT 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 1138,
+     "desc": "Unlock 1,000 CPT practice questions with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key CPT concepts and improve retention to pass your CPT exam confidently on the first try.\n\nSince 2011, thousands of medical professionals ha"
+    },
+    {
+     "name": "NHA CPT Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 128,
+     "desc": "NHA CPT Test Prep 2026 is an application that has been carefully designed and developed by industry test experts. With over 1,000 high-quality test questions and answer explanations, multiple test modes and a scientific analysis system, it helps you practice efficiently anytime, anywhere, making it "
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have a 99.6% pass rate because we help guide you through the NBDE process and will do everything we can "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nbdhe dental hygiene boards",
+   "apps": [
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive results tracking. Join over 6,000 graduating Dental Hygienists who studied with us this year alone "
+    },
+    {
+     "name": "NBDHE Dental Hygiene Boards",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 2,
+     "desc": "Stressed about the NBDHE Dental Hygiene Boards? You're not alone.\n\nFour years of dental hygiene school. Hundreds of clinical hours. All of it comes down to one exam.\n\nJoin 20,000+ dental hygiene students who crushed the NBDHE Dental Hygiene Boards using our 98% pass rate prep system. Trusted since 2"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have a 99.6% pass rate because we help guide you through the NBDE process and will do everything we can "
+    },
+    {
+     "name": "Dental Hygiene Academy Seminar",
+     "dev": "Dental Hygiene Academy, Inc.",
+     "ratings": 22,
+     "desc": "This app is exclusively for students who have attended a Dental Hygiene Academy Board Review seminar at www.DentalHygieneAcademy.com\n\nPlease be sure you know your Dental Hygiene Academy pin number to access this app.\n\nWith this app you will have access to nearly 2,000 Dental Hygiene Board Exam pract"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "ardms spi sonography exam prep",
+   "apps": [
+    {
+     "name": "ARDMS SPI Sonography Exam Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 0,
+     "desc": "Prepare for the ARDMS SPI Exam with Our Comprehensive Test Preparation Program!\n\nDesigned for aspiring and current sonographer, our course offers extensive resources and strategies to ensure your success on the ARDMS Sonography Principles and Instrumentation (SPI) Exam. This certification, administe"
+    },
+    {
+     "name": "ARDMS SPI Exam Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 11,
+     "desc": "Master the ARDMS SPI Exam with SPI Flashcards 2026!\nPreparing for the ARDMS SPI (Sonographic Principles & Instrumentation) exam is essential for those pursuing a career in diagnostic medical sonography. Our SPI Flashcards 2025 app is designed to streamline your study process and help you master key "
+    },
+    {
+     "name": "ARDMS SPI Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 21,
+     "desc": "Unlock your potential in the Diagnostic Medical Sonography field with our comprehensive ARDMS SPI Exam Test Prep 2026 course. Designed for aspiring sonographers preparing for the SPI exam, this course equips you with the knowledge and skills necessary to excel in the certification exam and advance y"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RVS® educators and radiologists.\n\n9,400+ practice questions. 750+ sonographic images. AI-powered study"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "suite"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [
@@ -55797,6 +55923,26 @@
    "note": "Konuyla ilgim yok, bu kitleye hitap etmiyor",
    "label": "Alakasız",
    "split": "train"
+  },
+  {
+   "note": "Sonografi sınavı için zaten 30 uygulama var, hepsi aynı soruları veriyor",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "İnsanlar bunun için hiçbir şekilde ödeme yapmaz, tamamen ücretsiz bilgi",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Dozaj hesabı yanlış çıkarsa dava riski var, Apple reddeder",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Bu konu bana hiç hitap etmiyor, ilgi alanım değil",
+   "label": "Alakasız",
+   "split": "train"
   }
  ],
  "kind": [
@@ -58192,6 +58338,42 @@
     "desc": "New 20-minute guided yoga class videos every week for subscribers."
    },
    "label": "content",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pocket App",
+    "category": "Education",
+    "desc": "Pocket flashcard deck for memorizing 500 phlebotomy tube colors and draw order."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Multiplayer App",
+    "category": "Games",
+    "desc": "Multiplayer tower defense with weekly events and loot chests."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Weekly App",
+    "category": "Education",
+    "desc": "Weekly podcast-style audio lessons on tax law, new episode every Monday."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chat App",
+    "category": "Productivity",
+    "desc": "Chat assistant that answers any question using GPT, with a custom prompt box."
+   },
+   "label": "ai_wrapper",
    "split": "train"
   }
  ]

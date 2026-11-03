@@ -2564,6 +2564,51 @@
    "term": "barber shop near me",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "uber eats",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "among us",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "ccrn exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "traveling electrician jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "lakeside dental care",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "adp",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "nurse staffing jobs",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "ohm's law calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "forklift certification",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

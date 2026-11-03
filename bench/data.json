@@ -55842,6 +55842,42 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Tax Pro Express",
+    "category": "Finance",
+    "desc": "File your taxes with a licensed CPA who prepares and signs your return for a flat fee."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rover Dog Walkers",
+    "category": "Lifestyle",
+    "desc": "Book trusted local dog walkers and sitters by the hour with in-app payment."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Metronome Plus",
+    "category": "Music",
+    "desc": "Simple metronome with tap tempo, adjustable BPM and time signatures."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Weekly Yoga Videos",
+    "category": "Health & Fitness",
+    "desc": "New 20-minute guided yoga class videos every week for subscribers."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

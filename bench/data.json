@@ -2494,6 +2494,31 @@
    "term": "lineman apprentice jobs hiring",
    "label": "jobs",
    "split": "train"
+  },
+  {
+   "term": "fanduel sportsbook",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "tractor supply rewards",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "cdl truck driver jobs near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "sunrise dental of tulsa",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "concrete mix ratio calculator",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [

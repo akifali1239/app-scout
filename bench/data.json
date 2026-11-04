@@ -57991,6 +57991,78 @@
    "hi": "pregnancy week by week reference",
    "lo": "ai video generator like sora",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "aviation weather briefing for ifr pilots",
+   "lo": "cat sounds",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam prep questions",
+   "lo": "funny voice changer",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician load calculation nec",
+   "lo": "bubble wrap popper",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "fe civil exam practice",
+   "lo": "color picker wallpaper",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "ultrasound physics registry review",
+   "lo": "sticker maker",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "sprinkler system hydraulic calculator",
+   "lo": "selfie camera",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic drug dosing reference",
+   "lo": "astrology horoscope",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "surveyor traverse calculator",
+   "lo": "video downloader",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "decibel meter",
+   "lo": "mmo rpg with live servers",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "concrete mix ratio calculator",
+   "lo": "ai video generator from text",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque unit converter",
+   "lo": "food delivery marketplace",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "knot tying guide",
+   "lo": "multiplayer voice chat platform",
+   "split": "train"
   }
  ],
  "note": [

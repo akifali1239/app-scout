@@ -43343,6 +43343,408 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "clinical optometry poland 2025",
+   "top": [
+    {
+     "name": "Clinical Optometry Poland 2025",
+     "dev": "Damian Wrzeszcz",
+     "ratings": 0,
+     "desc": "Aplikacja mobilna Clinical Optometry Poland 2025 (COP 2025) to przewodnik po trzydniowej, międzynarodowej konferencji naukowo-szkoleniowej w Łodzi, poświęconej współczesnej optometrii klinicznej. W pr"
+    },
+    {
+     "name": "Eye Handbook",
+     "dev": "Cloud Nine Development LLC",
+     "ratings": 1156,
+     "desc": "Eye Handbook (EHB) is an eye care reference book and an all-in-one app for Ophthalmologists, Optometrists as well as Students/Residents pursuing the field of eye care.\n\nThe Eye Handbook is a smartphon"
+    },
+    {
+     "name": "KMK Optometry Coaching",
+     "dev": "KMK Optometry",
+     "ratings": 32,
+     "desc": "The KMK Coaching Community is an exclusive learning platform for optometry students who have purchased KMK Coaching and are preparing for a retake of NBEO® Part 1 and/or 2 boards.  Joining a community"
+    },
+    {
+     "name": "EyeMed",
+     "dev": "EyeMed Vision Care",
+     "ratings": 34737,
+     "desc": "Get the most from your EyeMed vision benefits – anytime, anywhere. Check your benefits, find an eye doctor and view claims on the go with ease.\nThe EyeMed app gives you the ability to:\n- View your ben"
+    },
+    {
+     "name": "KMK Optometry Pages",
+     "dev": "KMK Optometry",
+     "ratings": 6,
+     "desc": "\"KMK AI Reader is your all-in-one study companion—designed to help you learn more efficiently and engage with your content like never before.\n\nAccess your full library of KMK digital textbooks and mat"
+    },
+    {
+     "name": "Smart Optometry",
+     "dev": "Hundred Vision d.o.o.",
+     "ratings": 529,
+     "desc": "Smart Optometry is #1 choice for eye care professionals around the world! Give your patients’ best care with 15 FREE INTERACTIVE, PRECISE and SIMPLE eye exams in 9 languages. Join 100.000+ eye care sp"
+    },
+    {
+     "name": "AAO Ophthalmic Education",
+     "dev": "American Academy of Ophthalmology, Inc.",
+     "ratings": 18,
+     "desc": "The AAO Ophthalmic Education app offers free, easy access to clinical content from the American Academy of Ophthalmology, your source for the most trusted and reliable information on eye disorders and"
+    },
+    {
+     "name": "VSP Vision Care",
+     "dev": "VSP Global",
+     "ratings": 47,
+     "desc": "Take your vision benefits with you wherever you go. The VSP Vision Care® app makes it easy to manage your eye care, access your benefits, and get the most from your coverage, all from your phone. \n \nW"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone"
+    },
+    {
+     "name": "Ophthalmology & Optometry",
+     "dev": "My Call Bag LLC",
+     "ratings": 120,
+     "desc": "Designed for healthcare professionals, this app transforms your iPhone into a comprehensive digital call bag, utilizing the True Depth Camera, gyroscope, and accelerometer.\n\nOphthalmology Tools\n• Dist"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "welding weight calculator pro",
+   "top": [
+    {
+     "name": "Welding Weight Calculator Pro",
+     "dev": "Imran Pinjara",
+     "ratings": 0,
+     "desc": "Welding Weight and Cost Calculator is a professional engineering and fabrication tool for calculating weld metal weight, filler metal consumption, deposition, and welding cost for common butt and fill"
+    },
+    {
+     "name": "Fabora: Steel & Metal Tools",
+     "dev": "jason bennett",
+     "ratings": 8,
+     "desc": "Fabora puts 27 fabrication and welding tools in one app: steel and metal weight, weld settings and a weld fault finder, a rebar calculator, fixed ladder and ship ladder design, stair stringers, steel "
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Weight calculator for metals",
+     "dev": "Electronial",
+     "ratings": 263,
+     "desc": "Weight Calculator For Metals is a metal weight calculator that lets you calculate the mass or length and price of many different shapes of metals. You can choose between many metals or add your own. \n"
+    },
+    {
+     "name": "Concrete Calculator Plus",
+     "dev": "Calc Hub, LLC",
+     "ratings": 26015,
+     "desc": "15 concrete estimation calculators to estimate concrete in cubic yards or bags, with estimated material costs.\n\nEstimate concrete needed for a rectangular slab, circular slab, footing, circular column"
+    },
+    {
+     "name": "Construction Master Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 40074,
+     "desc": "FREE Try Before You Buy 14 Day Trial; your App Store account is not charged by Apple during the free trial. Rated 4.8 stars with over 1.12M downloads. The trusted construction calculator used by profe"
+    },
+    {
+     "name": "Metal Weight Calculator App",
+     "dev": "Valaji Global",
+     "ratings": 153,
+     "desc": "Introducing the Metal Weight Calculator App: Your Ultimate Tool for Accurate and Efficient Metal Weight Calculations!\n\nDescription:\n\nThe Metal Weight Calculator App is a cutting-edge and user-friendly"
+    },
+    {
+     "name": "McCalc Fusion Calculator",
+     "dev": "McElroy Manufacturing, Inc.",
+     "ratings": 18,
+     "desc": "The McCalc Fusion Pressure Calculator is designed to help you quickly find the correct fusion pressure for your job.\n\nTo properly heat-fuse polyethylene pipe, the fusion pressure must be adjusted so t"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades i"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "forklift & box",
+   "top": [
+    {
+     "name": "Forklift & Box",
+     "dev": "Piotr Dziugiel",
+     "ratings": 0,
+     "desc": "Forklift & Box is a free version of classic computer game in which a player's task is place the boxes on a green fields. It is not always as easy as it looks like, taking into account that you cannot "
+    },
+    {
+     "name": "Forklift Extreme Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 307,
+     "desc": "Drive powerful forklifts and master warehouse logistics in one of the most advanced forklift simulators on mobile.\n\nTransport cargo, upgrade machines and manage warehouse operations across detailed in"
+    },
+    {
+     "name": "Forklift Certified Pro",
+     "dev": "Flat Earth LLC",
+     "ratings": 9,
+     "desc": "Get OSHA-aligned forklift operator training and your certificate — right from your phone. Train at your own pace, pass the final exam, and download your certificate the same day.\n\nForklift Certified i"
+    },
+    {
+     "name": "Uber Freight",
+     "dev": "Uber Technologies, Inc.",
+     "ratings": 12780,
+     "desc": "Uber Freight gives control to carriers with instant load bookings, upfront load and facility details, and business management tools. It's the one app for every haul.\n \nHassle-free booking available 24"
+    },
+    {
+     "name": "Forklift Rush Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 203,
+     "desc": "Take control of powerful forklifts and become the ultimate warehouse operator in Forklift Rush Simulator — a realistic forklift driving game where precision, skill and speed matter.\n\nLoad pallets, mov"
+    },
+    {
+     "name": "TruckPaper: Trucks For Sale",
+     "dev": "Sandhills Global, Inc.",
+     "ratings": 21721,
+     "desc": "Discover the ultimate platform to find and sell new and used trucks, trailers, and commercial vehicles, including sleeper trucks, day cabs, vans, flatbeds, dump trucks, tow trucks, and other vocationa"
+    },
+    {
+     "name": "MachineryTrader: Buy Equipment",
+     "dev": "Sandhills Global, Inc.",
+     "ratings": 6104,
+     "desc": "Discover the ultimate platform to buy and sell new and used construction equipment, heavy machinery, industrial tools, parts, and attachments. Whether you’re a buyer, a private seller, or a dealer, th"
+    },
+    {
+     "name": "Crown Service Request",
+     "dev": "Crown Equipment Corporation",
+     "ratings": 16,
+     "desc": "When it comes to your forklift fleet, it’s all about uptime. Whether you need responsive service or are just looking to rent the equipment you need, count on the Crown app to get the process started a"
+    },
+    {
+     "name": "Taskrabbit Delivery",
+     "dev": "Dolly, Inc.",
+     "ratings": 38271,
+     "desc": "Taskrabbit Delivery (formerly Dolly) is a fast, easy, and affordable way to get the moving and delivery help you need on your terms. Whether you’re moving apartments or you need to get big and bulky i"
+    },
+    {
+     "name": "GoShare: Drive, Deliver, Earn",
+     "dev": "GoShare Inc.",
+     "ratings": 14382,
+     "desc": "Be your own boss, work when you want, and get paid weekly with GoShare. Earn money on a flexible schedule driving your pickup truck, cargo van, box truck, SUV, or car.\n\nGoShare is the best marketplace"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "barber hair style master",
+   "top": [
+    {
+     "name": "Barber Hair Style Master",
+     "dev": "Mansoor Saddique",
+     "ratings": 638,
+     "desc": "In this game you can create a variety of hairstyles for your clients. Step into the role of a barber and use simple tools to cut, trim, and style hair. Experiment with different looks by applying colo"
+    },
+    {
+     "name": "Hair Tattoo: Barber Shop Game",
+     "dev": "AI Games FZ",
+     "ratings": 4617,
+     "desc": "Hair Tattoo: Barbershop Master is a barber simulator! Do you want to learn how to make cool haircuts and become a master of this business? Join our barbershop and create hairstyles of any difficulty!\n"
+    },
+    {
+     "name": "Barber Shop Hair Cut Salon Sim",
+     "dev": "Malik Ali Mushtaq",
+     "ratings": 147,
+     "desc": "Do you want to be a well-known hair salon in the town?\nEmploy talented artists to please your clients!\nContinue raising the expectations for your cutting standards and styles!\nYou can own the #1 saloo"
+    },
+    {
+     "name": "Haircut Master Fade Barber 3D",
+     "dev": "MOONEE PUBLISHING LTD",
+     "ratings": 6305,
+     "desc": "Ready for some Real Hair-cutting Experience ?\n\nTry to match your clients' desired haircut in this real life Barber Shop and Salon feeling!\nClients and special clients are waiting for you! They want yo"
+    },
+    {
+     "name": "Barber Shop Hair Cut Salon 3D",
+     "dev": "Ubaid Alwani",
+     "ratings": 1195,
+     "desc": "Welcome to Barber Shop Game: Hair Salon! Do you want to become a master of Hair Cutting & Barber Shop Makeup Game? Then you will try this amazing Hair Salon Game. In this Barber Shop Game, we will giv"
+    },
+    {
+     "name": "Fade Master 3D: Barber Shop",
+     "dev": "Phantom EFX, Inc.",
+     "ratings": 115527,
+     "desc": "Welcome to Fade Master 3D where you have to create the best hairstyles!\nIn this incredibly satisfying hair-cutting game you will experience a great barbershop experience.\n\nNumerous customers will dema"
+    },
+    {
+     "name": "Barber Shop Beauty Salon & Spa",
+     "dev": "Miftah Nawazen",
+     "ratings": 251,
+     "desc": "We open a new barbershop in your town and introduce new haircut styles, beards, and mustaches. You have perfect skills of beard style shaving which helps to increase your business in the city. If you "
+    },
+    {
+     "name": "theCut: Find & Book Barbers",
+     "dev": "theCut Inc",
+     "ratings": 17763,
+     "desc": "I needed a barber. Fast.\nBig weekend coming up.\nMy barber? Fully booked.\nSo I downloaded theCut.\nWithin minutes, I was scrolling through barbers near me — real photos, real reviews, real work. I could"
+    },
+    {
+     "name": "Hair Salon: Master Of Fade 3D",
+     "dev": "Cong Son Le",
+     "ratings": 8,
+     "desc": "Step into the world of Barber Shop Simulator, where you become the master of style and grooming. This immersive game puts you in charge of your very own barber shop, where customers rely on you for th"
+    },
+    {
+     "name": "Master Cut",
+     "dev": "Ketchapp",
+     "ratings": 1408,
+     "desc": "Welcome to the Barbers Shop !\n\nTake a seat and let our barbers take care of you:\n\n- Collect and Hairdress all VIPs\n- Be the most successful barber in the city"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "scuba lovers puzzle",
+   "top": [
+    {
+     "name": "Scuba Lovers Puzzle",
+     "dev": "Hurol Ozturk",
+     "ratings": 5,
+     "desc": "If you love Scuba Diving and enjoy doing jigsaw puzzles, I have good news for you. \"Scuba Lovers Puzzle\" is definitely your game to go.\n\nVarying from 9 to 64 pieces, dozens of magnificent & high quali"
+    },
+    {
+     "name": "Water Connect Puzzle",
+     "dev": "IEC GLOBAL PTY LTD",
+     "ratings": 43013,
+     "desc": "By changing the direction of water on the ground, you connect water and trees. A level is completed when all the trees are watered. Pay attention to the color of the trees and the color of the water.\n"
+    },
+    {
+     "name": "Water Out Puzzle®",
+     "dev": "HM Games Pty Ltd",
+     "ratings": 18047,
+     "desc": "Water Out Puzzle offers a cool and clever puzzle experience that puts your brain to the test!\n\nMove the blocks toward the pipes with matching colors to fill all blocks with water.\nFill all the water b"
+    },
+    {
+     "name": "Drop Escape : Block Puzzle",
+     "dev": "Fiogonia Games",
+     "ratings": 38726,
+     "desc": "Enjoy a truly relaxing, NO-TIMER puzzle experience with absolutely NO PAY-TO-WIN. Drop Escape: Block Puzzle lets you think, plan, and solve at your own pace. No countdowns, no pressure, no forced purc"
+    },
+    {
+     "name": "tint.",
+     "dev": "Lykkegaard Europe Limited",
+     "ratings": 8752,
+     "desc": "Tint lets you solve puzzles by painting. Mix watercolors to match the color of the origami - all at a soothing pace and in the comfort of your own garden studio. Here are no timers, no countdowns, no "
+    },
+    {
+     "name": "Water Sort Puzzle - Sort Color",
+     "dev": "Guru Smart Holding Limited",
+     "ratings": 129504,
+     "desc": "The great simple but addictive, fun, and challenging water sort puzzle games for you! It is the best water sorting puzzle game for you to train your brain, kill free time and relax! \n\nIf you'd like to"
+    },
+    {
+     "name": "Save The Fish! Rescue Puzzle",
+     "dev": "Mesiba Games",
+     "ratings": 24562,
+     "desc": "The game you have been waiting for is finally here!\nYes this is the real game!\n\nYour mission is simple - Save The Fish!\nUse the different types of levers to control the aquarium, and bring the fish ba"
+    },
+    {
+     "name": "Merge Cruise: Mystery Puzzle",
+     "dev": "Games Studio PeerPlay LTD.",
+     "ratings": 22937,
+     "desc": "Embark on a thrilling merging, puzzling, and matching adventure with Merge Cruise: Mystery Puzzle! \nSet sail on a captivating journey across exotic islands, where every merge unlocks hidden treasures "
+    },
+    {
+     "name": "Cups - Water Sort Puzzle",
+     "dev": "Bluebook",
+     "ratings": 725,
+     "desc": "Water Sort Puzzle is a fun, addictive and relaxing puzzle game! \n\nAt each stage of this brain game you will unlock new challenges! You'll have to go through the tap puzzle stage, after the brick puzzl"
+    },
+    {
+     "name": "Atlantis Bounce",
+     "dev": "Gimica GmbH",
+     "ratings": 8345,
+     "desc": "Welcome to Atlantis Bounce – a deep sea puzzle adventure!\nShoot pearls and clear blocks in this addictively simple arcade puzzle game. The deeper you go, the more pearls you collect and the tougher th"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "internet speed meter lite",
+   "top": [
+    {
+     "name": "Internet Speed Meter Lite",
+     "dev": "Vaibhavi Bhingradiya",
+     "ratings": 18,
+     "desc": "Internet Speed Meter Lite – Smartly Monitor & Optimize Your Internet Experience\n\nTake control of your internet experience with Internet Speed Meter Lite – a powerful, lightweight utility designed to g"
+    },
+    {
+     "name": "InternetMeter + Speed Widget",
+     "dev": "khalil mahyoub abdulwahid abdo",
+     "ratings": 188,
+     "desc": "Simple tool to display internet speed and data usage in Notification Center and Lock Screen in real time.\n\nDisplay your billing cycle status  Lock Screen and Home Screen through widgets.\n\n*. internet "
+    },
+    {
+     "name": "Internet Speed Test Speedcheck",
+     "dev": "Ookla",
+     "ratings": 98437,
+     "desc": "Use Speedcheck to test the speed of internet connections and add your results to SpeedSpot's WiFi speed database. You can use the companion app, SpeedSpot's WiFi Finder right from with the app to find"
+    },
+    {
+     "name": "Speedtest by Ookla",
+     "dev": "Ookla",
+     "ratings": 28202,
+     "desc": "Use Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n \nExplore mobile network coverage with Speedtest Maps based on real-worl"
+    },
+    {
+     "name": "Opensignal Speed Test Ad Free",
+     "dev": "Opensignal Inc.",
+     "ratings": 17847,
+     "desc": "Opensignal is a fully-featured mobile connectivity and network signal speed test tool. \n\nSpeed test, including download, upload and latency - for 3G, 4G/LTE, 5G and WiFi\nFind the best network provider"
+    },
+    {
+     "name": "Speed Test | HighSpeedInternet",
+     "dev": "CLEAR LINK TECHNOLOGIES, LLC",
+     "ratings": 19318,
+     "desc": "HighSpeedInternet.com’s free internet Speed Test helps you see exactly how your internet connection is performing. With just a single tap on your mobile device, test your Wi-Fi (DSL, Fiber, Cable, Sat"
+    },
+    {
+     "name": "WIFI & Internet Speed Test",
+     "dev": "Appenvision Ltd",
+     "ratings": 6665,
+     "desc": "1,000,000+ users use the Speedtest, trusted by professionals, to test Internet and WI-FI speed.\n\nThis app is a fast and accurate utility for evaluating your cellular (3G,4G,LTE) and Wi-Fi connection o"
+    },
+    {
+     "name": "Wifi Analizer Signal Strength",
+     "dev": "Top Cool Apps LLC",
+     "ratings": 14647,
+     "desc": "Test, Analyze & Optimize Your Internet!\n\nStruggling with slow WiFi or mobile data? Want to know if your internet provider is keeping their promises?\n\n SpeedTest – WiFi Analyzer is your go-to solution "
+    },
+    {
+     "name": "Traffic Monitor with Widget",
+     "dev": "Treconite S.L.",
+     "ratings": 452,
+     "desc": "Demand more. Have it all at your fingertips.\nSpeed - Data - Voice - Quality\n\nWith the ad-free Traffic Monitor with built-in Today Extension (Widget) and Watch App you can check your 3G / 4G / 5G speed"
+    },
+    {
+     "name": "Speed Test SpeedSmart Internet",
+     "dev": "IDB LLC",
+     "ratings": 64650,
+     "desc": "SpeedSmart is a free internet speed test app for evaluating your WiFi and Mobile 5G, 4G LTE connection on your iPhone or iPad. Download now!\n\n*** App Features ***\n\n- Test your Download & Upload Speed\n"
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

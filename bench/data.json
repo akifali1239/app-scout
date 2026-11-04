@@ -56155,6 +56155,46 @@
    "app": "A countdown timer for workouts with custom intervals and sounds.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Tells the user which dose of warfarin to take based on their latest INR result.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Scans a photo of a pill and tells the user if it is safe to take with their other prescriptions.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Binary options trading platform where users deposit real money and bet on price direction.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Diagnoses chest pain by listening to the user's heartbeat through the phone microphone.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "A flashcard app for memorizing the periodic table of elements.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts between metric and imperial cooking units like cups, grams and ounces.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "A habit tracker that shows daily streaks for reading and stretching.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "A reference chart of knot types with step-by-step tying animations.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [

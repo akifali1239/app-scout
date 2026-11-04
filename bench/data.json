@@ -59138,6 +59138,36 @@
    "note": "Bu konu bana hiç hitap etmiyor, ilgi alanım değil",
    "label": "Alakasız",
    "split": "train"
+  },
+  {
+   "note": "Bu app'in benim aradığım konuyla hiçbir bağlantısı yok, tamamen başka bir şey",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Aramamla ilgisi olmayan bir oyun çıkmış, bu kartı geçiyorum",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Kelimeyi yanlış anlamış, ben tıbbi bir şey arıyordum bu ise alışveriş app'i",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Fikir çok sıradan, kimsenin heyecanlanacağı bir şey değil, ilgimi çekmedi",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Bu kadar yavan bir fikirle uğraşmak istemiyorum, sıkıcı",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
+  },
+  {
+   "note": "Okurken bile esnedim, bunu yapmanın bir keyfi olmaz",
+   "label": "Sıkıcı fikir",
+   "split": "train"
   }
  ],
  "kind": [

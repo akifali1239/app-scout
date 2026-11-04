@@ -54663,6 +54663,306 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "voice recorder & audio editor",
+   "apps": [
+    {
+     "name": "Voice Recorder & Audio Editor",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Record voice and trim, cut and merge recordings with an audio editor."
+    },
+    {
+     "name": "Voice Record Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Professional voice recorder with editing, trimming and cloud export."
+    },
+    {
+     "name": "SoundLab - Audio Editor",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Desktop-grade audio editing and recording on iPhone."
+    },
+    {
+     "name": "Meeting Notes AI",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Transcribes meetings and writes summaries."
+    },
+    {
+     "name": "Guitar Tuner Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Tune your guitar with a precise chromatic tuner."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "rebar spacing calculator",
+   "apps": [
+    {
+     "name": "Rebar Spacing & Layout",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate rebar spacing, count and cut length for slabs and footings."
+    },
+    {
+     "name": "Rebar Calc Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Rebar weight, spacing and lap length calculator for concrete work."
+    },
+    {
+     "name": "Concrete Volume Calculator",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compute concrete volume for slabs, columns and footings."
+    },
+    {
+     "name": "Construction Jobs Board",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find construction jobs near you."
+    },
+    {
+     "name": "Sudoku Master",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Classic sudoku puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nclex pharmacology flashcards",
+   "apps": [
+    {
+     "name": "NCLEX Pharm Flashcards",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Flashcards for nursing pharmacology with NCLEX-style questions."
+    },
+    {
+     "name": "Nurse Drug Cards",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Drug classes, side effects and nursing considerations as flashcards for NCLEX."
+    },
+    {
+     "name": "NCLEX Practice Exam",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Thousands of NCLEX-RN practice questions across all topics."
+    },
+    {
+     "name": "Medication Reminder",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Reminds patients to take medicine on time."
+    },
+    {
+     "name": "Cooking Timer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Kitchen timers for multiple dishes."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "dog grooming invoice",
+   "apps": [
+    {
+     "name": "Groomer Invoice & Booking",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Invoices, appointments and client records for dog groomers."
+    },
+    {
+     "name": "Pet Groomer Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Business manager for pet groomers: schedule, invoices and payments."
+    },
+    {
+     "name": "Dog Training Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log training sessions for your own dog."
+    },
+    {
+     "name": "Invoice Maker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "General invoice and estimate generator for small business."
+    },
+    {
+     "name": "Dog Walk Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Casual game where you walk a virtual dog."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "emt drug dosage flashcards",
+   "apps": [
+    {
+     "name": "EMT Meds Flashcards",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Prehospital drug doses and indications flashcards for EMTs."
+    },
+    {
+     "name": "Paramedic Drug Cards",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Study cards for paramedic medication formulary."
+    },
+    {
+     "name": "EMT Exam Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "NREMT practice tests."
+    },
+    {
+     "name": "First Aid Basics",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Home first aid guide for families."
+    },
+    {
+     "name": "Pill Identifier",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Identify pills by shape and color."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "tide chart for fishing",
+   "apps": [
+    {
+     "name": "Tide Chart & Fishing Times",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Local tide tables and best fishing times."
+    },
+    {
+     "name": "Fishing Tides Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Tide charts, solunar and bite forecast for anglers."
+    },
+    {
+     "name": "Marine Weather",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Wind, wave and weather for boaters."
+    },
+    {
+     "name": "Fish Species Guide",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Identify fish species with photos."
+    },
+    {
+     "name": "Photo Collage Maker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Make collages from photos."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

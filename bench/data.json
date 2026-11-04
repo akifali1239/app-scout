@@ -2774,6 +2774,41 @@
    "term": "compass maps",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "star gazer & night sky map",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "compass - maps",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "internet speed meter lite",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "bird identifier: birding scans",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "forklift pro",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "speedometer gps: speed tracker",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "barber hair style master",
+   "label": "game",
+   "split": "train"
   }
  ],
  "brand": [
@@ -42979,6 +43014,335 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "bird list: birding journal",
+   "top": [
+    {
+     "name": "Bird List: Birding Journal",
+     "dev": "Eduardo Simioni",
+     "ratings": 0,
+     "desc": "Your birding life, in your pocket — and yours alone.\n\nBird List is a complete birding and bird-photography journal, built to work 100% offline and to respect your data like no other app in its class.\n"
+    },
+    {
+     "name": "Audubon Bird Guide",
+     "dev": "National Audubon Society",
+     "ratings": 4520,
+     "desc": "The Audubon Bird Guide is a free and complete field guide to over 800 species of North American birds, right in your pocket. Built for all experience levels, it will help you identify the birds around"
+    },
+    {
+     "name": "MyBird - Birding Journal",
+     "dev": "Rahin Mustafa",
+     "ratings": 1,
+     "desc": "Why MyBird?\n\nMyBird turns scattered bird photos into your personal catalogue. Every sighting, \nphoto, note, and location — organised by species, and always at your fingertips.\n\nBuilt for birders and p"
+    },
+    {
+     "name": "Bird Identifier: BirdScope",
+     "dev": "Scala technology limited",
+     "ratings": 2937,
+     "desc": "BirdScope offers incredibly quick identification assistance, catering to bird watchers at all experience levels and outdoor enthusiasts alike. Using advanced AI image recognition and audio analysis te"
+    },
+    {
+     "name": "Smart Bird ID: Identify Birds",
+     "dev": "Yellow Cardinal Inc.",
+     "ratings": 16799,
+     "desc": "Identify, Collect and Learn – Free. No Ads. Ever.\n\nSmart Bird ID is the all-in-one bird identifier, bird song identifier, bird call identifier, bird sounds guide, and bird watching app for birders, fa"
+    },
+    {
+     "name": "BirdsEye Bird Finding Guide",
+     "dev": "Birds In The Hand, LLC",
+     "ratings": 1876,
+     "desc": "BirdsEye is a unique and powerful tool that helps you discover the birds around you and find the birds you want to see. See more birds with BirdsEye!\n\nBirdsEye is the perfect tool for birders of any l"
+    },
+    {
+     "name": "Flock Yard Bird List",
+     "dev": "Flock LLC",
+     "ratings": 96,
+     "desc": "Flock is the perfect app for bird lovers that want a place to track the birds in their yard. Flock helps you quickly add the birds you see in your yard, share sightings with friends, and connect with "
+    },
+    {
+     "name": "Picture Bird: Bird identifier",
+     "dev": "Next Vision Limited",
+     "ratings": 40335,
+     "desc": "Picture Bird is a useful and smart bird identifier app that can recognize any bird species by photo or sound. Simply take/upload a picture of a bird or record a bird's sound, and you can get everythin"
+    },
+    {
+     "name": "Merlin Bird ID by Cornell Lab",
+     "dev": "Cornell University",
+     "ratings": 113546,
+     "desc": "What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.\n\nMerlin helps you identify birds you see and hear. Merlin is unlike any"
+    },
+    {
+     "name": "EyeLoveBirds: Bird Checklists",
+     "dev": "EYELOVELIFE INTERACTIVE INC",
+     "ratings": 525,
+     "desc": "Identify birds and track your sightings with this complete bird watching guide and bird checklist for the United States, Canada and Europe.\n\nAdd sightings of any of the world's 10,000 bird species. Ge"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "tea sommelier ebook",
+   "top": [
+    {
+     "name": "Tea Sommelier Ebook",
+     "dev": "Australian Tea Masters Association Pty. Ltd.",
+     "ratings": 0,
+     "desc": "The Australian Tea Masters Tea Sommelier Handbook is designed for all – students and enthusiasts alike – who wish to learn more about tea. It covers a wide breadth of topics from the history of tea to"
+    },
+    {
+     "name": "MollyteaUS",
+     "dev": "Chowbus, Inc.",
+     "ratings": 1085,
+     "desc": "Key Features:\nSmart Store Locator\nInstantly find the nearest Molly Tea shop with real-time updates on business hours and contact info. Never miss your Molly Tea.\nExpress Order & Grab\nSkip the line! Or"
+    },
+    {
+     "name": "HTeaO",
+     "dev": "TBevCo, LLC",
+     "ratings": 39816,
+     "desc": "Welcome to the HTeaO App! It makes it easy to earn points, redeem rewards, and get HTeaO delivered right to your door.\n\nFeatures Include:\n1. Order Ahead — Place your order with your device, and choose"
+    },
+    {
+     "name": "Art of Tea",
+     "dev": "The Art of Tea LLC",
+     "ratings": 275,
+     "desc": "Download the Art of Tea app for fast and easy shopping of your favorite teas, teaware, and tea gifts. Enjoy exclusive in-app deals and be the first to know  about new product launches when you become "
+    },
+    {
+     "name": "OMOMO TEA SHOPPE",
+     "dev": "Per Diem Subscriptions, Inc.",
+     "ratings": 101,
+     "desc": "Order matcha, milk tea, lattes, lemon coffee, and Thai drinks with the OMOMO Tea Shoppe app. Earn rewards on every order."
+    },
+    {
+     "name": "Harney & Sons",
+     "dev": "Harney & Sons Tea Corp.",
+     "ratings": 1472,
+     "desc": "Enjoy quick, convenient access to over 300 varieties of the world’s finest teas with the Harney & Sons app! Shop from your mobile device and enjoy free shipping on every order of your favorite teas, c"
+    },
+    {
+     "name": "Adagio Teas: Loose Leaf Teas",
+     "dev": "Adagio Teas",
+     "ratings": 3525,
+     "desc": "Download our app to easily shop on the go, set and update scheduled shipments, post reviews, and easily earn valuable points that translate into amazing savings.  We hope you enjoy the maiden version "
+    },
+    {
+     "name": "MyTeaPal: Tea Timer & Journal",
+     "dev": "MyTeaPal LLC",
+     "ratings": 232,
+     "desc": "Join 34,000+ tea drinkers in 100+ countries — MyTeaPal is the all-in-one home for how you brew, log, and share tea. Available in 26 languages.\n\nMyTeaPal is the ultimate companion for tea drinkers, an "
+    },
+    {
+     "name": "Sweetwaters Coffee & Tea",
+     "dev": "Sweetwaters Brands LLC",
+     "ratings": 2397,
+     "desc": "Order ahead for pickup with the Sweetwaters app!\nHandcrafted, real ingredient-focused & globally inspired drinks at your fingertips!\nEarn SweetRewards points on mobile app purchases & redeem FREE drin"
+    },
+    {
+     "name": "heytea",
+     "dev": "HEYTEA",
+     "ratings": 9473,
+     "desc": "The official heytea app is now launched! Order heytea online, choose from a rich variety of drink categories, customize your heytea and easily locate your nearest heytea stores on. Log in to heytea no"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "geology and mining",
+   "top": [
+    {
+     "name": "Geology and Mining",
+     "dev": "Lailen",
+     "ratings": 0,
+     "desc": "A comprehensive app for managing mining permits, leases, etc for Mizoram."
+    },
+    {
+     "name": "Digger's Map: Find Minerals",
+     "dev": "Slava Barouline",
+     "ratings": 507,
+     "desc": "# Interested in geology and minerals? Would like to know where gold, silver and gemstone mines are?\n# Our unique app offers a massive global database with more than 300,000 locations and 60+ minerals!"
+    },
+    {
+     "name": "Mining Inc.",
+     "dev": "Green Panda Games",
+     "ratings": 14091,
+     "desc": "Make it rain with your mining empire! Become the next mining trillionaire, rule the industry, and be the king of all mines!\n\nDISCOVER AND ENJOY DIVERSE CONTENT\nThroughout the game, you will see your e"
+    },
+    {
+     "name": "Stone Miner",
+     "dev": "ZPLAY (HK) TECHNOLOGY CO., LIMITED",
+     "ratings": 117989,
+     "desc": "Welcome to Stone Miner: Crush the stones with your truck, Mine the resources, Sell them on the base, and Upgrade your truck to get even more!\nThere are different types of islands you can explore, the "
+    },
+    {
+     "name": "Drill & Collect: idle mine dig",
+     "dev": "APPS TEKNOLOJI ANONIM SIRKETI",
+     "ratings": 92636,
+     "desc": "Build a mining empire in this exciting excavation game adventure. Dig up hidden treasures deep beneath the earth’s surface in this rich planet of mud, dirt, sand and ore. Drill, dig, and strategize to"
+    },
+    {
+     "name": "Idle Miner Tycoon clicker game",
+     "dev": "Kolibri Games GmbH",
+     "ratings": 864258,
+     "desc": "Are you a true gold miner? Join Business Empire in Idle Miner Tycoon, the leading business simulation trusted by millions. In this simulator, you take control as a top tycoon to build your mining empi"
+    },
+    {
+     "name": "Geology Here",
+     "dev": "赫 郭",
+     "ratings": 0,
+     "desc": "-If you are a geology student, do you need the best knowledge?\n-If you are a geologist graduate, do you need an ideal job?\n-If you are a teacher of geology and mining, do you need the best teaching en"
+    },
+    {
+     "name": "Mine Locator Map",
+     "dev": "Qvyshift LLC",
+     "ratings": 361,
+     "desc": "Mines near me: Mine map showing locations of historical mines and metallic and nonmetallic mineral resources in the United States.\n\nLocate abandoned mines, active mines, prospects, deposits, and proce"
+    },
+    {
+     "name": "Dig Out! Mine Adventure",
+     "dev": "Interactive360",
+     "ratings": 13363,
+     "desc": "The mines are not going to dig themselves!\n\nGrab a pickaxe, fresh pair of shoes and start diggen'!\n\nDig as deep as you can to collect shiny gems and treasures! But dig carefully, as the FALLING BOULDE"
+    },
+    {
+     "name": "Stone Identifier - Rock Finder",
+     "dev": "App Holdings",
+     "ratings": 1543,
+     "desc": "Have you encountered a rock and you don’t know what it is? Maybe you want to learn more about it, minerals or any crystal? Rock Seeker is the ultimate app to help you identify and study more about tho"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "dog grooming tracker - coat",
+   "top": [
+    {
+     "name": "Dog Grooming Tracker - Coat",
+     "dev": "Karol Jaworski",
+     "ratings": 1,
+     "desc": "Coat is the mobile dog groomer's business companion. Store every dog's complete grooming profile - cut style, blade numbers, shampoo, behavioral notes, medical alerts - so you deliver consistent resul"
+    },
+    {
+     "name": "Fi - GPS Dog Tracker",
+     "dev": "Barking Labs Corp.",
+     "ratings": 41106,
+     "desc": "Fi Series 3+ is the world's smartest GPS dog collar—now powered by AI.\n\nPaired with a Fi collar, the Fi app brings you even closer to your dog. Track their location, monitor activity and health patter"
+    },
+    {
+     "name": "Halo Collar",
+     "dev": "Protect Animals With Satellites, LLC",
+     "ratings": 9360,
+     "desc": "Introducing Halo: the world’s greatest smart fence system. The virtual fences you create right in the app work with the revolutionary Halo Collar, and actually keep your dog safely inside. Halo also i"
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "Scenthound",
+     "dev": "Scenthound Franchising, LLC",
+     "ratings": 136,
+     "desc": "Love a clean, healthy dog®\n\nGetting your pup the routine care they need to stay clean and healthy is easier than ever! With the Scenthound mobile app you'll be able to book ahead of time at your prefe"
+    },
+    {
+     "name": "DogLog - Track your dog’s life",
+     "dev": "DogLog",
+     "ratings": 1363,
+     "desc": "DogLog is an easy-to-use pet care app that makes pet ownership less stressful. It helps dog owners track their pet’s health, coordinates daily pet-related tasks, and lots more! DogLog is great for sin"
+    },
+    {
+     "name": "Dogtra PATHFINDER2",
+     "dev": "Dogtra",
+     "ratings": 1749,
+     "desc": "Cut’em loose. Explore more. Track your dogs real time with Dogtra PATHFINDER2. The new PATHFINDER2 is NOT compatible with PATHFINDER series.\n\nA feature packed new Dogtra PATHFINDER2 is a complete GPS "
+    },
+    {
+     "name": "DaySmart Pet Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 1096,
+     "desc": "DaySmart Pet, formerly 123Pet, is an easy to use groomer appointment scheduling app for pet grooming business owners, employees, and independent contractors that lets you manage your grooming business"
+    },
+    {
+     "name": "DapperTails Mobile Grooming",
+     "dev": "The Ruff Life Mobile Grooming",
+     "ratings": 12,
+     "desc": "An app that connects pet parents with premium pet grooming facilities.\n\n- Instant Booking: Effortlessly schedule appointments with top-notch pet grooming facilities.\n- Manage Easily: Track your past a"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "speedometer gps: speed monitor",
+   "top": [
+    {
+     "name": "Speedometer GPS: Speed Monitor",
+     "dev": "Duyou Technology Co., Limited",
+     "ratings": 424,
+     "desc": "Speedometer GPS: Speed ​​Monitor is a high-precision GPS speedometer that integrates speed monitoring, trip recording, HUD head-up display, speeding reminder and other functions. It provides real-time"
+    },
+    {
+     "name": "Speedometer Simple",
+     "dev": "WATT APPS",
+     "ratings": 129153,
+     "desc": "Speedometer Simple is a simple speedometer that is very easy to use. \n\nThis app uses phone's GPS to accurately determine your speed.\n\nSpeedometer has large fonts and supports mph, km/h, and knots spee"
+    },
+    {
+     "name": "Speedometer 55 GPS Speed & HUD",
+     "dev": "Stanislav Dvoychenko",
+     "ratings": 64671,
+     "desc": "A high quality Speedometer app with the same sophisticated brain inside as our paid version. When you go over a preset speed limit, the large digits change colour from green to red and the device emit"
+    },
+    {
+     "name": "Speedmeter mph digital display",
+     "dev": "UniCom Technology",
+     "ratings": 15910,
+     "desc": "GPS digital Speedometer displays your speed while you are in a vehicle, biking or walking, measure trip distance offline, no need internet.\nFeatures:\n* Follow on Today Widget \n* Use app on your Apple "
+    },
+    {
+     "name": "Speedometer – How Fast Am I?",
+     "dev": "Marcel Kraus",
+     "ratings": 2190,
+     "desc": "“Speedometer – How Fast Am I?” is an ad-free and cost-free speedometer app in your pocket. “Speedometer” shows your current speed and position on the globe without any disturbing banner ads.\n\nJust use"
+    },
+    {
+     "name": "Speedometer ⋙",
+     "dev": "UniCom Technology",
+     "ratings": 15187,
+     "desc": "Speedometer is GPS speedometer, odometer for the iPhone and iPad. \nTrack your speed and trip from your iPhone in Miles and Kilometer\nFeatures:\n-kmh, mph unit selection\n-Odometer\n-Average and maximum s"
+    },
+    {
+     "name": "GPS Speed: Speedometer Tracker",
+     "dev": "Nothern Studio",
+     "ratings": 3,
+     "desc": "GPS Speed: Speed Tracker is a powerful and easy-to-use speedometer app that uses GPS to track your speed, distance, duration, and more in real time. Whether you're driving, cycling, running, or sailin"
+    },
+    {
+     "name": "Speedometer ⊲",
+     "dev": "UniCom Technology",
+     "ratings": 4189,
+     "desc": "GPS speedometer displays your current speed while you are in a vehicle, bicycle or walking, measuring the travel time distance (odometer) and altitude. It can work without Internet connection.\nCharact"
+    },
+    {
+     "name": "Speedometer»",
+     "dev": "Tim O's Studios, LLC",
+     "ratings": 50331,
+     "desc": "Speedometer» is a super-large, simple speed display for your iPhone, iPad, and Apple Watch.\n\nThere is no account to create and no login. Download the app, open it, and see your speed in seconds.\n\nSPEE"
+    },
+    {
+     "name": "Speedometer ⁺",
+     "dev": "UniCom Technology",
+     "ratings": 2048,
+     "desc": "Speed display is a digital speedometer, odometer for the iPhone and iPad. \nTrack your speed and distance from your iPhone in Miles and Kilometer\nSpeed limit warning\nSpeed camera warning\nWeather displa"
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

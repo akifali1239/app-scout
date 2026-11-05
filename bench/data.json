@@ -63746,6 +63746,42 @@
    },
    "label": "service",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Rebar Spacing Calculator",
+    "category": "Productivity",
+    "desc": "Enter slab size and bar diameter to compute rebar spacing and quantity for concrete work."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Radiology Positioning Guide",
+    "category": "Medical",
+    "desc": "Reference of X-ray projections, patient positioning and technique charts for radiologic technologists."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Dr. Chat: AI Health Assistant",
+    "category": "Health & Fitness",
+    "desc": "Chat with an AI assistant powered by GPT to get answers to your health questions."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Idle Welding Tycoon",
+    "category": "Games",
+    "desc": "Build your welding empire, upgrade machines and unlock new workshops in this idle game."
+   },
+   "label": "game",
+   "split": "train"
   }
  ]
 }

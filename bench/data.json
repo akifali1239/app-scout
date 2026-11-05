@@ -57143,6 +57143,256 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "plumbing pipe sizing calculator",
+   "apps": [
+    {
+     "name": "Pipe Sizer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Size water supply pipes by fixture units and flow rate."
+    },
+    {
+     "name": "Plumber's Handbook",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Plumbing code reference and offset calculator."
+    },
+    {
+     "name": "Plumbing Tycoon Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Fun game where you fix leaks."
+    },
+    {
+     "name": "Pipe Flow Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compute pipe diameter and pressure drop."
+    },
+    {
+     "name": "Plumber Shop Finder",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find plumbing supply stores near you."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "beekeeping hive inspection log",
+   "apps": [
+    {
+     "name": "Hive Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log hive inspections, queen status and treatments."
+    },
+    {
+     "name": "Bee Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Cute bee collecting game for kids."
+    },
+    {
+     "name": "Apiary Notes",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Record inspections and honey harvests per hive."
+    },
+    {
+     "name": "Honey Recipes",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Cook with honey."
+    },
+    {
+     "name": "Bee ID",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Identify bee species from photos."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl pre trip inspection checklist",
+   "apps": [
+    {
+     "name": "CDL Pre-Trip Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Step-by-step pre-trip inspection checklist for CDL tests."
+    },
+    {
+     "name": "Truck Racing 3D",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Race big trucks."
+    },
+    {
+     "name": "DVIR Log",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Driver vehicle inspection reports for truckers."
+    },
+    {
+     "name": "Trucker Path Maps",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Truck stops and parking."
+    },
+    {
+     "name": "CDL Practice Test",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Written CDL knowledge test questions."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hvac refrigerant pressure temperature chart",
+   "apps": [
+    {
+     "name": "HVAC PT Chart",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Pressure-temperature chart for R410A, R22 and more refrigerants."
+    },
+    {
+     "name": "HVAC Pro Toolkit",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Superheat and subcooling calculator."
+    },
+    {
+     "name": "AC Cooling Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Idle game about cooling houses."
+    },
+    {
+     "name": "Thermostat Remote",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Control your smart thermostat."
+    },
+    {
+     "name": "Refrigerant Slider",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Refrigerant PT slider for technicians."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "farm egg production tracker",
+   "apps": [
+    {
+     "name": "Egg Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log daily eggs collected from your flock."
+    },
+    {
+     "name": "Chicken Coop Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Raise chickens in this farm game."
+    },
+    {
+     "name": "Flock Manager",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track hens, eggs and feed costs."
+    },
+    {
+     "name": "Egg Timer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Kitchen timer for boiling eggs."
+    },
+    {
+     "name": "Farm Weather",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Local weather for farmers."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

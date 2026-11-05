@@ -58450,6 +58450,36 @@
    "app": "A metronome for practicing guitar at different tempos.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Estimates how much epinephrine to give a child during anaphylaxis based on weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tells you whether a lump found on your breast is likely cancerous from a phone photo.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Computes safe load limits for crane rigging so lifts don't exceed capacity.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "A flashcard deck for memorizing the periodic table elements.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts between inches, centimeters and feet for woodworking projects.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "A countdown timer for cooking with multiple named timers.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [

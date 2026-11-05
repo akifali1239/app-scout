@@ -3019,6 +3019,26 @@
    "term": "phlebotomy nha cpt prep 2026",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "pipe fitting size chart",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "allrecipes",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "dental hygienist exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "electrician jobs hiring",
+   "label": "jobs",
+   "split": "train"
   }
  ],
  "brand": [
@@ -60861,6 +60881,26 @@
   {
    "note": "Okurken bile esnedim, bunu yapmanın bir keyfi olmaz",
    "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Bu tür 30'dan fazla app var, arama sonuçları aynı fikirle dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bunun için ödeme yapmaz, ücretsiz alternatifler her yerde",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "App Store bu tür tıbbi tavsiye verenleri genelde reddediyor",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Gerçek zamanlı uydu verisi ve özel donanım gerektiriyor, tek kişi yapamaz",
+   "label": "Yapması zor",
    "split": "train"
   }
  ],

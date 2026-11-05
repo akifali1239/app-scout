@@ -56430,6 +56430,256 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "roofing square calculator",
+   "apps": [
+    {
+     "name": "Roof Pitch Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate roof pitch, rafter length and squares of shingles needed."
+    },
+    {
+     "name": "Roofing Estimator",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Estimate roofing material quantities from measurements."
+    },
+    {
+     "name": "Roofing Contractor Near Me",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find local roofers and book a quote."
+    },
+    {
+     "name": "Weather Radar",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Live radar and rain alerts."
+    },
+    {
+     "name": "Home Inspection Checklist",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Checklist for inspecting a house."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "farrier shoe size chart",
+   "apps": [
+    {
+     "name": "Horse Shoe Sizes",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Reference chart of horseshoe sizes and fitting for farriers."
+    },
+    {
+     "name": "Equine Hoof Care",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Learn hoof anatomy and trimming basics."
+    },
+    {
+     "name": "Horse Racing Tips",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Daily horse racing picks and odds."
+    },
+    {
+     "name": "Barn Manager",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track feed, vet visits and boarders."
+    },
+    {
+     "name": "Farrier Booking",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Clients book a farrier appointment."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "surveying stakeout calculator",
+   "apps": [
+    {
+     "name": "Stakeout Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compute stakeout offsets, grades and curves for surveyors."
+    },
+    {
+     "name": "Land Surveyor Toolkit",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Traverse, area and COGO calculations."
+    },
+    {
+     "name": "GPS Compass Maps",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compass and coordinates."
+    },
+    {
+     "name": "Construction Layout Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Stakeout and layout calculator for builders."
+    },
+    {
+     "name": "Property Lines Map",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "See parcel boundaries on a map."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "bartender tip pool calculator",
+   "apps": [
+    {
+     "name": "Tip Pool Split",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Split pooled tips among bar and restaurant staff by hours."
+    },
+    {
+     "name": "Tip Calculator",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate tip on a restaurant bill for diners."
+    },
+    {
+     "name": "Cocktail Recipes",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Hundreds of drink recipes."
+    },
+    {
+     "name": "Bar Shift Scheduler",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Schedule bartenders and shifts."
+    },
+    {
+     "name": "Server Tip Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log tips earned per shift and share with team."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "scuba dive table calculator",
+   "apps": [
+    {
+     "name": "Dive Tables",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Recreational dive planner with no-decompression limits."
+    },
+    {
+     "name": "Dive Log",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log your scuba dives and gear."
+    },
+    {
+     "name": "Ocean Fishing Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Fun fishing game for kids."
+    },
+    {
+     "name": "NDL Planner",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compute no-deco limits and repetitive dive groups."
+    },
+    {
+     "name": "Scuba Shop Finder",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find dive shops near you."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

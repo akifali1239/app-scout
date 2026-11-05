@@ -3089,6 +3089,36 @@
    "term": "hiring roofers near me",
    "label": "jobs",
    "split": "test"
+  },
+  {
+   "term": "stud finder app",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "hiring welders",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "lowe's",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "joint compound calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "bridgewater dental",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "tow truck dispatcher jobs",
+   "label": "jobs",
+   "split": "train"
   }
  ],
  "brand": [

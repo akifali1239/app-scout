@@ -63888,6 +63888,60 @@
    },
    "label": "game",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Rebar Weight Calculator",
+    "category": "Utilities",
+    "desc": "Enter bar size and length to calculate rebar weight and totals for your takeoff."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "NEC Code Quick Lookup",
+    "category": "Reference",
+    "desc": "Searchable offline reference of electrical code tables, wire ampacity and conduit fill charts."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ChatTrade AI",
+    "category": "Productivity",
+    "desc": "Ask our AI assistant anything about plumbing code. Powered by GPT, type your question and get answers."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Book a Mobile Mechanic",
+    "category": "Lifestyle",
+    "desc": "Schedule a certified mechanic to come to your home. Pay online and track your technician."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Paramedic Daily Podcast",
+    "category": "Medical",
+    "desc": "Listen to weekly episodes and interviews on EMS news, case reviews and protocols."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Farm Tycoon Idle",
+    "category": "Games",
+    "desc": "Plant crops, hire workers and expand your idle farm empire. Free to play."
+   },
+   "label": "game",
+   "split": "train"
   }
  ]
 }

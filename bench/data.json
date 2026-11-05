@@ -61252,6 +61252,36 @@
    "hi": "pdf merge",
    "lo": "real estate license exam prep",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "pharmacy board exam review",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate license exam prep",
+   "lo": "wallpaper maker",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "flashlight",
+   "lo": "hvac load calculation",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "wallpaper maker",
+   "lo": "nclex practice questions",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician exam prep",
+   "lo": "emoji keyboard",
+   "split": "train"
   }
  ],
  "note": [
@@ -62808,6 +62838,31 @@
   {
    "note": "canlı video çeviri motoru yazmam gerek, tek kişilik iş değil",
    "label": "Yapması zor",
+   "split": "train"
+  },
+  {
+   "note": "Bu niş için en üstte 300 bin yorumlu dev uygulamalar var, aralarına girmem imkansız",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bu işe para vermez, ücretsiz alternatifler her yerde ve kullanıcılar ödemeye alışık değil",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Bu kartı dün de reddetmiştim, listede yine aynısı çıktı",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bu tür sağlık tavsiyesi veren uygulamaları reddedebilir, tıbbi iddia var",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Bu fikir benim hedef kitlemle hiç ilgili değil, kullanıcı mesleğine hizmet etmiyor",
+   "label": "Alakasız",
    "split": "train"
   }
  ],

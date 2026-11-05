@@ -61190,6 +61190,26 @@
    "note": "Gerçek zamanlı uydu verisi ve özel donanım gerektiriyor, tek kişi yapamaz",
    "label": "Yapması zor",
    "split": "train"
+  },
+  {
+   "note": "kimse bu uygulamaya aylık ücret ödemez, bedava alternatifler yeter",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "görsel tasarımı 2014 stilinde, yıllardır dokunulmamış belli oluyor",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "bu nişte zaten App Store'un en üstünde yüz binlerce yorumlu rakipler var",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "canlı video çeviri motoru yazmam gerek, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "train"
   }
  ],
  "kind": [

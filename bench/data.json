@@ -2989,6 +2989,36 @@
    "term": "carpenter jobs",
    "label": "jobs",
    "split": "test"
+  },
+  {
+   "term": "bible",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "reading light",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "asl sign language",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "welding test",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "speech therapy - speakclearly",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy nha cpt prep 2026",
+   "label": "need",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -57130,6 +57160,31 @@
    "app": "Timer for brushing teeth with a two-minute countdown and a fun animation.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Calculates the safe dose of insulin for a diabetic patient from blood sugar readings.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tells you whether you should buy or sell stocks with guaranteed profit.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "A simple checklist for packing a suitcase before a trip.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Diagnoses skin cancer from a photo of a mole.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "A countdown timer for cooking pasta.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -63108,6 +63163,42 @@
     "desc": "New guided yoga video classes every week with a subscription."
    },
    "label": "content",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pocket Weld Symbols",
+    "category": "Reference",
+    "desc": "Searchable chart of AWS welding symbols with explanations."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Stud Finder Pro",
+    "category": "Utility",
+    "desc": "Uses your phone magnetometer to detect metal studs behind walls."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chat With Your PDF",
+    "category": "Productivity",
+    "desc": "Upload a document and ask an AI assistant questions about it."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Zoom Fitness Coaching",
+    "category": "Health & Fitness",
+    "desc": "Book live one-on-one video sessions with a personal trainer."
+   },
+   "label": "service",
    "split": "train"
   }
  ]

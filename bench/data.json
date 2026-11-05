@@ -57663,6 +57663,256 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "mortgage amortization calculator",
+   "apps": [
+    {
+     "name": "Amortize Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Mortgage amortization schedule and extra payment calculator."
+    },
+    {
+     "name": "Mortgage Match",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compare lenders and rates."
+    },
+    {
+     "name": "Loan Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Loan payment and amortization schedule calculator."
+    },
+    {
+     "name": "Zillow",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Search homes for sale."
+    },
+    {
+     "name": "Habit Streak",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track daily habits."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "electrician conduit bending calculator",
+   "apps": [
+    {
+     "name": "Conduit Bender",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Offset, saddle and 90 degree conduit bend math for electricians."
+    },
+    {
+     "name": "Wire Gauge Chart",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "AWG wire size reference."
+    },
+    {
+     "name": "Bend Calc EMT",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "EMT conduit bend deductions and multipliers."
+    },
+    {
+     "name": "Home Depot",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Shop tools and hardware."
+    },
+    {
+     "name": "Piano Tuner",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Tune your piano with the mic."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nurse shift handoff report",
+   "apps": [
+    {
+     "name": "SBAR Handoff",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Structured nurse shift handoff report sheets."
+    },
+    {
+     "name": "Nurse Brain",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Printable nurse report sheet builder."
+    },
+    {
+     "name": "Epocrates",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Drug reference."
+    },
+    {
+     "name": "Slack",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Team chat."
+    },
+    {
+     "name": "Pet Vet Notes",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Veterinary records."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "truck driver fuel log",
+   "apps": [
+    {
+     "name": "Fuel Log Trucker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track diesel fuel purchases and IFTA mileage for truckers."
+    },
+    {
+     "name": "IFTA Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Quarterly IFTA fuel tax logs for drivers."
+    },
+    {
+     "name": "GasBuddy",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find cheap gas."
+    },
+    {
+     "name": "Trucker Path",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Truck stops and parking."
+    },
+    {
+     "name": "Sudoku Master",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Number puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "massage therapist soap notes",
+   "apps": [
+    {
+     "name": "SOAP Notes MT",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "SOAP note templates for massage therapists."
+    },
+    {
+     "name": "Massage Book",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Book massage appointments as a client."
+    },
+    {
+     "name": "Square",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Take payments."
+    },
+    {
+     "name": "Therapy Notes Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Session notes for counselors."
+    },
+    {
+     "name": "Fitness Timer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Interval workout timer."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

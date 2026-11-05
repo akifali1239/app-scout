@@ -46530,6 +46530,73 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "max sound booster",
+   "top": [
+    {
+     "name": "Max Sound Booster: Boost Music",
+     "dev": "岚晴 杨",
+     "ratings": 65,
+     "desc": "Sound Amplifier is a powerful app to increase the volume of your audio file or your favorite video files!\n\nAre you  unsatisfied about current  low-quality audio? Do you want to adjust the bass volume "
+    },
+    {
+     "name": "Volume Boost – Sound Amplifier",
+     "dev": "Evgenia Pervushina",
+     "ratings": 3691,
+     "desc": "Use the power of your smartphone and latest technologies for maximum sound amplification. Increase the volume and improve the sounds around you. App helps you to improve your sound perception. The app"
+    },
+    {
+     "name": "VolumeMax : Sound Amplifier",
+     "dev": "Kezia Fransiska Hutapea",
+     "ratings": 411,
+     "desc": "Introducing our revolutionary Volume Booster – a powerful tool designed to elevate your audio experience to unprecedented levels. With its cutting-edge technology, it has the capability to amplify the"
+    },
+    {
+     "name": "Volume Booster - EQ Amplifier",
+     "dev": "Nguye Thi Hien",
+     "ratings": 7333,
+     "desc": "Volume booster is a simple, small but powerful app to boost volume of your phone and tablet to extra volume. Useful for movies, audio books, music and games.\nVolume booster can increase volume of all "
+    },
+    {
+     "name": "Louder Volume: Sound Booster",
+     "dev": "Muhammad Rafly",
+     "ratings": 100,
+     "desc": "Unlock the full potential of your device’s sound with Louder Volume: Sound Booster!\n\nKey Features:\n- Volume Booster — Amplify your audio beyond default limits for louder, crystal-clear sound.\n- Bass B"
+    },
+    {
+     "name": "Increase Volume: Sound Booster",
+     "dev": "安帮 潘",
+     "ratings": 421,
+     "desc": "Designing this innovative Increase Volume , the ultimate aim to enhance your audio experience like never before. Designed with cutting-edge technology and user convenience in mind, our Increase Volume"
+    },
+    {
+     "name": "Volume Booster – Sound Booster",
+     "dev": "Bung Bien Vu",
+     "ratings": 174,
+     "desc": "Enjoy a clean and powerful audio experience designed for effortless control.\n\nEasily connect to your favorite Bluetooth speakers or headphones and fine-tune your sound with built-in volume, EQ, and ba"
+    },
+    {
+     "name": "Bass & Volume Booster - BassUp",
+     "dev": "STAMP Q SIA",
+     "ratings": 664,
+     "desc": "Elevate your audio experience with BassUp. This app is designed to increase the volume, boost the bass, and offer a suite of equalizer settings to fine-tune the sound according to your preferences. Wi"
+    },
+    {
+     "name": "b Buds+   HEADPHONES CONNECT",
+     "dev": "Hearing Aid App Solutions LLC",
+     "ratings": 7976,
+     "desc": "HEADPHONES CONNECT ◆ EQUALIZER ◆ SPEAKER BOOSTER ◆ AUDIO ENHANCER ◆ EXTRA VOLUME BOOSTER\n\nCONNECT HEADPHONES, ENHANCE BASS & BOOST BEAT. Complete audio solution for music lovers & audiophiles. Use wit"
+    },
+    {
+     "name": "Equalizer - Volume Booster EQ",
+     "dev": "Gismart Limited",
+     "ratings": 6500,
+     "desc": "Redefine the way you play music. This is Equalizer – Volume Booster, and it is the only EQ presents app you’ll ever need. Turn on full bass, pump out the music, and feel it deep in the soul like never"
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

@@ -58010,6 +58010,256 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "ham radio contest log",
+   "apps": [
+    {
+     "name": "Contest Logger HF",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log ham radio contest contacts with dupe checking and Cabrillo export."
+    },
+    {
+     "name": "Ham Study Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Practice questions for the amateur radio license exam."
+    },
+    {
+     "name": "Radio Streamer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Listen to FM stations online."
+    },
+    {
+     "name": "Walkie Talkie Chat",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Push-to-talk messaging with friends."
+    },
+    {
+     "name": "Pocket Calendar",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Simple monthly planner."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "surgical tech flashcards",
+   "apps": [
+    {
+     "name": "Surg Tech Cards",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Flashcards for the NBSTSA CST surgical technologist exam."
+    },
+    {
+     "name": "Surgical Instruments Quiz",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Learn surgical instrument names with picture quizzes."
+    },
+    {
+     "name": "Anatomy 3D",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Explore human anatomy models."
+    },
+    {
+     "name": "Nurse Shift Planner",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Plan nursing shifts."
+    },
+    {
+     "name": "Pizza Maker Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Cook pizzas for customers."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pool chemical calculator",
+   "apps": [
+    {
+     "name": "Pool Dosage Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate chlorine, pH and alkalinity chemical doses for your pool volume."
+    },
+    {
+     "name": "Pool Pro Log",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Service route and pool chemistry log for pool technicians."
+    },
+    {
+     "name": "Swim Lap Counter",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Count laps while swimming."
+    },
+    {
+     "name": "Weather Radar Live",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Rain and storm radar."
+    },
+    {
+     "name": "Tip Calculator",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Split the bill and calculate tips."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "notary journal app",
+   "apps": [
+    {
+     "name": "Notary Log",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Electronic notary journal with signer ID, fees and signature capture."
+    },
+    {
+     "name": "Notary Exam Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Practice test for the state notary exam."
+    },
+    {
+     "name": "PDF Signer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Sign documents with your finger."
+    },
+    {
+     "name": "Mileage Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track business drives for taxes."
+    },
+    {
+     "name": "Photo Collage",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Make photo collages."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "locksmith key code lookup",
+   "apps": [
+    {
+     "name": "Key Code Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Look up key bitting codes by lock brand and key blank for locksmiths."
+    },
+    {
+     "name": "Smart Lock Manager",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Control your home smart lock."
+    },
+    {
+     "name": "Password Vault",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Store passwords securely."
+    },
+    {
+     "name": "Escape Room Puzzle",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Solve locked room puzzles."
+    },
+    {
+     "name": "Compass HD",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Digital compass."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

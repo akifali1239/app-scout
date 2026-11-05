@@ -3069,6 +3069,26 @@
    "term": "ironworker staffing openings",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "cdl driver openings",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "riverside family chiropractic",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "concrete mix calculator",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "hiring roofers near me",
+   "label": "jobs",
+   "split": "test"
   }
  ],
  "brand": [

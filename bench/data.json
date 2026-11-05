@@ -45749,6 +45749,274 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "sommelier & chorleiter ihk",
+   "top": [
+    {
+     "name": "Sommelier & Chorleiter IHK",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Bereite dich optimal auf deine Prüfungen vor – alle in einer App.\n\nEnthaltene Prüfungen:\n• Geprüfter Chorleiter / Dirigent (Musik)\n• Sommelier / Weinberater (IHK)\n\nFunktionen:\n• Tausende realistische "
+    },
+    {
+     "name": "Delectable - Scan & Rate Wine",
+     "dev": "Delectable",
+     "ratings": 25968,
+     "desc": "“The Essential Wine App” — James Beard award winner Jordan Mackay\n\nTake a photo of a wine label and instantly get ratings and descriptions with Delectable, the critically-acclaimed free app that helps"
+    },
+    {
+     "name": "CellarTracker: #1 Wine Tracker",
+     "dev": "CellarTracker",
+     "ratings": 13095,
+     "desc": "CellarTracker is the top-rated wine app with 4.9 of 5 stars, over 13.6 million wine ratings and reviews, and over 8.8 million users globally, collectively tracking $21 billion of wine and millions of "
+    },
+    {
+     "name": "Wine Folly Plus",
+     "dev": "Wine Folly",
+     "ratings": 3,
+     "desc": "Wine Folly+ puts the wine world in your pocket. Explore Wine Folly's signature interactive maps, learn to taste and pair with confidence, and grow your passion a little more every week — all made by r"
+    },
+    {
+     "name": "Vinoperte: AI Wine Sommelier",
+     "dev": "EMILY CECILE BUCKLEY-MATURA",
+     "ratings": 99,
+     "desc": "You open the wine list. Eighty names, half in a language you don't read, and the waiter is standing there. So you point at the second-cheapest bottle and hope.\n\nVinoperte ends the guessing.\n\nPhotograp"
+    },
+    {
+     "name": "Pocket Wine: Guide & Cellar",
+     "dev": "Time Marketing Limited",
+     "ratings": 656,
+     "desc": "“The Ultimate App for Wine Enthusiasts” – iPhoneLife Magazine\n\nTake your wine knowledge and enjoyment to the next level with our comprehensive app. It is one of the most popular wine apps in the USA, "
+    },
+    {
+     "name": "Country Wine & Spirits",
+     "dev": "CWS",
+     "ratings": 42,
+     "desc": "Country Wine & Spirits is an online liquor superstore offering the easiest way to shop for your favorite wines & champagnes, spirits, ready-to-drink cocktails, mixers, and gifts for any occasion. \n\nKE"
+    },
+    {
+     "name": "Vinous: Wine Reviews & Ratings",
+     "dev": "Vinous Media LLC Apps",
+     "ratings": 353,
+     "desc": "Consumers, collectors and experts alike have for years followed Antonio Galloni, Neal Martin and the rest of Vinous' team of world-renowned critics. Vinous' app puts decades of experience at your fing"
+    },
+    {
+     "name": "Oeni: #1 Wine Cellar Manager",
+     "dev": "Oeni",
+     "ratings": 892,
+     "desc": "//The most downloaded wine cellar management app in 2025!\nOeni helps you manage your wine cellar/collection and recommend the best wine at the best time (peak). Whether you're a seasoned collector or "
+    },
+    {
+     "name": "Pocket Wine Pairing: Sommelier",
+     "dev": "Time Marketing Limited",
+     "ratings": 359,
+     "desc": "Featured as one of the “Best New Apps” on the App Store!\n\nFood and wine pairing has never been so clear, accessible and easy to understand. The app gives you a detailed index of hundreds of meal types"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "transcriber voices",
+   "top": [
+    {
+     "name": "Voice Recorder: Transcriber",
+     "dev": "AppHolic",
+     "ratings": 5,
+     "desc": "Voice Recorder: Transcriber helps you keep hold of spoken moments that would otherwise be hard to revisit. Record conversations as they happen, bring in saved audio or video files, and turn speech int"
+    },
+    {
+     "name": "Transcriber Voices",
+     "dev": "BLB Digital Corp",
+     "ratings": 0,
+     "desc": "Your voice never leaves your iPhone.\nNo account. No ads. No cloud. No AI server. No subscription.\n\nTranscriber uses an AI speech model that runs entirely on your iPhone to turn your voice into text no"
+    },
+    {
+     "name": "Voice Recorder: AI Note Taker",
+     "dev": "Voice Inc.",
+     "ratings": 7649,
+     "desc": "Voice Recorder: AI Note Taker captures every idea and meeting in crystal-clear audio with instant AI - record, transcribe, and summarize in one easy step.\n\nWhether you’re in a business meeting, class "
+    },
+    {
+     "name": "360 Writer - Voice Recorder",
+     "dev": "App Toro",
+     "ratings": 911,
+     "desc": "360 Writer is your personal assistant that records and transcribes your meetings, interviews, lectures or phone calls while keeping all the information well organized, easily searchable and shareable "
+    },
+    {
+     "name": "Notta Transcribe Voice to Text",
+     "dev": "MindCruiser",
+     "ratings": 1474,
+     "desc": "Notta: Your AI Note Taker for Smarter Workflows\nNotta is an intelligent AI note taker that transforms speech into text with outstanding precision and speed. Say goodbye to manual transcription. Notta "
+    },
+    {
+     "name": "Ava: Transcribe Voice to Text",
+     "dev": "Transcense, Inc.",
+     "ratings": 4243,
+     "desc": "Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with "
+    },
+    {
+     "name": "Transcribe Audio to Text Notes",
+     "dev": "WBS",
+     "ratings": 3771,
+     "desc": "From lectures to meetings, interviews to videos, Transcriber is your smart AI notes taker. With advanced AI transcription audio to text, you can transcribe audio to text, create summaries, or rewrite "
+    },
+    {
+     "name": "SpeakApp AI: Voice Notes",
+     "dev": "VoicePop Inc.",
+     "ratings": 9671,
+     "desc": "SpeakApp AI: Voice-to-Text\n\nSpeakApp captures your voice with a single tap and transforms it into text.\nRecord and summarize meetings, take voice notes, write emails or create content with your voice."
+    },
+    {
+     "name": "Transcribe AI: Voice to Text",
+     "dev": "Tharindu Prabath",
+     "ratings": 859,
+     "desc": "Not just a Transcriber\n\nTurn your voice to text. Just speak into your phone, and voila, we'll convert your words into a handy transcription. But there is more.\n\nWhat's in it for you?\n\nACCURATE TRANSCR"
+    },
+    {
+     "name": "iRecord: Transcribe Voice Memo",
+     "dev": "Youdao (Hong Kong) Limited",
+     "ratings": 8912,
+     "desc": "iRecord: High-quality Recorder with Accurate Voice Transcription\n\niRecord is the perfect app for anyone looking to record high-quality voice recordings and transcribe them with advanced AI technology."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "altimeter - compass & maps",
+   "top": [
+    {
+     "name": "Altimeter - Altitude & Compass",
+     "dev": "Gaurav Babbar",
+     "ratings": 8457,
+     "desc": "Your complete altitude toolkit. Real-time elevation, weather forecasts, precision compass, activity tracking, altitude camera, and SOS -- all in one app.\n \nWhether you're summiting a peak or checking "
+    },
+    {
+     "name": "Altimeter GPS & Barometer",
+     "dev": "Aesthetic Apps & Widgets srl",
+     "ratings": 2201,
+     "desc": "Unlock the full potential of your iPhone's sensors for your wilderness adventures and survival situations with Altimeter GPS. This app is thoughtfully designed for offline use, ensuring you're equippe"
+    },
+    {
+     "name": "Compass & Altimeter",
+     "dev": "明力 王",
+     "ratings": 2485,
+     "desc": "Compass GPS is an application for measuring geographical orientation. \nIt also supports many data displays, including altitude, longitude and latitude, weather, water boiling point, air data, magnetic"
+    },
+    {
+     "name": "Altitude & Elevation",
+     "dev": "BranchenKing Ltd.",
+     "ratings": 43449,
+     "desc": "Travel Altimeter is your essential companion for hiking, climbing, and exploring the outdoors. Whether you're tracking elevation gains on a trail or monitoring barometric pressure, get precise altitud"
+    },
+    {
+     "name": "Compass & GPS",
+     "dev": "EONSOFT",
+     "ratings": 13144,
+     "desc": "A compass is an instrument used to determine direction.\nThis app helps you find your bearings while hiking, traveling, or when visibility is limited due to fog.\nThe compass app determines the cardinal"
+    },
+    {
+     "name": "Compass 55. Map & GPS kit.",
+     "dev": "Kalimex-Consulting s.r.o. @Blocoware & Stanislav Dvoychenko",
+     "ratings": 1551,
+     "desc": "Compass 55 is an offline-capable GPS map and navigation toolkit for hiking, off-road travel, fieldwork, aviation, and marine use—with a compass, waypoints, routes, coordinate tools, and video recordin"
+    },
+    {
+     "name": "GPS & Maps: Location Tracker",
+     "dev": "Kraus und Karnath GbR 2Kit Consulting",
+     "ratings": 2266,
+     "desc": "GPS & Maps is a simple, yet powerful GPS app for supporting navigation and outdoor activities like geocaching, sailing, skating, trekking, biking or traveling by airplane. \n\nIt measures your position,"
+    },
+    {
+     "name": "Compass: Elevation & Altimeter",
+     "dev": "天就 黄",
+     "ratings": 12,
+     "desc": "Lost Your Bearings in the Wild? Never Second-Guess Your Location Again.\nCompass: Elevation & Altimeter transforms your phone into a professional-grade navigation tool. No more guessing your altitude o"
+    },
+    {
+     "name": "Gauges: Speedometer & Sensors",
+     "dev": "Boluga",
+     "ratings": 3079,
+     "desc": "Gauges turns your iPhone and iPad into a beautiful set of live measuring instruments. Every sensor in your device, on one clean dashboard — with a full-screen gauge, live chart and history for each on"
+    },
+    {
+     "name": "Compass°",
+     "dev": "Tim O's Studios, LLC",
+     "ratings": 59352,
+     "desc": "This app is a super simple compass that is very easy to read with a huge display showing you the direction and heading.\n\nThis software is provided as is and uses the device's internal hardware to esti"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "geology toolkit: ai rock id",
+   "top": [
+    {
+     "name": "Rock Identifier: Stone ID",
+     "dev": "Next Vision Limited",
+     "ratings": 81061,
+     "desc": "Rock Identifier is an all-in-one stone, crystal, mineral, and gemstone identifier. Simply take or upload a photo of a rock or crystal, and the app will tell you all about it in seconds. \n\nWant to know"
+    },
+    {
+     "name": "Geology Toolkit: Field Guide",
+     "dev": "Laurence Wayne",
+     "ratings": 28,
+     "desc": "Geology Toolkit uses AI to identify rocks and minerals, explain formations and create labelled pencil sketches all from a photo, then tells you the story behind them - how they formed, what they're ma"
+    },
+    {
+     "name": "Stone Identifier - Rock Finder",
+     "dev": "App Holdings",
+     "ratings": 1543,
+     "desc": "Have you encountered a rock and you don’t know what it is? Maybe you want to learn more about it, minerals or any crystal? Rock Seeker is the ultimate app to help you identify and study more about tho"
+    },
+    {
+     "name": "Rock Identifier: Rock ID",
+     "dev": "Liberace AI",
+     "ratings": 11,
+     "desc": "Discover the World of Rocks, Gemstones and Minerals with Rock ID. Whether you're a geology enthusiast, a rock collector, or just curious about the stones around you, Rock ID combines cutting-edge AI w"
+    },
+    {
+     "name": "Rock ID - Stone Identifier",
+     "dev": "AIBY",
+     "ratings": 3128,
+     "desc": "If you’re looking for an app to help you identify rocks and track your mineral collection, you’ve struck gold! Rock ID is an ultimate package of features that lets you manage your assortment of rocks "
+    },
+    {
+     "name": "Rock Finder: Stone Identifier",
+     "dev": "Codabrasoft LLC",
+     "ratings": 529,
+     "desc": "Rock Scanner App: Instantly Identify, Learn & Locate Rocks, Minerals, and Crystals\n\nLooking for a fast, intelligent, and easy-to-use way to identify stones and minerals around you? Discover the ultima"
+    },
+    {
+     "name": "Rock Scanner: Mineral ID",
+     "dev": "Manuel Worlitzer",
+     "ratings": 150,
+     "desc": "Rock Identifier: Instantly Identify Any Rock with AI\n\nWhether you're a curious beginner or passionate geologist, Rock Identifier makes discovering the world of rocks and minerals easy, fast, and fun. "
+    },
+    {
+     "name": "Rock Identifier: Id by Photo",
+     "dev": "Picture & Photo Identifier Company LTD",
+     "ratings": 741,
+     "desc": "Rock identification just got easier with the Rock Identification app. Just take a photo or upload an image of a rock and Rock Identification will recognize it and tell you all about it in seconds. Exp"
+    },
+    {
+     "name": "AI Rock ID: Crystal Identifier",
+     "dev": "ATN Marketing SRL",
+     "ratings": 557,
+     "desc": "Identify any rock, crystal, gemstone, or mineral in seconds. Just snap a photo to see what it is, how rare it is, and what it's worth. Loved by 500,000+ collectors.\nAI Rock ID is a rock & crystal iden"
+    },
+    {
+     "name": "Rock Identifier",
+     "dev": "Kawaii",
+     "ratings": 226,
+     "desc": "Instantly identify rocks, minerals, crystals, and fossils with advanced AI technology\n\nTransform your phone into a powerful geological companion! Rock Identifier uses cutting-edge artificial intellige"
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

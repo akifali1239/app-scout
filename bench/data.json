@@ -59000,6 +59000,26 @@
    "app": "A countdown timer for cooking with multiple named timers.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Calculates the safe pediatric acetaminophen dose by child weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tells you whether a mushroom you photographed is safe to eat.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts feet and inches to meters for carpentry measurements.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "A flashcard deck for memorizing electrical code article numbers.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -65204,6 +65224,42 @@
     "desc": "Plant crops, hire workers and expand your idle farm empire. Free to play."
    },
    "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Chord Finder Pro",
+    "category": "Music",
+    "desc": "Look up guitar and piano chords, scales and fingerings in one tap."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pocket Level",
+    "category": "Utilities",
+    "desc": "Use your phone as a spirit level and angle meter for hanging shelves."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chat Nurse AI",
+    "category": "Medical",
+    "desc": "Ask an AI assistant to explain nursing concepts and quiz you."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Dog Walker On Demand",
+    "category": "Lifestyle",
+    "desc": "Book a local dog walker and track the walk live with a verified sitter."
+   },
+   "label": "service",
    "split": "train"
   }
  ]

@@ -3039,6 +3039,36 @@
    "term": "electrician jobs hiring",
    "label": "jobs",
    "split": "train"
+  },
+  {
+   "term": "plumbing pipe sizing chart",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "hvac technician jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "oakwood pediatric dentistry",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "hydraulic pressure calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "drywall estimator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "ironworker staffing openings",
+   "label": "jobs",
+   "split": "dev"
   }
  ],
  "brand": [

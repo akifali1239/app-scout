@@ -59683,6 +59683,42 @@
    "hi": "pdf password remover",
    "lo": "dental hygiene board review",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician exam prep journeyman",
+   "lo": "pdf to jpg",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic drug dosage calculator",
+   "lo": "white noise",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl permit practice test",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac load calculation",
+   "lo": "qr code generator",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "pharmacy board exam review",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pdf merge",
+   "lo": "real estate license exam prep",
+   "split": "train"
   }
  ],
  "note": [

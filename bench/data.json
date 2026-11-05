@@ -57393,6 +57393,256 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "carpenter board foot calculator",
+   "apps": [
+    {
+     "name": "Board Foot Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate board feet for lumber."
+    },
+    {
+     "name": "Wood Joint Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Puzzle game with wooden blocks."
+    },
+    {
+     "name": "Lumber Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Lumber volume and cost estimator for carpenters."
+    },
+    {
+     "name": "Home Depot",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Shop tools and hardware."
+    },
+    {
+     "name": "Carpenter's Level",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Spirit level using phone sensors."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pilot logbook",
+   "apps": [
+    {
+     "name": "Pilot Logbook",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Digital flight logbook for pilots."
+    },
+    {
+     "name": "Flight Simulator Fun",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Arcade flying game."
+    },
+    {
+     "name": "Aviation Weather",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "METAR and TAF for pilots."
+    },
+    {
+     "name": "Flight Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track live commercial flights."
+    },
+    {
+     "name": "Logbook Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log flight hours and currency."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "lineman pole climbing checklist",
+   "apps": [
+    {
+     "name": "Lineman Toolbox",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Checklists and reference for power line workers."
+    },
+    {
+     "name": "Pole Vault Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Sports game."
+    },
+    {
+     "name": "Climbing Gym Log",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track rock climbing routes."
+    },
+    {
+     "name": "Electrical Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Wire size calculator for electricians."
+    },
+    {
+     "name": "Utility Safety",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Safety checklists for utility pole work."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "lash artist client notes",
+   "apps": [
+    {
+     "name": "Lash Notes",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Client records and lash maps for lash artists."
+    },
+    {
+     "name": "Eyelash Camera Filter",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Add fake lashes to selfies."
+    },
+    {
+     "name": "Salon Booker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Appointment booking for beauty salons."
+    },
+    {
+     "name": "Mascara Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Dress-up game."
+    },
+    {
+     "name": "Lash Studio Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Client forms and aftercare for lash technicians."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent",
+    "unrelated",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "auctioneer bid calculator",
+   "apps": [
+    {
+     "name": "Auction Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Buyer premium and bid calculator for auctions."
+    },
+    {
+     "name": "Bid Ninja",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Penny auction game."
+    },
+    {
+     "name": "Auction Clerk",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Clerking and lot tracking for auctioneers."
+    },
+    {
+     "name": "eBay",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Buy and sell online."
+    },
+    {
+     "name": "Tip Calculator",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Split restaurant bills."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

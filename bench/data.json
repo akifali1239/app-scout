@@ -45515,6 +45515,220 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "bartender school",
+   "top": [
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Bartending School by Gigz Labs",
+     "dev": "Gigz Labs Inc.",
+     "ratings": 4,
+     "desc": "Step behind the bar. Bartending School is a hands-on training game where you build real cocktails at a fully playable station - pick the glass, scoop the ice, pour real amounts, shake, strain, and gar"
+    },
+    {
+     "name": "Be a Bartender!",
+     "dev": "Pernod Ricard Europe",
+     "ratings": 934,
+     "desc": "18 +\n\nEver wanted to be on the other side of the bar? Battle your way through hectic nights serving great drinks to enthusiastic and unpredictable guests! Take control of your station and learn how to"
+    },
+    {
+     "name": "Bartending License Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Bartending with confidence. Bartending License Prep gives you 700+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nDrink Recipes & Mixolo"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "Cocktail Art - Bartender App",
+     "dev": "Digisense Apps Limited",
+     "ratings": 581,
+     "desc": "A huge selection of cocktails with collections of recipes for any occasion. Descriptions of all ingredients and variants for their replacement. Add your drinks to the bar and you can see what you can "
+    },
+    {
+     "name": "Cocktails For Real Bartender",
+     "dev": "Mattia Confalonieri",
+     "ratings": 126,
+     "desc": "Become a real bartender and learn to make over 600 cocktails thanks to simple step-by-step instructions.\n\n• Cocktails divided into practical categories from Non-alcoholic to Zibibbo.\n• Each cocktail h"
+    },
+    {
+     "name": "Pour: Cocktail Bar Game",
+     "dev": "OGUZHAN BOSTAN",
+     "ratings": 0,
+     "desc": "POUR is the ultimate cocktail bar game - explore real recipes, mix drinks by hand, and race the clock to become a master bartender. Whether you want to learn mixology or just have fun serving customer"
+    },
+    {
+     "name": "BARTENDER®",
+     "dev": "BARTENDER Media LLC",
+     "ratings": 38,
+     "desc": "The Bartender.com mobile app is your ultimate cocktail companion, whether you're a professional mixologist, an aspiring home bartender, or simply someone who loves great drinks. With a comprehensive c"
+    },
+    {
+     "name": "Freepour - For Pro Bartenders",
+     "dev": "Bacardi-Martini B.V.",
+     "ratings": 22,
+     "desc": "Crafted and inspired by passionate bartenders, we are committed to empowering you, as you advance in your bartending career. \n\nThrough interactive and intuitive courses, we guide you at every step of "
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "occupational therapy test preр",
+   "top": [
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "geology of hawai‘i volcanoes national park",
+   "top": [
+    {
+     "name": "National Park Service",
+     "dev": "National Park Service",
+     "ratings": 132314,
+     "desc": "The Official NPS App – Your Ultimate National Park Companion!  \nDownload parks before your visit and use the app when there is no internet.\n\n• Explore 420+ national parks effortlessly with interactive"
+    },
+    {
+     "name": "Big Island Audio Tour Guide",
+     "dev": "Shaka Guide",
+     "ratings": 3986,
+     "desc": "Meet your Big Island tour guide. Discover GPS audio tours that turn your drive into a guided adventure with stories, directions, and local insights.\nImagine driving past a black sand beach or approach"
+    },
+    {
+     "name": "Geology of Hawai‘i Volcanoes National Park",
+     "dev": "Fire Work Media",
+     "ratings": 16,
+     "desc": "Geology of Hawai‘i Volcanoes National Park is a glossary of volcanic products and features found on Kīlauea and Mauna Loa, two of the world's most active volcanoes. The app features an array of astoun"
+    },
+    {
+     "name": "Volcanoes: Map, Alerts & Ash",
+     "dev": "Slava Barouline",
+     "ratings": 2385,
+     "desc": "CONGRATULATIONS! You have found the best volcano app in the world! 300,000 users cannot be wrong!\n\nWhy our app?\n==========\nVery simple - our app offers the most comprehensive set of features related t"
+    },
+    {
+     "name": "Action Tour Guide: Experiences",
+     "dev": "Action Tour Guide",
+     "ratings": 11659,
+     "desc": "Go beyond the must-see sights with Action Tour Guide. Discover the fascinating stories behind iconic landmarks and hidden gems with 230+ self-guided audio tours across 40+ U.S. states and 15+ countrie"
+    },
+    {
+     "name": "Big Island Hawaii Gypsy Guide",
+     "dev": "GyPSy Guide LLC",
+     "ratings": 762,
+     "desc": "Discover the Big Island like a local with GyPSy Guide, your trusted companion for exploring Hawaii Volcano National Park, Akaka Falls, lush rainforests, and historic sites. Enjoy multiple routes in a "
+    },
+    {
+     "name": "Road to Hana Maui GyPSy Guide",
+     "dev": "GyPSy Guide LLC",
+     "ratings": 4991,
+     "desc": "Change the way you explore Road to Hana with GyPSy Guide, the most loved and trusted app for the Road to Hana and beyond. Get 4 unforgettable routes (with 190+ stories) in one purchase:\n\n1) Original R"
+    },
+    {
+     "name": "Shaka Guide Maui Audio Tours",
+     "dev": "Shaka Guide",
+     "ratings": 24445,
+     "desc": "Meet your Maui tour guide. Discover GPS audio tours that turn your drive into a guided adventure. \n\nImagine driving the Road to Hana or heading up Haleakala when your phone starts telling you exactly "
+    },
+    {
+     "name": "Parkwolf: National Park Guide",
+     "dev": "Parkwolf LLC",
+     "ratings": 8652,
+     "desc": "Parkwolf is the best way to research and explore Parks, such a National Parks, State Parks, Scenic Drives, and more. \n\n• Parkwolf Audio Tour Guide: Drive around the park without a set destination, and"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "compass maps - digital compass",
+   "top": [
+    {
+     "name": "Compass Maps - Digital Compass",
+     "dev": "KIET NGUYEN TAN",
+     "ratings": 657,
+     "desc": "Maps compass - directional compass & digital is free the application to support show compass on the map, Traffic maps in real time, Land area measurement, show address on maps with satellite map mode "
+    },
+    {
+     "name": "Compass & GPS",
+     "dev": "EONSOFT",
+     "ratings": 12880,
+     "desc": "A compass is an instrument used to determine direction.\nThis app helps you find your bearings while hiking, traveling, or when visibility is limited due to fog.\nThe compass app determines the cardinal"
+    },
+    {
+     "name": "Compass Direction - Digital",
+     "dev": "Rihab Mehboob",
+     "ratings": 2717,
+     "desc": "AS FEATURED ON: TechRadar and more.\n\nCompass Direction - Digital is an easy to use compass app which allows you to find accurate compass headings and directions along with a realtime GPS map. Switch b"
+    },
+    {
+     "name": "Compass°",
+     "dev": "Tim O's Studios, LLC",
+     "ratings": 59243,
+     "desc": "This app is a super simple compass that is very easy to read with a huge display showing you the direction and heading.\n\nThis software is provided as is and uses the device's internal hardware to esti"
+    },
+    {
+     "name": "Avenza Maps: Offline Mapping",
+     "dev": "Avenza Systems Inc.",
+     "ratings": 128016,
+     "desc": "New Description: \n\nAvenza Maps is a powerful offline navigation app for professional field work. Use offline maps with GPS navigation to stay on track anywhere—no signal required, so you can navigate "
+    },
+    {
+     "name": "Compass∞",
+     "dev": "Camera LLC(TX)",
+     "ratings": 5079,
+     "desc": "A practical accurate compass that is easy to use and read. Great for outdoor hiking, camping, backpacking, treks, and road trips.\n\nFeatures\n-Heading\n-Magnetic North (screen displays red at True North)"
+    },
+    {
+     "name": "The Best Compass",
+     "dev": "Shenzhen AiPuLeSi Technology Co.,Ltd",
+     "ratings": 128,
+     "desc": "GPS Compass is your all-in-one navigation companion, combining an accurate GPS compass, real-time maps, weather updates, and live-view navigation tools in a simple and intuitive app.\n\nWhether you're h"
+    },
+    {
+     "name": "Compass Heading- Magnetic Digital Direction Finder",
+     "dev": "Flamethrower",
+     "ratings": 779,
+     "desc": "A simple compass that is easy to read and indicates heading, cardinal direction, and magnetic north. Includes flashlight for dark.\n\nDownload now in case you need a compass when hiking, camping, backpa"
+    },
+    {
+     "name": "Compass & Altimeter",
+     "dev": "明力 王",
+     "ratings": 2466,
+     "desc": "Compass GPS is an application for measuring geographical orientation. \nIt also supports many data displays, including altitude, longitude and latitude, weather, water boiling point, air data, magnetic"
+    },
+    {
+     "name": "Topo Maps+: Topographic Maps",
+     "dev": "Glacier Peak Studios LLC",
+     "ratings": 9365,
+     "desc": "Designed and tested on real dirt, Topo Maps+ is packed with the maps & tools to plan and execute your backcountry adventure.\n\n‣‣ MAPS FOR EVERY ACTIVITY\n‣Setup your map based on your planned activity\n"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -59107,6 +59321,30 @@
    "hi": "nautical knot guide",
    "lo": "video streaming service",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pharmacy technician exam prep",
+   "lo": "white noise",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex rn practice questions",
+   "lo": "flashlight",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumber license prep: exam",
+   "lo": "pdf to jpg",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pdf password remover",
+   "lo": "dental hygiene board review",
+   "split": "train"
   }
  ],
  "note": [

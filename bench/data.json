@@ -57687,6 +57687,26 @@
    "app": "A countdown timer for cooking pasta.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Calculates insulin doses from blood sugar readings and tells diabetics how much to inject.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Identifies poisonous mushrooms from a photo and says whether they are safe to eat.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "A simple notepad for jotting down grocery lists.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "A metronome for practicing guitar at different tempos.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

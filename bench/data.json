@@ -59964,6 +59964,31 @@
    "app": "A flashcard deck for memorizing electrical code article numbers.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Tells you which over-the-counter pills are safe to take together with your prescription drugs.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Checks whether a mushroom you photographed is safe to eat.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Simple timer that counts down your pizza oven bake time.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Binary options trading signals with guaranteed profit.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Log your daily water intake and get reminders.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

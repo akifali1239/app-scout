@@ -61288,6 +61288,36 @@
    "app": "Simple stopwatch for lap times at the gym.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Calculates the correct chemotherapy dose from patient weight and surface area.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Lets users bet real money on sports outcomes with instant payouts.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Reads a photo of a mole and tells you whether it is melanoma.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Checklist for pre-flight walkaround inspection of a small aircraft.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Flashcards for memorizing HVAC refrigerant types and pressures.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Unit converter for metric and imperial drill bit sizes.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

@@ -3284,6 +3284,46 @@
    "term": "electrician hiring now",
    "label": "jobs",
    "split": "test"
+  },
+  {
+   "term": "gas station jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "chipotle app",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "cash app",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "hospital staffing",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "torque calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "wire gauge chart",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "hiring cashiers",
+   "label": "jobs",
+   "split": "train"
+  },
+  {
+   "term": "knot tying guide",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

@@ -62783,6 +62783,24 @@
    "hi": "tool for travel nurses",
    "lo": "tool for all smartphone users",
    "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator with one screen",
+   "lo": "app with live GPS fleet tracking and chat backend",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "subscription for certified electrician exam prep",
+   "lo": "free flashlight app",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "app for licensed pharmacy technicians",
+   "lo": "app for anyone with a phone",
+   "split": "test"
   }
  ],
  "note": [
@@ -64445,6 +64463,31 @@
    "note": "Bu fikir zaten var olan bir app'in neredeyse aynısı",
    "label": "Çok benzer",
    "split": "train"
+  },
+  {
+   "note": "App Store'da bu kategoride yüzlerce app var, pazar tamamen doygun",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu alanda yüzlerce app yarışıyor, öne çıkmak imkânsız",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu konuda kimse ödeme yapmaz, herkes ücretsiz alternatif kullanıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu reddeder, tıbbi tanı iddiası taşıyor",
+   "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "Rakiplerin son güncellemesi 4 yıl önce, hepsi eski ve bakımsız",
+   "label": "Kalitesiz / eski",
+   "split": "test"
   }
  ],
  "kind": [

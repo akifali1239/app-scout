@@ -46974,6 +46974,384 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "pharmacy technician exam rev",
+   "top": [
+    {
+     "name": "Pharmacy Technician Exam Rev",
+     "dev": "Karim SLITI",
+     "ratings": 0,
+     "desc": "Get +3800 Study notes & exam quiz & cases and Prepare and Pass Your pharmacy  exam very easily and guarantee the highest score.\n\nThis app is a combination of sets, containing practice questions, study"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTC"
+    },
+    {
+     "name": "PTCB & PTCE Exam Prep 2026",
+     "dev": "TRENDING MOBAPPS SRL",
+     "ratings": 259,
+     "desc": "PASS THE PTCE WITH CONFIDENCE\n\nPreparing for the Pharmacy Technician Certification Examination can feel overwhelming. Medications, federal requirements, calculations, patient safety, and prescription "
+    },
+    {
+     "name": "PTCB& PTCE Exam  2026",
+     "dev": "Chengdu Youzou Information Technology Co., Ltd",
+     "ratings": 124,
+     "desc": "Passing scores on the PTCE earn professionals in this field the Certified Pharmacy Technician designation. This credential can be used to meet employer or state licensing requirements. It might also p"
+    },
+    {
+     "name": "CPhT™ ExCPT Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 61,
+     "desc": "CPhT™ ExCPT Test Prep 2026: Your Complete Solution for CPhT Exam Success\nGet ready to ace the Certified Pharmacy Technician (CPhT™) Exam with our comprehensive CPhT™ ExCPT Exam Prep 2026 app.\nDesigned"
+    },
+    {
+     "name": "PTCB PTCE Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 333,
+     "desc": "PTCB PTCE Exam Prep 2026 is an exam preparation application that will help you pass the Pharmacy Technician Certification Board (PTCB) certification exam with a high score on your first attempt.\n\nPTCB"
+    },
+    {
+     "name": "PTCB & PTCE Exam prep",
+     "dev": "Chengdu CloudLedger Technology Co., Ltd",
+     "ratings": 9,
+     "desc": "This APP is developed for the people who want to pass the Pharmacy Technician Certification Board’s (PTCB)® Pharmacy Technician Certification Exam (PTCE).\nPharmacy technicians work in clean, bright en"
+    },
+    {
+     "name": "NAPLEX Practice Exam Prep 2026",
+     "dev": "Edu Prep",
+     "ratings": 12,
+     "desc": "Helping you pass your NAPLEX exam is our primary goal. Study and prepare for the exam with a professional mobile app that will boost your confidence in passing the exam on the first try!\n\nThe NAPLEX e"
+    },
+    {
+     "name": "PTCB Exam Prep 2026 | EZPrep",
+     "dev": "EZ Test Prep",
+     "ratings": 1236,
+     "desc": "Ace Your PTCB Without Mixing Up Heart Meds and Laxatives.\n\nSo you’ve chosen the noble path of counting pills, deciphering doctor chicken scratch, and making sure no one confuses their antibiotics with"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "otr occupational therapy prep",
+   "top": [
+    {
+     "name": "OTR Occupational Therapy Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "The OTR (Occupational Therapist, Registered) credential, earned through the NBCOT certification exam, qualifies you to practice as an occupational therapist. This app helps you pass with realistic pra"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    },
+    {
+     "name": "Occupational Therapy Exam 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 58,
+     "desc": "Crush the OT Exam Without Losing Your Grip on Reality\n\nYou picked occupational therapy to make a difference, change lives, and maybe wear scrubs to work. But before you can do any of that, there’s the"
+    },
+    {
+     "name": "OTR Prep: NBCOT Practice Test",
+     "dev": "iAPPSSTUDIO",
+     "ratings": 0,
+     "desc": "Pass the NBCOT OTR exam on your first attempt and launch your career as a Registered Occupational Therapist with confidence. OTR Prep gives you full-length NBCOT practice tests, detailed answer explan"
+    },
+    {
+     "name": "Pocket Prep Medical 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6562,
+     "desc": "Unlock thousands of Medical certification exam practice questions and mock exams for the NHA CPT, CDR RD, PTCB PTCE, AAPC CPC, AAVSB VTNE, and more with Pocket Prep, the largest provider of mobile tes"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "esthetician & cosmetology 2026",
+   "top": [
+    {
+     "name": "Esthetician & Cosmetology 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 271,
+     "desc": "**Pass Your Esthetician Exam Without Having a Meltdown in the Waxing Room**\n\nYou’ve learned the difference between a dermis and a disaster. You’ve mastered the art of smiling politely while someone pa"
+    },
+    {
+     "name": "Cosmetology Exam Center",
+     "dev": "Tuli Education, inc",
+     "ratings": 8151,
+     "desc": "Ace your next Cosmetology exam with the help of the new Cosmetology Exam Center app! Thousands of Cosmetology questions and their detailed explanations are now available at your fingertips.\n\nPrepare f"
+    },
+    {
+     "name": "Cosmetology Exam Prep & Review",
+     "dev": "MastrAPI",
+     "ratings": 451,
+     "desc": "Pass your Cosmetology exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nEver wanted "
+    },
+    {
+     "name": "Esthetician Exam Prep 2026",
+     "dev": "和荣 叶",
+     "ratings": 181,
+     "desc": "Esthetician Exam Prep 2026 is an exam preparation app that will help you pass Esthetics State Board Exams with a high score on your first attempt.\n\nEsthetician Exam Prep 2026 not only helps you gain i"
+    },
+    {
+     "name": "Esthetician Exam Prep Practice",
+     "dev": "秀娟 周",
+     "ratings": 57,
+     "desc": "Esthetician Exam Prep Practice is an application carefully designed and developed by industry test experts. With over 900 high-quality questions and answers, multiple test modes, and a scientific anal"
+    },
+    {
+     "name": "Cosmetology Exam Practice 2026",
+     "dev": "秀娟 周",
+     "ratings": 63,
+     "desc": "Cosmetology Exam Practice 2026 is an application carefully designed and developed by industry exam experts. With more than 800 high-quality questions and answers, multiple test modes, and a scientific"
+    },
+    {
+     "name": "Esthetician Exam Prep Test",
+     "dev": "Best Fun Games",
+     "ratings": 573,
+     "desc": "Pass your Esthetician State Board exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,000+ questions written by experts, "
+    },
+    {
+     "name": "European Wax Center",
+     "dev": "EWC Franchise, LLC",
+     "ratings": 8820,
+     "desc": "With over 800 European Wax Center locations nationwide and the most highly trained estheticians in the industry, staying smooth has never been more convenient. Easily book and manage your wax reservat"
+    },
+    {
+     "name": "Esthetician Exam Center: 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 21,
+     "desc": "Help you prepare for the Esthetician exam and pass it on your first attempt at the actual exam! Use the mobile app Esthetician Exam Center: 2026 developed by our exam experts to help prepare for the e"
+    },
+    {
+     "name": "Cosmetology Exam Prep Test",
+     "dev": "Best Fun Games",
+     "ratings": 533,
+     "desc": "Pass your Cosmetology State Board Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written by experts, d"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "lso paralegal exam prep",
+   "top": [
+    {
+     "name": "LSO Paralegal Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Law Society of Ontario (LSO) Paralegal Practice Exam Exam Prep 2026 helps you pass with 351+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 351+ practice questions with detai"
+    },
+    {
+     "name": "7Sage LSAT",
+     "dev": "7Sage Education Technology, Inc.",
+     "ratings": 3285,
+     "desc": "Ace the LSAT with 7Sage, the all-in-one prep platform that helped half a million students raise their scores. Master the fundamentals with video lessons, take official PrepTests, drill Logical Reasoni"
+    },
+    {
+     "name": "Quimbee",
+     "dev": "Sellers International, LLC",
+     "ratings": 2505,
+     "desc": "Quimbee is an all-in-one learning platform built to support law students and bar examinees at every stage of their legal learning journeys. More than 900,000 students have trusted Quimbee Study Aids f"
+    },
+    {
+     "name": "Pocket Prep MSW 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6735,
+     "desc": "Unlock 1,000 MSW practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key MSW "
+    },
+    {
+     "name": "Becker’s CPA Exam Review",
+     "dev": "Becker Professional Development Corporation",
+     "ratings": 12416,
+     "desc": "For over 60 years, Becker has set the gold standard in CPA Exam preparation. Now, everything you need to help with your studies is in your pocket. Whether you're squeezing in practice questions on you"
+    },
+    {
+     "name": "BarMax Bar Exam, MBE & MPRE",
+     "dev": "TestMax, Inc.",
+     "ratings": 3707,
+     "desc": "Developed by Harvard Law School alumni, BarMax is the top-rated bar exam review course in the App Store, with the highest overall pass rates. \n\nBarMax is free to download, giving you access to our MPR"
+    },
+    {
+     "name": "Pocket Prep LCSW 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 5051,
+     "desc": "Unlock 1,000 LCSW practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key LCS"
+    },
+    {
+     "name": "LSAT Max LSAT Prep & Tutoring",
+     "dev": "TestMax, Inc.",
+     "ratings": 4702,
+     "desc": "Your success is our success. \n\nCreated by the same Harvard Law School alumni behind BarMax, LSATMax is the pioneer in comprehensive LSAT prep courses on mobile.\n\nJoin over 500,000 students who have tr"
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    },
+    {
+     "name": "PSI Test Prep",
+     "dev": "Memorang",
+     "ratings": 4215,
+     "desc": "Practice Questions | Detailed Progress Tracking | Custom Study Sessions | Explanations | References\n\nThe PSI Test Prep app is your best streamlined, mobile companion to prepare for your licensure test"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "certified sommelier part ii mc",
+   "top": [
+    {
+     "name": "Certified Sommelier Part II MC",
+     "dev": "Sayma Tasnim",
+     "ratings": 3,
+     "desc": "Certified Sommelier Part II MCQ Exam Practice Pro \nKey Features of this APP: \n• At practice mode you can see the explanation describing the correct answer.\n• Real exam style full mock exam with timed "
+    },
+    {
+     "name": "Prep Interactive Exam Quiz",
+     "dev": "Sayma Tasnim",
+     "ratings": 38,
+     "desc": "List of Apps included in this bundle:\n\nABO\nACCA F2\nACCA F7\nACCA F9\nAccounting\nACE\nACSM\nAdult Gerontology\nAdwords\nAFAA\nAlberta Canada Driving\nAMT RMA\nANCC Nurse Executive\nANCC Nursing Informatics\nAnest"
+    },
+    {
+     "name": "Wine.com",
+     "dev": "Wine.com, Inc.",
+     "ratings": 84822,
+     "desc": "The #1 Online Wine Store, Wine.com has the largest selection of wine and spirits (liquor) available to order and deliver across the US. With the Wine.com app, wine country is wherever you want it to b"
+    },
+    {
+     "name": "Vinoperte: AI Wine Sommelier",
+     "dev": "EMILY CECILE BUCKLEY-MATURA",
+     "ratings": 99,
+     "desc": "You open the wine list. Eighty names, half in a language you don't read, and the waiter is standing there. So you point at the second-cheapest bottle and hope.\n\nVinoperte ends the guessing.\n\nPhotograp"
+    },
+    {
+     "name": "Pocket Wine Pairing: Sommelier",
+     "dev": "Time Marketing Limited",
+     "ratings": 359,
+     "desc": "Featured as one of the “Best New Apps” on the App Store!\n\nFood and wine pairing has never been so clear, accessible and easy to understand. The app gives you a detailed index of hundreds of meal types"
+    },
+    {
+     "name": "Cork Dork Wine Study",
+     "dev": "Paul Kavanagh",
+     "ratings": 359,
+     "desc": "Cork Dork Wine Study and its CMS & WSET flashcards helps you crush wine exams. Spaced repetition, 2500+ wine study flashcards, 40+ wine maps, 30+ interactive wine map quizzes, wine study practice ques"
+    },
+    {
+     "name": "Delectable - Scan & Rate Wine",
+     "dev": "Delectable",
+     "ratings": 25968,
+     "desc": "“The Essential Wine App” — James Beard award winner Jordan Mackay\n\nTake a photo of a wine label and instantly get ratings and descriptions with Delectable, the critically-acclaimed free app that helps"
+    },
+    {
+     "name": "Decanter Know Your Wine",
+     "dev": "Feed Your Elephant",
+     "ratings": 564,
+     "desc": "Welcome to the award-winning single most efficient way to learn about wine, an essential tool for budding sommeliers, those facing wine exams or anyone who would like to enjoy confident wine knowledge"
+    },
+    {
+     "name": "Distiller - Liquor Reviews",
+     "dev": "Distiller Inc",
+     "ratings": 4945,
+     "desc": "The Distiller app is your ultimate spirits companion. Built by spirits fans for spirits fans, it has thousands of flavor graphs, millions of reviews, and nearly 60,000 unique spirits in the system. Tr"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "bass booster & sound equalizer",
+   "top": [
+    {
+     "name": "Bass Booster Volume Boost EQ",
+     "dev": "Companjen Apps B.V.",
+     "ratings": 19089,
+     "desc": "Bass Booster is the best all-in-one Music Player app that gives you full control to improve the sound quality. Stream, download from the cloud or listen to radio. Boost the bass and improve the overal"
+    },
+    {
+     "name": "Bass Booster & Sound Equalizer",
+     "dev": "ZipoApps",
+     "ratings": 492,
+     "desc": "Bass Booster & Sound Equalizer is an advanced audio tool that lets you precisely control your sound output. It offers features such as bass enhancement, sound equalization, volume amplification, and v"
+    },
+    {
+     "name": "Equalizer & Bass Booster FX",
+     "dev": "VDR APP DEVELOPMENT S.R.L.-D.",
+     "ratings": 3192,
+     "desc": "Equalizer and volume booster app.\nWith this app, you can boost your sound volume up to 10 times,  adjust bass and treble, and use it as equalizer.\nApp includes additional features with subscription:\n-"
+    },
+    {
+     "name": "Equalizer Fx: Bass Booster App",
+     "dev": "TwinBit Ltd",
+     "ratings": 27964,
+     "desc": "Best equalizer and bass booster app for iPhone and iPad – Equalizer Fx lets you experience the magic of music with its powerful 7-band EQ and dynamic bass tuning functionalities.\n\nEnhance the way you "
+    },
+    {
+     "name": "Volume Booster Bass Booster",
+     "dev": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+     "ratings": 25483,
+     "desc": "Is your phone volume just not cutting it? Transform your listening experience with Volume Booster, the ultimate sound booster designed to unleash your device's true audio potential! Say goodbye to muf"
+    },
+    {
+     "name": "AmpMe – Speaker & Music Sync",
+     "dev": "Amp Me inc",
+     "ratings": 53788,
+     "desc": "AmpMe™ is the record breaking #1 iPhone music syncing app that boosts the sound of your music by syncing it with all of your friends’ phones, bluetooth and speakers!\n\nOver 288 Million users already us"
+    },
+    {
+     "name": "Bass Booster EQ + Volume Boost",
+     "dev": "Plane Cubes",
+     "ratings": 19616,
+     "desc": "Δ Deep Bass Booster + Powerful Volume Amplifier x10\nΔ Full Range Equalizer & Custom presets\nΔ Access your Music anywhere. Connect your library. Download & Listen Offline and in the Background\n\n\"Your M"
+    },
+    {
+     "name": "Bass Booster - Audio Equalizer",
+     "dev": "Pretty View LLC",
+     "ratings": 4733,
+     "desc": "Get the maximum of each song and enjoy your music as never before with the audio editing tools Bass Booster brings directly to your device.\nImprove the audio quality to every song in your library and "
+    },
+    {
+     "name": "Bass Booster Volume Power Amp",
+     "dev": "App Rover",
+     "ratings": 18320,
+     "desc": "Bass Booster will amplify your bass at a maximum and provide you with a better sound quality wherever you are! Play your music from your iTunes library and adjust the sound to your headset or speakers"
+    },
+    {
+     "name": "Bass Booster Music EQ: BASSY",
+     "dev": "Maryana Yurieva",
+     "ratings": 4895,
+     "desc": "BASSY is an advanced music player able to amplify your bass at a maximum and get a clearer and stronger sound.\n\nKEY FEATURES:\n- Powerful bass boosting effect\n- Clear and stronger sound\n- 10 equalizer "
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

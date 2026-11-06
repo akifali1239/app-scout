@@ -59233,6 +59233,132 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "pdf password remover",
+   "apps": [
+    {
+     "name": "PDF Password Remover Offline",
+     "dev": "Parsottambhai Dhameliya",
+     "ratings": 22,
+     "desc": "This PDF Password Remover Offline is the Best PDF Password Remover app.\n\nThis PDF Password Remover Offline App is straightforward to get rid of passwords pdf from pdf files.\n\nYou can decrypt a pdf file only in seconds.\n\nUnlike the password-remove online service app that wants an online association, "
+    },
+    {
+     "name": "Omni PDF Unlocker - Password",
+     "dev": "Baofeng County Jixu Education Information Consulting Co., Ltd.",
+     "ratings": 5,
+     "desc": "Easily remove PDF passwords or protect your PDFs with just one click!\n\nFeatures:\n* Unlock PDF: Remove password protection and restrictions.\n* Batch Processing: Unlock or protect multiple files at once.\n* Restrict Usage: Set a password to prevent editing, copying, or printing.\n* Encrypt PDF: Set a pa"
+    },
+    {
+     "name": "Unlock PDF - Password Remover",
+     "dev": "Ashvin Ajadiya",
+     "ratings": 2,
+     "desc": "Welcome to Unlock PDF - Password Remover, the simple and secure way to access your locked documents. With Easily Open Encrypted PDFs, you can unlock password-protected files instantly, remove restrictions, and save time by skipping repeated password input.\n\nWhether you need to view, edit, or share i"
+    },
+    {
+     "name": "iLovePDF - PDF Editor & Scan",
+     "dev": "iLovePDF",
+     "ratings": 51748,
+     "desc": "Read, convert, annotate and sign PDF in just a few seconds with this handy document scanner and editor. Boost your productivity with every tool you need to work on the go.\n \nPHONE SCANNER\n \n• iPhone and iPad Scanner: Snap a photo of anything and save it to PDF. Multipage PDF option available. \n• Tex"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "silent alarm",
+   "apps": [
+    {
+     "name": "VibeAlarm",
+     "dev": "Tatsuya Kojima",
+     "ratings": 2130,
+     "desc": "VibeAlarm is a quick, easy and simple alarm clock that notifies only by vibration without sound.\n\n・Two types of features: Alarm and Timer\n・Can also specify seconds, so it can be used for various purposes.\n・Also notifies in background.\n・If in background, it vibrates for 1.5 minutes.\n・If in foreground"
+    },
+    {
+     "name": "Vibrating Alarm Clock & Timer",
+     "dev": "manabu ueda",
+     "ratings": 104,
+     "desc": "Notifications without sound, only with vibration. Even if your iPhone is set to sound, no sound will be played. It works almost the same as the iPhone's clock app, so you can use it right away. However, since iPads do not have a built-in vibration function, they will not vibrate.\n\n● Alarm\nUnlimited "
+    },
+    {
+     "name": "Silent Wake: Vibrate Alarm",
+     "dev": "Mehdi El Moussali",
+     "ratings": 14,
+     "desc": "Wake up without waking anyone.\n\nSilent Wake wakes you with vibration on your nightstand, or sound in your headphones  while your partner, kids, or roommates stay asleep.\n\nChoose how you wake\n- Headphone alarm: plug in headphones at bedtime, only you hear it\n- Vibration: phone vibrates silently next "
+    },
+    {
+     "name": "Headphone Alarm",
+     "dev": "Yuki Kubota",
+     "ratings": 176,
+     "desc": "This app can wake you up without disturbing other people!\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n■ When sleeping at a Share-Room in the morning, this application can wake you up without disturbing others.\n\n■ This application also makes you a great nap time in your office without finding out you're in a dream.\n\n■ You "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "dental anatomy",
+   "apps": [
+    {
+     "name": "ToothView™",
+     "dev": "ACA Dental",
+     "ratings": 11,
+     "desc": "ToothView™ is a 3D animation software that can be used to study tooth anatomy. Users can view all internal and external features from multiple angles. Easily navigate to select tooth histology and classification. The enamel, dentin, and pulp relationship are clearly defined in the 3D field. Learning"
+    },
+    {
+     "name": "Dental Anatomy Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 200,
+     "desc": "Master the tooth morphology and occlusion concepts. Save time and study smarter with a tool designed for your busy life.\n\nREAL USER REVIEWS\n\n“I’ve always struggled with dental anatomy concepts and this gave me the confidence I needed in my classes. I wouldn’t be where I am without the dental anatomy"
+    },
+    {
+     "name": "DentaCore: 3D Dental Anatomy",
+     "dev": "Ngoc Anh Pham Thi",
+     "ratings": 5,
+     "desc": "DentaCore: 3D Dental Anatomy Learning Tool. Master dental anatomy visually – in 3D.\nDentaCore is the ultimate interactive tool for learning tooth anatomy, designed for dental students, assistants, and professionals looking to explore oral structures in high precision.\n\nWith lifelike 3D models, you c"
+    },
+    {
+     "name": "Dental Tool, Smart Aid",
+     "dev": "Dental App Lab Oy",
+     "ratings": 82,
+     "desc": "Dentalk provides smart aid for dental professionals. It facilitates communication between you and your clients and improves the efficiency of your dental practice. Just sign up for one account and become a Dentalk premium member, and you can get full access to both iOS and web platforms.\n\nWith this "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

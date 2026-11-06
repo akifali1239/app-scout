@@ -59856,6 +59856,132 @@
     "adjacent"
    ],
    "split": "dev"
+  },
+  {
+   "term": "phlebotomy study guide q&a",
+   "apps": [
+    {
+     "name": "Phlebotomy CPT NHA Prep 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 277,
+     "desc": "**Pass the Phlebotomy Exam Without Drawing a Blank**\n\nYou’ve practiced the sticks, mastered the tubes, and maybe even survived your first fainting patient. Now it’s time to pass your phlebotomy certification exam and make it official. No pressure. Just veins, vacutainers, and a mountain of test ques"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written by experts, detailed explanations for each question, and hundreds of tests & quizzes at your fingerti"
+    },
+    {
+     "name": "Phlebotomy Study Guide Q&A",
+     "dev": "Tourkia CHIHI",
+     "ratings": 0,
+     "desc": "Phlebotomy Study Guide : 6000 Quiz, Concepts explained & Study Notes\n\nWith this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our 5 study modes embedded in this app.\nThis app is a combination of sets, containing practice question"
+    },
+    {
+     "name": "NHA",
+     "dev": "MastrAPI",
+     "ratings": 427,
+     "desc": "Pass your NHA CPT Exam with flying colors! Updated for the 2026 exam cycle, boost your confidence in passing on the first attempt with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe NHA CPT exam is an industry certification developed by the National Healt"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cmtbc massage therapy prep",
+   "apps": [
+    {
+     "name": "CMTBC Massage Therapy Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "College of Massage Therapists of British Columbia (CMTBC) Practice Exam Exam Prep 2026 helps you pass with 361+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 361+ practice questions with detailed answer explanations\n- Study modes: quick 10, mock exam, timed, missed questio"
+    },
+    {
+     "name": "AMTA Exam Prep",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 8936,
+     "desc": "The official American Massage Therapy Association’s study app will help you prepare for the MBLEx like never before. Study anywhere, anytime with 1000 challenging practice questions and full answer rationales.\n\nOwn your education.\n\nResearch has shown that smaller, more frequent study sessions are th"
+    },
+    {
+     "name": "Massage Envy",
+     "dev": "Massage Envy",
+     "ratings": 52658,
+     "desc": "With the Massage Envy app, access to routine self-care is literally in your hands. Find your favorite massage therapist, stretch provider, or esthetician at any franchised location and easily book a massage, facial, or stretch session near you. You can also customize each session with recommended en"
+    },
+    {
+     "name": "Squeeze - Massage",
+     "dev": "GoSaga Squeeze Franchising, LLC",
+     "ratings": 1997,
+     "desc": "Squeeze is a way better massage experience. Why? Because unlike other massage places, you can book, pay, and tip right in the app—so after your massage, you can just float on out. No cashier, no registers, no checkout lines.\n\nThe app also lets you personalize every visit by selecting which areas you"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "compass maps - digital compass",
+   "apps": [
+    {
+     "name": "Compass Maps - Digital Compass",
+     "dev": "KIET NGUYEN TAN",
+     "ratings": 657,
+     "desc": "Maps compass - directional compass & digital is free the application to support show compass on the map, Traffic maps in real time, Land area measurement, show address on maps with satellite map mode and share location to networks social, email, sms or for any app you like. With GPS technology the a"
+    },
+    {
+     "name": "Compass & GPS",
+     "dev": "EONSOFT",
+     "ratings": 12880,
+     "desc": "A compass is an instrument used to determine direction.\nThis app helps you find your bearings while hiking, traveling, or when visibility is limited due to fog.\nThe compass app determines the cardinal directions (north, south, east, and west) using the Earth's magnetic field.\nThis compass app displa"
+    },
+    {
+     "name": "Compass Direction - Digital",
+     "dev": "Rihab Mehboob",
+     "ratings": 2717,
+     "desc": "AS FEATURED ON: TechRadar and more.\n\nCompass Direction - Digital is an easy to use compass app which allows you to find accurate compass headings and directions along with a realtime GPS map. Switch between the map and the view by holding the device up!\n \nWHY YOU’LL LOVE COMPASS DIRECTION - DIGITAL:"
+    },
+    {
+     "name": "Compass°",
+     "dev": "Tim O's Studios, LLC",
+     "ratings": 59243,
+     "desc": "This app is a super simple compass that is very easy to read with a huge display showing you the direction and heading.\n\nThis software is provided as is and uses the device's internal hardware to estimate direction. By continuing to use this app you agree to our Terms of Service."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

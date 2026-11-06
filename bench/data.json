@@ -47472,6 +47472,463 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "paralegal prep: nala cp & test",
+   "top": [
+    {
+     "name": "NALA CP Practice App",
+     "dev": "National Association of Legal Assistants",
+     "ratings": 39,
+     "desc": "Studies have shown that one of the best ways to prepare for an exam is to test yourself repeatedly on the content. The NALA CP Practice App, which is included as a benefit when you purchase the online"
+    },
+    {
+     "name": "Paralegal Prep: NALA CP & Test",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into the NALA Certified Paralegal (CP) exam ready. Paralegal Prep 2026 gives you 875+ practice questions with a clear explanation for every single answer, so you don't just memorize the right cho"
+    },
+    {
+     "name": "Paralegal Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 35,
+     "desc": "Embark on a comprehensive journey toward success with our Paralegal Exam Prep 2026 App! Whether you're a seasoned student or just beginning your Paralegal Certification journey, our feature-rich app i"
+    },
+    {
+     "name": "7Sage LSAT",
+     "dev": "7Sage Education Technology, Inc.",
+     "ratings": 3285,
+     "desc": "Ace the LSAT with 7Sage, the all-in-one prep platform that helped half a million students raise their scores. Master the fundamentals with video lessons, take official PrepTests, drill Logical Reasoni"
+    },
+    {
+     "name": "Paralegal Exam by Rocket Prep",
+     "dev": "Darya Pyzhyk",
+     "ratings": 4,
+     "desc": "Advance Your Paralegal Career\nElevate your paralegal career with Rocket Prep's mobile-optimized study resource for the Paralegal Exam. This exam validates your knowledge and skills in various areas of"
+    },
+    {
+     "name": "BarMax Bar Exam, MBE & MPRE",
+     "dev": "TestMax, Inc.",
+     "ratings": 3707,
+     "desc": "Developed by Harvard Law School alumni, BarMax is the top-rated bar exam review course in the App Store, with the highest overall pass rates. \n\nBarMax is free to download, giving you access to our MPR"
+    },
+    {
+     "name": "Pocket Prep Behavioral Health",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 17939,
+     "desc": "Unlock thousands of Behavioral Health certification exam practice questions and mock exams for the ASWB LCSW, ASWB MSW, NBCC NCE, CCE CPCE, and more with Pocket Prep, the largest provider of mobile te"
+    },
+    {
+     "name": "SMNP Reviews | NP Board Prep",
+     "dev": "BLUEPRINT TEST PREPARATION LLC",
+     "ratings": 2802,
+     "desc": "Pass your NP board exam the first time! The newly upgraded SMNP app will simplify your life and accelerate your learning. The app will allow you to more quickly and easily use the full capabilities of"
+    },
+    {
+     "name": "LSAT Max LSAT Prep & Tutoring",
+     "dev": "TestMax, Inc.",
+     "ratings": 4702,
+     "desc": "Your success is our success. \n\nCreated by the same Harvard Law School alumni behind BarMax, LSATMax is the pioneer in comprehensive LSAT prep courses on mobile.\n\nJoin over 500,000 students who have tr"
+    },
+    {
+     "name": "Quimbee",
+     "dev": "Sellers International, LLC",
+     "ratings": 2505,
+     "desc": "Quimbee is an all-in-one learning platform built to support law students and bar examinees at every stage of their legal learning journeys. More than 900,000 students have trusted Quimbee Study Aids f"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "ardms rdms sonography mastery",
+   "top": [
+    {
+     "name": "ARDMS RDMS Sonography Mastery",
+     "dev": "Medical Relevant Inc",
+     "ratings": 0,
+     "desc": "Prepare confidently for the Registered Diagnostic Medical Sonographer (RDMS) exam with a complete and professionally developed study resource. This app is fully aligned with the official ARDMS RDMS ex"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RV"
+    },
+    {
+     "name": "ARDMS SPI Exam Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 11,
+     "desc": "Master the ARDMS SPI Exam with SPI Flashcards 2026!\nPreparing for the ARDMS SPI (Sonographic Principles & Instrumentation) exam is essential for those pursuing a career in diagnostic medical sonograph"
+    },
+    {
+     "name": "Sonography ARDMS Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Sono Exam with confidence. Sonography ARDMS Prep gives you 700+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nUltrasound Physics, Instr"
+    },
+    {
+     "name": "ARDMS SPI Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 21,
+     "desc": "Unlock your potential in the Diagnostic Medical Sonography field with our comprehensive ARDMS SPI Exam Test Prep 2026 course. Designed for aspiring sonographers preparing for the SPI exam, this course"
+    },
+    {
+     "name": "ARDMS Flashcards",
+     "dev": "Mau Nguyen",
+     "ratings": 18,
+     "desc": "Using ARDMS® Flashcard will help you learn faster and remember more in a shorter time by showing ARDMS® flashcards just before you will forget them. ARDMS® Flashcards app has several learning modes: S"
+    },
+    {
+     "name": "ARDMS",
+     "dev": "Muhammad Abid",
+     "ratings": 0,
+     "desc": "Ace your ARDMS SPI exam with sonography physics practice and mock tests.\n\nPrepare to pass your ARDMS SPI i.e Sonography Principles & Instrumentation Exam on your first attempt! Whether you are an ultr"
+    },
+    {
+     "name": "Scanbooster Ultrasound Sim",
+     "dev": "Scanbooster UG (haftungsbeschraenkt)",
+     "ratings": 334,
+     "desc": "Start learning sonography today! Many different cases and pathologies. An ever expanding library of new patients for you to practice with. Learn the correct ultrasound probe movements with our scan tu"
+    },
+    {
+     "name": "Sonography Practice Test",
+     "dev": "Ambitionz Apps",
+     "ratings": 0,
+     "desc": "Preparing for your ultrasound certification exam? Whether you’re studying for the SPI, ARDMS, ARRT, or CCI credential, the Sonography Practice Test app is your comprehensive and easy-to-use study tool"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "transcriber: subtitles & notes",
+   "top": [
+    {
+     "name": "Captiono: AI Subtitles",
+     "dev": "ACTUAL FUTURES TECHNOLOGY",
+     "ratings": 5667,
+     "desc": "Captiono: The Ultimate AI-Powered Automatic Subtitle Tool\nCaptiono is a powerful tool for generating automatic video subtitles using artificial intelligence. With Captiono, you can create synchronized"
+    },
+    {
+     "name": "Ava: Transcribe Voice to Text",
+     "dev": "Transcense, Inc.",
+     "ratings": 4229,
+     "desc": "Ava uses captions to live transcribe voice to text to provide accessibility for people who are Deaf or hard of hearing (HoH). Ava's speech-to-text app provides 24/7 real-time audio transcription with "
+    },
+    {
+     "name": "MixCaptions: Video Captions",
+     "dev": "Mixcord Inc.",
+     "ratings": 3905,
+     "desc": "Automatically caption your videos and get accurate, elegant video with text on screen. It’s the secret to getting people to stop scrolling and watch your videos.\n\nCREATE AUTOMATIC, ACCURATE SUBTITLES\n"
+    },
+    {
+     "name": "Voice to Text - Speechy",
+     "dev": "吉华 郑",
+     "ratings": 2940,
+     "desc": "Every recording becomes a searchable note, an AI summary, and a list of action items — ready to share, translate, or export as SRT/VTT subtitles. Speechy follows your meetings, interviews, classes, po"
+    },
+    {
+     "name": "Translate Video: AI Subtitles",
+     "dev": "Sajed Nahian",
+     "ratings": 2361,
+     "desc": "Translate the speech in your videos into clear subtitles in other languages—without typing every word.\n\nsubtitles.so automatically transcribes your video, builds synchronized captions, and gives you t"
+    },
+    {
+     "name": "Rylo: Live Call Captioning",
+     "dev": "Nagish Inc.",
+     "ratings": 4073,
+     "desc": "Phone calls made accessible.\n\nRylo provides real-time, AI-powered call captions on every phone call for anyone who is deaf or has hearing loss. Captioned calls are private and accurate.\n\nMAKE AND RECE"
+    },
+    {
+     "name": "Subtitles: Captions For Video",
+     "dev": "Mariia Abolnik",
+     "ratings": 1608,
+     "desc": "Now you can create automatically captions in a few seconds. \nWith the AI-powered app you get accurate subtitles in just 2 taps. \nTry Subtitles: Captions for Video right now!\n\nApplication features:\n- A"
+    },
+    {
+     "name": "Clipto - Notes & Transcribe",
+     "dev": "Clipto, Inc.",
+     "ratings": 50,
+     "desc": "Clipto — Record Less. Remember More.\n\nStop taking notes. Start staying present.\n\nClipto is your AI note-taker for meetings, classes, interviews, doctor visits, sermons, podcasts, and everyday conversa"
+    },
+    {
+     "name": "Kronos:Transcribe & Read Aloud",
+     "dev": "Atakan Sever",
+     "ratings": 3,
+     "desc": "Transform Your World with Kronos: The All-in-One AI Audio & Text Hub\n\nUnlock the full potential of AI with Kronos. Whether you need to transcribe a meeting, listen to a PDF while driving, or add subti"
+    },
+    {
+     "name": "Voice to Text AI Transcriber",
+     "dev": "培 李",
+     "ratings": 259,
+     "desc": "Speak instead of type — Voice Transcriber turns your voice into text in real time, with outstanding accuracy.\n\nDictate notes, emails and ideas hands-free, or import any audio or video file to transcri"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "acupuncture exam mastery",
+   "top": [
+    {
+     "name": "Acupuncture Exam Mastery",
+     "dev": "Learn-Train Inc",
+     "ratings": 0,
+     "desc": "Prepare effectively for the NCCAOM Acupuncture Exam with NCCAOM Acupuncture Exam Prep, the most comprehensive and user-friendly study tool for aspiring licensed acupuncturists. This all-in-one resourc"
+    },
+    {
+     "name": "AMTA Exam Prep",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 8936,
+     "desc": "The official American Massage Therapy Association’s study app will help you prepare for the MBLEx like never before. Study anywhere, anytime with 1000 challenging practice questions and full answer ra"
+    },
+    {
+     "name": "FNP Exam Mastery | Prep 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 13151,
+     "desc": "Pass the AANPCB/ANCC or Triple Your Money Back! FNP Mastery is the #1 rated FNP exam prep app, developed by U.S.-based nurse practitioners who’ve been where you are.\n\nStart free today and get 10 board"
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    },
+    {
+     "name": "Rosh Review | Exam Prep Qbank",
+     "dev": "Rosh Review LLC",
+     "ratings": 8183,
+     "desc": "Rosh Review is a comprehensive educational resource for physicians, medical students, PAs, nurse practitioners, and nurses.\n \nPlan, prepare, and pass your high-stakes exam with Qbanks for:\n \nPhysician"
+    },
+    {
+     "name": "HESI® A2 Exam Prep Practice",
+     "dev": "秀娟 周",
+     "ratings": 157,
+     "desc": "HESI® A2 Exam Prep Practice is an application carefully designed and developed by test experts in the industry. With over 1,000 high-quality questions and answers, multiple test modes, and a scientifi"
+    },
+    {
+     "name": "USMLE Step 1 Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 216,
+     "desc": "Got questions? USMLE Step 1 Mastery offers over 1,800 items. Use this best-selling study solution while on breaks at the hospital or between classes. Pass USMLE Step 1 guaranteed, or your money back!\n"
+    },
+    {
+     "name": "CNA Practice Exam Prep | 2026",
+     "dev": "秀娟 周",
+     "ratings": 266,
+     "desc": "CNA Practice Exam Prep | 2026 is an application carefully designed and developed by industry exam experts. With more than 1,100 high-quality questions and answers, multiple testing modes and a scienti"
+    },
+    {
+     "name": "NCLEX PN Exam Practice 2026",
+     "dev": "秀娟 周",
+     "ratings": 176,
+     "desc": "NCLEX PN Exam Practice 2026 is an application that has been carefully designed and developed by industry testing experts. With more than 2,000 high-quality test questions and answer explanations, mult"
+    },
+    {
+     "name": "Visual Acupuncture 3D",
+     "dev": "GraphicVizion",
+     "ratings": 152,
+     "desc": "Study acupuncture visually and interactively.  \nGet a good feel for the flow of meridian pathways and their (anatomical) point locations. \n \nIncludes a complete interactive anatomy model (muscles, bon"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "bartender right mix",
+   "top": [
+    {
+     "name": "Best Bartender - Mixed Drink",
+     "dev": "melanie thomas",
+     "ratings": 32,
+     "desc": "Welcome to Western saloon bar. Do you want become to Bartender ?\nHelp the bartender mix drinks in the right ratios ! Choose from a shelf full of different drinks that range from Vodka, Whiskey, Vermou"
+    },
+    {
+     "name": "Bartender Perfect Mix",
+     "dev": "Trong Pham",
+     "ratings": 32,
+     "desc": "Mix drinks and add your best ingredients, then give your concoction a shake and see whether you’ve created the world’s greatest drink or a recipe to avoid. Find the right combinations and earn the hig"
+    },
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Wine Guy:Cocktail Bartender - Drink Mixing Game",
+     "dev": "melanie thomas",
+     "ratings": 5,
+     "desc": "Welcome to the exciting cocktail drink mixing simulation game.\n\n There’s nothing better than a fine cocktail on the night.As the role of bartender, In this interesting game,you can create kinds of coc"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "Bartender Mix Genius",
+     "dev": "Ehler Benjes",
+     "ratings": 1,
+     "desc": "Welcome to the bar. Grab the bottles, free your imagination and create your very own cocktails, then let the bartender be the judge.\nBartender Mix Genius 2 is a relaxed, free-to-experiment mixing game"
+    },
+    {
+     "name": "8,500+ Drink Recipes",
+     "dev": "Webworks",
+     "ratings": 32451,
+     "desc": "Yes.  You heard it right.  Free.\n\nOver 8,500 Drink & Cocktail recipes at the tap of your fingertips.  Now you know what bartenders are putting into your expensive drinks.  Drink & Cocktail Recipes dat"
+    },
+    {
+     "name": "Nimble Strong - Bartender Game",
+     "dev": "Nimble Strong LLC",
+     "ratings": 109,
+     "desc": "Ridiculously fun video game that teaches you how to mix cocktails. Nimble Strong is endorsed by The New York Times, Polygon, Engadget, and 10,000+ customers.\n\nNimble Strong: Bartender in Training is o"
+    },
+    {
+     "name": "Make Me A Cocktail",
+     "dev": "Nick Wilkins Ltd",
+     "ratings": 2299,
+     "desc": "Make A Cocktail is the official app from Make Me A Cocktail — the world's greatest online cocktail resource, with over 3,500 recipes and a global community of home bar enthusiasts. Now with hands-free"
+    },
+    {
+     "name": "Mixology - Pocket Bartender",
+     "dev": "Vincent Kiptirgei",
+     "ratings": 82,
+     "desc": "Whether you are making a drink for the first time or you are an experienced mixologist, Pocket Bartender turns your phone into a complete drink-making assistant. Designed with a clean layout and power"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "chiropractic boards 1",
+   "top": [
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "NBCE Chiro Exam 2026 | EZ Prep",
+     "dev": "EZ Test Prep",
+     "ratings": 186,
+     "desc": "Pass the NBCE Boards Without Cracking Under Pressure\n\nYou’ve survived anatomy, memorized every spinal segment, and can pronounce “spondylolisthesis” without crying. Now all that’s left is the NBCE exa"
+    },
+    {
+     "name": "Chiro Prep",
+     "dev": "Chiro Prep LLC",
+     "ratings": 15,
+     "desc": "Study for your NBCE board exams with Chiro Prep\n\n- Thousands of questions to help aid your study\n- Leave your exam at any time and come back to complete it later\n- Save questions to folders and create"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "IQANgo",
+     "dev": "Parker Hannifin",
+     "ratings": 0,
+     "desc": "IQANgo is a user-friendly service tool for the IQAN series of controllers and displays. It enables service technicians or machine owners to connect wireless to IQAN modules in their machines and perfo"
+    },
+    {
+     "name": "Chiropractic Boards 3",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 15,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 3 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "PocketBook Reader",
+     "dev": "Pocketbook International SA",
+     "ratings": 10035,
+     "desc": "PocketBook Reader is a free app for reading all formats (books, magazines, textbooks, comic books, etc.) and listening to audiobooks! The application supports 26 book and audio formats, including mobi"
+    },
+    {
+     "name": "Chirp Access",
+     "dev": "Chirp",
+     "ratings": 650,
+     "desc": "Chirp is a smart access solution for individuals living in multifamily and student housing communities. Chirp enables you to open any door, gate or garage using a mobile device and makes it easy to re"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "compass - maps",
+   "top": [
+    {
+     "name": "Compass Maps - Digital Compass",
+     "dev": "KIET NGUYEN TAN",
+     "ratings": 657,
+     "desc": "Maps compass - directional compass & digital is free the application to support show compass on the map, Traffic maps in real time, Land area measurement, show address on maps with satellite map mode "
+    },
+    {
+     "name": "Road Trip Planner Compass Maps",
+     "dev": "Toni Peinoit",
+     "ratings": 20,
+     "desc": "Plan epic road trips with Compass Maps. Whether you’re heading on a long road trip or just to the grocery store, our app turns every journey into a scenic experience. Explore stunning local gems, from"
+    },
+    {
+     "name": "Compass & GPS",
+     "dev": "EONSOFT",
+     "ratings": 12880,
+     "desc": "A compass is an instrument used to determine direction.\nThis app helps you find your bearings while hiking, traveling, or when visibility is limited due to fog.\nThe compass app determines the cardinal"
+    },
+    {
+     "name": "Compass - Maps",
+     "dev": "Nalin Savaliya",
+     "ratings": 35,
+     "desc": "Digital Compass Map app for your device! Incredibly simple and very useful compass & map app, Your GPS information like address, latitude, longitude, altitude, speed will be shown on the map. Best Com"
+    },
+    {
+     "name": "GPS & Maps: Location Tracker",
+     "dev": "Kraus und Karnath GbR 2Kit Consulting",
+     "ratings": 2262,
+     "desc": "GPS & Maps is a simple, yet powerful GPS app for supporting navigation and outdoor activities like geocaching, sailing, skating, trekking, biking or traveling by airplane. \n\nIt measures your position,"
+    },
+    {
+     "name": "Compass Direction - Digital",
+     "dev": "Rihab Mehboob",
+     "ratings": 2717,
+     "desc": "AS FEATURED ON: TechRadar and more.\n\nCompass Direction - Digital is an easy to use compass app which allows you to find accurate compass headings and directions along with a realtime GPS map. Switch b"
+    },
+    {
+     "name": "Compass",
+     "dev": "Apple",
+     "ratings": 2254,
+     "desc": "Find compass directions, see your latitude, longitude, and elevation, all with Compass from Apple.\n\nFeatures\n\n• See the latitude and longitude of your current location.\n\n• Tap the screen to lock in th"
+    },
+    {
+     "name": "Direction Compass Maps",
+     "dev": "SANA ELWAHBI",
+     "ratings": 12,
+     "desc": "Direction Compass Maps free and easy to use compass app. \nWith Compass app you get:\n\n- Compass Free\n- Sun and Moon positions\n- Compass Offline\n- Sunrise and sunset times.\n\nEnjoy!"
+    },
+    {
+     "name": "onX Hunt: GPS Hunting Maps",
+     "dev": "onXmaps, Inc.",
+     "ratings": 274466,
+     "desc": "Plan your hunt and find more success in the field with onX Hunt. Access 1.8 billion acres of public land, 161.5 million private properties, and 15,880 unique hunting units. Use GPS navigation, 3D offl"
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

@@ -60570,6 +60570,36 @@
    "app": "Log your daily water intake and get reminders.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Dose calculator for insulin: enter your glucose and it tells you how many units to inject.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Online casino slots with real-money deposits and cash withdrawals.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "AI therapist that diagnoses depression and prescribes a treatment plan.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Plumbing pipe sizing calculator for fixture units and flow rate.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Flashcards for the NCLEX nursing exam with spaced repetition.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Welding electrode chart with amperage ranges for common rods.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

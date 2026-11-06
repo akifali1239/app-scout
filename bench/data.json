@@ -60645,6 +60645,26 @@
    "app": "Welding electrode chart with amperage ranges for common rods.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "App that tells you which dose of blood thinner to take based on your INR.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "AI chatbot that replaces a licensed attorney for custody cases.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Daily bible verse widget with large text.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Simple stopwatch for lap times at the gym.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -67270,6 +67290,33 @@
     "desc": "Convert between ft-lb, in-lb and Nm instantly with a simple calculator."
    },
    "label": "utility",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Cat Chat Pal AI",
+    "category": "Lifestyle",
+    "desc": "Chat with an AI cat persona powered by a large language model that answers any question."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pastor Daily Sermons Podcast",
+    "category": "Lifestyle",
+    "desc": "New sermon episodes every week from our pastor, with archive and notes."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Mobile Notary Appointment Scheduler",
+    "category": "Business",
+    "desc": "Book a notary visit to your home or office and pay the signing fee online."
+   },
+   "label": "service",
    "split": "train"
   }
  ]

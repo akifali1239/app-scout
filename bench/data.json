@@ -62718,6 +62718,36 @@
    "hi": "unit converter for machinists",
    "lo": "social network for dog owners",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "weld inspector exam fee per attempt",
+   "lo": "free horoscope daily",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "apps for licensed electricians",
+   "lo": "apps for anyone bored",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "simple torque unit converter",
+   "lo": "real-time multiplayer video platform",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "professional license exam prep subscription",
+   "lo": "wallpaper app for fun",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "tool for travel nurses",
+   "lo": "tool for all smartphone users",
+   "split": "train"
   }
  ],
  "note": [
@@ -64349,6 +64379,36 @@
   {
    "note": "Fikir hiç heyecan vermiyor, sıkıcı geldi",
    "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Bunu kimse için para ödemez, hepsi ücretsiz alternatif var",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple'ın inceleme kuralları buna izin vermez, reddedilir",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Altı ay eski bir app gibi duruyor, arayüz 2015'ten kalma",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "Bunu tek başıma yapmam için gerçek zamanlı video altyapısı gerekir",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Mesleğimle hiçbir ilgisi yok, farklı bir sektör",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Bu fikir zaten var olan bir app'in neredeyse aynısı",
+   "label": "Çok benzer",
    "split": "train"
   }
  ],

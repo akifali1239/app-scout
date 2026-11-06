@@ -62684,6 +62684,30 @@
    "hi": "ultrasound registry review for sonographers",
    "lo": "flashlight",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "commercial drone pilot test prep",
+   "lo": "coloring pages for kids",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "fe exam civil practice problems",
+   "lo": "battery widget",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "welder certification practice test",
+   "lo": "weather radar",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "social network for dog owners",
+   "split": "train"
   }
  ],
  "note": [
@@ -67062,6 +67086,42 @@
     "desc": "Play fast online chess matches against players worldwide and climb the ladder."
    },
    "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Crane Load Chart Lookup",
+    "category": "Reference",
+    "desc": "Look up rated capacity tables and boom angle charts for common mobile cranes."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Notary Signing Agent Finder",
+    "category": "Business",
+    "desc": "Book a mobile notary to come to your home or office for document signing."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Idle Farm Tycoon",
+    "category": "Games",
+    "desc": "Tap to harvest crops, upgrade your barn and unlock new animals in this relaxing idle game."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Converter",
+    "category": "Utilities",
+    "desc": "Convert between ft-lb, in-lb and Nm instantly with a simple calculator."
+   },
+   "label": "utility",
    "split": "train"
   }
  ]

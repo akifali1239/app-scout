@@ -3189,6 +3189,21 @@
    "term": "pest control near me",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "loan amortization calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "sudoku puzzles",
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "term": "bible verse reference",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

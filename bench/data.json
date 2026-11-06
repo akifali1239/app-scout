@@ -3249,6 +3249,41 @@
    "term": "cdl air brakes test",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "mayo clinic app",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "plumber jobs",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "pipe fitting chart",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "ac refrigerant pt chart",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "epic games",
+   "label": "brand",
+   "split": "train"
+  },
+  {
+   "term": "ladder safety checklist",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "electrician hiring now",
+   "label": "jobs",
+   "split": "test"
   }
  ],
  "brand": [

@@ -48406,6 +48406,244 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "personal trainer: crm, planner",
+   "top": [
+    {
+     "name": "Personal Trainer: CRM, Planner",
+     "dev": "Nicola Eusebi",
+     "ratings": 9,
+     "desc": "The Best App for Personal Trainer.\nManage your Clients, Payments and plan your Workout appointments.\n\n\n**MAJOR FEATURES:\n- Manage your clients\n- Plan your workouts appointments\n- Record the payments y"
+    },
+    {
+     "name": "Trainerfu For Personal Trainer",
+     "dev": "Manobal Jain",
+     "ratings": 3207,
+     "desc": "If you are a personal fitness trainer and looking for an online personal training app that can help you to train and manage all of your clients in one single place then you are at the right place. Wel"
+    },
+    {
+     "name": "Gym Workout Planner - Gym Plan",
+     "dev": "Gym Plan Limited",
+     "ratings": 677,
+     "desc": "Use Gym Plan for faster gains and unstoppable progress. Never worry about structuring your gym routines ever again. Remove the hassle and doubt from your workout planning and tracking. \n\nYou start by "
+    },
+    {
+     "name": "Planfit AI Gym Workout Planner",
+     "dev": "Planfit Inc.",
+     "ratings": 8213,
+     "desc": "Stop guessing your workout. Start seeing results. \nWhether you’re at home or in the gym, Planfit’s personalized workout plan helps you exercise smarter, achieve your fitness goals, and stay consistent"
+    },
+    {
+     "name": "Gym Fitness My Workout Planner",
+     "dev": "Steffen Ruppel",
+     "ratings": 3173,
+     "desc": "You want to reach your fitness goals faster?\nThat’s where Gymnotize and its augmented reality (AR) training tools can help.\n\nWith dozens of weight-based exercises to choose from, this is a comprehensi"
+    },
+    {
+     "name": "TrueCoach",
+     "dev": "TrueCoach, Inc.",
+     "ratings": 35503,
+     "desc": "TrueCoach is the number one platform for coaches and trainers who want to manage more clients with less admin work. Our easy to use workout builder features a 900+ video exercise library, plus the abi"
+    },
+    {
+     "name": "FitSW for Personal Trainers",
+     "dev": "MacroActive Limited",
+     "ratings": 1832,
+     "desc": "FitSW is personal training software that helps trainers manage clients, build workout plans, track progress, plan nutrition, schedule appointments, accept payments, communicate with clients, and grow "
+    },
+    {
+     "name": "Fitness App (ABC Trainerize)",
+     "dev": "Trainerize.com",
+     "ratings": 68325,
+     "desc": "ABC Trainerize is the all-in-one coaching software for personal trainers, online coaches, gyms, and fitness studios. Build workout programs, deliver nutrition coaching, message clients, track progress"
+    },
+    {
+     "name": "Contacts Journal CRM",
+     "dev": "zaal LLC",
+     "ratings": 2444,
+     "desc": "Stay on top of your relationships with a powerful, easy-to-use CRM.\nContacts Journal gives you the tools to track conversations, manage follow-ups, and organize your contacts—so you can build stronger"
+    },
+    {
+     "name": "Structured: Daily Planner Todo",
+     "dev": "unorderly GmbH",
+     "ratings": 166975,
+     "desc": "Plan your day visually. Stay focused. Get things done.\n\n400,000+ five-star ratings · Trusted by 1.5 million active users\n\nThe daily planner built for how your brain actually works. Map your tasks and "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "forklift pro",
+   "top": [
+    {
+     "name": "Forklift Certified Pro",
+     "dev": "Flat Earth LLC",
+     "ratings": 9,
+     "desc": "Get OSHA-aligned forklift operator training and your certificate — right from your phone. Train at your own pace, pass the final exam, and download your certificate the same day.\n\nForklift Certified i"
+    },
+    {
+     "name": "Forklift Pro",
+     "dev": "Bosoftware Solutions",
+     "ratings": 0,
+     "desc": "Forklift Pro is a mobile application designed to enhance forklift safety, inspection, and maintenance in warehouses and industrial environments. It enables operators and maintenance teams to conduct t"
+    },
+    {
+     "name": "Forklift Cargo Tycoon",
+     "dev": "Manzoor Ahmad",
+     "ratings": 1,
+     "desc": "\"Extreme Forklift driving 3D simulator Is Totally Stupidest simulation Game... you Can't Stop Playing\". We have always come with challenging gameplay, with a new turn to the parking arena; we give you"
+    },
+    {
+     "name": "Forklift Rush Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 203,
+     "desc": "Take control of powerful forklifts and become the ultimate warehouse operator in Forklift Rush Simulator — a realistic forklift driving game where precision, skill and speed matter.\n\nLoad pallets, mov"
+    },
+    {
+     "name": "Forklift Truck Simulator 2024",
+     "dev": "Frigate Games",
+     "ratings": 156,
+     "desc": "Welcome to the Forklift Truck Transport Simulator, Load the goods into various vehicles like Trucks, Ships, Trains and more. Play as a forklift truck driver and complete the task of loading the goods "
+    },
+    {
+     "name": "Forklift Simulator 2024",
+     "dev": "Sinan Seker",
+     "ratings": 4,
+     "desc": "The most realistic Forklift Game ever! Insane graphics, useful controls, new mods...  Carry the materials, Pass the cranes, Follow the trucks! Help the constructions and complate levels!\n\nFeatures:\n\n-"
+    },
+    {
+     "name": "Grand Forklift Simulator",
+     "dev": "AtomWork",
+     "ratings": 20,
+     "desc": "Grand Forklift Simulator\n\nCharacteristics:\n\n- Realistic physics.\n- Different types of Forklift.\n- Random levels.\n- Detailed scenarios.\n- Many types of loads."
+    },
+    {
+     "name": "Forklift Extreme Simulator",
+     "dev": "Jozef Debecki",
+     "ratings": 307,
+     "desc": "Drive powerful forklifts and master warehouse logistics in one of the most advanced forklift simulators on mobile.\n\nTransport cargo, upgrade machines and manage warehouse operations across detailed in"
+    },
+    {
+     "name": "Forklift Simulator 2021",
+     "dev": "Sacaci Florin",
+     "ratings": 13,
+     "desc": "Forklift is a useful and powerful industrial truck used to lift and move materials over short distances, which is also called lift truck, fork truck, fork hoist and forklift truck. Forklifts have beco"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "bartender choice",
+   "top": [
+    {
+     "name": "Bartender's Choice Vol.3",
+     "dev": "Fancy Free LLC",
+     "ratings": 6,
+     "desc": "From the master bartenders behind NYC and Nashville's Attaboy and Milk & Honey comes Bartender's Choice Vol.3, the definitive classic and modern classic cocktail app.\n\nSearch through over a thousand r"
+    },
+    {
+     "name": "Cocktails - Bartender Choice",
+     "dev": "Dmytro Husiev",
+     "ratings": 1,
+     "desc": "Cocktails Mix&Match: Bartender's Choice - Elevate Your Home Bar Experience\nTired of flipping through cocktail books or endlessly searching online for the perfect drink? Cocktails M&M, Bartender's Choi"
+    },
+    {
+     "name": "Mixel - Cocktail Recipes",
+     "dev": "Cool Font LLC",
+     "ratings": 1536,
+     "desc": "What cocktails can you make right now? Tell Mixel what's in your bar, and instantly see every drink you can mix, from the classic to modern craft cocktails. Whether you're a home bartender, mixology e"
+    },
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    },
+    {
+     "name": "Mixology - Pocket Bartender",
+     "dev": "Vincent Kiptirgei",
+     "ratings": 82,
+     "desc": "Whether you are making a drink for the first time or you are an experienced mixologist, Pocket Bartender turns your phone into a complete drink-making assistant. Designed with a clean layout and power"
+    },
+    {
+     "name": "Make Me A Cocktail",
+     "dev": "Nick Wilkins Ltd",
+     "ratings": 2299,
+     "desc": "Make A Cocktail is the official app from Make Me A Cocktail — the world's greatest online cocktail resource, with over 3,500 recipes and a global community of home bar enthusiasts. Now with hands-free"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "florist and mandalas coloring book for adult",
+   "top": [
+    {
+     "name": "Florist and Mandalas Coloring Book For Adult : Best Colors Therapy Stress Relieving  Free",
+     "dev": "Natthaya Sutthitham",
+     "ratings": 0,
+     "desc": "Learning  florist and mandalas coloring for adult. Coloring book for adults and children, a game that reduce stress and relax.  For a moment of leisure, leisure is also suitable for exercise to practi"
+    },
+    {
+     "name": "Mandalas and Florist Coloring Book For Adult : Best Colors Therapy Stress Relieving  Free",
+     "dev": "Natthaya Sutthitham",
+     "ratings": 0,
+     "desc": "Learning mandala and florist coloring for adult. Coloring book for adults and children, a game that reduce stress and relax.  For a moment of leisure, leisure is also suitable for exercise to practice"
+    },
+    {
+     "name": "Coloring Book -Color by Number",
+     "dev": "Doodle Mobile Limited",
+     "ratings": 238610,
+     "desc": "Coloring Book, also known as color by number, paint by number, painting by number, is the best way to blow your stress away! Discover tons of free coloring pages to create your own artworks now. Relax"
+    },
+    {
+     "name": "Coloring Book for Adults.",
+     "dev": "www.HobbyApps.com",
+     "ratings": 89112,
+     "desc": "Free Coloring Book For Adults - is the best and truly free calming and stress relief adult coloring book for all ages! No subscriptions, no in-app purchases, no any other hidden costs! Just download i"
+    },
+    {
+     "name": "Coloring book for fun",
+     "dev": "Coloring puzzle games sp. z o.o.",
+     "ratings": 11243,
+     "desc": "Get your new coloring book, have fun with many unique pages with animals, mandalas, florals, people and many more. \nColoring has never been this easy.\nLet your stress go away!\n\n\"Coloring book for fun\""
+    },
+    {
+     "name": "Coloring Book Now",
+     "dev": "Tripledot Studios",
+     "ratings": 4086,
+     "desc": "Join true-to-life coloring loved by generations! \nDive into an amusing world of art therapy with Coloring Book Now! Relieve stress with ONE-OF-A-KIND guided coloring journey!\n\nVALUE TO YOU:\n\nColoring "
+    },
+    {
+     "name": "Mandala Coloring Pages Game",
+     "dev": "2 Monkeys",
+     "ratings": 989,
+     "desc": "400+ Mandala coloring pages for adults and kids. Both easy and complex mandala's for everyone.  \n\nBecome relaxed and zen!\n\nThis app offers:\n* More then 400 Mandalas\n* Easy to play\n* Share your artwork"
+    },
+    {
+     "name": "Coloring Book∘ Color Party",
+     "dev": "Impala Studios",
+     "ratings": 21817,
+     "desc": "Enjoy the Coloring Book∘ Color Party! Color, de-stress, and be creative anywhere you go. Discover a unique artwork collection with 50+ adult coloring pages and experience the perfect way to step back "
+    },
+    {
+     "name": "Adult Coloring Book Color Page",
+     "dev": "伟权 彭",
+     "ratings": 13098,
+     "desc": "Stress and anxiety fade away with Adult Coloring Book.\n\nPlunge into a fairy world of coloring, keep discovering stunning artworks to unwind your mind. \n\nHave fun in this relaxing painting experience. "
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

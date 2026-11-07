@@ -62132,6 +62132,106 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "motion blur photo editor",
+   "apps": [
+    {
+     "name": "Blur Photo Editor",
+     "dev": "Sohel Ibna Saad",
+     "ratings": 10571,
+     "desc": "Blur Photo Editor is the best photo blurring and mosaic app for iPhone and iPad, designed to blur backgrounds and create professional-looking photos. Easily blur or pixelate faces, hide license plates"
+    },
+    {
+     "name": "Bluur cam: Blur Effect Editor",
+     "dev": "Sihoooo Network Technology Co Ltd",
+     "ratings": 491,
+     "desc": "Blur the ordinary. Keep the feeling.\n\nA face caught in flash. A frame that moves just enough.\nNeon dissolving into bokeh. Headlights leaving a trail behind.\nBluur Cam gives everyday photos the imperfe"
+    },
+    {
+     "name": "Blurry Photo Aрр",
+     "dev": "AI Photo Editor Lab SRL",
+     "ratings": 544,
+     "desc": "Blurry Photo App is the perfect app for anyone who wants to create blurry photos. Whether you're a beginner or a pro, you'll find everything you need to create amazing photos with this app.\n\nHere are "
+    },
+    {
+     "name": "Motion Blur: Photo, Background",
+     "dev": "PRODEKS",
+     "ratings": 54,
+     "desc": "Motion Blur Photo — is the ultimate solution for adding captivating blur effects to your photos with ease. Whether you want to blur the background, fix blurry images, or add artistic motion effects, t"
+    },
+    {
+     "name": "MovStash - Blur Video Editor",
+     "dev": "REAFO CO., LTD.",
+     "ratings": 2500,
+     "desc": "This app is for making mosaic/blur video.\n\nYou can choose 4 types of blur.\n\n■Simple mode.\nSimple mode is for Blur to the specified area and all duration of the video. \n-- How to edit mosaic/blur --\nPo"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "welding master 3d",
+   "apps": [
+    {
+     "name": "Welding Master 3D",
+     "dev": "kadir ulucay",
+     "ratings": 0,
+     "desc": "Master the art of welding! Drag, fit, and weld metal pieces together to assemble realistic objects in this satisfying casual puzzle game.\n\nFEATURES\n- 20+ challenging levels with unique objects to weld"
+    },
+    {
+     "name": "Color Saw 3D",
+     "dev": "AI Games FZ",
+     "ratings": 74518,
+     "desc": "Ever wanted to do carpentry but like to keep your fingers intact?\nWith Color Saw, you can do both! \nShape your rough blocks into various shapes with all kinds of tools. \nCut and smash through countles"
+    },
+    {
+     "name": "3D modeling: Design my model",
+     "dev": "Core five, Inc.",
+     "ratings": 14493,
+     "desc": "3D Modeling App lets you easily design 3D content on the go using gestures on iPhone or iPad. No need to use the Apple Pencil, but you can, if you want to.\n \nTons of features:\n\n1. Fast workflow:\n- Mov"
+    },
+    {
+     "name": "3d Scanner App™",
+     "dev": "AI Photo Editor Lab SRL",
+     "ratings": 16132,
+     "desc": "Transform your device into a powerful 3D scanner using LIDAR or TrueDepth technology.\n\n3D Scanner app, downloaded by 11+ Million users, effortlessly makes you capture spaces and objects in full-color "
+    },
+    {
+     "name": "DWG FastView-CAD Viewer&Editor",
+     "dev": "Gstarsoft Co., Ltd",
+     "ratings": 1084,
+     "desc": "Enjoy design anytime anywhere together with more than 100 million users around the world. \n\n[3D Modeling]: Supports BIM, Revit, Solidworks, NX, CATIA, Inventor, SolidEdge, ACIS, Pro/E, and other mains"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

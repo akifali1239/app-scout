@@ -47944,6 +47944,463 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "firefighter mission",
+   "top": [
+    {
+     "name": "Firefighter Mission",
+     "dev": "Muzaffer Erdogan",
+     "ratings": 1,
+     "desc": "Firefighter truck is in your command!\n\nYou must hurry to take under control the fires in the city. Citizens of this beautiful city needs your firefighting man skills.\nA realistic car driving simulatio"
+    },
+    {
+     "name": "Mission Chief Fire Fighter 911",
+     "dev": "SHPlay GmbH",
+     "ratings": 4421,
+     "desc": "Experience the excitement of an emergency call dispatcher at your finger tips! Create your own dispatch center and choose where in the world your fire and police stations are placed, using real life m"
+    },
+    {
+     "name": "EMERGENCY HQ: Firefighter Game",
+     "dev": "Sixteen Tons Entertainment GmbH",
+     "ratings": 31435,
+     "desc": "Become a Hero in EMERGENCY HQ! The Ultimate Firefighter & Police Simulation Game!\n\nSave lives, extinguish fires, and bring order to chaos! EMERGENCY HQ is the realistic firefighter and police game tha"
+    },
+    {
+     "name": "Firefighter - Rescue Mission",
+     "dev": "NEXT SOLUTIONS JOINT STOCK COMPANY",
+     "ratings": 8,
+     "desc": "Idle Firefighter is an easy-to-play idle game where you can be a hero. In this game, you will act as a captain of a firefighter group, your duty is to lead your team to  save people's lives in rescue "
+    },
+    {
+     "name": "Firefighters Rescue Adventures",
+     "dev": "Rolling Panda",
+     "ratings": 1,
+     "desc": "Get a real experience of firefighter’s life with various challenging missions around town. So it’s time to put on your fire suit, jump into your firefighting truck and rescue people from fire and floo"
+    },
+    {
+     "name": "I'm Fireman",
+     "dev": "MOBIBRAIN TECHNOLOGY PTE. LTD.",
+     "ratings": 330,
+     "desc": "--- Write at the top: If you would like, you are welcome to follow our Facebook page: \nhttps://www.facebook.com/profile.php?id=100090879706274 \nHere you can give us feedback on problems you encounter "
+    },
+    {
+     "name": "Firefighter Simulation 3D Game",
+     "dev": "The Tecknis Games",
+     "ratings": 309,
+     "desc": "Welcome to one of the most thrilling and adventurous rescue Game.\n\nExperience one of the high alert and alarming situation and take control by rescuing all the fire situation with you fire brigade tru"
+    },
+    {
+     "name": "FireFighter 3D (Sim)",
+     "dev": "Playcus Limited",
+     "ratings": 111,
+     "desc": "Firefighters because even cops need heroes!\nVery fun gameplay!"
+    },
+    {
+     "name": "FireSync Shift Calendar",
+     "dev": "ForceReadiness.com",
+     "ratings": 9113,
+     "desc": "FireSync is not merely a Firefighter Shift Calendar, it's also a full-featured calendar app with powerful cloud-enabled features just for firefighters.   Whether or not you want to keep track of your "
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nsw geology maps",
+   "top": [
+    {
+     "name": "NSW Geology Maps",
+     "dev": "Geological Survey of NSW",
+     "ratings": 2,
+     "desc": "View geology maps and airborne geophysical images produced by the Geological Survey of NSW (Australia).  The maps and images are downloaded to your phone so that no mobile reception is required in the"
+    },
+    {
+     "name": "Avenza Maps: Offline Mapping",
+     "dev": "Avenza Systems Inc.",
+     "ratings": 128016,
+     "desc": "New Description: \n\nAvenza Maps is a powerful offline navigation app for professional field work. Use offline maps with GPS navigation to stay on track anywhere—no signal required, so you can navigate "
+    },
+    {
+     "name": "Topo Maps+: Topographic Maps",
+     "dev": "Glacier Peak Studios LLC",
+     "ratings": 9365,
+     "desc": "Designed and tested on real dirt, Topo Maps+ is packed with the maps & tools to plan and execute your backcountry adventure.\n\n‣‣ MAPS FOR EVERY ACTIVITY\n‣Setup your map based on your planned activity\n"
+    },
+    {
+     "name": "Rockd",
+     "dev": "University of Wisconsin-Madison Shared Apps",
+     "ratings": 187,
+     "desc": "Explore, learn about, and document your geologic surroundings! Whether you are a professional geoscientist or curious about the rocks around you and the stories they tell, Rockd allows you to explore "
+    },
+    {
+     "name": "Natural Atlas: Topo Maps & GPS",
+     "dev": "Natural Atlas",
+     "ratings": 186,
+     "desc": "Natural Atlas is the ultimate map & field companion for your next trip outdoors. Navigate with beautiful and detailed original maps, discover local plants and animals, and build an atlas of your journ"
+    },
+    {
+     "name": "Topo Maps",
+     "dev": "Mappendix Limited",
+     "ratings": 128,
+     "desc": "* View over 70,000 Natural Resources Canada 1:50,000 and USGS 1:24,000 topographical maps on your iPhone or iPod touch.  * Ideal for hiking and other backcountry activities.  * Map downloads are FREE!"
+    },
+    {
+     "name": "Detector Maps",
+     "dev": "GOLD DISCOVERY SOLUTIONS PTY LTD",
+     "ratings": 250,
+     "desc": "Detector Maps is the field tool that keeps you on the gold - and on the relics. Built by geologists for prospectors, relic hunters and metal detectorists across the United States, Australia, New Zeala"
+    },
+    {
+     "name": "NSW National Parks",
+     "dev": "Department of Planning, Industry and Environment",
+     "ratings": 31,
+     "desc": "Get all the information you need to explore Australia’s greatest national parks including Blue Mountains, Kosciuszko, and Sydney Harbour.\n\nUse free, downloadable maps and park guides to plan your next"
+    },
+    {
+     "name": "Rock Identifier: Stone ID",
+     "dev": "Next Vision Limited",
+     "ratings": 81061,
+     "desc": "Rock Identifier is an all-in-one stone, crystal, mineral, and gemstone identifier. Simply take or upload a photo of a rock or crystal, and the app will tell you all about it in seconds. \n\nWant to know"
+    },
+    {
+     "name": "Earth Maps",
+     "dev": "FOXPOI PTE. LTD.",
+     "ratings": 1202,
+     "desc": "1. High-definition 3D globe\n2. Load map tile data\n3. Oriental compass function\n4.historical street view\n5.Measuring area distance\n6.latest satellite imagery\n\nWorld Satellite Map allows you to view any"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "french florist flower delivery",
+   "top": [
+    {
+     "name": "French Florist Flower Delivery",
+     "dev": "French Florist, LLC",
+     "ratings": 290,
+     "desc": "French Florist: The Premier Flower Delivery App\nCelebrate love, gratitude, and special moments with French Florist, the top-rated flower delivery app. Our expertly curated floral arrangements are desi"
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "Local Florist Delivery",
+     "dev": "LocalFloristDelivery.org",
+     "ratings": 0,
+     "desc": "Support Local. Send Love.\n\nLocalFloristDelivery.org connects you with trusted local florists across the U.S. to deliver beautiful flower arrangements quickly and reliably. Whether it's for birthdays, "
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Bleems - Flowers & Gifts",
+     "dev": "Bleems Website Design and Management Co.",
+     "ratings": 12359,
+     "desc": "Bleems - Flowers, Confections, Gifts & AI Shopper  \n\nCelebrate every moment with Bleems, the easiest way to send flowers, chocolates, cakes, confections, perfumes, incense, and unique gifts. Enjoy sam"
+    },
+    {
+     "name": "Teleflora – Flower Delivery",
+     "dev": "Teleflora",
+     "ratings": 72,
+     "desc": "Order beautiful flowers that are always 100% arranged and delivered by local florists right from the Teleflora app!\n\nTeleflora’s app makes it easy to order flowers on the go and get flower delivery ri"
+    },
+    {
+     "name": "Flowers delivery - Myflowers",
+     "dev": "MYFLOWERS LTD",
+     "ratings": 147,
+     "desc": "Flowers delivery across the UK, straight from your phone. MyFlowers is a flower delivery app for fresh bouquets, plants and gifts — with free delivery in as little as 3 hours, 24/7.\n\nUse promo code AP"
+    },
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "max sound booster: boost music",
+   "top": [
+    {
+     "name": "Higher Volume: Louder Boost",
+     "dev": "悦 车",
+     "ratings": 3767,
+     "desc": "Are you tired of struggling with low-quality audio or finding yourself constantly adjusting the volume to hear clearly? Look no further – Higher Volume is here to amplify your sound to new heights.\n\nW"
+    },
+    {
+     "name": "Bass Booster Volume Power Amp",
+     "dev": "App Rover",
+     "ratings": 18321,
+     "desc": "Bass Booster will amplify your bass at a maximum and provide you with a better sound quality wherever you are! Play your music from your iTunes library and adjust the sound to your headset or speakers"
+    },
+    {
+     "name": "Bass Booster Volume Boost EQ",
+     "dev": "Companjen Apps B.V.",
+     "ratings": 19068,
+     "desc": "Bass Booster is the best all-in-one Music Player app that gives you full control to improve the sound quality. Stream, download from the cloud or listen to radio. Boost the bass and improve the overal"
+    },
+    {
+     "name": "Volume Booster - EQ Amplifier",
+     "dev": "Nguye Thi Hien",
+     "ratings": 7333,
+     "desc": "Volume booster is a simple, small but powerful app to boost volume of your phone and tablet to extra volume. Useful for movies, audio books, music and games.\nVolume booster can increase volume of all "
+    },
+    {
+     "name": "Volume Booster – Sound Booster",
+     "dev": "Bung Bien Vu",
+     "ratings": 174,
+     "desc": "Enjoy a clean and powerful audio experience designed for effortless control.\n\nEasily connect to your favorite Bluetooth speakers or headphones and fine-tune your sound with built-in volume, EQ, and ba"
+    },
+    {
+     "name": "Volume Booster Bass Booster",
+     "dev": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+     "ratings": 25470,
+     "desc": "Is your phone volume just not cutting it? Transform your listening experience with Volume Booster, the ultimate sound booster designed to unleash your device's true audio potential! Say goodbye to muf"
+    },
+    {
+     "name": "Bass Booster EQ + Volume Boost",
+     "dev": "Plane Cubes",
+     "ratings": 19612,
+     "desc": "Δ Deep Bass Booster + Powerful Volume Amplifier x10\nΔ Full Range Equalizer & Custom presets\nΔ Access your Music anywhere. Connect your library. Download & Listen Offline and in the Background\n\n\"Your M"
+    },
+    {
+     "name": "Volume Boost: Louder Sound MAX",
+     "dev": "Vijaybhai Chotaliya",
+     "ratings": 0,
+     "desc": "Volume Boost: Louder Sound MAX delivers exceptional sound clarity, helping you achieve higher volume and optimize quality effortlessly.\n\nCustomize your audio with advanced Music settings and enjoy imp"
+    },
+    {
+     "name": "AmpMe – Speaker & Music Sync",
+     "dev": "Amp Me inc",
+     "ratings": 53793,
+     "desc": "AmpMe™ is the record breaking #1 iPhone music syncing app that boosts the sound of your music by syncing it with all of your friends’ phones, bluetooth and speakers!\n\nOver 288 Million users already us"
+    },
+    {
+     "name": "Volume Boost – Sound Amplifier",
+     "dev": "Evgenia Pervushina",
+     "ratings": 3691,
+     "desc": "Use the power of your smartphone and latest technologies for maximum sound amplification. Increase the volume and improve the sounds around you. App helps you to improve your sound perception. The app"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "geology toolkit",
+   "top": [
+    {
+     "name": "Geology Toolkit: Field Guide",
+     "dev": "Laurence Wayne",
+     "ratings": 28,
+     "desc": "Geology Toolkit uses AI to identify rocks and minerals, explain formations and create labelled pencil sketches all from a photo, then tells you the story behind them - how they formed, what they're ma"
+    },
+    {
+     "name": "Rockd",
+     "dev": "University of Wisconsin-Madison Shared Apps",
+     "ratings": 187,
+     "desc": "Explore, learn about, and document your geologic surroundings! Whether you are a professional geoscientist or curious about the rocks around you and the stories they tell, Rockd allows you to explore "
+    },
+    {
+     "name": "DeepTime for Geology",
+     "dev": "Hunt Mountain Software",
+     "ratings": 7,
+     "desc": "DeepTime puts geological time at your fingertips. DeepTime is a full interactive version of the latest geological time scale: tap on any time unit to see more detail about it, including how its GSSP ("
+    },
+    {
+     "name": "Minerals Center",
+     "dev": "Wilko Thomassen",
+     "ratings": 350,
+     "desc": "With Minerals Center you can identify a mineral, rock, crystal or stone.\nThe key feature in this app is the mineral or rock identifier where the app can recognise and identify the mineral based on a g"
+    },
+    {
+     "name": "Rock Identifier: Stone ID",
+     "dev": "Next Vision Limited",
+     "ratings": 81061,
+     "desc": "Rock Identifier is an all-in-one stone, crystal, mineral, and gemstone identifier. Simply take or upload a photo of a rock or crystal, and the app will tell you all about it in seconds. \n\nWant to know"
+    },
+    {
+     "name": "GeoMind - 3D Terrain Analysis",
+     "dev": "semih torun",
+     "ratings": 0,
+     "desc": "**Unlock the Secrets of the Earth with GeoMind: The Ultimate 3D Geology & Terrain Analysis Tool for Professionals**\n\nAre you a professional geologist, mining engineer, or earth science researcher look"
+    },
+    {
+     "name": "Geomaster",
+     "dev": "Jacques Brayel Tchouanmoe",
+     "ratings": 4,
+     "desc": "GeoMaster\n\nGeoMaster is a comprehensive field and study companion for geologists, earth science students, and enthusiasts. Designed to support both fieldwork and academic exploration, GeoMaster integr"
+    },
+    {
+     "name": "Mine Locator Map",
+     "dev": "Qvyshift LLC",
+     "ratings": 361,
+     "desc": "Mines near me: Mine map showing locations of historical mines and metallic and nonmetallic mineral resources in the United States.\n\nLocate abandoned mines, active mines, prospects, deposits, and proce"
+    },
+    {
+     "name": "GeoKit: Field Data Collector",
+     "dev": "AppFlows",
+     "ratings": 2,
+     "desc": "GeoKit is the all-in-one geology toolkit designed for geologists, geology students, and earth science professionals working in the field.\n\nGEOLOGICAL COMPASS & CLINOMETER\n• Measure strike and dip with"
+    },
+    {
+     "name": "Outcrop",
+     "dev": "Next-Shot",
+     "ratings": 3,
+     "desc": "This application is designed for the geologist to use during field studies. It lets the user take pictures of the outcrop, interpret the high resolution image and export this information in 3D to cons"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "machinery's h",
+   "top": [
+    {
+     "name": "TractorHouse: Farm Equipment",
+     "dev": "Sandhills Global, Inc.",
+     "ratings": 16906,
+     "desc": "Discover the ultimate platform to find and sell new and used farm equipment, ag machinery, and tools, including tractors, combines, sprayers, tenders, implements, and parts and attachments. Whether yo"
+    },
+    {
+     "name": "tractorpool",
+     "dev": "Landwirtschaftsverlag GmbH",
+     "ratings": 6,
+     "desc": "tractorpool is Europe’s leading platform for used machinery and tractors in Europe. \n\nLet your dreams come true. Find your dream machine quickly and easily now. The whole world of agricultural machine"
+    },
+    {
+     "name": "Machineseeker",
+     "dev": "Machineseeker Group GmbH",
+     "ratings": 302,
+     "desc": "Buy & sell used machinery easily with the app of the leading marketplace for used machinery – Machineseeker.com.\n\nMachining centers, forklifts, sliding table saws, tractors, presses, containers, excav"
+    },
+    {
+     "name": "MachineryTrader: Buy Equipment",
+     "dev": "Sandhills Global, Inc.",
+     "ratings": 6104,
+     "desc": "Discover the ultimate platform to buy and sell new and used construction equipment, heavy machinery, industrial tools, parts, and attachments. Whether you’re a buyer, a private seller, or a dealer, th"
+    },
+    {
+     "name": "Ritchie Bros.",
+     "dev": "Ritchie Bros.",
+     "ratings": 17734,
+     "desc": "Bid & Buy Wherever You Are\n\nSign in with your Ritchie Bros. account or create one, and take the marketplace with you. Find equipment fast, track it your way, and bid directly from your phone.\n\nSmart s"
+    },
+    {
+     "name": "TruckScout24",
+     "dev": "Machineseeker Group GmbH",
+     "ratings": 49,
+     "desc": "Buy & sell used vehicles easily with the TruckScout24 app - the leading marketplace for commercial and leisure vehicles.   \n\nWhether it's a truck, van, tractor unit, trailer, campervan, container or e"
+    },
+    {
+     "name": "Mascus",
+     "dev": "Ritchie Bros. Finland Oy",
+     "ratings": 8,
+     "desc": "With more than 400,000 listings of used heavy machinery and trucks including categories such as excavators, dozers, loaders, lifts, cranes, tractors, combine harvesters, tractor units, trailers, forkl"
+    },
+    {
+     "name": "Cat® Central",
+     "dev": "Caterpillar Inc.",
+     "ratings": 4093,
+     "desc": "From finding the right parts to understanding your machine’s health, Cat Central brings together the tools, insights and support you need – all in one place.\n\nEVERYTHING YOU NEED, RIGHT WHERE YOU NEED"
+    },
+    {
+     "name": "IronPlanet",
+     "dev": "IronPlanet, Inc.",
+     "ratings": 116,
+     "desc": "The world of IronPlanet is now in your hands.  Welcome to IronPlanet, where you can buy used heavy equipment and vehicles from your mobile device.  IronPlanet members can search for items by category "
+    },
+    {
+     "name": "The Phillips Machinist",
+     "dev": "Phillips Corporation",
+     "ratings": 393,
+     "desc": "The Phillips Machinist is your personalized digital manufacturing assistant, with quick access to essential machine codes and calculators, direct contact with Phillips engineers, and practical resourc"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "sailing challenge",
+   "top": [
+    {
+     "name": "ASA's Sailing Challenge",
+     "dev": "American Sailing Association",
+     "ratings": 2945,
+     "desc": "ASA’s Sailing Challenge (for iPhone/iPad) includes six fun, easy-to-use modules that unlock the mysteries of sailing. Learn Points of Sail, Apparent Wind, Sail Trim, Tacking and Jibing, Rules of the R"
+    },
+    {
+     "name": "Sailing Term",
+     "dev": "Orendasoft Ltd.",
+     "ratings": 82,
+     "desc": "Welcome to Sailing Terms!\n\nExpand your nautical vocabulary and improve your sailing knowledge with an easy-to-use reference guide.\n\n• 100+ sailing terms with detailed definitions\n• Daily Word of the D"
+    },
+    {
+     "name": "SailSim - Sailing Simulator",
+     "dev": "Dimitris Rouslan Zavorotnitsienko",
+     "ratings": 22,
+     "desc": "As a Live-Aboard I wanted to create something anyone could use for learning, as well as for those rainy days when going out to sea is difficult but you still want to sail.\nThe sailing simulator was cr"
+    },
+    {
+     "name": "Go Sailing",
+     "dev": "American Sailing Association",
+     "ratings": 46,
+     "desc": "Welcome to Go Sailing, the best way to connect to the sailing community. Go Sailing lets you share your passion for sailing with others, allowing you to create or join sailing trips, meet new friends "
+    },
+    {
+     "name": "American Cup Sailing",
+     "dev": "Matt McCrum",
+     "ratings": 3,
+     "desc": "Compete in the famous 1 on 1 series to win the American Cup in a locale based on the actual island of Bermuda.\nImprove your real life sailing skills with expert racing tips and strategies.\n\nThinking a"
+    },
+    {
+     "name": "US Sailing Skill Up",
+     "dev": "US SAILING",
+     "ratings": 13,
+     "desc": "Designed to connect sailors, parents, instructors and coaches with skill development resources for every level, the Skill Up app brings US Sailing's curriculum to your fingertips. Beginning sailors wi"
+    },
+    {
+     "name": "US Sailing Racing Rules",
+     "dev": "US SAILING",
+     "ratings": 29,
+     "desc": "When it comes to The Racing Rules of Sailing, US Sailing makes the rules available whenever and wherever you want. Our premier product, the Racing Rules App, ensures that you have access to the rules "
+    },
+    {
+     "name": "SailGP",
+     "dev": "SailGP",
+     "ratings": 706,
+     "desc": "Get closer to the action with the SailGP app. SailGP is the world's fastest sailing race, created to redefine sailing and give global sports fans a year-round, supercharged version of the sport. Witne"
+    },
+    {
+     "name": "The Ocean Race",
+     "dev": "The Ocean Race1973 SL",
+     "ratings": 374,
+     "desc": "Since 1973, The Ocean Race has been the ultimate test of a team and a human adventure like no other. We have a proven commitment to sustainability and with the support of our sailors, teams and stakeh"
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

@@ -63569,6 +63569,21 @@
    "app": "Unit converter for metric and imperial drill bit sizes.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Suggests which insulin dose to inject based on a photo of your meal.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Daily vocabulary flashcards for the plumbing journeyman exam.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Casino-style slot machine where you deposit real money to win cash prizes.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -70356,6 +70371,33 @@
     "name": "Dog Walker Booking",
     "category": "Lifestyle",
     "desc": "Book a local dog walker and pay in the app; walkers come to your door."
+   },
+   "label": "service",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Rope Knot Guide",
+    "category": "Reference",
+    "desc": "Step-by-step illustrated guide to tying 60 knots for climbing, sailing and camping."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Invoice Maker Pro",
+    "category": "Business",
+    "desc": "Create and send invoices from your phone; tracks payments and totals taxes."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Hair Stylist Booking",
+    "category": "Lifestyle",
+    "desc": "Find and book a nearby hair stylist and pay securely in the app."
    },
    "label": "service",
    "split": "train"

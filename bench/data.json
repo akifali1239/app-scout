@@ -60759,6 +60759,262 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "vtne exam prep 2026 | vet tech",
+   "apps": [
+    {
+     "name": "VTNE Exam Prep 2026 | Vet Tech",
+     "dev": "EZ Test Prep",
+     "ratings": 242,
+     "desc": "**Pass the VTNE Without Needing Nine Lives**\n\nYou’ve survived animal restraint labs, memorized more drug names than a pharmacist, and learned how to keep a cat calm while it screams into the void. Now"
+    },
+    {
+     "name": "VTNE Exam Prep 2026: Vet Tech",
+     "dev": "Get Exam",
+     "ratings": 15,
+     "desc": "PASS YOUR EXAM FIRST TRY\nCrush the veterinary technician material with 1500+ exam-like questions and 450+ flashcards that help you remember more. Get access to over a dozen practice exams that will he"
+    },
+    {
+     "name": "VTNE Exam Prep Vet Tech Test",
+     "dev": "Best Fun Games",
+     "ratings": 1183,
+     "desc": "Pass your Veterinary Technician National Examination (VTNE) exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2,500+ ques"
+    },
+    {
+     "name": "VTNE Exam Prep Practice 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 5,
+     "desc": "Help you prepare for the VTNE certification exam and pass it on your first attempt at the actual exam! Use the mobile app VTNE Practice Exam Prep 2026 developed by our exam experts to help prepare for"
+    },
+    {
+     "name": "VTNE NAVLE Exam Prep | 2026",
+     "dev": "Prepia Inc",
+     "ratings": 43,
+     "desc": "Prepare faster and easier with Vet Prep App, your all-in-one tool to succeed! Whether you're at the clinic or relaxing at home, take our app with you and confidently ace your exams.\n\nVet Prep App is t"
+    },
+    {
+     "name": "Pocket Prep Medical 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 6562,
+     "desc": "Unlock thousands of Medical certification exam practice questions and mock exams for the NHA CPT, CDR RD, PTCB PTCE, AAPC CPC, AAVSB VTNE, and more with Pocket Prep, the largest provider of mobile tes"
+    },
+    {
+     "name": "VTNE Test Prep 2026",
+     "dev": "秀娟 周",
+     "ratings": 31,
+     "desc": "VTNE Test Prep 2026 is an application that has been carefully designed and developed by industry exam experts. It has over 1,500 high quality test questions with answer explanations, multiple test mod"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "apiary – beekeeping log",
+   "apps": [
+    {
+     "name": "Pocket Hive: Beekeeping Log",
+     "dev": "RICHARD C PALMER",
+     "ratings": 1,
+     "desc": "Pocket Hive is the complete beekeeping companion designed for modern beekeepers. Whether you're nurturing your first backyard hive or managing a commercial operation, Pocket Hive helps you track, anal"
+    },
+    {
+     "name": "Apiary – Beekeeping Log",
+     "dev": "FRANCESCO MOTTA",
+     "ratings": 0,
+     "desc": "Apiary is the digital field notebook for your bee yard: keep track of every hive, every queen and every harvest from your iPhone, iPad or Mac, even with no signal.\n\nDesigned by a beekeeper for beekeep"
+    },
+    {
+     "name": "BeePlus Beekeeping Manager",
+     "dev": "OmniChrome",
+     "ratings": 876,
+     "desc": "Much more than an old notebook or some paper inspection sheets, BeePlus can help keep your apiaries organised and healthy, from tracking inspection records and honey harvested, to info on queens or wh"
+    },
+    {
+     "name": "Hive Logger: Beekeeping App",
+     "dev": "Appco LLC (USA)",
+     "ratings": 24,
+     "desc": "Log every hive inspection in 30 seconds or less using QR code scanning and Smart Voice Logs (Pro). Hive Logger keeps records, tasks and reminders organized across every hive and apiary, so you always "
+    },
+    {
+     "name": "HiveBook - Beekeeping Tracker",
+     "dev": "Srisan LLC",
+     "ratings": 1,
+     "desc": "HiveBook is a local-first beekeeping management app built for hobbyist and commercial beekeepers. Track hives, inspections, queens, treatments, harvests, expenses, and revenue — all from your phone.\n\n"
+    },
+    {
+     "name": "ApiNote: Beekeeping Hive Log",
+     "dev": "Petr Drabek",
+     "ratings": 3,
+     "desc": "ApiNote is a beekeeping hive log and apiary manager built for real work at the bee yard. Keep a complete history for every colony and know what needs attention before your next visit.\n\nHIVE RECORDS TH"
+    },
+    {
+     "name": "MyApiary - A Beekeeping Tool",
+     "dev": "Erik Borgstrom",
+     "ratings": 0,
+     "desc": "MyApiary is a practical, no-nonsense beekeeping app built by a beekeeper who got tired of messy notebooks and scattered records.\nDocument everything the way you actually work\n\nSupported languages: SE-"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "gemvol: pocket gemology",
+   "apps": [
+    {
+     "name": "Gemvol: Pocket Gemology",
+     "dev": "iCert Inc.",
+     "ratings": 0,
+     "desc": "Gemvol Pocket Gemology is a fast, practical gemology toolkit built for jewelers, gemstone businesses, traders, investors, and collectors. With 3,500+ mineral references for identification and a struct"
+    },
+    {
+     "name": "Jewel Coloring",
+     "dev": "Ta Ta Game Technology Limited",
+     "ratings": 47698,
+     "desc": "Jewel Coloring: Sparkle & Create with Pixel Art Puzzles\nEnter a vibrant world of glowing jewels where creativity and puzzle-solving come together in perfect harmony! Designed for easy, relaxing fun, t"
+    },
+    {
+     "name": "Gem Stack",
+     "dev": "Rollic Games",
+     "ratings": 35609,
+     "desc": "Can you stack your way to treasure without losing a single gem? Let’s find out in Gem Stack!\n\nEnter the dazzling world of Gem Stack, the ultimate hyper-casual runner where your goal is to collect, sta"
+    },
+    {
+     "name": "Dig Out! Mine Adventure",
+     "dev": "Interactive360",
+     "ratings": 13363,
+     "desc": "The mines are not going to dig themselves!\n\nGrab a pickaxe, fresh pair of shoes and start diggen'!\n\nDig as deep as you can to collect shiny gems and treasures! But dig carefully, as the FALLING BOULDE"
+    },
+    {
+     "name": "Miner Tycoon :  Big Dynamite",
+     "dev": "Brew Games",
+     "ratings": 12397,
+     "desc": "Embark on an explosive journey of wealth and adventure in Miner Tycoon: Big Dynamite!\n\n\nBlow Up, Collect, Sell, and Get Rich!\n\n\nStrategically blast your way through an immersive environment filled wit"
+    },
+    {
+     "name": "Rock ID - Stone Identifier",
+     "dev": "AIBY",
+     "ratings": 3128,
+     "desc": "If you’re looking for an app to help you identify rocks and track your mineral collection, you’ve struck gold! Rock ID is an ultimate package of features that lets you manage your assortment of rocks "
+    },
+    {
+     "name": "Dazzly Match: Diamond Sort",
+     "dev": "GEODE",
+     "ratings": 4068,
+     "desc": "Sort, match, and learn about hundreds of gems with Dazzly Match, the diamond color sorting puzzle game!\n\nThis unique matching and sorting game from the Dazzly universe is here to help you focus while "
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated",
+    "unrelated",
+    "unrelated",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "tattoo creator free",
+   "apps": [
+    {
+     "name": "Tattoo AI - Tattoo Design",
+     "dev": "HUBX",
+     "ratings": 51004,
+     "desc": "Tattoo AI: Your Go-To App for Creating Unique Tattoos Effortlessly! Whether you’re a tattoo enthusiast, a first-timer considering getting inked, or a tattoo artist looking for inspiration, Tattoo AI h"
+    },
+    {
+     "name": "Tattoo Designs - Tattoo Maker",
+     "dev": "Muhammad Faizan Ali Khan",
+     "ratings": 9,
+     "desc": "Elevate Your Tattoo Journey with Our Exquisite Tattoo Designs and Tattoo on my photo App.\n\nAre you passionate about expressing your individuality through tattoos? Look no further! Our Tattoo Design Id"
+    },
+    {
+     "name": "INKHUNTER - AI Tattoo Design",
+     "dev": "InkHunter",
+     "ratings": 25002,
+     "desc": "Try on virtual tattoos with AUGMENTED REALITY before it’s inked forever. The app projects any tattoo design on any part of your body so you can see how it will look.\n\n- Try on your own tattoo design, "
+    },
+    {
+     "name": "Tattoo AI Design Generator－Ink",
+     "dev": "Roximus Limited",
+     "ratings": 3538,
+     "desc": "Discover Your Perfect Tattoo with Tattoo AI Design Generator－Ink\n\nReady to bring your tattoo ideas to life? With Tattoo AI Design Generator－Ink, you can create unique and personalised tattoos that ref"
+    },
+    {
+     "name": "Tattoo AI・Ink Design Generator",
+     "dev": "Cosmoshark",
+     "ratings": 1382,
+     "desc": "See exactly how any tattoo would look on you. Create unique designs with AI, browse 9,000+ free tattoos, or upload your own sketches. Try virtual tattoos on your photos or use Augmented Reality for fa"
+    },
+    {
+     "name": "AI Tattoo Generator & Maker",
+     "dev": "App Holdings",
+     "ratings": 7465,
+     "desc": "AI Tattoo Generator & Maker\n\nTattoo Design\nWith AI Tattoo Generator, you can generate unique tattoo designs instantly. Simply use your imagination, and let our powerful AI tattoo generator create uniq"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

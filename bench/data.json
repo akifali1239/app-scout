@@ -60454,6 +60454,132 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "welding test",
+   "apps": [
+    {
+     "name": "Welding Quiz & AWS Study Guide",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 4,
+     "desc": "Master all essential topics Welding with Fun and Engaging Quizzes! \n\nDive into the world of Welding with our comprehensive quiz app, designed to boost your knowledge, confidence, and skills. Whether you're a student, practitioner, or just exploring the field, this app is your ultimate companion for "
+    },
+    {
+     "name": "CWE Welding Educator Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 1,
+     "desc": "Prepare for success with our Welding Educator Exam Prep 2025 app. This essential study companion helps you gain the knowledge and skills required to pass the CWE exam and advance your career in welding education and training. Developed by welding and exam experts, this app equips you with everything"
+    },
+    {
+     "name": "AWS CWS Welding Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare for success with our Welding Supervisor Exam Prep Mastery 2025 app. This essential study companion helps you build the knowledge and skills required to pass the certification exam and advance your career in welding supervision. Developed by welding and industry experts, this app equips you w"
+    },
+    {
+     "name": "Weld It 3D",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 20504,
+     "desc": "Weld, smooth and paint objects to your heart's content! Each level is designed as a relaxing puzzle. First you have to weld the objects from their seperation areas, than rand the excess weld and lastly (and most entertainingly) paint your object in any way you want!\n\nYou can get different welding ma"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician exam rev",
+   "apps": [
+    {
+     "name": "Pharmacy Technician Exam Rev",
+     "dev": "Karim SLITI",
+     "ratings": 0,
+     "desc": "Get +3800 Study notes & exam quiz & cases and Prepare and Pass Your pharmacy  exam very easily and guarantee the highest score.\n\nThis app is a combination of sets, containing practice questions, study cards, terms & concepts for self learning & exam preparation on the topic of pharmacy for technicia"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam preparation tool. Whether you're a first-time test taker or recertifying, our app will help you pas"
+    },
+    {
+     "name": "Pocket Prep PTCE 2026",
+     "dev": "Pocket Prep, Inc.",
+     "ratings": 2609,
+     "desc": "Unlock 1,000 PTCE practice questions and three full-length mock exams with Pocket Prep, the leading mobile app for professional certification test prep. Whether at home or on the go, reinforce key PTCE concepts and improve retention to pass your exam confidently on the first try.\n\nSince 2011, thousa"
+    },
+    {
+     "name": "PTCB & PTCE Exam Prep 2026",
+     "dev": "TRENDING MOBAPPS SRL",
+     "ratings": 259,
+     "desc": "PASS THE PTCE WITH CONFIDENCE\n\nPreparing for the Pharmacy Technician Certification Examination can feel overwhelming. Medications, federal requirements, calculations, patient safety, and prescription processing all compete for your attention.\n\nPrepLab gives you a smarter, clearer way to prepare.\n\nBu"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy nha cpt exam test",
+   "apps": [
+    {
+     "name": "Phlebotomy NHA CPT Exam Test",
+     "dev": "Best Fun Games",
+     "ratings": 691,
+     "desc": "Pass your Phlebotomy Technician Certification Exam with ease! Take realistic practice exams and quizzes to boost your chances of passing the real exam on your first try. With 2500+ questions written by experts, detailed explanations for each question, and hundreds of tests & quizzes at your fingerti"
+    },
+    {
+     "name": "Phlebotomy CPT Exam Prep 2026",
+     "dev": "Prepia Inc",
+     "ratings": 343,
+     "desc": "Ace Your NHA CPT Phlebotomy Exam with Confidence!\n\nUPDATED question bank for 2026!\n\nPrepare for the NHA CPT Phlebotomy certification exam with an app trusted by aspiring healthcare professionals nationwide. Study smarter with adaptive tools, realistic practice tests, and expert strategies designed t"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 51,
+     "desc": "Help you prepare for the NHA CPT certification exam and pass it on your first attempt at the actual exam! Use the mobile app Phlebotomy NHA CPT Prep 2026 developed by our exam experts to help prepare for the exam and boost your confidence.\n\nThe NHA CPT, or Certified Phlebotomy Technician certificati"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Test Prep",
+     "dev": "Ultra Prep",
+     "ratings": 11,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your test questions according to the syllabus requirements and provide you with personalized practice. Our "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

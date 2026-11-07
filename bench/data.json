@@ -63600,6 +63600,30 @@
    "hi": "app for licensed pharmacy technicians",
    "lo": "app for anyone with a phone",
    "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for torque values",
+   "lo": "marketplace app with payments, chat and driver tracking",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "paid exam prep for certified welding inspectors",
+   "lo": "free wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "app for licensed HVAC technicians",
+   "lo": "app for everyone who owns a smartphone",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "subscription study app for paramedic certification",
+   "lo": "free ringtone maker",
+   "split": "train"
   }
  ],
  "note": [

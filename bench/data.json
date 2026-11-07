@@ -65919,6 +65919,42 @@
    "hi": "contractor estimating and invoicing app for electricians",
    "lo": "free emoji keyboard",
    "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe fitter torque and thread chart",
+   "lo": "social media feed for friends",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for drill bit sizes",
+   "lo": "live video chat with strangers",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "paramedic national registry exam prep",
+   "lo": "funny cat stickers",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician load calculation app for contractors",
+   "lo": "free wallpaper hd",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "radiology tech ARRT registry review",
+   "lo": "bedtime story for my kids",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumber pipe sizing calculator",
+   "lo": "photo collage maker",
+   "split": "dev"
   }
  ],
  "note": [

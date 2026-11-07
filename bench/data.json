@@ -65326,6 +65326,26 @@
    "note": "Rakiplerin son güncellemesi 4 yıl önce, hepsi eski ve bakımsız",
    "label": "Kalitesiz / eski",
    "split": "test"
+  },
+  {
+   "note": "Ana sayfadaki rakiplerin hepsi aynı hesap makinesini farklı isimle satıyor",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Kullanıcılar bunun için hiç para vermiyor, ücretsiz web sitesi yeterli",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Gerçek bir hasta için doz önerisi verdiği için incelemede reddedilir",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Rakiplerin hepsi 2019'dan beri güncellenmemiş ve yorumları kötü",
+   "label": "Kalitesiz / eski",
+   "split": "train"
   }
  ],
  "kind": [
@@ -68136,6 +68156,33 @@
    },
    "label": "service",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pipe Fitter Offset Calculator",
+    "category": "Utilities",
+    "desc": "Enter pipe size and angle to get travel, rise and run for offsets."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Counsel AI Chat",
+    "category": "Productivity",
+    "desc": "Chat with GPT to draft contracts and answer your legal questions."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Daily Rosary Audio Meditations",
+    "category": "Lifestyle",
+    "desc": "Guided audio meditations released every morning with weekly teachings."
+   },
+   "label": "content",
+   "split": "test"
   }
  ]
 }

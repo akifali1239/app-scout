@@ -60585,6 +60585,180 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "home inspector exam prep",
+   "apps": [
+    {
+     "name": "Home Inspector Exam Prep: 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 5,
+     "desc": "Welcome to Home Inspector Exam Prep: 2026, the ultimate app to help candidates ace their Home Inspector (Certified Residential Home Inspector - National Licensing Standard) exam! Designed specifically for individuals preparing for the Home Inspector exam, this comprehensive quiz and prep app offers "
+    },
+    {
+     "name": "NHIE Exam Prep: Home Inspector",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Home Inspector Exam Prep is the study app for the National Home Inspector Examination (NHIE): 2,150+ original questions and a full-length timed mock exam, built around the exam's real nine content domains.\n\nA purchase is required to use this app. There is no free tier.\n\nALL NINE NHIE DOMAINS\n• Roofi"
+    },
+    {
+     "name": "Home Inspector Exam Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Home Inspector with confidence. Home Inspector Exam Prep gives you 750+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nRoofing & Exterior, Structure & Foundation, Electrical Systems, Plumbing Systems, HVAC Systems, Interior, Insulation "
+    },
+    {
+     "name": "Home Inspector Exam Prep 2026'",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 89,
+     "desc": "Ace the National Home Inspector Exam with our comprehensive test prep program. Our resources are designed to equip you with the knowledge and confidence needed to succeed on exam day. Whether you're a seasoned student or just beginning your certification journey, our feature-rich app is designed to "
+    },
+    {
+     "name": "HOME INSPECTOR EXAM PREP 2026.",
+     "dev": "Prepia Inc",
+     "ratings": 66,
+     "desc": "Home Inspector Exam Prep App\n\nDeveloped by experienced educators and based on proven study methods, this app helps you prepare for your home inspector exam anytime, anywhere.\n\nPrepare with practice questions, detailed explanations, and a realistic exam simulator designed to help you succeed in your "
+    },
+    {
+     "name": "Home Inspector Exam Prep 2026­",
+     "dev": "Yan Marinich",
+     "ratings": 1,
+     "desc": "Home Inspector Exam Prep 2026 is a comprehensive Test Preparation App designed to help you Study for the National Home Inspector Examination offered by the Examination Board of Professional Home Inspectors. It provides realistic, exam-style practice to help you build confidence and strengthen your k"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "speedometer gps",
+   "apps": [
+    {
+     "name": "GPS Speedometer, Speed Tracker",
+     "dev": "Nikhil Kumar",
+     "ratings": 25925,
+     "desc": "Track your speed with GPS accuracy using the ultimate GPS Speedometer & Odometer app. Whether you’re driving a car, riding a bike, or hauling with a truck, this speed tracker gives you real-time speed, distance, and trip data — all in one lightweight app.\n\nWhy choose our GPS Speedometer app?\n• Real-"
+    },
+    {
+     "name": "Speedometer Simple",
+     "dev": "WATT APPS",
+     "ratings": 129153,
+     "desc": "Speedometer Simple is a simple speedometer that is very easy to use. \n\nThis app uses phone's GPS to accurately determine your speed.\n\nSpeedometer has large fonts and supports mph, km/h, and knots speed display. Optionally, city name and a compass can be shows on the screen. The app also shows the tr"
+    },
+    {
+     "name": "Speedometer 55 GPS Speed & HUD",
+     "dev": "Stanislav Dvoychenko",
+     "ratings": 64671,
+     "desc": "A high quality Speedometer app with the same sophisticated brain inside as our paid version. When you go over a preset speed limit, the large digits change colour from green to red and the device emits a loud sound to alert you! Great for avoiding speeding tickets!\n\n‣ Easy to set and configurable sp"
+    },
+    {
+     "name": "Speedometer GPS: Speed Tracker",
+     "dev": "LightApps OU",
+     "ratings": 8844,
+     "desc": "Speedometer App: The Ultimate GPS Speedometer\n\nSpeedometer app is a cutting-edge speedometer that combines precision with GPS technology to deliver real-time speed tracking. Designed for drivers, cyclists, and adventurers, it’s the perfect companion for monitoring your speed accurately and safely.\n\n"
+    },
+    {
+     "name": "GPS Speedometer: Track Speed",
+     "dev": "AppAspect Technologies Pvt. Ltd.",
+     "ratings": 1483,
+     "desc": "Our Speedometer app offers a comprehensive solution for monitoring your speed and tracking your journeys, whether you're cycling, driving, boating, or flying. With versatile display options, detailed tracking features, and additional functionalities like music integration and weather updates, this a"
+    },
+    {
+     "name": "Speedometer»",
+     "dev": "Tim O's Studios, LLC",
+     "ratings": 50331,
+     "desc": "Speedometer» is a super-large, simple speed display for your iPhone, iPad, and Apple Watch.\n\nThere is no account to create and no login. Download the app, open it, and see your speed in seconds.\n\nSPEED AT A GLANCE\n• Extra-large, high-contrast GPS speed display\n• mph, km/h, and knots\n• Clear GPS sign"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "star gazer & night sky map",
+   "apps": [
+    {
+     "name": "Star Gazer & Night Sky Map",
+     "dev": "Appelio",
+     "ratings": 159,
+     "desc": "Explore the Sky Above You\n\nTurn your phone into a powerful tool for exploring the stars. This app helps you instantly recognize constellations, planets, and other celestial objects, just by pointing your device at the sky.\n\nWhether you’re a curious beginner or an experienced stargazer, you can:\n- Id"
+    },
+    {
+     "name": "Night Sky",
+     "dev": "iCandi Apps Ltd.",
+     "ratings": 496454,
+     "desc": "Night Sky is a powerful AI personal planetarium.\n\nQuickly identify stars, planets, constellations and satellites above by simply holding your iPhone, iPad or Apple Watch to the Night Sky!  This is all done magically.  Whether you’re looking for a constellation, or the International Space Station, le"
+    },
+    {
+     "name": "Sky Guide",
+     "dev": "Fifth Star Labs LLC",
+     "ratings": 375885,
+     "desc": "Bring the beauty of the stars down to Earth. Hold Sky Guide® overhead to automatically identify any star, constellation, planet or satellite! Easy to use and powerful, it’s epic stargazing for any experience level.\n\nIs it a star or the planet Mars? Knowing what’s up in your night sky is easier than "
+    },
+    {
+     "name": "Star Tracker Lite-Live Sky Map",
+     "dev": "身吉 潘",
+     "ratings": 2134,
+     "desc": "Hey, get outdoor with your friends and start star gazing! Let StarTracker guide you to explore the universe.\n\nJust hold up and point the device to the sky and have fun! You can see any stars, constellations and deep sky objects you are watching in reality.\n\n========================\nWhat our user sai"
+    },
+    {
+     "name": "Star Gazer - Astronomy Sky Map",
+     "dev": "LeoStudio Global",
+     "ratings": 1555,
+     "desc": "Hold your phone up to the Sky and Star Gazer tells you what you're looking at. That bright dot next to the Moon? Point at it and you'll have its name.\n\nStar Gazer, by LeoStudio Global, is a stargazing app and live sky map for iPhone and iPad that identifies stars, planets and constellations. You don"
+    },
+    {
+     "name": "Star Gazer: Sky Map& Astronomy",
+     "dev": "Best Butter LLC",
+     "ratings": 6881,
+     "desc": "Take a look at the stars, planets, galaxies, and constellations. Learn about the astronomical objects that are in our galaxy. Give an answer to some of the most curious questions of our own planet, and get fun looking at the stars and their movements just by pointing your device to the sky.\n•\tIntera"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

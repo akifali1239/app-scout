@@ -62057,6 +62057,56 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "cswip welding inspector",
+   "apps": [
+    {
+     "name": "CSWIP Welding Inspector",
+     "dev": "Austenite Pty Ltd",
+     "ratings": 0,
+     "desc": "CSWIP Welding Inspector is your knowledge builder for the CSWIP 3.1 and CSWIP 3.2 welding inspector certifications.\n\nPractice with a large bank of exam-style questions, sit realistic timed mock exams,"
+    },
+    {
+     "name": "CWI Welding Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 12,
+     "desc": "CWI WELDING EXAM PREP: PASS ALL THREE PARTS OF THE AWS CWI EXAM\n\nThe CWI exam has a 30 percent first-attempt pass rate. Most candidates fail because they treat it as a single test. It is three separat"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "ASME IX Welding",
+     "dev": "Austenite Pty Ltd",
+     "ratings": 0,
+     "desc": "ASME-IX Welding: Master the Welding Code\nElevate your welding career with the ASME-IX Welding app. Designed for welding engineers, inspectors, and professionals, this comprehensive tool provides the k"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

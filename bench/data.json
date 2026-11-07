@@ -61341,6 +61341,48 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "welding simulator",
+   "apps": [
+    {
+     "name": "Weld It 3D",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 20504,
+     "desc": "Weld, smooth and paint objects to your heart's content! Each level is designed as a relaxing puzzle. First you have to weld the objects from their seperation areas, than rand the excess weld and lastl"
+    },
+    {
+     "name": "Welding Master 3D",
+     "dev": "kadir ulucay",
+     "ratings": 0,
+     "desc": "Master the art of welding! Drag, fit, and weld metal pieces together to assemble realistic objects in this satisfying casual puzzle game.\n\nFEATURES\n- 20+ challenging levels with unique objects to weld"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Engine Lab: Simulator & Sound",
+     "dev": "Jan Sokol",
+     "ratings": 0,
+     "desc": "Engine Lab is a touch-first engine simulator for exploring how throttle, RPM, torque, manifold pressure, AFR, crank angle, firing order, and drivetrain state move together. Drive five native engine-si"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

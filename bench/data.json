@@ -3374,6 +3374,31 @@
    "term": "mig welding settings",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "gps measure distance",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "blur photo editor",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "transcribe video to text free",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "occupational therapy exam test",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "color match identifier",
+   "label": "need",
+   "split": "dev"
   }
  ],
  "brand": [

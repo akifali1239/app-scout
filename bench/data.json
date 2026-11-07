@@ -61709,6 +61709,354 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "occupational therapy exam prep",
+   "apps": [
+    {
+     "name": "Occupational Therapy Exam Prep",
+     "dev": "Tourkia CHIHI",
+     "ratings": 2,
+     "desc": "With this app you can learn on the Go, Anytime & Everywhere. The learning & understanding process never been so easy like with our 5 study modes embedded in this app.\nThis app is a combination of sets"
+    },
+    {
+     "name": "Occupational Therapy Exam 2026",
+     "dev": "EZ Test Prep",
+     "ratings": 58,
+     "desc": "Crush the OT Exam Without Losing Your Grip on Reality\n\nYou picked occupational therapy to make a difference, change lives, and maybe wear scrubs to work. But before you can do any of that, there’s the"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "speech therapy practice",
+   "apps": [
+    {
+     "name": "Speech Therapy Practice",
+     "dev": "Charles Wu",
+     "ratings": 3,
+     "desc": "Speech Therapy Practice (STP) presents phrases to the user and the user presses a button to tell STP to start listening. The user than says the practice phrase aloud and then when done presses the sto"
+    },
+    {
+     "name": "SpeechLP: Speech Therapy Games",
+     "dev": "ParagraphAI",
+     "ratings": 59,
+     "desc": "Speech therapy practice for kids that actually works — AI-powered articulation games used by 1,000+ speech-language pathologists and the families they refer.\n\nIs your child working on their R sound? A"
+    },
+    {
+     "name": "Otsimo | Speech Therapy SLP",
+     "dev": "Otsimo",
+     "ratings": 180,
+     "desc": "From award-winning creators! Otsimo | Speech Therapy SLP is proud to be the only Speech Therapy app that uses voice and speech recognition technology and machine learning; it understands exactly what "
+    },
+    {
+     "name": "Vocal Image: Speaking Coach",
+     "dev": "Vocal Image OU",
+     "ratings": 10435,
+     "desc": "Tired of replaying a conversation in your head, then freezing when it happens?\n\nVocal Image is an AI communication and soft skills coach. Every day it builds you a short personalized plan that mixes p"
+    },
+    {
+     "name": "Stamurai: Stuttering Treatment",
+     "dev": "Stamurai",
+     "ratings": 810,
+     "desc": "**SUPPORTED BY** Google for Startups, Prosus, Mphasis, Accel, ZS and Social Alpha, Stamurai is a one-stop stuttering treatment app for all ages. \nStuttering aka stammering is a speech disorder that de"
+    },
+    {
+     "name": "Articulation Teacher - Speech",
+     "dev": "SpeakEasy Community",
+     "ratings": 211,
+     "desc": "Improve your child's articulation and pronunciation! Brought to you by a Speech Language Pathologist and the creator of the SpeakEasy: Home Speech Therapy app which has accelerated early language deve"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "welding written - passrun",
+   "apps": [
+    {
+     "name": "Welding Written - PassRun",
+     "dev": "hyuncheol seo",
+     "ratings": 0,
+     "desc": "The Craftsman Welding written exam, in the palm of your hand.\n\nWelding is a core course at Korea's government-funded vocational academies.\nThe Craftsman Welding (용접기능사) and Craftsman Special Welding ("
+    },
+    {
+     "name": "Weld It 3D",
+     "dev": "3A YAPIM VE YAZILIM DANISMANLIK LIMITED SIRKETI",
+     "ratings": 20504,
+     "desc": "Weld, smooth and paint objects to your heart's content! Each level is designed as a relaxing puzzle. First you have to weld the objects from their seperation areas, than rand the excess weld and lastl"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "CWI Welding Exam Prep",
+     "dev": "Deeun Inc.",
+     "ratings": 12,
+     "desc": "CWI WELDING EXAM PREP: PASS ALL THREE PARTS OF THE AWS CWI EXAM\n\nThe CWI exam has a 30 percent first-attempt pass rate. Most candidates fail because they treat it as a single test. It is three separat"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "dental hygiene flashcards 2026",
+   "apps": [
+    {
+     "name": "Dental Hygiene Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 0,
+     "desc": "Preparing for your dental hygiene exams or wanting to deepen your understanding of oral health is essential for students and professionals in the dental field. Our Dental Hygiene Flashcards 2026 app i"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    },
+    {
+     "name": "NBDHE Dental Flashcards 2026",
+     "dev": "Alexander Pyjik",
+     "ratings": 1,
+     "desc": "Master the NBDHE Exam with Flashcards 2026!\nThe National Board Dental Hygiene Examination (NBDHE) is essential for dental hygiene professionals seeking to validate their knowledge and skills. Preparin"
+    },
+    {
+     "name": "Tend Dental",
+     "dev": "Noho Dental, Inc",
+     "ratings": 3904,
+     "desc": "Tend makes going to the dentist an experience you’ll actually look forward to. With online booking, transparent pricing, beautiful studios, and a top-rated clinical team, we care for the whole you, no"
+    },
+    {
+     "name": "NBDHE Dental Hygiene Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 17,
+     "desc": "Prepare for the NBDHE (National Board Dental Hygiene Examination) with our comprehensive prep course! Whether you're a seasoned student or just beginning your licensed Dental Hygienist certification j"
+    },
+    {
+     "name": "Dental Boards Mastery: INBDE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1540,
+     "desc": "Pass the INBDE® or Triple Your Money Back! The most popular INBDE prep app, developed by a U.S.-based team of dentists.\n\n3,000+ INBDE Exam Practice Questions (Including 350+ Mental Dental Videos!)\n\n- "
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "unrelated",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "miller welding app",
+   "apps": [
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Hobart Welding Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 9,
+     "desc": "The Hobart Filler Metal Selector and Calculator is a FREE quick reference tool with a number of functions. These functions include:\nFiller Metal Selector for:\n\tAluminum\n\tCarbon Steel\n\tStainless Steel\n"
+    },
+    {
+     "name": "ESAB Welding Parameters Set-Up Guide",
+     "dev": "ESAB Group Inc",
+     "ratings": 4,
+     "desc": "This simple, yet helpful app gives you the ability to correctly identify the welding parameters for your next job. Just choose the type of wire you're using (solid or flux-cored), plug in a few pieces"
+    },
+    {
+     "name": "Lincoln Electric",
+     "dev": "Lee's Tools",
+     "ratings": 5,
+     "desc": "Lincoln Electric\n\nThe Welding Experts – Founded on 1895\nLincoln Electric is an American multinational and a global manufacturer of welding products, arc welding equipment, welding consumables, plasma "
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades i"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "sonography exam prep: spi",
+   "apps": [
+    {
+     "name": "Sonography Exam Prep: SPI",
+     "dev": "MD Shahariar Nazim Joy",
+     "ratings": 0,
+     "desc": "Sonography Exam Prep SPI is an offline ultrasound physics & instrumentation study app for SPI candidates. Purchase required for full access (auto-renewable subscription or lifetime unlock).\n\nWHAT YOU "
+    },
+    {
+     "name": "ARDMS SPI Sonography Exam Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 0,
+     "desc": "Prepare for the ARDMS SPI Exam with Our Comprehensive Test Preparation Program!\n\nDesigned for aspiring and current sonographer, our course offers extensive resources and strategies to ensure your succ"
+    },
+    {
+     "name": "Prepry - ARDMS & CCI Exam Prep",
+     "dev": "Imago AI LLC",
+     "ratings": 3801,
+     "desc": "Ace your ultrasound registry. 100,000+ students trust Prepry to ace their classes and pass their ARDMS®, CCI®, and ARRT® registry exams. Content written or reviewed by RDMS®, RVT®, RDCS®, RCS®, and RV"
+    },
+    {
+     "name": "ARDMS SPI Exam Prep 2026",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 21,
+     "desc": "Unlock your potential in the Diagnostic Medical Sonography field with our comprehensive ARDMS SPI Exam Test Prep 2026 course. Designed for aspiring sonographers preparing for the SPI exam, this course"
+    },
+    {
+     "name": "Rosh Review | Exam Prep Qbank",
+     "dev": "Rosh Review LLC",
+     "ratings": 8183,
+     "desc": "Rosh Review is a comprehensive educational resource for physicians, medical students, PAs, nurse practitioners, and nurses.\n \nPlan, prepare, and pass your high-stakes exam with Qbanks for:\n \nPhysician"
+    },
+    {
+     "name": "BoardVitals Medical Exam Prep",
+     "dev": "Board Vitals, Inc.",
+     "ratings": 10193,
+     "desc": "BoardVitals offers board-style practice questions for more than 50 board exams and medical specialties. Study effectively with high-yield questions that are accompanied by detailed explanations and ra"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

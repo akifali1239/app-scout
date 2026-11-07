@@ -61383,6 +61383,232 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "ham radio technician exam",
+   "apps": [
+    {
+     "name": "Ham Radio Technician Exam U.S.",
+     "dev": "Avocado Studio Pty Ltd",
+     "ratings": 0,
+     "desc": "**Terms of Use (EULA)**\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/\n\n**Disclaimer** \nThis app is not affiliated with or endorsed by the NCVEC or the Federal Communications Commis"
+    },
+    {
+     "name": "HAM Radio Technician Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 0,
+     "desc": "Prepare for the HAM Radio Technician Exam with Our Comprehensive Test Preparation Program\nDesigned for current and aspiring amateur radio operators, our course offers extensive resources and strategie"
+    },
+    {
+     "name": "Ham Radio Exam - Tech",
+     "dev": "Roy Watson",
+     "ratings": 243,
+     "desc": "\"Ham Radio Exam - Tech\" will help the user pass his/her examination for a Technician Class FCC Amateur Radio License. Newly updated to include the question pool for exams administered after 01 July 20"
+    },
+    {
+     "name": "Ham Radio Prep",
+     "dev": "World Radio League Inc.",
+     "ratings": 2183,
+     "desc": "The fastest, easiest, and most informative way to get your ham radio license.\n\n> Includes all 3 Levels: Technician License, General License, and Amateur Extra License\n> Learn the material with premium"
+    },
+    {
+     "name": "HAM Test Prep:  Technician",
+     "dev": "Patrick J Maloney LLC",
+     "ratings": 807,
+     "desc": "Includes the Technician Question Pool effective July 1, 2026!\n\nNot sure if you want to buy?  Try out the \"Lite\" version of this app!\n\nJoin the amateur radio community!  Become a HAM by obtaining your "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "notary central",
+   "apps": [
+    {
+     "name": "NotaryCentral",
+     "dev": "Alexander Leon",
+     "ratings": 3,
+     "desc": "The all-in-one app for notaries\nStay Compliant. Work Smarter. Grow with Confidence.\n\nTerms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+    },
+    {
+     "name": "Notary eJournal",
+     "dev": "Jurat",
+     "ratings": 190,
+     "desc": "The Notary eJournal by Jurat INC is an electronic notary journal created to provide a digital replacement for the standard hard-bound notary journals that exist in the market. Designed by notaries in "
+    },
+    {
+     "name": "NotaryGadget",
+     "dev": "Realtyzam, LLC",
+     "ratings": 729,
+     "desc": "NotaryGadget  is the ultimate app for notary signing agents. It makes just about everything you do easier - sending invoices, tracking payments, tracking mileage, tracking notarial acts, managing your"
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "Instant Notary App",
+     "dev": "OnlineNotary.net/Instant Notary LLC",
+     "ratings": 8069,
+     "desc": "OnlineNotary.net is a Virginia based company that can legally perform online notary to any US Citizen or US Resident. Our experienced and friendly, professionally licensed and certified notaries can h"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hvac flashcards",
+   "apps": [
+    {
+     "name": "HVAC Flashcards",
+     "dev": "Mau Nguyen",
+     "ratings": 6,
+     "desc": "How to study effectively?\nDo you want to succeed in exams?\n\nUsing Heating, Ventilation, Air Conditioning  Flashcards will help you learn faster and remember more in a shorter time by showing flashcard"
+    },
+    {
+     "name": "HVAC practice test",
+     "dev": "Hung Nguyen",
+     "ratings": 443,
+     "desc": "With HVAC Test Pro, you can study with our Free HVAC practice tests, flashcards, and score reports with detailed analytics. Best of all, you can access these features anywhere and anytime when you dow"
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "CE HVAC Pro+",
+     "dev": "Watsco, Inc.",
+     "ratings": 1590,
+     "desc": "CE HVAC PRO is 100% free for HVAC technicians and always will be. Easily check warranty entitlement, available inventory, order status, manuals, and tech specs for all the HVAC models we carry. Our mi"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl hazmat practice test",
+   "apps": [
+    {
+     "name": "HazMat Test 2026 & ERG 2024",
+     "dev": "GCSE Exams",
+     "ratings": 2096,
+     "desc": "Ace Your CDL HazMat Endorsement Test with Confidence!\n\nNow fully bilingual — study the entire app in English or Spanish (Español).\n\nPrepare for your Commercial Driver's License (CDL) Hazardous Materia"
+    },
+    {
+     "name": "CDL Hazmat Practice Test",
+     "dev": "Erdem Kara",
+     "ratings": 14,
+     "desc": "Welcome to the CDL Hazmat Practice Test App, your ultimate companion in mastering the essential aspects of CDL Hazardous Material Endorsement exam. Our app is tailored to meet your training needs, pro"
+    },
+    {
+     "name": "CDL HazMat Practice Test 2026",
+     "dev": "FLUENT AAC TECHNOLOGY S.R.L.",
+     "ratings": 37,
+     "desc": "1,000+ CDL HazMat-style questions, 500+ flashcards, full-length practice tests, and realistic exam simulations — built specifically for the CDL HazMat (H) endorsement.\n\nAdding a HazMat endorsement to "
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "bartender school",
+   "apps": [
+    {
+     "name": "Bartender School",
+     "dev": "Henrique Bersani",
+     "ratings": 1276,
+     "desc": "Memorize the ingredients of the world’s most popular cocktails. Learn the art of bartending with step-by-step lessons, visual guides, quizzes, and interactive practice.\nLearn ingredients, measurements"
+    },
+    {
+     "name": "Bartending License Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Pass your Bartending with confidence. Bartending License Prep gives you 700+ realistic practice questions with clear, detailed explanations for every answer.\n\nCOVERS EVERY TOPIC\nDrink Recipes & Mixolo"
+    },
+    {
+     "name": "Bartending School by Gigz Labs",
+     "dev": "Gigz Labs Inc.",
+     "ratings": 4,
+     "desc": "Step behind the bar. Bartending School is a hands-on training game where you build real cocktails at a fully playable station - pick the glass, scoop the ice, pour real amounts, shake, strain, and gar"
+    },
+    {
+     "name": "Be a Bartender!",
+     "dev": "Pernod Ricard Europe",
+     "ratings": 934,
+     "desc": "18 +\n\nEver wanted to be on the other side of the bar? Battle your way through hectic nights serving great drinks to enthusiastic and unpredictable guests! Take control of your station and learn how to"
+    },
+    {
+     "name": "Cocktail Flow - Drink Recipes",
+     "dev": "Cocktai Flow",
+     "ratings": 21310,
+     "desc": "Cocktail Flow features beautifully presented cocktail recipes with step by step guides and is packed with features you’ll love whether you’re a novice bartender or a professional mixologist.\n\nYOUR BAR"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

@@ -64953,6 +64953,36 @@
    "hi": "subscription study app for paramedic certification",
    "lo": "free ringtone maker",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "CPA exam review with question bank, annual plan",
+   "lo": "free wallpaper app for phone",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "NCLEX nursing practice questions with rationales",
+   "lo": "flashlight app free",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "study guide for ASE auto mechanic certification tests",
+   "lo": "app to count steps in my own backyard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "FAA pilot checkride oral exam prep",
+   "lo": "custom app for my family's grocery list in one house",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor estimating and invoicing app for electricians",
+   "lo": "free emoji keyboard",
+   "split": "test"
   }
  ],
  "note": [

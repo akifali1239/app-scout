@@ -61253,6 +61253,64 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "chiropractic boards 2",
+   "apps": [
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "ChiroHD",
+     "dev": "ADIO Software, LLC",
+     "ratings": 8,
+     "desc": "ChiroHD is the patient companion app of ChiroHD Chiropractic software. It enables patients to manage their schedules and view xrays in offices that are using the ChiroHD Chiropractic Software!\n\nPlease"
+    },
+    {
+     "name": "UPRIGHT",
+     "dev": "Upright Technologies Ltd",
+     "ratings": 3938,
+     "desc": "**This app works with the UPRIGHT posture trainer.\n\n\nStand tall, strengthen your core, and breathe better with UPRIGHT.\n\n\nWish someone would give you a heads up when you’re slouching and remind you to"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "direct",
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

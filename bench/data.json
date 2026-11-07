@@ -61609,6 +61609,106 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "chiropractic boards 3",
+   "apps": [
+    {
+     "name": "Chiropractic Boards 3",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 15,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 3 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    },
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Chiropractic Boards 2",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 51,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 2 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    },
+    {
+     "name": "Chiropractic Boards 1",
+     "dev": "Pro Exam Prep LLC",
+     "ratings": 83,
+     "desc": "Don't be fooled by other quiz apps that have nothing to do with questions on the exams.\nChiropractic Boards 1 - Practice Exams was created from students who went through the boards themselves!\n\nNew Qu"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "voice recorder & transcribe",
+   "apps": [
+    {
+     "name": "Voice Recorder & Transcribe",
+     "dev": "Jakub Bartus",
+     "ratings": 2079,
+     "desc": "Record, transcribe, and turn audio into notes, summaries, and action items.\n\nVoice Recorder is a smart voice recorder, audio recorder, and dictaphone built for meetings, lectures, interviews, podcasts"
+    },
+    {
+     "name": "Voice Memos",
+     "dev": "Apple",
+     "ratings": 1099102,
+     "desc": "Voice Memos turns your iPhone, iPad, or Apple Watch into a portable audio recorder, making it easy to capture and share personal notes, song ideas, family moments, classroom lectures, and more. Editin"
+    },
+    {
+     "name": "Voice Recorder & Audio Editor",
+     "dev": "TapMedia Ltd",
+     "ratings": 452907,
+     "desc": "Voice Recorder for the iPhone and iPad - download now for FREE!\n\nUNLIMITED RECORDINGS\nRecord for as long as you want and as many times as you want. (No restrictions as long as you have enough availabl"
+    },
+    {
+     "name": "Otter Transcribe Voice Notes",
+     "dev": "Otter.ai, Inc.",
+     "ratings": 82665,
+     "desc": "Never take meeting notes again. Otter AI is the fastest way to transcribe voice in real time. Get a meeting assistant that records audio, writes notes, automatically captures slides, and generates sum"
+    },
+    {
+     "name": "iRecord: Transcribe Voice Memo",
+     "dev": "Youdao (Hong Kong) Limited",
+     "ratings": 8857,
+     "desc": "iRecord: High-quality Recorder with Accurate Voice Transcription\n\niRecord is the perfect app for anyone looking to record high-quality voice recordings and transcribe them with advanced AI technology."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

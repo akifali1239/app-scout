@@ -69497,6 +69497,42 @@
    },
    "label": "content",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Spec Lookup",
+    "category": "Utilities",
+    "desc": "Look up bolt torque specifications by size and grade for mechanics."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Dose Calc: Pediatric Dosing",
+    "category": "Medical",
+    "desc": "Calculate weight-based pediatric drug doses instantly with a simple calculator."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "ChatPDF AI: Ask Your Documents",
+    "category": "Productivity",
+    "desc": "Upload a PDF and chat with an AI that answers questions about it."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Dog Walker Booking",
+    "category": "Lifestyle",
+    "desc": "Book a local dog walker and pay in the app; walkers come to your door."
+   },
+   "label": "service",
+   "split": "train"
   }
  ]
 }

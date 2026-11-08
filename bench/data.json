@@ -70810,6 +70810,60 @@
    },
    "label": "content",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Decibel Meter Pro",
+    "category": "Utility",
+    "desc": "Measure ambient noise in dB using your iPhone microphone and log peak levels."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ASVAB Practice Questions",
+    "category": "Education",
+    "desc": "Thousands of ASVAB practice questions with explanations and score tracking."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Citizens Credit Union Mobile",
+    "category": "Finance",
+    "desc": "Sign in to check balances, deposit checks and pay bills with your credit union account."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chess Puzzles Rush",
+    "category": "Games",
+    "desc": "Solve timed chess puzzles and climb the ranked ladder."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Resume Writer AI Chat",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant that writes your resume and cover letter in seconds."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Lo-fi Radio Streams",
+    "category": "Music",
+    "desc": "Stream lo-fi beats and chill radio stations all day."
+   },
+   "label": "content",
+   "split": "test"
   }
  ]
 }

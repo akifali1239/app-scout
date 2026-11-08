@@ -3484,6 +3484,16 @@
    "term": "bright smile dental clinic llc",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "lakeview pediatric dentistry pc",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "farm tractor driving simulator",
+   "label": "game",
+   "split": "dev"
   }
  ],
  "brand": [

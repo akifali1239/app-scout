@@ -66710,6 +66710,42 @@
    "hi": "pipe bending offset calculator for electricians",
    "lo": "AI video editor with cloud rendering and live collaboration",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "HVAC load calculation and refrigerant charge tool for technicians",
+   "lo": "free ringtone maker for fun",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental hygienist exam prep with practice questions",
+   "lo": "meme generator with funny filters",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "scaffold load and span reference for construction crews",
+   "lo": "celebrity gossip news feed",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician conduit fill calculator",
+   "lo": "casual match-3 puzzle for everyone",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "wire gauge and voltage drop calculator for electricians",
+   "lo": "full video streaming platform with live chat and payments",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "concrete mix volume calculator for contractors",
+   "lo": "multiplayer 3D open-world game with matchmaking",
+   "split": "dev"
   }
  ],
  "note": [

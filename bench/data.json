@@ -68518,6 +68518,36 @@
    "note": "Ücretsiz web sitesi yeterli, kullanıcı ödemez",
    "label": "Para yapmaz",
    "split": "dev"
+  },
+  {
+   "note": "Bu kategoride yüzlerce app var, sonuçlar aşırı kalabalık",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Arama sonuçlarının tamamı büyük şirketlerin app'leriyle dolu, yer yok",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Zaten var olan bir app'in neredeyse birebir kopyası olurdu",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Rakiplerden hiçbir farkım olmayacak, hepsi aynı şeyi yapıyor",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bu tür app'leri tıbbi tavsiye gerekçesiyle reddeder",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "İnsanlar bunun için asla para vermez, hep bedava bakıyorlar",
+   "label": "Para yapmaz",
+   "split": "train"
   }
  ],
  "kind": [

@@ -48699,6 +48699,86 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "occupational therapy preр 2026",
+   "top": [
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "speaker wave",
+   "top": [
+    {
+     "name": "Eject Water Now - SpeakerWave",
+     "dev": "Iurii Filin",
+     "ratings": 211,
+     "desc": "Discover how easy it is to maintain the premium sound quality of your iPhone with SpeakerWave. Our app brings together a comprehensive set of features to ensure that your device operates at its best p"
+    },
+    {
+     "name": "Clean Wave - Clear speaker",
+     "dev": "David Krejci",
+     "ratings": 2794,
+     "desc": "A simple and intuitive application that allows you to play sounds, clean speaker at a strictly defined frequency by a clean wave speaker shortcut. It is an all around good speaker cleaner. It allows y"
+    },
+    {
+     "name": "Speaker Wave: Test Sound",
+     "dev": "岚晴 杨",
+     "ratings": 5,
+     "desc": "Speaker Wave designed to assist you in testing your speakers and analyzing audio capabilities.\n\nSpeaker Wave allows you to effortlessly evaluate the performance of your speakers by playing a variety o"
+    },
+    {
+     "name": "Clear Wave: Volume Booster",
+     "dev": "Gaurav Babbar",
+     "ratings": 1360,
+     "desc": "Clear Wave plays a series of tones that help you test and analyze your phone speakers with precision and ease.\n\nKey Features:\n\nAdvanced Speaker Testing\n3 Ultimate speaker testing modes\nVolume booster "
+    },
+    {
+     "name": "Clear Wave Speaker Cleaner",
+     "dev": "Muhammed Deniz",
+     "ratings": 31,
+     "desc": "Water Eject Speaker Cleaner\nGot water stuck in your speakers? Water Eject Speaker Cleaner is your ultimate rescue tool for restoring crystal-clear audio quality to your device!\nWhy Water Eject Speaker"
+    },
+    {
+     "name": "Clear Wave : Speaker Test",
+     "dev": "HK SHENGUANGYUAN TECH LIMITED",
+     "ratings": 865,
+     "desc": "The clear wave app plays sound wave that can help you speaker test. \n\nThe clear wave App offers some features to enhance your audio experience, such as:\n\nClear Wave Speaker Test\n-The sound wave app is"
+    },
+    {
+     "name": "Wave Clean - Speaker Cleaner",
+     "dev": "Iuliia Timokhina",
+     "ratings": 3681,
+     "desc": "Wave Clean is a quick way to clean dirt, dust, and water from your speaker.\n\n\nWith the Wave Clean app you can clean and remove water from your speaker . This simple process of cleaning from your speak"
+    },
+    {
+     "name": "Water Wave - Clean Speaker",
+     "dev": "Water Eject",
+     "ratings": 1272,
+     "desc": "You feel that speaker of your iPhone or iPad is quiet of muffled? Water Eject ~ will help you to clean speaker from dust & water.\n\nWater eject shortcut\n\nUsing the unique method with Haptics & Sound Ej"
+    },
+    {
+     "name": "Clear Wave: Water Eject .",
+     "dev": "Hurapps Dijital Hizmetler Limited Şirketi",
+     "ratings": 7,
+     "desc": "Clear Wave is a powerful speaker cleaner, water eject, and water remover app designed to help you keep your phone speaker performing at its best. Whether you need to eject water from speaker, remove w"
+    }
+   ],
+   "label": true,
+   "split": "dev"
   }
  ],
  "rival": [

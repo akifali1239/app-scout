@@ -66100,6 +66100,48 @@
    "hi": "plumber pipe sizing calculator",
    "lo": "photo collage maker",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "HVAC refrigerant pressure temperature chart for technicians",
+   "lo": "random fortune cookie generator",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "CDL pre-trip inspection checklist for truck drivers",
+   "lo": "guess the emoji party game",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "surveying field notes and stakeout calculator for land surveyors",
+   "lo": "meme sound button board",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental hygienist continuing education tracker with license renewal",
+   "lo": "cute puppy live wallpaper",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "rebar weight and spacing calculator for concrete crews",
+   "lo": "ride sharing marketplace with live map and payments",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "nursing drug dosage calculator",
+   "lo": "multiplayer 3D shooter with voice chat",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "crane load chart lookup for riggers",
+   "lo": "food delivery platform with courier tracking",
+   "split": "dev"
   }
  ],
  "note": [

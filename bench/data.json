@@ -71544,6 +71544,33 @@
    },
    "label": "service",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Pipefitter Field Handbook",
+    "category": "Reference",
+    "desc": "Offline reference of pipe schedules, flange ratings, thread dimensions and fitting charts."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Mobile Notary Booking Pro",
+    "category": "Business",
+    "desc": "Book a certified mobile notary to come to your home or office. Same-day signing appointments and online payment."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ChatDoc Tutor AI",
+    "category": "Education",
+    "desc": "Ask our AI assistant anything about your textbook. Powered by GPT, answers in seconds."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
   }
  ]
 }

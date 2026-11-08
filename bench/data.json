@@ -63854,6 +63854,41 @@
    "app": "Casino-style slot machine where you deposit real money to win cash prizes.",
    "label": true,
    "split": "dev"
+  },
+  {
+   "app": "Reads a photo of a pill and tells you whether it is safe to take with your other medications.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates the chemotherapy drug dose for a child from weight and height.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Reference sheet of standard wire gauge sizes and ampacity for electricians.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Flashcards for memorizing the NATO phonetic alphabet for radio operators.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Analyzes a recording of your cough and diagnoses pneumonia or COVID.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Timer and log for tracking sourdough proofing times.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Plays relaxing rain sounds to help you fall asleep.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

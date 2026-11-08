@@ -70697,6 +70697,42 @@
    },
    "label": "service",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Plumbing Code Quick Lookup",
+    "category": "Reference",
+    "desc": "Search pipe sizing tables, venting rules and fixture unit charts offline."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Resume AI Writer",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant that rewrites your resume and cover letter."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Barber Shop Appointments",
+    "category": "Lifestyle",
+    "desc": "Book a haircut with a local barber and pay in the app."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Bible Verses",
+    "category": "Lifestyle",
+    "desc": "A new inspirational verse and devotional article every morning."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

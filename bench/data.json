@@ -67772,6 +67772,31 @@
    "note": "Rakiplerin hepsi 2019'dan beri güncellenmemiş ve yorumları kötü",
    "label": "Kalitesiz / eski",
    "split": "train"
+  },
+  {
+   "note": "Bu işi bir kişi yapamaz, canlı video ve sunucu altyapısı gerekiyor",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Konu bana hiç hitap etmiyor, tamamen başka bir sektör",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Çok sıkıcı, kimse bunu telefonuna indirmek istemez",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
+  },
+  {
+   "note": "Kullanıcılar ücretli satın almaz, hepsi bedava alternatif arıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple sağlık verisi toplayıp izinsiz paylaşan app'i reddeder",
+   "label": "Ret riski",
+   "split": "train"
   }
  ],
  "kind": [

@@ -66674,6 +66674,42 @@
    "hi": "drywall board and joint compound quantity estimator",
    "lo": "real-time multiplayer battle royale game with matchmaking",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "cosmetology state board exam practice questions",
+   "lo": "dating app for left-handed vegans",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "commercial driver CDL air brakes test prep",
+   "lo": "niche fan club chat for one indie band",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "medical coding CPT lookup for billing professionals",
+   "lo": "free wallpaper pack of cute kittens",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoice and estimate maker",
+   "lo": "animated emoji sticker pack",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists with fractional inches",
+   "lo": "social network with video feed and recommendation algorithm",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe bending offset calculator for electricians",
+   "lo": "AI video editor with cloud rendering and live collaboration",
+   "split": "dev"
   }
  ],
  "note": [

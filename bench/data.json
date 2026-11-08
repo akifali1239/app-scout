@@ -3464,6 +3464,26 @@
    "term": "orbit welding validation",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "electrician apprentice jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "now hiring welders",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "farm simulator tractor game",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "bright smile dental clinic llc",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -68346,6 +68366,46 @@
    "note": "Apple sağlık verisi toplayıp izinsiz paylaşan app'i reddeder",
    "label": "Ret riski",
    "split": "train"
+  },
+  {
+   "note": "Bu nişte hiç ilgim yok, benim mesleğimle ilgisi yok",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Benim hedef kitlemle bağlantısı yok, farklı bir meslek grubu",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Gerçek zamanlı uydu verisi ve kendi sunucularım gerekir, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Donanım sensörü ve özel cihaz entegrasyonu şart, bir geliştirici için fazla zor",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Rakip app'lerin arayüzü eski, 2018 tasarımı ve puanları düşük",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Mevcut app'ler sık çöküyor ve yıllardır güncellenmemiş",
+   "label": "Kalitesiz / eski",
+   "split": "train"
+  },
+  {
+   "note": "Fikir çok sönük, kimse heyecanlanmaz",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Ücretsiz web sitesi yeterli, kullanıcı ödemez",
+   "label": "Para yapmaz",
+   "split": "dev"
   }
  ],
  "kind": [

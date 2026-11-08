@@ -62569,6 +62569,190 @@
     "mention"
    ],
    "split": "dev"
+  },
+  {
+   "term": "oat optometry test prep 2026",
+   "apps": [
+    {
+     "name": "OAT Optometry Test Prep 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 1,
+     "desc": "Prepare for the OAT with Our Comprehensive OAT Optometry Test Prep 2026 App!\nOAT Optometry Test Prep 2026 is designed to help candidates prepare for the Optometry Admission Test (OAT). This standardized exam is essential for those seeking admission to optometry schools and is a critical step in your"
+    },
+    {
+     "name": "Crack OAT Optometry Test Prep",
+     "dev": "Crack Exam Preparation Software, LLC",
+     "ratings": 38,
+     "desc": "Optometry school is one of the most competitive healthcare programs in the country.\n\nYour OAT (Optometry Admission Test) score is how they separate the serious applicants from the rest. Your GPA alone will not carry you.\n\nYour score matters. Your prep matters. Start now.\n\nJoin 20,000+ pre-optometry "
+    },
+    {
+     "name": "Optometry Admission Test",
+     "dev": "Cram Cards",
+     "ratings": 2,
+     "desc": "Optometry Admission Test (OAT) Preparation made beautifully: Accessible. Convenient. Affordable. Powerful. Newly Released OAT Practice Tests & Questions.\n\nHere's how you'll benefit with this app and score higher on your Optometry Admission Test:\n\n +  Access OAT Practice Tests: anytime, anywhere! \n +"
+    },
+    {
+     "name": "OAT Optometry Admission Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "Optometry Admission Test Exam Prep 2026 helps you pass with 2060+ realistic practice questions, each with a clear explanation.\n\nFEATURES\n- 2060+ practice questions with detailed answer explanations\n- Study modes: quick 10, mock exam, timed, missed questions, and study by topic\n- Progress tracking wi"
+    },
+    {
+     "name": "Booster Prep",
+     "dev": "Booster Prep Inc.",
+     "ratings": 716,
+     "desc": "Take advantage of BoosterPrep's powerful study tools on the go. With the BoosterPrep App, you can easily access your question banks and videos from anywhere, anytime. Currently, the app supports the following exams:\n- DAT - DATBooster\n- Canadian DAT - DATCrusher\n- OAT - OATBooster\n- INBDE - INBDEBoo"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "transcribe audio app",
+   "apps": [
+    {
+     "name": "Transcribe Audio to Text & AI",
+     "dev": "WHEELE ACTIVITY SOFTWARE Inc",
+     "ratings": 10,
+     "desc": "Voisia turns meetings, lectures, interviews, and voice notes into clear, searchable text — with speaker labels, an AI summary, and action items.\n\nRecord or import audio, upload when you're ready, and get back an organized transcript in minutes. No note-scribbling, no retyping — just talk now and rev"
+    },
+    {
+     "name": "Otter Transcribe Voice Notes",
+     "dev": "Otter.ai, Inc.",
+     "ratings": 87421,
+     "desc": "Never take meeting notes again. Otter AI is the fastest way to transcribe voice in real time. Get a meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries. \n\nAvailable in English, Spanish, French and Japanese. Otter AI is also available on the web."
+    },
+    {
+     "name": "Transcribe - Speech to Text",
+     "dev": "DENIVIP",
+     "ratings": 10937,
+     "desc": "Transcribe audio and video to text with Transcribe – your AI-powered transcription assistant. Get instant, high-quality transcripts, right from your phone.\n\nWhether you need to transcribe voice notes, meetings, interviews, lectures, or videos, our advanced AI provides you with fast, accurate, multil"
+    },
+    {
+     "name": "iTranscribe - Audio to Text",
+     "dev": "TALENT ME TECHNOLOGY PTE. LTD. ",
+     "ratings": 6849,
+     "desc": "Transcribe, Translate, Record, Search, Playback, Manage & Share in one app. Download now for free.\n\niTranscribe will turn your cell phone into a powerful voice recorder and real-time transcriber. \n\nFurthermore, iTranscribe will develop many useful functions to help you improve your efficiency. \n\n\n=="
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "maniagenda: nail tech booking",
+   "apps": [
+    {
+     "name": "ManiAgenda: Nail Tech Booking",
+     "dev": "Home Of Deva S.L.",
+     "ratings": 0,
+     "desc": "The appointment book made for nail techs.\n\nManiAgenda keeps your appointments, clients and earnings in one place, so you can stop juggling a paper diary, DMs and WhatsApp chats.\n\nBOOK IN SECONDS\n• Your day, week and month at a glance\n• Services with their real length in minutes and your own prices\n•"
+    },
+    {
+     "name": "My Fashion Nail Salon Game",
+     "dev": "BWEB SARL",
+     "ratings": 11961,
+     "desc": "Fashion is a flare like no other, and what better way to show off a new fashion than by getting a manicure done on your nails with this nail salon game! Here you can really feel like a celebrity and have the best manicure available with plenty of sparkles. Paint each nail the color you want, accesso"
+    },
+    {
+     "name": "Nailzy.com",
+     "dev": "nailsa2z",
+     "ratings": 1032,
+     "desc": "Nailzy is the all-in-one platform for nail professionals, salon owners, and beauty businesses.\n\nProfessionals can create a free booking website, manage appointments, organize client records, track staff schedules, process payments, and grow their business from a single platform.\n\nSalon owners can ma"
+    },
+    {
+     "name": "Nail Tech Appointment: AppNail",
+     "dev": "Akyno Apps",
+     "ratings": 103,
+     "desc": "AppNail – Appointment Book for Nail Technicians and Beauty Salons\n\nOrganize your appointments, increase your productivity, and professionalize your service with AppNail, the complete appointment book app for nail tech, nail salons, and beauty professionals.\n\nReplace paper planners and notebooks with"
+    },
+    {
+     "name": "Nail Salon - Girl Art Game",
+     "dev": "Unickie Technology Co., Ltd.",
+     "ratings": 54389,
+     "desc": "Do you like to play games of nail design and nail polish? Come and experience the charm of beautiful nails at Nail Salon!\nNail Art is a handmade manicure bazaar simulation game where you are a professional manicurist and your main job is to design unique nails for your clients. In this nail salon si"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent",
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "paramedic mastery",
+   "apps": [
+    {
+     "name": "Paramedic Mastery",
+     "dev": "Cargo Teleport Inc",
+     "ratings": 0,
+     "desc": "Dominate Your Paramedic Exam with Paramedic Mastery!\n\nParamedic Mastery is your essential companion for acing the NREMT Paramedic exam and other paramedic certification tests. Whether you’re honing your skills in trauma care or prepping for medical emergencies, this app equips you with the knowledge"
+    },
+    {
+     "name": "Paramed Mastery",
+     "dev": "Christopher K Anderson",
+     "ratings": 0,
+     "desc": "Welcome to Paramedic Mastery: Your Ontario EMS Learning Companion!\n\nCheck your knowledge with hundreds of quiz questions based on the ALS-PCS 5.4 and the BLS-PCS 3.4. \nWhether you are a current paramedic or a paramedic student you will benefit from deepening your knowledge of these documents which p"
+    },
+    {
+     "name": "EMS Mastery EMT Exam Prep 2026",
+     "dev": "MEDizzy LTD",
+     "ratings": 24,
+     "desc": "• With 3,200+ questions, explanations, advanced analytics, and AI tutor to guide you every step of your EMS prep. \nDon't leave your career to chance. Whether you are pursuing your EMT training or preparing for the rigorous paramedic exam, EMS Mastery by MEDizzy is the definitive exam prep app design"
+    },
+    {
+     "name": "MedicTests 2026 EMS Education",
+     "dev": "MedicTests",
+     "ratings": 2067,
+     "desc": "Experience the ultimate EMS Education System, designed exclusively for MedicTests members. \n\nUnlock personalized guidance and engaging learning tools like our personalized learning paths, the Rapid Learning Flash Cards, and M.A.C.K., the groundbreaking AI Medic Tutor!\n\nDiscover specialized EMR, EMT,"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

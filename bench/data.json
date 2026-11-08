@@ -71607,6 +71607,60 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Concrete Slab Pro",
+    "category": "Utilities",
+    "desc": "Calculate concrete volume, rebar spacing and cost for slabs and footings. Enter dimensions, get bags or yards instantly."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Lineman Field Guide",
+    "category": "Reference",
+    "desc": "Searchable reference of clearance distances, glove ratings and pole classes for power line workers. Works offline."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Mobile Dog Groomer Booking",
+    "category": "Lifestyle",
+    "desc": "Book a groomer to come to your home. Choose a time slot, pay in the app and get reminders."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "AskTax AI",
+    "category": "Finance",
+    "desc": "Chat with our GPT-powered assistant about your tax questions and get instant answers."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Brick Smash Arena",
+    "category": "Games",
+    "desc": "Smash bricks, collect power-ups and beat 300 levels with friends in this arcade game."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Daily HVAC Tips Blog",
+    "category": "News",
+    "desc": "Weekly articles and videos about HVAC trends, written by our editors. New posts every Monday."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

@@ -66369,6 +66369,42 @@
    "hi": "crane load chart lookup for riggers",
    "lo": "food delivery platform with courier tracking",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "hospice nurse medication comfort-kit dosing reference",
+   "lo": "celebrity gossip news feed",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "commercial pilot checkride oral exam flashcards",
+   "lo": "wallpaper pack for iphone",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician conduit fill and voltage drop calculator",
+   "lo": "free emoji keyboard stickers",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "court reporter steno speed-building drills",
+   "lo": "meme generator with filters",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "rebar spacing and concrete volume calculator for contractors",
+   "lo": "global ride-hailing marketplace with live driver matching",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "HVAC refrigerant pressure-temperature chart",
+   "lo": "social network with video feed and recommendations",
+   "split": "train"
   }
  ],
  "note": [

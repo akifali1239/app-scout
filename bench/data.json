@@ -71462,6 +71462,42 @@
    },
    "label": "ai_wrapper",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Concrete Volume Calculator Pro",
+    "category": "Utilities",
+    "desc": "Calculate slab, footing and column concrete volume in yards or cubic meters."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pharmacology Drug Class Cheat Sheet",
+    "category": "Medical",
+    "desc": "Quick reference of drug classes, mechanisms and common side effects for nursing students."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chat With Your PDF – AI Reader",
+    "category": "Productivity",
+    "desc": "Upload any PDF and ask questions; powered by GPT to summarize and extract answers."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ace Plumbing Repair Booking",
+    "category": "Business",
+    "desc": "Book a licensed plumber for your home. Schedule visits, get quotes and pay online."
+   },
+   "label": "service",
+   "split": "dev"
   }
  ]
 }

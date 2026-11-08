@@ -64081,6 +64081,31 @@
    "app": "Plays relaxing rain sounds to help you fall asleep.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Calculates safe maximum daily acetaminophen dose for adults and children by weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Guide to chemotherapy drug dosing and infusion rates for oncology nurses.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Flashcards for learning welding symbols and joint types.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts between metric and imperial wrench torque units.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tracks your daily water intake with reminders.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -71126,6 +71151,42 @@
     "desc": "Stream lo-fi beats and chill radio stations all day."
    },
    "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pipe Sizing Calculator",
+    "category": "Utilities",
+    "desc": "Calculate pipe diameter and flow rate for plumbing jobs."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Notary Handbook",
+    "category": "Reference",
+    "desc": "State-by-state notary rules, fees and sample certificates."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Barber Shop Booking - Fade Kings",
+    "category": "Lifestyle",
+    "desc": "Book your haircut at Fade Kings barbershop in Austin."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Your Spreadsheet AI",
+    "category": "Productivity",
+    "desc": "Chat with your Excel files using GPT to get answers and charts."
+   },
+   "label": "ai_wrapper",
    "split": "test"
   }
  ]

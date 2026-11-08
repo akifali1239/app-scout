@@ -66634,6 +66634,36 @@
    "hi": "HVAC refrigerant pressure-temperature chart",
    "lo": "social network with video feed and recommendations",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental implant case fee estimator for private practice clinics",
+   "lo": "free wallpaper pack for lock screens",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "court reporter transcript billing tool for freelance stenographers",
+   "lo": "kids coloring game with animal stickers",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "wind turbine technician torque and bolt tension reference",
+   "lo": "trending dance challenge video feed for teens",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "HVAC duct sizing and airflow calculator",
+   "lo": "global search engine with web crawler and ads marketplace",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "drywall board and joint compound quantity estimator",
+   "lo": "real-time multiplayer battle royale game with matchmaking",
+   "split": "test"
   }
  ],
  "note": [

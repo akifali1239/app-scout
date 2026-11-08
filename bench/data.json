@@ -62377,6 +62377,198 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "dental hygiene mastery - nbdhe",
+   "apps": [
+    {
+     "name": "Dental Hygiene Mastery - NBDHE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1945,
+     "desc": "Pass your NBDHE® exam and become a registered Dental Hygienist (RDH) with Dental Hygiene Mastery! Our app provides instant access to 1,300+ practice questions, detailed explanations, and comprehensive"
+    },
+    {
+     "name": "NBDE I Dental Boards Mastery",
+     "dev": "Higher Learning Technologies",
+     "ratings": 3606,
+     "desc": "Pass your NBDE I guaranteed with this best-selling study solution. Features 1,250 high-yield questions, detailed explanations, and more!\n\nWe are dental professionals, not a publishing company. We have"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep",
+     "dev": "Get Exam",
+     "ratings": 92,
+     "desc": "Give your studying method a major upgrade. \nImprove your knowledge with 700+ exam-like questions and 700+ flashcards. Remember more using Flashcards. Get access to over a dozen practice exams that wil"
+    },
+    {
+     "name": "Dental Hygiene Exam Prep 2026",
+     "dev": "PDG APPS SRL",
+     "ratings": 62,
+     "desc": "Zen Prep is the #1 app for passing your exam, WITHOUT stress and anxiety. You will experience better exam practice, lower stress, and less anxiety with our step-by-step training, exam simulators, moti"
+    },
+    {
+     "name": "Dental Boards Mastery: INBDE",
+     "dev": "Higher Learning Technologies",
+     "ratings": 1540,
+     "desc": "Pass the INBDE® or Triple Your Money Back! The most popular INBDE prep app, developed by a U.S.-based team of dentists.\n\n3,000+ INBDE Exam Practice Questions (Including 350+ Mental Dental Videos!)\n\n- "
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "dental assistant study",
+   "apps": [
+    {
+     "name": "Dental Assistant | Exam Prep",
+     "dev": "Exam Prep OU",
+     "ratings": 25,
+     "desc": "Prepare for the Dental Assistant Exam with Our Comprehensive Exam Prep App!\nDental Assistant Exam Prep is designed to help candidates excel in the Certified Dental Assistant exam, administered by the "
+    },
+    {
+     "name": "Dental Assistant Prep: Exam",
+     "dev": "Hermes Inteligencia Digital Ltda",
+     "ratings": 0,
+     "desc": "Walk into your dental assistant certification exam ready. Dental Assistant Prep gives you 960 practice questions with a clear explanation for every single answer, so you don't just memorize the right "
+    },
+    {
+     "name": "Dental Assistant Training",
+     "dev": "Milagros Garcia",
+     "ratings": 15,
+     "desc": "Educational lessons and videos for beginner dentists and dental assistants."
+    },
+    {
+     "name": "Tooth Sleuth",
+     "dev": "Andrew Margarit",
+     "ratings": 23,
+     "desc": "Master tooth identification through fast, focused practice.\n\nTooth Sleuth is an interactive study game created for dental assisting, dental hygiene, and dental students. Build confidence identifying a"
+    },
+    {
+     "name": "Dental Tool, Smart Aid",
+     "dev": "Dental App Lab Oy",
+     "ratings": 82,
+     "desc": "Dentalk provides smart aid for dental professionals. It facilitates communication between you and your clients and improves the efficiency of your dental practice. Just sign up for one account and bec"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy ascp pbt exam prep",
+   "apps": [
+    {
+     "name": "Phlebotomy ASCP PBT Exam Prep",
+     "dev": "YAUHEN BAHDANOVICH",
+     "ratings": 6,
+     "desc": "Prepare for your phlebotomy certification exam with Phlebotomy ASCP PBT Exam Prep 2026 app! This comprehensive app offers a wide range of features designed to help you master the essential skills and "
+    },
+    {
+     "name": "ASCP PBT Exam Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 18,
+     "desc": "Help you prepare for the ASCP PBT certification exam and pass it on your first attempt at the actual exam! Use the mobile app ASCP PBT Exam Prep 2026 developed by our exam experts to help prepare for "
+    },
+    {
+     "name": "Phlebotomy ASCP PBT Prep",
+     "dev": "Md Tariqul Islam",
+     "ratings": 0,
+     "desc": "Pass Your ASCP PBT Exam with Confidence – 2025 Ready!\nPhlebotomy ASCP PBT Prep is your complete study tool for the Phlebotomy Technician Certification Exam (PBT) by ASCP and NHA CPT. Perfect for stude"
+    },
+    {
+     "name": "PTCB PTCE Mastery Exam 2026",
+     "dev": "Higher Learning Technologies",
+     "ratings": 4774,
+     "desc": "Study for the PTCE with 890+ exam-like practice questions and pass your exam the first time.\n\nPrepare for the Pharmacy Technician Certification Exam (PTCE) with confidence using our comprehensive exam"
+    },
+    {
+     "name": "Phlebotomy NHA CPT Test Prep",
+     "dev": "Ultra Prep",
+     "ratings": 11,
+     "desc": "All you need is to pass the exam with confidence. When you walk out of the test center, you'll realize it was all worth it, even if it's your first time taking the exam.\n\nOur exam experts edit your te"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "welding eng. guide",
+   "apps": [
+    {
+     "name": "Welding Eng. Guide",
+     "dev": "CANER YAVUZ",
+     "ratings": 0,
+     "desc": "Comprehensive welding engineering reference and calculation app for welding engineers and technicians.\n\nFORMULAS\nHeat input, preheat temperature, carbon equivalent, fillet weld strength and more — wit"
+    },
+    {
+     "name": "Welding Quiz & AWS Study Guide",
+     "dev": "Forwa Elade Wunde",
+     "ratings": 4,
+     "desc": "Master all essential topics Welding with Fun and Engaging Quizzes! \n\nDive into the world of Welding with our comprehensive quiz app, designed to boost your knowledge, confidence, and skills. Whether y"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Weld",
+     "dev": "Weld.com",
+     "ratings": 28,
+     "desc": "Welcome to the inner circle of welding. This is the official home of Weld.com, the world’s leading resource for welding education and community. With over 1.2 million subscribers on YouTube and hundre"
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "mention"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

@@ -67006,6 +67006,36 @@
    "hi": "concrete mix volume calculator for contractors",
    "lo": "multiplayer 3D open-world game with matchmaking",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "ase automotive technician test prep",
+   "lo": "wallpaper hd",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nec code lookup for journeyman electricians",
+   "lo": "photo collage maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "faa part 107 drone pilot exam prep",
+   "lo": "free ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam practice questions",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "ai video generator from text",
+   "split": "train"
   }
  ],
  "note": [
@@ -71950,6 +71980,42 @@
     "desc": "Weekly articles and videos about HVAC trends, written by our editors. New posts every Monday."
    },
    "label": "content",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Drywall Square Footage Calculator",
+    "category": "Utilities",
+    "desc": "Enter wall and ceiling dimensions to calculate drywall sheets and joint compound needed."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Bolt Torque Spec Reference",
+    "category": "Reference",
+    "desc": "Offline lookup table of bolt torque values by size, grade and thread type."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Plumber AI",
+    "category": "Productivity",
+    "desc": "Chat with our AI assistant about plumbing problems. Powered by GPT, answers in seconds."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "On-Demand Process Server",
+    "category": "Business",
+    "desc": "Hire a licensed process server to deliver legal papers in your county. Same-day service."
+   },
+   "label": "service",
    "split": "train"
   }
  ]

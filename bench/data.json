@@ -3534,6 +3534,21 @@
    "term": "pipefitter jobs hiring",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "lawyer jobs near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "walgreens refill",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "lineman jobs hiring",
+   "label": "jobs",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -72195,6 +72210,33 @@
    },
    "label": "service",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Calorie Counter AI Chat Coach",
+    "category": "Health & Fitness",
+    "desc": "Chat with an AI assistant powered by GPT to plan meals and get answers about nutrition."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Periodic Table Quick Reference",
+    "category": "Education",
+    "desc": "Look up element properties, atomic weights and electron configurations offline."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Tow Truck Dispatch & Booking",
+    "category": "Business",
+    "desc": "Book a licensed tow truck nearby; a driver is dispatched to your location."
+   },
+   "label": "service",
+   "split": "test"
   }
  ]
 }

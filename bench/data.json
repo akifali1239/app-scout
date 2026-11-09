@@ -67701,6 +67701,24 @@
    "hi": "single-screen tip calculator",
    "lo": "multiplayer 3D racing game with chat",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "timesheet app for freelance electricians",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "drug dosage calculator for nurses",
+   "lo": "funny ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "open world MMORPG with voice chat",
+   "split": "dev"
   }
  ],
  "note": [
@@ -72884,6 +72902,33 @@
     "desc": "Calculate miter and bevel angles for crown molding cuts."
    },
    "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rebar Weight Calculator",
+    "category": "Utilities",
+    "desc": "Enter bar size and length to get total rebar weight for your job."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pocket Anatomy Atlas",
+    "category": "Medical",
+    "desc": "Browse labeled illustrations of muscles, bones and nerves for study."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Hire a Local Plumber",
+    "category": "Lifestyle",
+    "desc": "Book a vetted plumber in your area and get a quote within an hour."
+   },
+   "label": "service",
    "split": "test"
   }
  ]

@@ -3549,6 +3549,16 @@
    "term": "lineman jobs hiring",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "indeed jobs electrician",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "sunrise dental clinic app",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [

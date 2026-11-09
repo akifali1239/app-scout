@@ -63322,6 +63322,174 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "concrete yardage calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate cubic yards of concrete for slabs, footings and columns."
+    },
+    {
+     "name": "Contractor Toolbox Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "40 construction calculators: stairs, roofing, drywall, paint and more."
+    },
+    {
+     "name": "Concrete Delivery Co",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Order ready-mix concrete delivery from our local plant."
+    },
+    {
+     "name": "Weather Radar",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Live radar and forecasts."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "mention",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "torque wrench conversion",
+   "apps": [
+    {
+     "name": "Torque Converter",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Convert ft-lb, in-lb and Nm for torque wrench settings."
+    },
+    {
+     "name": "Unit Converter All",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Convert length, weight, temperature, currency and more."
+    },
+    {
+     "name": "Wrench Shop",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Buy hand tools online."
+    },
+    {
+     "name": "Sudoku Master",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Daily sudoku puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "mention",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "lashing strap load calculator",
+   "apps": [
+    {
+     "name": "Cargo Lash Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compute working load limits and number of straps needed to secure cargo."
+    },
+    {
+     "name": "Trucker Path",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Truck stops, weigh stations and parking."
+    },
+    {
+     "name": "Fleet Manager",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Dispatch software for trucking companies."
+    },
+    {
+     "name": "Bubble Level",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Simple spirit level."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "ekg rhythm quiz",
+   "apps": [
+    {
+     "name": "EKG Rhythm Trainer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Quiz yourself on arrhythmia strips with explanations."
+    },
+    {
+     "name": "Heart Rate Monitor",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Measure pulse with your camera."
+    },
+    {
+     "name": "Nurse Exam Prep All-in-One",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Thousands of nursing questions across all topics incl. a few EKG items."
+    },
+    {
+     "name": "Pizza Maker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Cook pizzas."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "mention",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

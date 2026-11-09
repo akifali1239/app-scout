@@ -63162,6 +63162,156 @@
     "direct"
    ],
    "split": "dev"
+  },
+  {
+   "term": "hvac refrigerant slide rule",
+   "apps": [
+    {
+     "name": "Refrigerant Slider PT",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Pressure-temperature slide rule for R-410A, R-22 and R-134a refrigerants."
+    },
+    {
+     "name": "HVAC Calc Toolkit",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Superheat, subcooling and airflow calculators for HVAC technicians."
+    },
+    {
+     "name": "Home Thermostat Control",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Control your smart thermostat from your phone."
+    },
+    {
+     "name": "HVAC Jobs Near Me",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find HVAC technician jobs and apply."
+    },
+    {
+     "name": "Photo Collage Maker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Make collages from your photos."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "mention",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "dental hygiene boards flashcards",
+   "apps": [
+    {
+     "name": "NBDHE Flashcards",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Flashcards for the National Board Dental Hygiene Examination."
+    },
+    {
+     "name": "Dental Hygiene Board Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Practice questions for NBDHE with explanations."
+    },
+    {
+     "name": "Tooth Brushing Timer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "A kids timer for brushing teeth two minutes."
+    },
+    {
+     "name": "Dentist Office Finder",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find a dentist near you."
+    },
+    {
+     "name": "Language Flashcards",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Learn Spanish vocabulary."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "mention",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "notary journal log",
+   "apps": [
+    {
+     "name": "Notary Journal Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Keep a digital notary journal with signer ID and signature capture."
+    },
+    {
+     "name": "Notary Log Book",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log every notarization with date, fee and document type."
+    },
+    {
+     "name": "PDF Signer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Sign PDF documents with your finger."
+    },
+    {
+     "name": "Notary Jobs Board",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find mobile notary signing jobs."
+    },
+    {
+     "name": "Weather Radar",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Live radar and forecasts."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "mention",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

@@ -3514,6 +3514,16 @@
    "term": "conduit bending calculator",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "cna jobs near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "lakeside veterinary clinic app",
+   "label": "local_business",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -67036,6 +67046,30 @@
    "hi": "unit converter for machinists",
    "lo": "ai video generator from text",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "dental hygienist board exam prep",
+   "lo": "wallpaper hd",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoice app",
+   "lo": "funny sounds",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "rebar weight calculator",
+   "lo": "social network like facebook",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex rn practice test",
+   "lo": "free flashlight",
+   "split": "train"
   }
  ],
  "note": [
@@ -68838,6 +68872,31 @@
    "note": "İnsanlar bunun için asla para vermez, hep bedava bakıyorlar",
    "label": "Para yapmaz",
    "split": "train"
+  },
+  {
+   "note": "Bu fikir için App Store'da çok fazla rakip var, ilk sayfa dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Aynı kartı bu hafta üç kere gördüm, hep karşıma çıkıyor",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Tek başıma yapamam, çok karmaşık ve zor bir iş",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Bu fikir benim işimle hiç alakalı değil",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Bu app 2015'ten kalma görünüyor, hiç güncellenmemiş",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
   }
  ],
  "kind": [

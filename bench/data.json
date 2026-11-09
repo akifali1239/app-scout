@@ -64709,6 +64709,36 @@
    "app": "Converts pounds to kilograms and ounces to grams for cooking.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Calculates the insulin dose you should inject based on your blood sugar reading.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tells you whether a mole in a photo is cancerous.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Generates a legally binding will you can sign without a lawyer.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Tracks how many glasses of water you drink each day and sends reminders.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Shows a daily Bible verse with a widget for your home screen.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Calculates the chemotherapy drug dose for a patient from body weight and surface area.",
+   "label": true,
+   "split": "train"
   }
  ],
  "pairs": [

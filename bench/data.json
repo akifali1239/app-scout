@@ -67219,6 +67219,30 @@
    "hi": "nclex rn practice test",
    "lo": "free flashlight",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "app for licensed crane operators preparing for NCCCO certification",
+   "lo": "free emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "subscription exam prep for certified phlebotomy technicians",
+   "lo": "free photo filter app",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "simple torque conversion calculator for mechanics",
+   "lo": "social network with video chat, payments and live maps",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "paid reference app for licensed electricians with NEC code lookups",
+   "lo": "free wallpaper app",
+   "split": "train"
   }
  ],
  "note": [
@@ -72276,6 +72300,24 @@
     "desc": "Book a licensed tow truck nearby; a driver is dispatched to your location."
    },
    "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Crane Load Chart Calc",
+    "category": "Utilities",
+    "desc": "Calculates crane lifting capacity from load charts for operators."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chat with AI Lawyer",
+    "category": "Productivity",
+    "desc": "Ask an AI chatbot legal questions and get answers instantly."
+   },
+   "label": "ai_wrapper",
    "split": "test"
   }
  ]

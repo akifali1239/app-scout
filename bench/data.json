@@ -62803,6 +62803,216 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "occupational therapy test prep",
+   "apps": [
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    },
+    {
+     "name": "TherapyEd",
+     "dev": "Memorang",
+     "ratings": 754,
+     "desc": "Practice Questions | Detailed Progress Tracking | Custom Study Sessions | Explanations | References\n\nThe TherapyEd Mobile App is your best streamlined mobile companion to help you pass your NPTE, PTA,"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "otr occupational therapy prep",
+   "apps": [
+    {
+     "name": "OTR Occupational Therapy Prep",
+     "dev": "fly sky pty ltd",
+     "ratings": 0,
+     "desc": "The OTR (Occupational Therapist, Registered) credential, earned through the NBCOT certification exam, qualifies you to practice as an occupational therapist. This app helps you pass with realistic pra"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Preр",
+     "dev": "Exam Prep OU",
+     "ratings": 7,
+     "desc": "Prepare for the Occupational Therapy Exam with Our Comprehensive Test Prep app!\nDesigned for current and aspiring occupational therapy, our course offers thorough preparation for the Occupational Ther"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "check in tools for the joint chiropractic clinics",
+   "apps": [
+    {
+     "name": "The Joint Chiropractic",
+     "dev": "The Joint Corp",
+     "ratings": 121,
+     "desc": "Chiropractic Care, Simplified with The Joint Chiropractic Mobile App  \n\nTaking care of your health should fit seamlessly into your life. The Joint Chiropractic mobile app makes every step easier, help"
+    },
+    {
+     "name": "Zocdoc - Find and book doctors",
+     "dev": "Zocdoc Inc",
+     "ratings": 179947,
+     "desc": "Zocdoc is the leading healthcare app that makes it easy for you to find and book the right doctor. Each month, millions of people use Zocdoc to search for in-network care and instantly book appointmen"
+    },
+    {
+     "name": "Hinge Health",
+     "dev": "Hinge Health, Inc.",
+     "ratings": 168061,
+     "desc": "Hinge Health provides virtual and in-person care for joint and muscle pain, pelvic floor symptoms, migraines, and more — covered at $0 cost to you** through 2,800+ employers and health plans. \n\nYou’ll"
+    },
+    {
+     "name": "Chiro Board Review | NBCE",
+     "dev": "Anchored Lifestyles, LLC",
+     "ratings": 643,
+     "desc": "Pass your NBCE® Boards with confidence!\n\nThe most affordable, accessible, and reliable tool for passing the NBCE exam!! That's why 20,000+ chiropractic students trust Chiro Board Review (CBR) to crush"
+    }
+   ],
+   "labels": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "adjacent",
+    "unrelated",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "ok to wake clock",
+   "apps": [
+    {
+     "name": "SpeakToSnooze Alarm Clock HD",
+     "dev": "j labs",
+     "ratings": 1623,
+     "desc": "OVER 1M DOWNLOADS!!!\n ◉ Say “Snooze alarm” to snooze your alarm! \n ◉ Say “Alarm off” to turn off your alarm!\n\nAWARDS\n• #135 Top Free Apps\n• #9 Top Free Utilities\n\nFEATURES\n ◉ Control your alarm clock "
+    },
+    {
+     "name": "Clock - Wake Up Gently",
+     "dev": "NeonApps",
+     "ratings": 411,
+     "desc": "Alarm Clock combines all the functionality you need into one simple, beautiful package for iPhone and iPad.\n\n• Alarm\nSet alarms for specific dates, with options to repeat them and skip days if needed."
+    },
+    {
+     "name": "Alarm Clock - Wake up Music",
+     "dev": "Impala Studios",
+     "ratings": 35764,
+     "desc": "Wake up your way, every day! Set unlimited alarms, choose for Music or Alarm Sounds, and set up your Snooze preferences. Customize your Nightstand by adjusting it to the color you’d like for your cloc"
+    },
+    {
+     "name": "Motion Alarm Clock",
+     "dev": "Jarig Duval",
+     "ratings": 1290,
+     "desc": "Impossible to sleep through! \nImpossible to mute!\nGets you up on time!\n\n***SHAKE TO MAKE IT STOP***\nMotion Alarm Clock doesn't shut up unless you give it a shake. \nNever worry again about unconsciousl"
+    }
+   ],
+   "labels": [
+    0,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "adjacent",
+    "adjacent",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "speech therapy: let me talk",
+   "apps": [
+    {
+     "name": "Speech Therapy: Let Me Talk",
+     "dev": "Valery Yegorov",
+     "ratings": 30,
+     "desc": "Listening of non-speech sounds enhances a child's ability to analyze, evaluate, and think critically. Children develop strong problem-solving and decision-making abilities by paying attention to detai"
+    },
+    {
+     "name": "Speech Therapy - Word Tube",
+     "dev": "MARIJAN ZIVIC",
+     "ratings": 3,
+     "desc": "Created by a parent who couldn't find a simple enough app for their young, nonverbal child.\n\nWord Tube: Speech Therapy for Toddlers and Young Children\n\nWhen a child doesn't communicate, every small st"
+    },
+    {
+     "name": "SpeakPad AAC - Autism Speech",
+     "dev": "Jonathan Mullan",
+     "ratings": 2,
+     "desc": "SpeakPad is an AAC app for nonspeaking children, at home, at school, and in the community. Tap symbols to speak, build sentences a word at a time, and grow a vocabulary that never moves, so motor memo"
+    },
+    {
+     "name": "Speech Therapy - Help Me Talk",
+     "dev": "Yousef Zuriqi",
+     "ratings": 38,
+     "desc": "Help Me Talk is a speech practice app that parents and speech-language therapists use to help your child express needs and feelings easily by choosing the right picture. This method of accelerated lea"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

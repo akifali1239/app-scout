@@ -67744,6 +67744,30 @@
    "hi": "unit converter for machinists",
    "lo": "open world MMORPG with voice chat",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "firefighter certification exam prep",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl permit practice test",
+   "lo": "cat sounds",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "social network like facebook",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "dosage calculator for nurses",
+   "lo": "multiplayer battle royale game",
+   "split": "train"
   }
  ],
  "note": [
@@ -69595,6 +69619,31 @@
   {
    "note": "Açıklama okuyunca uyumuşum, bu fikir beni hiç heyecanlandırmıyor",
    "label": "Sıkıcı fikir",
+   "split": "train"
+  },
+  {
+   "note": "Gerçek zamanlı video konferans altyapısı gerekiyor, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Disney karakterlerini kullanıyor, App Store reddeder",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bunun için ödeme yapmaz, tamamen ücretsiz alternatifler var",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Son güncelleme 2019, arayüz çok eski ve çöküyor",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "aradığım meslekle hiçbir bağlantısı yok, emlak app'i",
+   "label": "Alakasız",
    "split": "train"
   }
  ],

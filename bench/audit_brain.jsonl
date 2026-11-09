@@ -1413,3 +1413,6 @@
 {"ts": "2026-11-09T21:42:05+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: net, tek anlamlı vakalar eklendi (test/dev dağılımı korundu)."}
 {"ts": "2026-11-09T21:42:05+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 1, "reason": "kind: net, tek anlamlı vakalar eklendi (test/dev dağılımı korundu)."}
 {"ts": "2026-11-09T21:42:05+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki'de (optimizer çalışmıyor -> Actions/anahtar/bütçe kontrol edilmeli). Altın niş: kriterleri sağlayan aday 0, reviews.json değişmedi. Bileşe eklenmedi."}
+{"ts": "2026-11-09T22:41:26+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 5, "reason": "note: net vakalar eklendi (test/dev/train dengeli)."}
+{"ts": "2026-11-09T22:41:26+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 4, "reason": "pairs: net vakalar eklendi (pay/audience/build)."}
+{"ts": "2026-11-09T22:41:26+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki'de (optimizer durmuş -> Actions/anahtar/bütçe kontrol edilmeli). Altın niş: aday 0, reviews.json değişmedi. Bileşen eklenmedi."}

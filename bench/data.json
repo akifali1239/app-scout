@@ -3589,6 +3589,21 @@
    "term": "lineman apprentice jobs",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "masonry calculator brick count",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "burger king app deals",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "phlebotomist jobs hiring",
+   "label": "jobs",
+   "split": "test"
   }
  ],
  "brand": [
@@ -65107,6 +65122,16 @@
    "app": "Counts down days until vacation.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Warfarin INR dose adjustment helper for patients.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculator for how much paint a room needs.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -72929,6 +72954,15 @@
     "desc": "Book a vetted plumber in your area and get a quote within an hour."
    },
    "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rebar Quick Ref",
+    "category": "Reference",
+    "desc": "Rebar sizes, weights and lap lengths for field crews."
+   },
+   "label": "reference",
    "split": "test"
   }
  ]

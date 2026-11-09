@@ -67287,6 +67287,24 @@
    "hi": "drug dose reference for paramedics",
    "lo": "cute sticker pack",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "torque spec lookup for diesel mechanics",
+   "lo": "photo filter for selfies",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "NEC conduit fill calculator for electricians",
+   "lo": "free wallpaper collection",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "single-screen rafter length calculator",
+   "lo": "social network with live video and AI feed",
+   "split": "dev"
   }
  ],
  "note": [
@@ -72390,6 +72408,24 @@
    },
    "label": "service",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Crane Load Chart Calculator",
+    "category": "Utility",
+    "desc": "Enter boom length and angle to compute the rated lifting capacity for a mobile crane."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Surgical Instrument Glossary",
+    "category": "Medical",
+    "desc": "Searchable illustrated glossary of surgical instruments with names and uses."
+   },
+   "label": "reference",
+   "split": "dev"
   }
  ]
 }

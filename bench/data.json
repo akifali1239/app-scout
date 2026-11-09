@@ -68991,6 +68991,31 @@
    "note": "Bu app 2015'ten kalma görünüyor, hiç güncellenmemiş",
    "label": "Kalitesiz / eski",
    "split": "dev"
+  },
+  {
+   "note": "Bu kategoride kimse para vermiyor, herkes ücretsiz alternatif kullanıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu tıbbi tavsiye sayıp reddeder diye korkuyorum",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Sistem donanım sensörü ve gerçek zamanlı ses işleme istiyor, benim seviyemi aşar",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Arama sonuçlarının tamamı aynı şablon, hepsi birbirinin kopyası gibi",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Açıklama okuyunca uyumuşum, bu fikir beni hiç heyecanlandırmıyor",
+   "label": "Sıkıcı fikir",
+   "split": "train"
   }
  ],
  "kind": [

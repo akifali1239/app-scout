@@ -3579,6 +3579,16 @@
    "term": "motion blur photo editor",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "hvac jobs hiring near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "lineman apprentice jobs",
+   "label": "jobs",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -64919,6 +64929,16 @@
    "app": "Tracks which houseplants you watered this week.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Calculates pediatric acetaminophen dose from child weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Counts down days until vacation.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -67483,6 +67503,18 @@
    "hi": "single-screen conduit bend calculator",
    "lo": "multiplayer open world game with chat",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "tax estimator for freelance electricians",
+   "lo": "meme sticker maker",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "simple torque unit converter",
+   "lo": "full social network with video feed",
+   "split": "dev"
   }
  ],
  "note": [
@@ -72604,6 +72636,33 @@
    },
    "label": "reference",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Sudoku Master",
+    "category": "Games",
+    "desc": "Classic sudoku puzzles with daily challenges and hints."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pharmacology Quick Reference",
+    "category": "Medical",
+    "desc": "Look up drug classes, mechanisms and side effects."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Pilot AI",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant powered by GPT to answer any question."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
   }
  ]
 }

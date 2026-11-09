@@ -67243,6 +67243,30 @@
    "hi": "paid reference app for licensed electricians with NEC code lookups",
    "lo": "free wallpaper app",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "study guide for NCLEX nursing students",
+   "lo": "funny ringtone collection",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "professional load calculation app for HVAC contractors",
+   "lo": "free live wallpapers",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "single-screen wire gauge ampacity chart for electricians",
+   "lo": "multiplayer marketplace with AI matching and in-app chat",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "drug dose reference for paramedics",
+   "lo": "cute sticker pack",
+   "split": "train"
   }
  ],
  "note": [
@@ -72318,6 +72342,33 @@
     "desc": "Ask an AI chatbot legal questions and get answers instantly."
    },
    "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Idle Tycoon Miner",
+    "category": "Games",
+    "desc": "Tap to mine gold, upgrade your drills and unlock new worlds."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Bible Verses",
+    "category": "Lifestyle",
+    "desc": "Read a new verse and short devotional article every morning."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Home Cleaning Booking",
+    "category": "Lifestyle",
+    "desc": "Book a vetted local cleaner and pay in the app; cleaners come to your home."
+   },
+   "label": "service",
    "split": "test"
   }
  ]

@@ -67683,6 +67683,24 @@
    "hi": "simple torque unit converter",
    "lo": "full social network with video feed",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "invoice app for self-employed plumbers",
+   "lo": "wallpaper changer",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "exam prep for dental hygienists",
+   "lo": "random wheel spinner",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "single-screen tip calculator",
+   "lo": "multiplayer 3D racing game with chat",
+   "split": "dev"
   }
  ],
  "note": [
@@ -72830,6 +72848,42 @@
     "desc": "Chat with an AI assistant powered by GPT to answer any question."
    },
    "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Sparkle Podcast Stories",
+    "category": "Entertainment",
+    "desc": "Listen to short audio stories and podcasts for bedtime."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chef Dash Cooking Game",
+    "category": "Games",
+    "desc": "Cook burgers and serve customers in a fast-paced restaurant game."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Dr. Lopez Family Clinic Booking",
+    "category": "Medical",
+    "desc": "Book an appointment with Dr. Lopez's clinic and message the front desk."
+   },
+   "label": "service",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Carpenter Angle Cut Calculator",
+    "category": "Utilities",
+    "desc": "Calculate miter and bevel angles for crown molding cuts."
+   },
+   "label": "utility",
    "split": "test"
   }
  ]

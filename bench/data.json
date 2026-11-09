@@ -64550,6 +64550,36 @@
    "app": "Tracks your daily water intake with reminders.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Tells you which over-the-counter pills are safe to combine with your prescription blood thinner.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Counts down the days until your next dentist appointment and lets you add a reminder note.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Scans a pill photo and tells you what drug it is and the dose to take.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Flashcards for memorizing the periodic table for a chemistry class.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Reads your heart rhythm from a phone camera and warns you if you may have atrial fibrillation.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Converts pounds to kilograms and ounces to grams for cooking.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [

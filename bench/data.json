@@ -63023,6 +63023,90 @@
     "direct"
    ],
    "split": "train"
+  },
+  {
+   "term": "occupational therapy prep 2026",
+   "apps": [
+    {
+     "name": "Occupational Therapy Prep 2026",
+     "dev": "Chutima Busaraprapakul",
+     "ratings": 54,
+     "desc": "DISCLAIMER: NBCOT®, COTA® and OTR® are registered trademarks owned by the National Board for Certification in Occupational Therapy. This material is not endorsed or approved by NBCOT.\n\nHelp you prepar"
+    },
+    {
+     "name": "Occupational Therapy Test Prep",
+     "dev": "MastrAPI",
+     "ratings": 479,
+     "desc": "Pass your NBCOT OTR and COTA exams with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Occupational Therapy Preр 2026",
+     "dev": "Exam Prep OU",
+     "ratings": 11,
+     "desc": "Prepare for the Certified Occupational Therapy Assistant Exam with Our Comprehensive Exam Prep app!\nDesigned for current and aspiring Occupational Therapy Assistants, our course offers thorough prepar"
+    },
+    {
+     "name": "The OT Hub",
+     "dev": "The OT Hub Ltd",
+     "ratings": 0,
+     "desc": "The global community platform, championing occupational therapy. Passionately empowering clinicians, students and those they support. \n\nCreated by Occupational Therapists and shaped by Members, in ove"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "welding reference pro",
+   "apps": [
+    {
+     "name": "Welding Reference Pro",
+     "dev": "ZIma Logistics LLC",
+     "ratings": 1,
+     "desc": "Welding Reference Pro puts every tool a welder needs in one app — calculators, reference guides, training, and QA checklists. No internet required. No subscription. One price, everything unlocked.\n\nCA"
+    },
+    {
+     "name": "Miller Weld Setting Calculator",
+     "dev": "Miller Electric Mfg Co",
+     "ratings": 80,
+     "desc": "Get your weld parameter settings right from your iPhone with the Miller weld setting calculator app.  The calculator will help you tune your machine for optimal results based on a few simple questions"
+    },
+    {
+     "name": "Weldbend Field Reference App",
+     "dev": "Weldbend Corporation",
+     "ratings": 38,
+     "desc": "The Weldbend Field Reference Digital Companion is an app which contains dimensional data for carbon steel butt-weld fittings and flanges, as well and technical and general information pertaining to ca"
+    },
+    {
+     "name": "WELDING PRO",
+     "dev": "Certilas Nederland BV",
+     "ratings": 2,
+     "desc": "Welding Pro is intended to help welders and welding technicians getting quick access to daily required information and includes 6 different applications:\n•\tWelding Cost calculator\ncalculating the tota"
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

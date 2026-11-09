@@ -64759,6 +64759,16 @@
    "app": "Calculates the chemotherapy drug dose for a patient from body weight and surface area.",
    "label": true,
    "split": "train"
+  },
+  {
+   "app": "Calculates the heparin infusion rate for a patient from weight and aPTT.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tracks which houseplants you watered this week.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -67305,6 +67315,24 @@
    "hi": "single-screen rafter length calculator",
    "lo": "social network with live video and AI feed",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "HVAC refrigerant charge calculator for technicians",
+   "lo": "cute cat stickers keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "drug dose calculator for ICU nurses",
+   "lo": "photo filter for everyone",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "single-screen conduit bend calculator",
+   "lo": "multiplayer open world game with chat",
+   "split": "test"
   }
  ],
  "note": [

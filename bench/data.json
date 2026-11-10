@@ -63545,6 +63545,150 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "rebar bending schedule",
+   "apps": [
+    {
+     "name": "Rebar Schedule Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Create bar bending schedules and weights for rebar."
+    },
+    {
+     "name": "Concrete Volume Calc",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Compute concrete volume for slabs."
+    },
+    {
+     "name": "Steel Bar Mentions",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Construction toolbox with 30 tools incl. a rebar weight table."
+    },
+    {
+     "name": "Match 3 Candy",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Match candies."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "mention",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "farrier hoof trimming log",
+   "apps": [
+    {
+     "name": "Hoof Log",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track farrier visits and hoof trims per horse."
+    },
+    {
+     "name": "Horse Care Diary",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log feeding and vet visits for horses."
+    },
+    {
+     "name": "Pet Shop Tycoon",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Run a virtual pet shop."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl air brake test",
+   "apps": [
+    {
+     "name": "CDL Air Brakes Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Practice questions for the CDL air brake endorsement exam."
+    },
+    {
+     "name": "Trucker Path",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Truck stops and parking finder."
+    },
+    {
+     "name": "Brake Pad Racer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Racing game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "beekeeping hive inspection",
+   "apps": [
+    {
+     "name": "Hive Tracker",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Record hive inspections, queen status and honey yield."
+    },
+    {
+     "name": "Bee Simulator",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Fly as a bee in a game."
+    },
+    {
+     "name": "Garden Planner",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Plan vegetable beds."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

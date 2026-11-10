@@ -69045,6 +69045,30 @@
    "hi": "hvac license exam prep",
    "lo": "cute wallpapers",
    "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "social network like instagram",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "bubble level",
+   "lo": "ride sharing marketplace",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "timer for interval training",
+   "lo": "video streaming platform",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "decibel meter",
+   "lo": "multiplayer battle royale game",
+   "split": "train"
   }
  ],
  "note": [
@@ -74657,6 +74681,33 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "NCLEX RN Question Bank",
+    "category": "Education",
+    "desc": "Thousands of practice questions with rationales for the nursing licensure exam."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Sound Level Meter dB",
+    "category": "Utilities",
+    "desc": "Measure ambient noise in decibels using the microphone."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Lofi Radio Streams",
+    "category": "Music",
+    "desc": "Stream 24/7 lofi hip hop radio stations."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

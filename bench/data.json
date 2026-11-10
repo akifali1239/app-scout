@@ -3624,6 +3624,16 @@
    "term": "cleaning business invoice app",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "fortnite skins",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "kaiser permanente member app",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [
@@ -67788,6 +67798,18 @@
    "hi": "dosage calculator for nurses",
    "lo": "multiplayer battle royale game",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "app for licensed electricians",
+   "lo": "app for everyone who likes music",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "timer for interval training",
+   "lo": "social network like tiktok",
+   "split": "test"
   }
  ],
  "note": [
@@ -73033,6 +73055,15 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pipe Sizing Pro",
+    "category": "Utilities",
+    "desc": "Size pipes, compute flow and pressure drop for plumbers and engineers."
+   },
+   "label": "utility",
+   "split": "dev"
   }
  ]
 }

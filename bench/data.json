@@ -68984,6 +68984,30 @@
    "hi": "paid dental hygienist board exam question bank",
    "lo": "free wallpaper app",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "nclex pn practice questions",
+   "lo": "pdf merge tool",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "ase certification study guide",
+   "lo": "qr code scanner",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam prep",
+   "lo": "wallpaper hd",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician license exam prep",
+   "lo": "emoji keyboard",
+   "split": "train"
   }
  ],
  "note": [

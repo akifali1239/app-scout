@@ -3744,6 +3744,36 @@
    "term": "farm tractor simulator",
    "label": "game",
    "split": "dev"
+  },
+  {
+   "term": "conduit fill calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "free robux",
+   "label": "other",
+   "split": "dev"
+  },
+  {
+   "term": "geico mobile",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "dr patel dental office",
+   "label": "local_business",
+   "split": "train"
+  },
+  {
+   "term": "pest control jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "concrete yardage calculator",
+   "label": "need",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -65606,6 +65636,16 @@
    "app": "Stopwatch timer for workouts.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Practice questions copied from the official licensing exam.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Simple concrete volume calculator.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -73691,6 +73731,24 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Conduit Bend Calc",
+    "category": "Utilities",
+    "desc": "Offset and saddle bend calculator for electricians."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Block Blast Party",
+    "category": "Games",
+    "desc": "Puzzle game. Clear blocks and beat your high score."
+   },
+   "label": "game",
+   "split": "dev"
   }
  ]
 }

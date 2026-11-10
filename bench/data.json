@@ -3634,6 +3634,16 @@
    "term": "kaiser permanente member app",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "call center agent jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "dental hygienist hiring",
+   "label": "jobs",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -67810,6 +67820,24 @@
    "hi": "timer for interval training",
    "lo": "social network like tiktok",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "dentist billing software for private practice",
+   "lo": "free wallpaper app for teenagers",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "app for certified welders",
+   "lo": "app for anyone who likes photos",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "simple unit converter",
+   "lo": "video streaming service like netflix",
+   "split": "test"
   }
  ],
  "note": [
@@ -73064,6 +73092,42 @@
    },
    "label": "utility",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Log",
+    "category": "Productivity",
+    "desc": "Log torque values and calibration dates for mechanics."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ChatGPT Lawyer Assistant",
+    "category": "Productivity",
+    "desc": "AI chatbot that drafts legal letters from your prompts."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Drug Dosage Reference",
+    "category": "Medical",
+    "desc": "Offline reference tables for common medication dosages."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Puzzle Quest Heroes",
+    "category": "Games",
+    "desc": "Match tiles and fight monsters in epic RPG battles."
+   },
+   "label": "game",
+   "split": "train"
   }
  ]
 }

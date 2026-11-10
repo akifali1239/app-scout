@@ -64039,6 +64039,142 @@
     "direct"
    ],
    "split": "test"
+  },
+  {
+   "term": "plumbing pipe offset calculator",
+   "apps": [
+    {
+     "name": "Pipe Offset Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate pipe offsets and travel for 45 and 22.5 degree fittings."
+    },
+    {
+     "name": "Plumber Jobs Board",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Find plumbing jobs near you."
+    },
+    {
+     "name": "Plumbing Exam Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Practice questions for the journeyman plumber exam."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "lineman pole class chart",
+   "apps": [
+    {
+     "name": "Pole Class Reference",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Wood pole class and height reference chart for linemen."
+    },
+    {
+     "name": "Utility Pole Photo Map",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Map photos of poles in your town."
+    },
+    {
+     "name": "Power Line Safety Kids",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Games teaching kids about electricity."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cosmetology state board practice test",
+   "apps": [
+    {
+     "name": "Cosmetology Exam Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "State board practice questions for cosmetology licensing."
+    },
+    {
+     "name": "Salon Booking Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Appointment booking for salon clients."
+    },
+    {
+     "name": "Hair Color Wheel",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Color mixing reference for stylists."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hvac duct sizing calculator",
+   "apps": [
+    {
+     "name": "Duct Sizer",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Size round and rectangular ducts by CFM and friction rate."
+    },
+    {
+     "name": "HVAC Service Manager",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Invoicing and scheduling for HVAC companies."
+    },
+    {
+     "name": "Home Thermostat Control",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Control your smart thermostat."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -65715,6 +65851,21 @@
   {
    "app": "Convert psi to bar and kPa.",
    "label": false,
+   "split": "train"
+  },
+  {
+   "app": "App that reproduces real questions from the official CDL licensing test bank.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Simple calculator for pipe fitting offsets.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Flashcards with verbatim text from the licensed ASWB social work exam guide.",
+   "label": true,
    "split": "train"
   }
  ],
@@ -68460,6 +68611,18 @@
    "hi": "farrier hoof trimming reference",
    "lo": "meme maker",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "NCLEX RN practice exam with rationales",
+   "lo": "free wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for welders",
+   "lo": "real-time multiplayer battle game",
+   "split": "dev"
   }
  ],
  "note": [
@@ -70367,6 +70530,21 @@
    "note": "Ben inşaat işiyle ilgilenmiyorum, bu fikir kozmetik alanında",
    "label": "Alakasız",
    "split": "dev"
+  },
+  {
+   "note": "Zaten bu işi yapan çok sayıda büyük app var, yeni biri fark edilmez",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikri bir hafta önce de gördüm, aynı kart",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bunu onaylamaz, lisans sorunu çıkar",
+   "label": "Ret riski",
+   "split": "train"
   }
  ],
  "kind": [
@@ -73915,6 +74093,33 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Torque Spec Calc",
+    "category": "Utilities",
+    "desc": "Convert and calculate bolt torque values for mechanics."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Farm Empire Idle",
+    "category": "Games",
+    "desc": "Tap to grow your farm and unlock upgrades."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "EMT Drug Cards",
+    "category": "Medical",
+    "desc": "Quick reference cards for common EMS medications and doses."
+   },
+   "label": "reference",
+   "split": "train"
   }
  ]
 }

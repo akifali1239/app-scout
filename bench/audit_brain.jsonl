@@ -1483,3 +1483,8 @@
 {"ts": "2026-11-10T15:41:38+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: 2 net vaka, split dengeli."}
 {"ts": "2026-11-10T15:41:38+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: 2 net vaka, split dengeli."}
 {"ts": "2026-11-10T15:41:38+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard/audit son optimizer kaydı hâlâ 25 Eki (optimizer durmuş: Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 5 koşulu sağlayan aday 0, reviews.json değişmedi. Bileşen eklenmedi."}
+{"ts": "2026-11-10T16:41:39+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 4, "reason": "rival: concrete/torque/CDL/drip rate net vakalar (test/test/dev/train)."}
+{"ts": "2026-11-10T16:41:39+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 4, "reason": "note: ret/benzer/zor/sıkıcı net vakalar."}
+{"ts": "2026-11-10T16:41:39+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 3, "reason": "intent: game/jobs/local_business net vakalar."}
+{"ts": "2026-11-10T16:41:39+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: lisanslı NASM içeriği (true), galon-litre (false)."}
+{"ts": "2026-11-10T16:41:39+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard/audit son optimizer kaydı hâlâ 25 Eki (optimizer durmuş: Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 5 koşulu sağlayan aday 0, reviews.json değişmedi. Bileşen eklenmedi (test_errors için aynı talimat alternatifi zaten eklendi, ölçüm bekliyor)."}

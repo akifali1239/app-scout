@@ -3879,6 +3879,21 @@
    "term": "bright smile dental of austin",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "fortnite",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "travel nurse jobs",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "lisa's nail studio",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -64230,6 +64245,142 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "concrete volume calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc",
+     "dev": "Dev",
+     "ratings": 800,
+     "desc": "Calculate cubic yards of concrete for slabs, footings and columns."
+    },
+    {
+     "name": "Construction Estimator Suite",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Bid and invoice software for contractors."
+    },
+    {
+     "name": "Mixer Bluetooth Remote",
+     "dev": "Dev",
+     "ratings": 50,
+     "desc": "Control a cement mixer from your phone."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "torque wrench conversion",
+   "apps": [
+    {
+     "name": "Torque Converter Pro",
+     "dev": "Dev",
+     "ratings": 400,
+     "desc": "Convert ft-lb, Nm and in-lb torque values quickly."
+    },
+    {
+     "name": "Car Repair Log",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Track oil changes and maintenance history."
+    },
+    {
+     "name": "Wrench Puzzle Game",
+     "dev": "Dev",
+     "ratings": 2000,
+     "desc": "Match colored bolts in this casual puzzle."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl air brake test",
+   "apps": [
+    {
+     "name": "CDL Air Brakes Practice",
+     "dev": "Dev",
+     "ratings": 1500,
+     "desc": "Practice questions for the CDL air brakes endorsement exam."
+    },
+    {
+     "name": "Trucker Path Fuel Finder",
+     "dev": "Dev",
+     "ratings": 9000,
+     "desc": "Find truck stops and fuel prices."
+    },
+    {
+     "name": "Brake Pad Shop Finder",
+     "dev": "Dev",
+     "ratings": 20,
+     "desc": "Locate auto parts stores."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "nursing drip rate calculator",
+   "apps": [
+    {
+     "name": "IV Drip Rate Calc",
+     "dev": "Dev",
+     "ratings": 2500,
+     "desc": "Compute IV drip rates in gtt/min and mL/hr for nurses."
+    },
+    {
+     "name": "Nurse Shift Planner",
+     "dev": "Dev",
+     "ratings": 600,
+     "desc": "Schedule shifts and swap with coworkers."
+    },
+    {
+     "name": "Coffee Drip Timer",
+     "dev": "Dev",
+     "ratings": 150,
+     "desc": "Time your pour-over coffee."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -65942,6 +66093,16 @@
    "app": "Simple tool that converts inches to millimeters.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Uses the official NASM personal trainer exam questions and logo without permission.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculator that converts gallons to liters.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -70646,6 +70807,26 @@
   {
    "note": "Kullanıcılar bunu hiçbir zaman ödeme yapmaz",
    "label": "Para yapmaz",
+   "split": "train"
+  },
+  {
+   "note": "Apple bu kategoriyi sıkı denetliyor, reddedilme ihtimali yüksek",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "App Store'da buna benzer yirmi tane app zaten var",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Tek başıma yapamam, sunucu ve yapay zeka altyapısı gerekiyor",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Bu konuyla kimsenin ilgilenmeyeceğini düşünüyorum, çok sıkıcı",
+   "label": "Sıkıcı fikir",
    "split": "train"
   }
  ],

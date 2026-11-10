@@ -3894,6 +3894,11 @@
    "term": "lisa's nail studio",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "jones family chiropractic",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -64381,6 +64386,40 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "rebar spacing chart",
+   "apps": [
+    {
+     "name": "Rebar Spacing Calc",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Chart and calculator for rebar spacing and cover."
+    },
+    {
+     "name": "Concrete Mix Pro",
+     "dev": "Dev",
+     "ratings": 400,
+     "desc": "Concrete mix ratios and volume estimates."
+    },
+    {
+     "name": "Pizza Dough Timer",
+     "dev": "Dev",
+     "ratings": 80,
+     "desc": "Time your dough proofing."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [
@@ -70828,6 +70867,21 @@
    "note": "Bu konuyla kimsenin ilgilenmeyeceğini düşünüyorum, çok sıkıcı",
    "label": "Sıkıcı fikir",
    "split": "train"
+  },
+  {
+   "note": "Piyasada yüzlerce benzer app var, öne çıkmak imkansız",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bunu yapmak için gerçek ekipman ve lisans lazım, tek kişi yapamaz",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Bu iş fikriyle bir ilgisi yok, tamamen başka bir konu",
+   "label": "Alakasız",
+   "split": "test"
   }
  ],
  "kind": [
@@ -74420,6 +74474,24 @@
     "desc": "Drag blocks, clear lines and beat your high score."
    },
    "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Bible Verse Daily",
+    "category": "Lifestyle",
+    "desc": "Receive a verse every morning with a short devotional."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Decibel Meter Pro",
+    "category": "Utilities",
+    "desc": "Measure ambient noise level with your iPhone microphone."
+   },
+   "label": "utility",
    "split": "dev"
   }
  ]

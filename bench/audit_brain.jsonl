@@ -1493,3 +1493,4 @@
 {"ts": "2026-11-10T17:45:02+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: content ve utility net vakalar."}
 {"ts": "2026-11-10T17:45:02+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 1, "reason": "rival: rebar spacing chart direct/adjacent/unrelated."}
 {"ts": "2026-11-10T17:45:02+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; optimizer son kaydı hâlâ 25 Eki (Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 4 koşulu sağlayan aday 0, reviews.json değişmedi. Bileşen eklenmedi (intent için alternatif zaten ölçüm bekliyor)."}
+{"ts": "2026-11-10T17:45:15+00:00", "actor": "claude", "action": "brain_review", "cap": "intent", "reason": "Düzeltme: önceki satırda intent n=5 yazıldı; yinelenen terimler atlandığı için gerçekte toplam 7 vaka eklendi (intent 1-2, note 3, kind 2, rival 1)."}

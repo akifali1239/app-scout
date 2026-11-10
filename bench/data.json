@@ -3644,6 +3644,26 @@
    "term": "dental hygienist hiring",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "tractor supply company app",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "brown county credit union",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "spanish verb conjugation",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "lincoln electric weld guide",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -73272,6 +73292,33 @@
    },
    "label": "game",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Concrete Mix Calc",
+    "category": "Utilities",
+    "desc": "Calculate cubic yards of concrete for slabs, footings and columns."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Idle Farm Empire",
+    "category": "Games",
+    "desc": "Tap to grow crops and expand your farm empire."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Plumbing Code Handbook",
+    "category": "Reference",
+    "desc": "Searchable plumbing code sections and fixture unit tables."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

@@ -1514,3 +1514,8 @@
 {"ts": "2026-11-10T22:41:51+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 3, "reason": "kind: NCLEX bankası, desibel ölçer, Chase, lofi radyo; split dengeli."}
 {"ts": "2026-11-10T22:41:51+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 4, "reason": "pairs: build hi-lo çiftleri (cihaz aracı vs. platform/oyun)."}
 {"ts": "2026-11-10T22:41:51+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; optimizer son kaydı hâlâ 25 Eki (Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 5 koşulu sağlayan yeni aday yok, reviews.json değişmedi. Bileşen eklenmedi."}
+{"ts": "2026-11-10T23:41:44+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 2, "reason": "intent: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T23:41:44+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T23:41:44+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T23:41:44+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 1, "reason": "note: 1 net vaka, split dengeli."}
+{"ts": "2026-11-10T23:41:44+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; optimizer son kaydı hâlâ 25 Eki (Actions/anahtar/bütçe kontrol edilmeli). Altın niş: koşulları sağlayan yeni aday yok, reviews.json değişmedi. Bileşen eklenmedi."}

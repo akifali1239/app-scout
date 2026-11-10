@@ -3939,6 +3939,16 @@
    "term": "hillcrest pediatric dentistry",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "nurse staffing agencies hiring",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "drywall board calculator",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -66217,6 +66227,16 @@
    "app": "Offers dosing advice and diagnoses conditions as a replacement for a doctor.",
    "label": true,
    "split": "test"
+  },
+  {
+   "app": "Includes verbatim questions copied from the official NABCEP exam.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts inches to millimeters using a simple formula.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -71061,6 +71081,11 @@
    "note": "Bu fikir benim işimle ilgili değil",
    "label": "Alakasız",
    "split": "dev"
+  },
+  {
+   "note": "Bu alanda yüzlerce benzer app var, hiçbiri öne çıkmıyor",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
   }
  ],
  "kind": [
@@ -74708,6 +74733,24 @@
    },
    "label": "content",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Spotify Premium Clone",
+    "category": "Music",
+    "desc": "Stream millions of songs and podcasts with a subscription."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Stud Finder Level",
+    "category": "Utilities",
+    "desc": "Use your phone sensors as a bubble level and angle gauge."
+   },
+   "label": "utility",
+   "split": "dev"
   }
  ]
 }

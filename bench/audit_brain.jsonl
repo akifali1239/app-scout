@@ -1494,3 +1494,9 @@
 {"ts": "2026-11-10T17:45:02+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 1, "reason": "rival: rebar spacing chart direct/adjacent/unrelated."}
 {"ts": "2026-11-10T17:45:02+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; optimizer son kaydı hâlâ 25 Eki (Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 4 koşulu sağlayan aday 0, reviews.json değişmedi. Bileşen eklenmedi (intent için alternatif zaten ölçüm bekliyor)."}
 {"ts": "2026-11-10T17:45:15+00:00", "actor": "claude", "action": "brain_review", "cap": "intent", "reason": "Düzeltme: önceki satırda intent n=5 yazıldı; yinelenen terimler atlandığı için gerçekte toplam 7 vaka eklendi (intent 1-2, note 3, kind 2, rival 1)."}
+{"ts": "2026-11-10T18:42:08+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 4, "reason": "intent: 4 net vaka, split dengeli."}
+{"ts": "2026-11-10T18:42:08+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T18:42:08+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 1, "reason": "kind: 1 net vaka, split dengeli."}
+{"ts": "2026-11-10T18:42:08+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 2, "reason": "note: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T18:42:08+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 2, "reason": "pairs: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T18:42:08+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard/audit son optimizer kaydı hâlâ 25 Eki (optimizer durmuş: Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 5 koşulu sağlayan aday 0, reviews.json değişmedi. Bileşen eklenmedi (bekleyen alternatifler ölçüm bekliyor)."}

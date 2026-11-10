@@ -3899,6 +3899,26 @@
    "term": "jones family chiropractic",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "ferrule size chart",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "stihl chainsaw manual",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "hiring phlebotomists near me",
+   "label": "jobs",
+   "split": "train"
+  },
+  {
+   "term": "harbor view dental group",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [
@@ -66142,6 +66162,16 @@
    "app": "Calculator that converts gallons to liters.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Official PMP exam question bank with real past exam items.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculator for converting torque between ft-lb and Nm.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -68910,6 +68940,18 @@
    "hi": "CDL air brakes practice test",
    "lo": "free ringtone maker",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "subscription exam prep for licensed electricians",
+   "lo": "free flashlight app",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "simple unit conversion table",
+   "lo": "real-time multiplayer video chat platform",
+   "split": "dev"
   }
  ],
  "note": [
@@ -70882,6 +70924,16 @@
    "note": "Bu iş fikriyle bir ilgisi yok, tamamen başka bir konu",
    "label": "Alakasız",
    "split": "test"
+  },
+  {
+   "note": "Hiç kimse bunun için para ödemez, ücretsiz alternatifler bol",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "App Store yönergelerine göre tıbbi tavsiye veriyor, reddedilir",
+   "label": "Ret riski",
+   "split": "dev"
   }
  ],
  "kind": [
@@ -74493,6 +74545,15 @@
    },
    "label": "utility",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Flashcards for ServSafe",
+    "category": "Education",
+    "desc": "Study terms and definitions for the food handler exam."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

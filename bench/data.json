@@ -3919,6 +3919,16 @@
    "term": "harbor view dental group",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "hiring cdl drivers",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "acme plumbing llc",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [
@@ -66172,6 +66182,16 @@
    "app": "Calculator for converting torque between ft-lb and Nm.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Practice questions for the licensed ARRT radiography board exam, taken from the official ARRT content outline.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts degrees Fahrenheit to Celsius and Kelvin.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -68951,6 +68971,18 @@
    "dim": "build",
    "hi": "simple unit conversion table",
    "lo": "real-time multiplayer video chat platform",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "CDL permit test prep for truck drivers",
+   "lo": "generic photo filter app",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "paid dental hygienist board exam question bank",
+   "lo": "free wallpaper app",
    "split": "dev"
   }
  ],

@@ -3664,6 +3664,21 @@
    "term": "lincoln electric weld guide",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "scaffold load calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "tesla app",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "sunrise dental group patient app",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -63709,6 +63724,108 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "concrete mix ratio calculator",
+   "apps": [
+    {
+     "name": "Concrete Mix Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate cement, sand and gravel ratios for any slab."
+    },
+    {
+     "name": "Concrete Jungle Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Build a city in a puzzle game."
+    },
+    {
+     "name": "Home Budget",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Track household spending."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "farm tractor hour meter log",
+   "apps": [
+    {
+     "name": "Tractor Service Log",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Log engine hours and maintenance intervals for farm equipment."
+    },
+    {
+     "name": "Tractor Simulator 3D",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Drive tractors in a farming game."
+    },
+    {
+     "name": "Weather Radar",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Live radar maps."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "dental hygiene board exam",
+   "apps": [
+    {
+     "name": "NBDHE Prep",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Practice questions for the dental hygiene board exam."
+    },
+    {
+     "name": "Dental Clinic Game",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Treat funny patients in a game."
+    },
+    {
+     "name": "Photo Editor",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Edit pictures."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -65334,6 +65451,16 @@
   },
   {
    "app": "Calculator for how much paint a room needs.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Official practice exam for the state bar using real licensed questions.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculator that converts inches to millimeters.",
    "label": false,
    "split": "dev"
   }
@@ -73367,6 +73494,24 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rafter Length Calc",
+    "category": "Utilities",
+    "desc": "Compute rafter length and angles for roof framing."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Doc AI",
+    "category": "Medical",
+    "desc": "Chat with an AI assistant powered by GPT to answer questions."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
   }
  ]
 }

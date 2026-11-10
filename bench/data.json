@@ -3679,6 +3679,26 @@
    "term": "sunrise dental group patient app",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "scaffolding load calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "riverside community clinic portal",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "travel nurse job openings",
+   "label": "jobs",
+   "split": "train"
+  },
+  {
+   "term": "minecraft pocket mods",
+   "label": "game",
+   "split": "test"
   }
  ],
  "brand": [
@@ -63826,6 +63846,74 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "drywall mud coverage",
+   "apps": [
+    {
+     "name": "Drywall Calc Pro",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Calculate drywall mud and tape coverage."
+    },
+    {
+     "name": "Home Decor Ideas",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Browse room ideas."
+    },
+    {
+     "name": "Mudslide Racing",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Race trucks."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "lineman knot guide",
+   "apps": [
+    {
+     "name": "Knots 3D",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Learn hundreds of knots for sailing, climbing and fishing."
+    },
+    {
+     "name": "Camera Filters",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Add filters."
+    },
+    {
+     "name": "Lineman Rigging",
+     "dev": "Dev",
+     "ratings": 100,
+     "desc": "Rigging knots and hitches for power linemen."
+    }
+   ],
+   "labels": [
+    0,
+    0,
+    1
+   ],
+   "kinds": [
+    "adjacent",
+    "unrelated",
+    "direct"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -65461,6 +65549,16 @@
   },
   {
    "app": "Calculator that converts inches to millimeters.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "App that shows insulin dosing tables from a licensed medical publisher.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Stopwatch timer for workouts.",
    "label": false,
    "split": "dev"
   }
@@ -68146,6 +68244,24 @@
    "dim": "build",
    "hi": "offline checklist with local storage",
    "lo": "real-time multiplayer game with matchmaking servers",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "tool for licensed contractors to estimate job bids and invoice clients",
+   "lo": "free wallpaper app for teenagers",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "study guide for the electrician journeyman licensing exam",
+   "lo": "general trivia quiz for everyone",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "calculator with a few formulas and no account",
+   "lo": "social network with video feed and recommendation engine",
    "split": "test"
   }
  ],
@@ -73512,6 +73628,24 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Wire Gauge Calc",
+    "category": "Utilities",
+    "desc": "Calculate wire gauge and voltage drop for electricians."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pharm Quick Ref",
+    "category": "Medical",
+    "desc": "Drug dosage and interaction reference for nurses."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

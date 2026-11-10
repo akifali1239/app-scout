@@ -1479,3 +1479,7 @@
 {"ts": "2026-11-10T14:42:06+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: 2 net vaka, split dengeli."}
 {"ts": "2026-11-10T14:42:06+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 2, "reason": "pairs: 2 net vaka, split dengeli."}
 {"ts": "2026-11-10T14:42:06+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard/audit son optimizer kaydı hâlâ 25 Eki (optimizer durmuş: Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 4 koşulu sağlayan aday 0, reviews.json değişmedi. Yeni bileşen eklenmedi (test_errors aynı, son bileşenler ölçülmedi)."}
+{"ts": "2026-11-10T15:41:38+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 2, "reason": "intent: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T15:41:38+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T15:41:38+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: 2 net vaka, split dengeli."}
+{"ts": "2026-11-10T15:41:38+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard/audit son optimizer kaydı hâlâ 25 Eki (optimizer durmuş: Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 5 koşulu sağlayan aday 0, reviews.json değişmedi. Bileşen eklenmedi."}

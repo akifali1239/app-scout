@@ -3869,6 +3869,16 @@
    "term": "sunrise orthodontics of tampa",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "minecraft",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "bright smile dental of austin",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -65922,6 +65932,16 @@
    "app": "Simple tool that converts gallons to liters.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Official NREMT practice questions copied from licensed exam bank.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Simple tool that converts inches to millimeters.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -74202,6 +74222,24 @@
    },
    "label": "reference",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Tile Layout Calculator",
+    "category": "Utilities",
+    "desc": "Calculate how many tiles you need for a floor or wall."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Block Puzzle Saga",
+    "category": "Games",
+    "desc": "Drag blocks, clear lines and beat your high score."
+   },
+   "label": "game",
+   "split": "dev"
   }
  ]
 }

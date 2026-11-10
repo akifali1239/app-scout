@@ -3929,6 +3929,16 @@
    "term": "acme plumbing llc",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "zillow",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "hillcrest pediatric dentistry",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -66192,6 +66202,21 @@
    "app": "Converts degrees Fahrenheit to Celsius and Kelvin.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Official NCEES FE exam practice problems copied from the licensed NCEES handbook.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculator that converts miles to kilometers.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Offers dosing advice and diagnoses conditions as a replacement for a doctor.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -69008,6 +69033,18 @@
    "hi": "electrician license exam prep",
    "lo": "emoji keyboard",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "fe exam civil practice problems",
+   "lo": "calculator widget",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac license exam prep",
+   "lo": "cute wallpapers",
+   "split": "dev"
   }
  ],
  "note": [
@@ -70989,6 +71026,16 @@
   {
    "note": "App Store yönergelerine göre tıbbi tavsiye veriyor, reddedilir",
    "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Rakipler çok güçlü, ilk sayfa tamamen dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikir benim işimle ilgili değil",
+   "label": "Alakasız",
    "split": "dev"
   }
  ],

@@ -3774,6 +3774,16 @@
    "term": "concrete yardage calculator",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "roblox obby games",
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "term": "ekg interpretation practice",
+   "label": "need",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -65646,6 +65656,16 @@
    "app": "Simple concrete volume calculator.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Official ASE certification exam question bank, licensed content.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Convert pH to hydrogen ion concentration.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -73779,6 +73799,33 @@
    },
    "label": "game",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Cable Tray Fill Calc",
+    "category": "Utilities",
+    "desc": "Calculate cable tray fill percentage per NEC."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Stack Sort Puzzle",
+    "category": "Games",
+    "desc": "Sort colored balls into tubes. 1000 levels."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Drug Dose Reference",
+    "category": "Medical",
+    "desc": "Quick reference of adult drug dosages and interactions."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

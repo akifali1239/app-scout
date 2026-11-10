@@ -1454,3 +1454,5 @@
 {"ts": "2026-11-10T08:41:57+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: utility, game."}
 {"ts": "2026-11-10T08:41:57+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: lisanslı sınav içeriği (true), hacim hesaplayıcı (false)."}
 {"ts": "2026-11-10T08:41:57+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki'de (optimizer durmuş: Actions/anahtar/bütçe kontrol edilmeli). Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi."}
+{"ts": "2026-11-10T09:43:45+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 5, "reason": "pairs: 5 audience vakası (meslek/sınav kitlesi vs genel yardımcı app), split dengeli."}
+{"ts": "2026-11-10T09:43:45+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki'de (optimizer durmuş: Actions/anahtar/bütçe kontrol edilmeli). Altın niş adayı yeni yok, reviews.json değişmedi. Bileşen eklenmedi."}

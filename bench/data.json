@@ -68348,6 +68348,36 @@
    "hi": "calculator with a few formulas and no account",
    "lo": "social network with video feed and recommendation engine",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nclex rn practice questions",
+   "lo": "white noise",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "faa part 107 drone exam prep",
+   "lo": "calculator",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician license exam prep",
+   "lo": "wallpaper",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumbing code reference for journeymen",
+   "lo": "photo filter",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic protocol quick reference",
+   "lo": "emoji keyboard",
+   "split": "dev"
   }
  ],
  "note": [

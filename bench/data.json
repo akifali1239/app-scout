@@ -3784,6 +3784,46 @@
    "term": "ekg interpretation practice",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "bridge inspection checklist",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "robinhood",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "chase bank",
+   "label": "brand",
+   "split": "train"
+  },
+  {
+   "term": "sunrise pediatrics",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "electrician apprenticeship hiring",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "soil compaction calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "osha 30 practice test",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "dr smith dentistry",
+   "label": "local_business",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -65666,6 +65706,16 @@
    "app": "Convert pH to hydrogen ion concentration.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Official NCLEX question bank with licensed content from the testing body.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Convert psi to bar and kPa.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -68397,6 +68447,18 @@
    "dim": "audience",
    "hi": "paramedic protocol quick reference",
    "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "CDL air brake test prep for truck drivers",
+   "lo": "calculator widget",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "farrier hoof trimming reference",
+   "lo": "meme maker",
    "split": "dev"
   }
  ],
@@ -73823,6 +73885,33 @@
     "name": "Drug Dose Reference",
     "category": "Medical",
     "desc": "Quick reference of adult drug dosages and interactions."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rebar Weight Calc",
+    "category": "Utilities",
+    "desc": "Calculate rebar weight and length by bar size."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Block Blast Puzzle",
+    "category": "Games",
+    "desc": "Drop blocks to clear lines. Endless fun."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Nursing Lab Values Guide",
+    "category": "Medical",
+    "desc": "Searchable reference of normal lab values and ranges."
    },
    "label": "reference",
    "split": "test"

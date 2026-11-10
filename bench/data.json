@@ -68002,6 +68002,24 @@
    "hi": "simple unit converter",
    "lo": "video streaming service like netflix",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "tax software for accountants billing clients monthly",
+   "lo": "free wallpaper app for teenagers",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "app for licensed electricians",
+   "lo": "app for anyone who has a phone",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "offline checklist with local storage",
+   "lo": "real-time multiplayer game with matchmaking servers",
+   "split": "test"
   }
  ],
  "note": [
@@ -69879,6 +69897,36 @@
    "note": "aradığım meslekle hiçbir bağlantısı yok, emlak app'i",
    "label": "Alakasız",
    "split": "train"
+  },
+  {
+   "note": "Bu kartı geçen hafta da görmüştüm, yine aynısı çıktı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "App Store'da zaten onlarca hesap makinesi var, hepsi ücretsiz",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bunun için ödeme yapmaz, bedava alternatifler bol",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu medikal cihaz sayıp reddeder diye düşünüyorum",
+   "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "Gerçek zamanlı uydu verisi gerekiyor, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Ben inşaat işiyle ilgilenmiyorum, bu fikir kozmetik alanında",
+   "label": "Alakasız",
+   "split": "dev"
   }
  ],
  "kind": [

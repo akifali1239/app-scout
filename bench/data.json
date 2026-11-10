@@ -3854,6 +3854,21 @@
    "term": "travel nurse staffing openings",
    "label": "jobs",
    "split": "train"
+  },
+  {
+   "term": "hvac load calculation sheet",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "cdl driver hiring near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "sunrise orthodontics of tampa",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -65897,6 +65912,16 @@
    "app": "Flashcards with verbatim text from the licensed ASWB social work exam guide.",
    "label": true,
    "split": "train"
+  },
+  {
+   "app": "Question bank copied verbatim from the licensed NCEES FE exam handbook.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Simple tool that converts gallons to liters.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -68653,6 +68678,18 @@
    "hi": "unit converter for welders",
    "lo": "real-time multiplayer battle game",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "phlebotomy certification exam prep",
+   "lo": "generic photo filter app",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "CDL air brakes practice test",
+   "lo": "free ringtone maker",
+   "split": "train"
   }
  ],
  "note": [
@@ -70574,6 +70611,21 @@
   {
    "note": "Apple bunu onaylamaz, lisans sorunu çıkar",
    "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "Aynı konuda 30 app var, hepsi 4.7 puan",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Geliştirmesi çok zor, gerçek zamanlı ses işleme gerekiyor",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Kullanıcılar bunu hiçbir zaman ödeme yapmaz",
+   "label": "Para yapmaz",
    "split": "train"
   }
  ],

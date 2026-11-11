@@ -49948,6 +49948,82 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "spotify",
+   "top": [
+    {
+     "name": "Spotify - Music and Podcasts",
+     "dev": "Spotify Ltd.",
+     "ratings": 9000,
+     "desc": "Listen to millions of songs."
+    },
+    {
+     "name": "Music Player",
+     "dev": "Dev",
+     "ratings": 9000,
+     "desc": "Play local files."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "welding symbols chart",
+   "top": [
+    {
+     "name": "Weld Symbols",
+     "dev": "Indie Dev",
+     "ratings": 9000,
+     "desc": "Reference of AWS weld symbols."
+    },
+    {
+     "name": "Welding Pro Guide",
+     "dev": "Dev2",
+     "ratings": 9000,
+     "desc": "Learn welding symbols."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "tiktok",
+   "top": [
+    {
+     "name": "TikTok",
+     "dev": "TikTok Ltd.",
+     "ratings": 9000,
+     "desc": "Make your day with short videos."
+    },
+    {
+     "name": "Video Downloader",
+     "dev": "Dev",
+     "ratings": 9000,
+     "desc": "Save videos."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "hvac load calculator",
+   "top": [
+    {
+     "name": "HVAC Calc",
+     "dev": "Dev",
+     "ratings": 9000,
+     "desc": "Manual J load estimate."
+    },
+    {
+     "name": "Load Calc Pro",
+     "dev": "Dev2",
+     "ratings": 9000,
+     "desc": "Heating cooling loads."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -67475,6 +67551,21 @@
    "app": "Lets users bet real money on sports matches and withdraw winnings.",
    "label": true,
    "split": "test"
+  },
+  {
+   "app": "Streams copyrighted Disney movies for free without a license.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "A checklist for electricians to record breaker panel labels.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Diagnoses skin cancer from a photo and tells users to skip the doctor.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -72528,6 +72619,26 @@
    "note": "Kullanıcılar buna bir kuruş ödemez, hepsi bedava",
    "label": "Para yapmaz",
    "split": "dev"
+  },
+  {
+   "note": "İlk sayfada aynı işi yapan onlarca app var, yer yok",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu konuyla ilgim yok, mesleğime hiç uymuyor",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Kimse buna para vermez, ücretsiz alternatifler yeter",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Bu app son güncellemesini yıllar önce almış, arayüzü eski",
+   "label": "Kalitesiz / eski",
+   "split": "train"
   }
  ],
  "kind": [

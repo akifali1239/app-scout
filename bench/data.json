@@ -3994,6 +3994,36 @@
    "term": "electrician exam practice",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "pdf converter",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "crossword helper",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "linkedin",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "nurse staffing agencies",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "dosage calculator",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "tip calculator",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -74834,6 +74864,33 @@
    },
    "label": "content",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Drug Dose Reference",
+    "category": "Medical",
+    "desc": "Look up adult and pediatric dosing tables for common medications."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ChatBot Writer AI",
+    "category": "Productivity",
+    "desc": "Ask our AI assistant to write emails, essays and captions using GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Handyman Booking",
+    "category": "Lifestyle",
+    "desc": "Book a local handyman to come to your home and fix things."
+   },
+   "label": "service",
+   "split": "test"
   }
  ]
 }

@@ -4129,6 +4129,26 @@
    "term": "lakeview animal hospital",
    "label": "local_business",
    "split": "dev"
+  },
+  {
+   "term": "hiring plumbers near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "pipe fitter apprenticeship openings",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "stumble guys",
+   "label": "brand",
+   "split": "train"
+  },
+  {
+   "term": "travis county credit union",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [
@@ -66755,6 +66775,11 @@
    "app": "Gives personalised stock buy and sell recommendations with guaranteed returns.",
    "label": true,
    "split": "dev"
+  },
+  {
+   "app": "Lets users bet real money on sports matches and withdraw winnings.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -75589,6 +75614,33 @@
    },
    "label": "game",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Rebar Spacing Calc",
+    "category": "Utilities",
+    "desc": "Calculate rebar spacing and weight for concrete slabs."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Candy Crush Soda Saga",
+    "category": "Games",
+    "desc": "Match candies in hundreds of puzzle levels."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "OSHA 30 Quick Reference",
+    "category": "Reference",
+    "desc": "Searchable OSHA construction standards and definitions."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

@@ -76710,6 +76710,42 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Plumber Booking & Dispatch",
+    "category": "Business",
+    "desc": "Book a licensed plumber near you; on-site visits and live technician tracking."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Stoic Quotes",
+    "category": "Lifestyle",
+    "desc": "A new Stoic passage every morning with audio readings and curated essays."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Wire Gauge Ampacity Chart",
+    "category": "Reference",
+    "desc": "Searchable tables of wire sizes, ampacity and conduit fill from the electrical code."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Resume Writer AI",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant powered by GPT that writes and rewrites your resume."
+   },
+   "label": "ai_wrapper",
+   "split": "train"
   }
  ]
 }

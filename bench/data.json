@@ -67717,6 +67717,31 @@
    "app": "Diagnoses skin cancer from a photo and tells users to skip the doctor.",
    "label": true,
    "split": "dev"
+  },
+  {
+   "app": "App that scans a mole photo and tells you whether it is skin cancer.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Stream the latest Premier League matches live for free.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Daily Bible verse reminders with a simple widget.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Reads your blood pressure from a phone camera, no cuff needed.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Spanish verb conjugation flashcards for beginners.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -72820,6 +72845,21 @@
    "note": "Bu app son güncellemesini yıllar önce almış, arayüzü eski",
    "label": "Kalitesiz / eski",
    "split": "train"
+  },
+  {
+   "note": "Müşteri adaylarının hepsi ücretsiz çözüm arıyor, kimse abonelik almaz",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Ürün sadece büyük hastanelere satılıyor, bireysel kullanıcı yok",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Mağazada aynı işi yapan 60 app var, hepsi 4.8 puanlı",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
   }
  ],
  "kind": [

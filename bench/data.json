@@ -4164,6 +4164,31 @@
    "term": "torque wrench calculator",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "hiring cnc machinists",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "sherwin williams color visualizer",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "wells fargo mobile banking",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "brickell family dental",
+   "label": "local_business",
+   "split": "train"
+  },
+  {
+   "term": "gas pipe sizing calculator",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -49823,6 +49848,106 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "headspace",
+   "top": [
+    {
+     "name": "Headspace: Mindful Meditation",
+     "dev": "Headspace Inc.",
+     "ratings": 900000,
+     "desc": "Guided meditation, sleep and stress tools."
+    },
+    {
+     "name": "Meditation Timer",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Simple timer."
+    },
+    {
+     "name": "Mindful Moments",
+     "dev": "Dev2",
+     "ratings": 800,
+     "desc": "Breathing exercises."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "phlebotomy study guide",
+   "top": [
+    {
+     "name": "Phlebotomy Exam Prep",
+     "dev": "Study Co",
+     "ratings": 1200,
+     "desc": "Practice questions for phlebotomy certification."
+    },
+    {
+     "name": "Phlebotomy Tech Guide",
+     "dev": "Medic Dev",
+     "ratings": 450,
+     "desc": "Order of draw and tube colors."
+    },
+    {
+     "name": "Venipuncture Review",
+     "dev": "Nurse Apps",
+     "ratings": 300,
+     "desc": "Flashcards for blood draws."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "osha 30 quiz",
+   "top": [
+    {
+     "name": "OSHA 30 Practice Test",
+     "dev": "Safety Dev",
+     "ratings": 800,
+     "desc": "Quiz questions for OSHA 30 hour course."
+    },
+    {
+     "name": "OSHA Quiz Pro",
+     "dev": "Quiz Dev",
+     "ratings": 250,
+     "desc": "OSHA 10 and 30 practice."
+    },
+    {
+     "name": "Construction Safety Quiz",
+     "dev": "Site Apps",
+     "ratings": 150,
+     "desc": "Safety exam prep."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "sherwin williams",
+   "top": [
+    {
+     "name": "Sherwin-Williams Visualizer",
+     "dev": "The Sherwin-Williams Company",
+     "ratings": 15000,
+     "desc": "Preview paint colors on your walls."
+    },
+    {
+     "name": "Paint Color Picker",
+     "dev": "Dev",
+     "ratings": 600,
+     "desc": "Pick paint colors."
+    },
+    {
+     "name": "Wall Painter",
+     "dev": "Dev2",
+     "ratings": 200,
+     "desc": "Room painting preview."
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [
@@ -65338,6 +65463,74 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "conduit bending calculator",
+   "apps": [
+    {
+     "name": "Conduit Bender",
+     "dev": "Sparky Dev",
+     "ratings": 600,
+     "desc": "Offsets, kicks and saddle bends for EMT conduit."
+    },
+    {
+     "name": "Electrical Code Quiz",
+     "dev": "Code Dev",
+     "ratings": 900,
+     "desc": "Journeyman exam questions."
+    },
+    {
+     "name": "Photo Editor",
+     "dev": "Edit Dev",
+     "ratings": 90000,
+     "desc": "Edit photos."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pipe offset calculator",
+   "apps": [
+    {
+     "name": "Pipe Fitter Offsets",
+     "dev": "Pipe Dev",
+     "ratings": 300,
+     "desc": "Calculate pipe offset travel and cut lengths."
+    },
+    {
+     "name": "Plumbing Pocket Guide",
+     "dev": "Plumb Dev",
+     "ratings": 1500,
+     "desc": "Plumbing code reference."
+    },
+    {
+     "name": "Weather Radar",
+     "dev": "Wx Dev",
+     "ratings": 50000,
+     "desc": "Radar maps."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

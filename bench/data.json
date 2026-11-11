@@ -3979,6 +3979,21 @@
    "term": "dispatcher hiring 911",
    "label": "jobs",
    "split": "test"
+  },
+  {
+   "term": "sudoku daily puzzle",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "ups tracking number",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "electrician exam practice",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -66267,6 +66282,21 @@
    "app": "Converts inches to millimeters using a simple formula.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Official practice questions copied from the ASE certification exam.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts kilograms to pounds.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Uses the Disney logo and characters in a coloring app.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -71116,6 +71146,11 @@
    "note": "Bu alanda yüzlerce benzer app var, hiçbiri öne çıkmıyor",
    "label": "Çok rekabet / doygun",
    "split": "test"
+  },
+  {
+   "note": "Bu işi yapan neredeyse kimse yok, ilk sayfa boş gibi",
+   "label": "Boş alan / fırsat",
+   "split": "test"
   }
  ],
  "kind": [
@@ -74780,6 +74815,24 @@
     "desc": "Use your phone sensors as a bubble level and angle gauge."
    },
    "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Converter",
+    "category": "Utilities",
+    "desc": "Convert ft-lb to Nm for mechanics."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Cooking Videos HD",
+    "category": "Entertainment",
+    "desc": "Watch thousands of recipe videos and shows."
+   },
+   "label": "content",
    "split": "dev"
   }
  ]

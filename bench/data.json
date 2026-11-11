@@ -4149,6 +4149,21 @@
    "term": "travis county credit union",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "hiring hvac technicians near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "pharmacist jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "torque wrench calculator",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [
@@ -76023,6 +76038,33 @@
     "name": "OSHA 30 Quick Reference",
     "category": "Reference",
     "desc": "Searchable OSHA construction standards and definitions."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Stud Spacing Calculator",
+    "category": "Utilities",
+    "desc": "Calculate wall stud layout and spacing for framing."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chess Puzzles",
+    "category": "Games",
+    "desc": "Play thousands of chess puzzles and win ratings."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Pocket Drug Reference",
+    "category": "Medical",
+    "desc": "Searchable drug monographs, interactions and dosing tables."
    },
    "label": "reference",
    "split": "test"

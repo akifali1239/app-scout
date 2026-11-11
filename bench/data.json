@@ -4049,6 +4049,31 @@
    "term": "minecraft pocket",
    "label": "game",
    "split": "test"
+  },
+  {
+   "term": "welding amperage chart",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "coursera",
+   "label": "brand",
+   "split": "train"
+  },
+  {
+   "term": "flight simulator game",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "mayo clinic patient portal",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "geometry dash",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -66407,6 +66432,16 @@
    "app": "Uses the Disney logo and characters in a coloring app.",
    "label": true,
    "split": "dev"
+  },
+  {
+   "app": "Includes full copyrighted NEC code book text copied verbatim.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Offers a simple stopwatch for timing workouts.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -74981,6 +75016,15 @@
    },
    "label": "service",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Wiring Basics Course",
+    "category": "Education",
+    "desc": "Video lessons teaching electrical wiring step by step."
+   },
+   "label": "content",
+   "split": "dev"
   }
  ]
 }

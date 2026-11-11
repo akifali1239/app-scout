@@ -66677,6 +66677,21 @@
    "app": "Contains the full text of copyrighted NFPA 70E tables for electrical safety exams.",
    "label": true,
    "split": "test"
+  },
+  {
+   "app": "Reproduces licensed Mario Kart course maps and character art as the app's main content.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "A simple unit converter for fractions to decimals used by machinists.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Gives personalised stock buy and sell recommendations with guaranteed returns.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -69565,6 +69580,18 @@
    "hi": "pipefitter apprenticeship exam prep",
    "lo": "coin flip",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl practice test",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "hvac load calculator",
+   "lo": "rock paper scissors",
+   "split": "dev"
   }
  ],
  "note": [
@@ -71606,6 +71633,26 @@
   {
    "note": "Sorgu app mağazasındaki işle bağlantısız, tamamen alakasız sonuçlar",
    "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Bu işi tam çözen app yok, ilk sayfada hep yarım çözümler var",
+   "label": "Boş alan / fırsat",
+   "split": "train"
+  },
+  {
+   "note": "Rakip görünmüyor, niş boş duruyor gibi",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bu meslek için düzgün bir araç yapmamış, fırsat var",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Piyasada hiç güçlü rakip yok, ilgimi çekti ama kararsızım",
+   "label": "Boş alan / fırsat",
    "split": "test"
   }
  ],
@@ -75407,6 +75454,42 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Wire Gauge Calculator",
+    "category": "Utilities",
+    "desc": "Enter amps and distance to get the correct AWG wire size."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Plumbing Code Quick Lookup",
+    "category": "Reference",
+    "desc": "Searchable tables of pipe sizing and fixture units."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Book a Mobile Notary",
+    "category": "Business",
+    "desc": "Schedule a notary to come to your home or office."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Solitaire Master",
+    "category": "Games",
+    "desc": "Classic card solitaire with daily challenges."
+   },
+   "label": "game",
+   "split": "train"
   }
  ]
 }

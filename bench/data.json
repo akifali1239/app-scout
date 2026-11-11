@@ -69358,6 +69358,30 @@
    "hi": "decibel meter",
    "lo": "multiplayer battle royale game",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam prep",
+   "lo": "fart sounds",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "hvac load calculation for contractors",
+   "lo": "wallpaper maker",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "live video chat platform",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "cna state exam practice",
+   "lo": "emoji stickers",
+   "split": "train"
   }
  ],
  "note": [
@@ -71370,6 +71394,26 @@
    "note": "Kimse bu aramaya özel bir app yapmamış, boşluk var",
    "label": "Boş alan / fırsat",
    "split": "train"
+  },
+  {
+   "note": "Aramada neredeyse hiç sonuç yok, bu konuda kimse app yapmamış, ilk sayfa boş",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Bu işe özel tek bir app bile yok, tamamen açık bir alan görünüyor",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Sonuçlar alakasız genel app'lerle dolu, doğrudan çözen kimse yok, fırsat var",
+   "label": "Boş alan / fırsat",
+   "split": "train"
+  },
+  {
+   "note": "İlk sayfadaki app'lerin hiçbiri bu işi yapmıyor, rakipsiz bir boşluk",
+   "label": "Boş alan / fırsat",
+   "split": "test"
   }
  ],
  "kind": [
@@ -75107,6 +75151,42 @@
    },
    "label": "content",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Rebar Weight Calculator",
+    "category": "Utilities",
+    "desc": "Enter bar size and length to get weight and total tonnage."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Lawyer AI",
+    "category": "Productivity",
+    "desc": "Chat with an AI that answers legal questions using a language model."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "ASE Study Notes",
+    "category": "Education",
+    "desc": "Static study notes and glossary for the ASE auto technician exams."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Book a Dog Groomer",
+    "category": "Lifestyle",
+    "desc": "Find local groomers and book appointments online."
+   },
+   "label": "service",
+   "split": "train"
   }
  ]
 }

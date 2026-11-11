@@ -49544,6 +49544,49 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "epocrates drug info",
+   "top": [
+    {
+     "name": "NABP",
+     "dev": "NABP",
+     "ratings": 657,
+     "desc": "Managing your pharmacy career has never been easier. With the NABP app, you can quickly access your e-Profile, stay on top of your continuing pharmacy education status, and keep up to date about the l"
+    },
+    {
+     "name": "epocrates: Drug Info & Pill ID",
+     "dev": "Epocrates",
+     "ratings": 7213,
+     "desc": "Make safer, faster clinical decisions – anywhere you practice.\n\nepocrates is the trusted clinical reference app for U.S. physicians (MDs/DOs), nurse practitioners (NPs), physician associates (PAs), ph"
+    },
+    {
+     "name": "PTCB",
+     "dev": "MastrAPI",
+     "ratings": 564,
+     "desc": "Pass your Pharmacy Technician exam with flying colors! Boost your confidence in passing the first time with our mobile app and a personal study plan based on your current skill and requirements.\n\nThe "
+    },
+    {
+     "name": "Rx Corner",
+     "dev": "Collishaw Technologies",
+     "ratings": 49,
+     "desc": "Rx Corner is your most convenient app for studying on the go! Rx Corner will help you learn and memorize brand and generic equivalents, indications, medication classes, sig codes and common conversion"
+    },
+    {
+     "name": "Top 20 Drugs Matching Game",
+     "dev": "Christopher Whitehead",
+     "ratings": 15,
+     "desc": "Play Denali Rx's top 20 matching game to help master the top 20 drugs.  You can play by choosing Generic-to-Brand or Brand-to-Generic.  Drug pronunciations now included for free.  This game will help "
+    },
+    {
+     "name": "PTCB & PTCE Exam Prep 2026",
+     "dev": "TRENDING MOBAPPS SRL",
+     "ratings": 259,
+     "desc": "PASS THE PTCE WITH CONFIDENCE\n\nPreparing for the Pharmacy Technician Certification Examination can feel overwhelming. Medications, federal requirements, calculations, patient safety, and prescription "
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

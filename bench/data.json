@@ -65531,6 +65531,108 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "tig welding amperage calculator",
+   "apps": [
+    {
+     "name": "TIG Amps Pro",
+     "dev": "Weld Dev",
+     "ratings": 120,
+     "desc": "Calculate TIG welding amperage by metal thickness."
+    },
+    {
+     "name": "Welding Symbols Guide",
+     "dev": "Sym Dev",
+     "ratings": 900,
+     "desc": "Reference for weld symbols."
+    },
+    {
+     "name": "Photo Editor",
+     "dev": "Pix",
+     "ratings": 80000,
+     "desc": "Edit photos."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "sheet metal bend allowance",
+   "apps": [
+    {
+     "name": "Bend Allowance Calc",
+     "dev": "Fab Dev",
+     "ratings": 250,
+     "desc": "Compute bend allowance and deduction for sheet metal."
+    },
+    {
+     "name": "Sheet Metal Gauge Chart",
+     "dev": "Gauge Dev",
+     "ratings": 700,
+     "desc": "Gauge thickness chart."
+    },
+    {
+     "name": "Pizza Maker",
+     "dev": "Food",
+     "ratings": 20000,
+     "desc": "Pizza recipes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "voltage drop calculator",
+   "apps": [
+    {
+     "name": "Voltage Drop Electrician",
+     "dev": "Volt Dev",
+     "ratings": 400,
+     "desc": "Wire voltage drop by length and amperage."
+    },
+    {
+     "name": "Ohm's Law Calc",
+     "dev": "Ohm Dev",
+     "ratings": 1200,
+     "desc": "Ohm's law and power formulas."
+    },
+    {
+     "name": "Yoga Daily",
+     "dev": "Zen",
+     "ratings": 9000,
+     "desc": "Yoga routines."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -72401,6 +72503,31 @@
    "note": "Piyasada hiç güçlü rakip yok, ilgimi çekti ama kararsızım",
    "label": "Boş alan / fırsat",
    "split": "test"
+  },
+  {
+   "note": "App Store'da aynı hesap makinesinden 60 tane var, ilk sayfa dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu nişte zaten büyük bir şirket var, yüz binlerce yorumu olan",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu kartı dün de reddettim, yine karşıma çıktı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Aynı fikir listede art arda iki kez gösterildi",
+   "label": "Çok benzer",
+   "split": "train"
+  },
+  {
+   "note": "Kullanıcılar buna bir kuruş ödemez, hepsi bedava",
+   "label": "Para yapmaz",
+   "split": "dev"
   }
  ],
  "kind": [

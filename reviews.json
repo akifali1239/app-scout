@@ -1,102 +1,162 @@
 {
-  "welding symbols": {
-    "verdict": "ok",
-    "note": "Gerçek ihtiyaç; hiçbir app bunu ana konu yapmamış (ilk 10'un hepsi sınav/hesaplayıcı). AWS A2.4 standardının metni telifli: sembolleri kendi çizimlerinle anlat. CWI/CSWIP sınav modülüyle birleşirse ödeme isteği artar."
-  },
-  "cswip welding inspector": {
-    "verdict": "ok",
-    "note": "Gerçek sertifika (TWI CSWIP 3.1/3.2), ödeme isteği yüksek. Ama 'cs' nadir harf olduğu için arama puanı şişik olabilir, pazar küçük (UK/Orta Doğu/Asya). Tek başına değil, 'welding symbols' app'ine sınav modülü olarak ekle."
-  },
-  "orbit welding validation": {
-    "verdict": "brand",
-    "note": "Ovalo Quality Group'un kurumsal üretim takip app'i; aramalar o şirketin müşterilerinden geliyor, bireysel talep değil."
-  },
-  "machinist journeyman": {
-    "verdict": "brand",
-    "note": "smartcalculations'ın mevcut app'inin adı; arama o app'e gidiyor olabilir. Makinist referans nişi CNC hesaplayıcılarla dolu (The Phillips Machinist 393 yorum)."
-  },
-  "welding written - passrun": {
-    "verdict": "brand",
-    "note": "PassRun geliştiricisinin kendi app adı; arama o app'e gidiyor, genel bir ihtiyaç değil."
-  },
-  "best farrier": {
-    "verdict": "brand",
-    "note": "Üst sonuç birebir \"Best Farrier\" adlı app; arama o app adına ait, nişin genel ihtiyaç kanıtı yok."
-  },
-  "groomspec: dog grooming guide": {
-    "verdict": "brand",
-    "note": "GroomSpec app'inin tam başlığı; marka araması, genel ihtiyaç değil."
-  },
-  "sommelier india": {
-    "verdict": "brand",
-    "note": "Üst sonuç birebir \"Sommelier India\" app'i; ad araması ve pazar çok küçük."
-  },
-  "nsw geology maps": {
-    "verdict": "reject",
-    "note": "Yeni Güney Galler jeoloji kurumunun resmi harita verisi; kurumsal/kamu ürünü, tek geliştirici için veri ve telif sorunu, çok dar pazar."
-  },
-  "modern acupuncture usa": {
-    "verdict": "brand",
-    "note": "Modern Acupuncture adlı bir klinik zincirinin markası; mesleki ihtiyaç değil, marka/yerel işletme araması."
-  },
-  "forklift, llc": {
-    "verdict": "reject",
-    "note": "Bir firmanın şirket adı (LLC); gerçek bir meslek ihtiyacı değil, kurumsal arama."
-  },
-  "guide to clinical midwifery": {
-    "verdict": "brand",
-    "note": "Bu bir kitabın/app'in kendi adı (ilk sonuç birebir aynı başlık), genel ihtiyaç değil; niş olarak kullanılamaz."
-  },
-  "chiropractic boards 1": {
-    "verdict": "brand",
-    "note": "Bu 'Chiropractic Boards 1', Pro Exam Prep LLC'nin numaralı app serisinin adı (Boards 1/2/3); niş gerçek ama arama terimi bir app adı ve NBCE sınav alanında zaten Chiro Board Review ile seri rakipler var."
-  },
-  "video volume booster": {
-    "verdict": "reject",
-    "note": "Genel amaçlı ses yükseltici; düşük değerli, sistem sesini yükseltme sınırlı ve ödeme isteği zayıf."
-  },
-  "max sound booster": {
-    "verdict": "reject",
-    "note": "Aynı sınıftan düşük değerli yardımcı app; iOS'ta gerçek ses yükseltme yapılamaz, kullanıcı hayal kırıklığı riski yüksek."
-  },
-  "transcribe video to text free": {
-    "verdict": "reject",
-    "note": "Ücretsiz beklentisi + sunucu maliyeti (STT) tek geliştirici için eritici; mesleğe özel değil."
-  },
-  "ultrasound anatomy": {
-    "verdict": "ok",
-    "note": "Sonografi öğrencileri/teknisyenleri için gerçek referans ihtiyacı; kendi çizim ve kesit görselleriyle tek kişiyle yapılabilir, sınav modülüyle para eder."
-  },
-  "dental anatomy": {
-    "verdict": "ok",
-    "note": "Diş hekimliği/hijyen öğrencileri için net referans+quiz ihtiyacı; özgün illüstrasyonlarla tek geliştirici yapabilir."
-  },
-  "lab values": {
-    "verdict": "ok",
-    "note": "Hemşire/paramedik için sürekli aranan referans; aralıkları kendi derlemenle sun, kaynak telifine dikkat."
-  },
-  "hvac calculator": {
-    "verdict": "ok",
-    "note": "HVAC teknisyeni için gerçek saha aracı (yük, hava akışı, kablo); tek geliştiriciyle yapılır, profesyonel ödemeye isteklidir."
-  },
-  "refrigerant pt chart": {
-    "verdict": "ok",
-    "note": "HVAC-R teknisyenlerinin günlük kullandığı basınç-sıcaklık tablosu; basit ve para eden saha aracı, soğutucu verilerini kendin derle."
-  },
-  "welding calculator": {
-    "verdict": "ok",
-    "note": "Kaynakçılar için ısı girdisi/amper/tel hızı hesapları; gerçek meslek ihtiyacı, hesaplayıcı tek geliştiriciyle yapılır."
-  },
-  "esab welding parameters set-up guide": {
-    "verdict": "brand",
-    "note": "ESAB şirketinin adını içeriyor; marka/telif riski, jenerik ihtiyaç 'welding parameters guide' olarak ayrı ele alınmalı."
-  },
-  "e6b flight computer": {
-    "verdict": "ok",
-    "note": "Pilot öğrencileri için klasik E6B hesaplayıcı; gerçek ihtiyaç, ForeFlight dışında niş, tek geliştiriciyle yapılır."
-  },
-  "occupational therapy exam 2026": {
-    "verdict": "reject",
-    "note": "Yıla bağlı sınav terimi; NBCOT içeriği telifli ve soru bankası maliyeti yüksek, yıl değişince terim ölür."
-  }
+ "welding symbols": {
+  "verdict": "ok",
+  "note": "Gerçek ihtiyaç; hiçbir app bunu ana konu yapmamış (ilk 10'un hepsi sınav/hesaplayıcı). AWS A2.4 standardının metni telifli: sembolleri kendi çizimlerinle anlat. CWI/CSWIP sınav modülüyle birleşirse ödeme isteği artar."
+ },
+ "cswip welding inspector": {
+  "verdict": "ok",
+  "note": "Gerçek sertifika (TWI CSWIP 3.1/3.2), ödeme isteği yüksek. Ama 'cs' nadir harf olduğu için arama puanı şişik olabilir, pazar küçük (UK/Orta Doğu/Asya). Tek başına değil, 'welding symbols' app'ine sınav modülü olarak ekle."
+ },
+ "orbit welding validation": {
+  "verdict": "brand",
+  "note": "Ovalo Quality Group'un kurumsal üretim takip app'i; aramalar o şirketin müşterilerinden geliyor, bireysel talep değil."
+ },
+ "machinist journeyman": {
+  "verdict": "brand",
+  "note": "smartcalculations'ın mevcut app'inin adı; arama o app'e gidiyor olabilir. Makinist referans nişi CNC hesaplayıcılarla dolu (The Phillips Machinist 393 yorum)."
+ },
+ "welding written - passrun": {
+  "verdict": "brand",
+  "note": "PassRun geliştiricisinin kendi app adı; arama o app'e gidiyor, genel bir ihtiyaç değil."
+ },
+ "best farrier": {
+  "verdict": "brand",
+  "note": "Üst sonuç birebir \"Best Farrier\" adlı app; arama o app adına ait, nişin genel ihtiyaç kanıtı yok."
+ },
+ "groomspec: dog grooming guide": {
+  "verdict": "brand",
+  "note": "GroomSpec app'inin tam başlığı; marka araması, genel ihtiyaç değil."
+ },
+ "sommelier india": {
+  "verdict": "brand",
+  "note": "Üst sonuç birebir \"Sommelier India\" app'i; ad araması ve pazar çok küçük."
+ },
+ "nsw geology maps": {
+  "verdict": "reject",
+  "note": "Yeni Güney Galler jeoloji kurumunun resmi harita verisi; kurumsal/kamu ürünü, tek geliştirici için veri ve telif sorunu, çok dar pazar."
+ },
+ "modern acupuncture usa": {
+  "verdict": "brand",
+  "note": "Modern Acupuncture adlı bir klinik zincirinin markası; mesleki ihtiyaç değil, marka/yerel işletme araması."
+ },
+ "forklift, llc": {
+  "verdict": "reject",
+  "note": "Bir firmanın şirket adı (LLC); gerçek bir meslek ihtiyacı değil, kurumsal arama."
+ },
+ "guide to clinical midwifery": {
+  "verdict": "brand",
+  "note": "Bu bir kitabın/app'in kendi adı (ilk sonuç birebir aynı başlık), genel ihtiyaç değil; niş olarak kullanılamaz."
+ },
+ "chiropractic boards 1": {
+  "verdict": "brand",
+  "note": "Bu 'Chiropractic Boards 1', Pro Exam Prep LLC'nin numaralı app serisinin adı (Boards 1/2/3); niş gerçek ama arama terimi bir app adı ve NBCE sınav alanında zaten Chiro Board Review ile seri rakipler var."
+ },
+ "video volume booster": {
+  "verdict": "reject",
+  "note": "Genel amaçlı ses yükseltici; düşük değerli, sistem sesini yükseltme sınırlı ve ödeme isteği zayıf."
+ },
+ "max sound booster": {
+  "verdict": "reject",
+  "note": "Aynı sınıftan düşük değerli yardımcı app; iOS'ta gerçek ses yükseltme yapılamaz, kullanıcı hayal kırıklığı riski yüksek."
+ },
+ "transcribe video to text free": {
+  "verdict": "reject",
+  "note": "Ücretsiz beklentisi + sunucu maliyeti (STT) tek geliştirici için eritici; mesleğe özel değil."
+ },
+ "ultrasound anatomy": {
+  "verdict": "ok",
+  "note": "Sonografi öğrencileri/teknisyenleri için gerçek referans ihtiyacı; kendi çizim ve kesit görselleriyle tek kişiyle yapılabilir, sınav modülüyle para eder."
+ },
+ "dental anatomy": {
+  "verdict": "ok",
+  "note": "Diş hekimliği/hijyen öğrencileri için net referans+quiz ihtiyacı; özgün illüstrasyonlarla tek geliştirici yapabilir."
+ },
+ "lab values": {
+  "verdict": "ok",
+  "note": "Hemşire/paramedik için sürekli aranan referans; aralıkları kendi derlemenle sun, kaynak telifine dikkat."
+ },
+ "hvac calculator": {
+  "verdict": "ok",
+  "note": "HVAC teknisyeni için gerçek saha aracı (yük, hava akışı, kablo); tek geliştiriciyle yapılır, profesyonel ödemeye isteklidir."
+ },
+ "refrigerant pt chart": {
+  "verdict": "ok",
+  "note": "HVAC-R teknisyenlerinin günlük kullandığı basınç-sıcaklık tablosu; basit ve para eden saha aracı, soğutucu verilerini kendin derle."
+ },
+ "welding calculator": {
+  "verdict": "ok",
+  "note": "Kaynakçılar için ısı girdisi/amper/tel hızı hesapları; gerçek meslek ihtiyacı, hesaplayıcı tek geliştiriciyle yapılır."
+ },
+ "esab welding parameters set-up guide": {
+  "verdict": "brand",
+  "note": "ESAB şirketinin adını içeriyor; marka/telif riski, jenerik ihtiyaç 'welding parameters guide' olarak ayrı ele alınmalı."
+ },
+ "e6b flight computer": {
+  "verdict": "ok",
+  "note": "Pilot öğrencileri için klasik E6B hesaplayıcı; gerçek ihtiyaç, ForeFlight dışında niş, tek geliştiriciyle yapılır."
+ },
+ "occupational therapy exam 2026": {
+  "verdict": "reject",
+  "note": "Yıla bağlı sınav terimi; NBCOT içeriği telifli ve soru bankası maliyeti yüksek, yıl değişince terim ölür."
+ },
+ "silent alarm": {
+  "verdict": "reject",
+  "note": "Gerçek bir meslek ihtiyacı değil, belirsiz genel amaçlı alarm araması."
+ },
+ "dosage calculation": {
+  "verdict": "ok",
+  "note": "Hemşire/öğrenciler için net bir ihtiyaç, tek geliştiriciyle yapılır, ödeme isteği yüksek."
+ },
+ "suture": {
+  "verdict": "ok",
+  "note": "Cerrahi/hemşirelik öğrencileri için dikiş referansı ve pratik rehberi yapılabilir."
+ },
+ "acupuncture points": {
+  "verdict": "ok",
+  "note": "Akupunkturcular ve öğrenciler için nokta referansı, niş ama ödeme yapan kitle."
+ },
+ "trigger points": {
+  "verdict": "ok",
+  "note": "Masaj terapistleri ve fizyoterapistler için net referans ihtiyacı."
+ },
+ "veterinary anatomy": {
+  "verdict": "ok",
+  "note": "Veteriner öğrencileri ve teknisyenleri için anatomi referansı, yapılabilir."
+ },
+ "pharmacology": {
+  "verdict": "ok",
+  "note": "Hemşirelik/eczacılık öğrencileri için çalışma aracı, rakip az, para eder."
+ },
+ "ems protocols": {
+  "verdict": "ok",
+  "note": "Paramedikler için protokol referansı, net meslek ihtiyacı."
+ },
+ "hair color formula": {
+  "verdict": "ok",
+  "note": "Kuaförler için renk formül hesaplayıcı/kayıt aracı, net ihtiyaç."
+ },
+ "eye chart": {
+  "verdict": "reject",
+  "note": "Ücretsiz basit araç, ödeme isteği düşük ve pazar çok küçük."
+ },
+ "welding test": {
+  "verdict": "ok",
+  "note": "Kaynakçı sertifika sınavı hazırlığı, net meslek ihtiyacı."
+ },
+ "welding eng. guide": {
+  "verdict": "reject",
+  "note": "Belirsiz ve kurumsal/yayın markası gibi duran terim."
+ },
+ "welding heat input calculator": {
+  "verdict": "ok",
+  "note": "Kaynak mühendisleri/kaynakçılar için net hesaplayıcı, tek geliştiriciyle yapılır."
+ },
+ "occupational therapy prep 2026": {
+  "verdict": "ok",
+  "note": "OT sınav hazırlığı, ödeme yapan öğrenci kitlesi."
+ },
+ "otr occupational therapy prep": {
+  "verdict": "ok",
+  "note": "NBCOT OTR sınav hazırlığı, net meslek ihtiyacı."
+ }
 }

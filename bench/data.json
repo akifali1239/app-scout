@@ -49708,6 +49708,106 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "osha 10 quiz",
+   "top": [
+    {
+     "name": "OSHA 10 Practice Quiz",
+     "dev": "Safe Study",
+     "ratings": 400,
+     "desc": "Practice questions for the OSHA 10 hour course."
+    },
+    {
+     "name": "OSHA 10 Test Prep",
+     "dev": "Prep Dev",
+     "ratings": 250,
+     "desc": "Exam prep for OSHA 10."
+    },
+    {
+     "name": "Safety Pro",
+     "dev": "Other Dev",
+     "ratings": 150,
+     "desc": "Workplace safety checklists."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "duolingo",
+   "top": [
+    {
+     "name": "Duolingo - Language Lessons",
+     "dev": "Duolingo, Inc.",
+     "ratings": 9000000,
+     "desc": "Learn languages with bite-sized lessons."
+    },
+    {
+     "name": "Language Learner",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Vocabulary cards."
+    },
+    {
+     "name": "Speak Easy",
+     "dev": "Dev2",
+     "ratings": 150,
+     "desc": "Phrasebook."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "nursing mnemonics",
+   "top": [
+    {
+     "name": "Nursing Mnemonics",
+     "dev": "Nurse Dev",
+     "ratings": 200,
+     "desc": "Memory aids for nursing school."
+    },
+    {
+     "name": "NCLEX Mnemonics",
+     "dev": "Study Dev",
+     "ratings": 300,
+     "desc": "Mnemonic cards for NCLEX."
+    },
+    {
+     "name": "Med Mnemonics",
+     "dev": "Med Dev",
+     "ratings": 120,
+     "desc": "Pharmacology tricks."
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "calm",
+   "top": [
+    {
+     "name": "Calm - Sleep, Meditate, Relax",
+     "dev": "Calm.com, Inc.",
+     "ratings": 1000000,
+     "desc": "Sleep stories, meditation and relaxation."
+    },
+    {
+     "name": "Calm Timer",
+     "dev": "Dev",
+     "ratings": 120,
+     "desc": "Simple timer."
+    },
+    {
+     "name": "Rain Sounds",
+     "dev": "Dev2",
+     "ratings": 900,
+     "desc": "Rain noise."
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [
@@ -65019,6 +65119,210 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "tig welding settings",
+   "apps": [
+    {
+     "name": "TIG Settings Guide",
+     "dev": "Weld Notes",
+     "ratings": 120,
+     "desc": "Amperage, gas and tungsten settings chart for TIG welding by metal thickness."
+    },
+    {
+     "name": "Welding Jobs Board",
+     "dev": "Hire Co",
+     "ratings": 800,
+     "desc": "Find welding jobs near you."
+    },
+    {
+     "name": "Flashlight",
+     "dev": "Util Inc",
+     "ratings": 90000,
+     "desc": "Bright torch."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "nec code lookup",
+   "apps": [
+    {
+     "name": "NEC Code Quick Search",
+     "dev": "Spark Tools",
+     "ratings": 300,
+     "desc": "Search National Electrical Code articles and tables offline."
+    },
+    {
+     "name": "Electrician Time Tracker",
+     "dev": "Clock Dev",
+     "ratings": 150,
+     "desc": "Track electrician job hours."
+    },
+    {
+     "name": "Sudoku Master",
+     "dev": "Fun Ltd",
+     "ratings": 50000,
+     "desc": "Number puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "plumbing pipe sizing",
+   "apps": [
+    {
+     "name": "Pipe Size Calc",
+     "dev": "Pipe Dev",
+     "ratings": 90,
+     "desc": "Size water supply and drain pipes by fixture units."
+    },
+    {
+     "name": "Plumber Pro Invoice",
+     "dev": "Bill Dev",
+     "ratings": 400,
+     "desc": "Invoices for plumbers."
+    },
+    {
+     "name": "Water Reminder",
+     "dev": "Health Dev",
+     "ratings": 20000,
+     "desc": "Drink water reminders."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nursing dosage calculator",
+   "apps": [
+    {
+     "name": "Dosage Calc for Nurses",
+     "dev": "RN Tools",
+     "ratings": 2500,
+     "desc": "Drug dose and IV drip rate calculator for nursing students."
+    },
+    {
+     "name": "Nurse Schedule",
+     "dev": "Shift Dev",
+     "ratings": 700,
+     "desc": "Shift planner for nurses."
+    },
+    {
+     "name": "Photo Editor",
+     "dev": "Pic Co",
+     "ratings": 80000,
+     "desc": "Edit photos."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "hvac refrigerant pt chart",
+   "apps": [
+    {
+     "name": "Refrigerant PT Chart",
+     "dev": "Cool Dev",
+     "ratings": 600,
+     "desc": "Pressure-temperature chart for R410A, R22 and other refrigerants."
+    },
+    {
+     "name": "HVAC Service Software",
+     "dev": "Field Corp",
+     "ratings": 1200,
+     "desc": "Dispatch and billing suite for HVAC companies."
+    },
+    {
+     "name": "Weather Now",
+     "dev": "Sky Dev",
+     "ratings": 95000,
+     "desc": "Local weather."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "concrete volume calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc",
+     "dev": "Mix Dev",
+     "ratings": 350,
+     "desc": "Compute cubic yards of concrete for slabs, footings and columns."
+    },
+    {
+     "name": "Construction News",
+     "dev": "News Dev",
+     "ratings": 900,
+     "desc": "Industry headlines."
+    },
+    {
+     "name": "Chess Online",
+     "dev": "Game Dev",
+     "ratings": 40000,
+     "desc": "Play chess."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

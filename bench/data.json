@@ -4074,6 +4074,21 @@
    "term": "geometry dash",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "hiring pipefitters",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "lakeside family chiropractic",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "loan officer exam prep",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -64650,6 +64665,40 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "pipe volume calculator",
+   "apps": [
+    {
+     "name": "Pipe Volume Calc",
+     "dev": "Dev",
+     "ratings": 700,
+     "desc": "Calculate volume and gallons in a pipe by diameter and length."
+    },
+    {
+     "name": "Plumbing Codes Guide",
+     "dev": "Dev",
+     "ratings": 1500,
+     "desc": "Reference of plumbing code sections."
+    },
+    {
+     "name": "Water Bill Tracker",
+     "dev": "Dev",
+     "ratings": 90,
+     "desc": "Track your household water bill."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -66442,6 +66491,21 @@
    "app": "Offers a simple stopwatch for timing workouts.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Study guide with practice questions for the FAA remote pilot Part 107 exam.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Chat assistant that diagnoses your rash from a photo and prescribes treatment.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Offline dictionary of electrical wiring terms.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -75022,6 +75086,24 @@
     "name": "Wiring Basics Course",
     "category": "Education",
     "desc": "Video lessons teaching electrical wiring step by step."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Decibel Meter Pro",
+    "category": "Utilities",
+    "desc": "Measure noise level with your microphone."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Calm Podcasts",
+    "category": "Entertainment",
+    "desc": "Stream thousands of podcasts and radio shows."
    },
    "label": "content",
    "split": "dev"

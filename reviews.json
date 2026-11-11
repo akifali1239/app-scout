@@ -50,5 +50,53 @@
   "chiropractic boards 1": {
     "verdict": "brand",
     "note": "Bu 'Chiropractic Boards 1', Pro Exam Prep LLC'nin numaralı app serisinin adı (Boards 1/2/3); niş gerçek ama arama terimi bir app adı ve NBCE sınav alanında zaten Chiro Board Review ile seri rakipler var."
+  },
+  "video volume booster": {
+    "verdict": "reject",
+    "note": "Genel amaçlı ses yükseltici; düşük değerli, sistem sesini yükseltme sınırlı ve ödeme isteği zayıf."
+  },
+  "max sound booster": {
+    "verdict": "reject",
+    "note": "Aynı sınıftan düşük değerli yardımcı app; iOS'ta gerçek ses yükseltme yapılamaz, kullanıcı hayal kırıklığı riski yüksek."
+  },
+  "transcribe video to text free": {
+    "verdict": "reject",
+    "note": "Ücretsiz beklentisi + sunucu maliyeti (STT) tek geliştirici için eritici; mesleğe özel değil."
+  },
+  "ultrasound anatomy": {
+    "verdict": "ok",
+    "note": "Sonografi öğrencileri/teknisyenleri için gerçek referans ihtiyacı; kendi çizim ve kesit görselleriyle tek kişiyle yapılabilir, sınav modülüyle para eder."
+  },
+  "dental anatomy": {
+    "verdict": "ok",
+    "note": "Diş hekimliği/hijyen öğrencileri için net referans+quiz ihtiyacı; özgün illüstrasyonlarla tek geliştirici yapabilir."
+  },
+  "lab values": {
+    "verdict": "ok",
+    "note": "Hemşire/paramedik için sürekli aranan referans; aralıkları kendi derlemenle sun, kaynak telifine dikkat."
+  },
+  "hvac calculator": {
+    "verdict": "ok",
+    "note": "HVAC teknisyeni için gerçek saha aracı (yük, hava akışı, kablo); tek geliştiriciyle yapılır, profesyonel ödemeye isteklidir."
+  },
+  "refrigerant pt chart": {
+    "verdict": "ok",
+    "note": "HVAC-R teknisyenlerinin günlük kullandığı basınç-sıcaklık tablosu; basit ve para eden saha aracı, soğutucu verilerini kendin derle."
+  },
+  "welding calculator": {
+    "verdict": "ok",
+    "note": "Kaynakçılar için ısı girdisi/amper/tel hızı hesapları; gerçek meslek ihtiyacı, hesaplayıcı tek geliştiriciyle yapılır."
+  },
+  "esab welding parameters set-up guide": {
+    "verdict": "brand",
+    "note": "ESAB şirketinin adını içeriyor; marka/telif riski, jenerik ihtiyaç 'welding parameters guide' olarak ayrı ele alınmalı."
+  },
+  "e6b flight computer": {
+    "verdict": "ok",
+    "note": "Pilot öğrencileri için klasik E6B hesaplayıcı; gerçek ihtiyaç, ForeFlight dışında niş, tek geliştiriciyle yapılır."
+  },
+  "occupational therapy exam 2026": {
+    "verdict": "reject",
+    "note": "Yıla bağlı sınav terimi; NBCOT içeriği telifli ve soru bankası maliyeti yüksek, yıl değişince terim ölür."
   }
 }

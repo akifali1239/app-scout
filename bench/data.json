@@ -70309,6 +70309,36 @@
    "hi": "torque conversion chart",
    "lo": "social network",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac load calculator",
+   "lo": "white noise",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nclex pharmacology flashcards",
+   "lo": "flashlight",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "refrigerant pt chart",
+   "lo": "video editor with ai",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl permit practice test",
+   "lo": "wallpaper",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "welding heat input calculator",
+   "lo": "emoji keyboard",
+   "split": "test"
   }
  ],
  "note": [

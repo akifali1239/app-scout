@@ -49627,6 +49627,87 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "uworld",
+   "top": [
+    {
+     "name": "UWorld Medical",
+     "dev": "UWorld LLC",
+     "ratings": 9000,
+     "desc": "Question bank and exam prep for USMLE, NCLEX and other medical exams."
+    },
+    {
+     "name": "UWorld Nursing",
+     "dev": "UWorld LLC",
+     "ratings": 5000,
+     "desc": "NCLEX practice questions with detailed rationales."
+    },
+    {
+     "name": "USMLE Step 1 Prep",
+     "dev": "Prep Dev",
+     "ratings": 300,
+     "desc": "Practice questions for the USMLE."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nclex flashcards",
+   "top": [
+    {
+     "name": "NCLEX Flashcards",
+     "dev": "StudyCards LLC",
+     "ratings": 800,
+     "desc": "Flashcards for NCLEX."
+    },
+    {
+     "name": "Nursing Flashcards",
+     "dev": "Nurse Dev",
+     "ratings": 600,
+     "desc": "Study nursing terms."
+    },
+    {
+     "name": "NCLEX RN Prep",
+     "dev": "Prep Dev",
+     "ratings": 1500,
+     "desc": "Practice questions for NCLEX-RN."
+    },
+    {
+     "name": "Picmonic Nursing",
+     "dev": "Picmonic",
+     "ratings": 900,
+     "desc": "Visual mnemonics for nursing."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "quizlet",
+   "top": [
+    {
+     "name": "Quizlet: AI-powered Flashcards",
+     "dev": "Quizlet Inc.",
+     "ratings": 300000,
+     "desc": "Study with flashcards, practice tests and expert solutions."
+    },
+    {
+     "name": "Flashcards Maker",
+     "dev": "Other Dev",
+     "ratings": 200,
+     "desc": "Create flashcards."
+    },
+    {
+     "name": "Study Cards",
+     "dev": "Another Dev",
+     "ratings": 150,
+     "desc": "Cards for studying."
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

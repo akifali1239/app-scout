@@ -1557,3 +1557,6 @@
 {"ts": "2026-11-11T07:41:45+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 2, "reason": "pairs: pay ve audience hi-lo çiftleri."}
 {"ts": "2026-11-11T07:41:45+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 2, "reason": "note: boş alan ve alakasız net vakalar."}
 {"ts": "2026-11-11T07:41:45+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; optimizer son kaydı hâlâ 25 Eki (Actions/anahtar/bütçe kontrol edilmeli). Altın niş: 5 koşulu sağlayıp reviews.json'da olmayan aday yok, reviews.json değişmedi. Bileşen eklenmedi."}
+{"ts": "2026-11-11T08:43:56+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 4, "reason": "rival: zayıf yetenek; rebar/HVAC/conduit/farrier direct-adjacent-unrelated vakaları."}
+{"ts": "2026-11-11T08:43:56+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 3, "reason": "intent: need/game/jobs net vakalar (mario kart tour=game)."}
+{"ts": "2026-11-11T08:43:56+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; optimizer son kaydı hâlâ 25 Eki (Actions/anahtar/bütçe kontrol edilmeli). Altın niş: koşulları sağlayan yeni aday yok."}

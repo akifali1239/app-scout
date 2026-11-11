@@ -4094,6 +4094,21 @@
    "term": "riverbend family dental",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "tattoo aftercare reminders",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "mario kart tour",
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "term": "looking for a plumber",
+   "label": "jobs",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -64704,6 +64719,142 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "rebar weight calculator",
+   "apps": [
+    {
+     "name": "Rebar Weight Calc",
+     "dev": "Dev",
+     "ratings": 420,
+     "desc": "Compute rebar weight per length by bar size."
+    },
+    {
+     "name": "Concrete Mix Guide",
+     "dev": "Dev",
+     "ratings": 800,
+     "desc": "Concrete mix ratios reference."
+    },
+    {
+     "name": "Fitness Log",
+     "dev": "Dev",
+     "ratings": 3000,
+     "desc": "Workout tracker."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hvac load calculator",
+   "apps": [
+    {
+     "name": "HVAC Load Calc Pro",
+     "dev": "Dev",
+     "ratings": 650,
+     "desc": "Manual J style heating and cooling load calculator."
+    },
+    {
+     "name": "HVAC Tech Toolkit",
+     "dev": "Dev",
+     "ratings": 1200,
+     "desc": "Superheat, subcooling, PT charts."
+    },
+    {
+     "name": "Recipe Box",
+     "dev": "Dev",
+     "ratings": 500,
+     "desc": "Save recipes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "electrician conduit bending",
+   "apps": [
+    {
+     "name": "Conduit Bend Calc",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Offsets, kicks and saddles for EMT conduit bending."
+    },
+    {
+     "name": "Wire Size Chart",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Wire gauge ampacity table."
+    },
+    {
+     "name": "Pixel Painter",
+     "dev": "Dev",
+     "ratings": 90,
+     "desc": "Draw pixel art."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "farrier horseshoe log",
+   "apps": [
+    {
+     "name": "Farrier Notes",
+     "dev": "Dev",
+     "ratings": 60,
+     "desc": "Track horse hoof trims and shoeing per client."
+    },
+    {
+     "name": "Horse Racing Odds",
+     "dev": "Dev",
+     "ratings": 2000,
+     "desc": "Racing odds and results."
+    },
+    {
+     "name": "Plant ID",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Identify plants."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

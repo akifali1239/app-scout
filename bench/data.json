@@ -65724,6 +65724,142 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "joist span calculator",
+   "apps": [
+    {
+     "name": "Joist Span Pro",
+     "dev": "Frame Dev",
+     "ratings": 350,
+     "desc": "Floor joist span by lumber size, spacing and species."
+    },
+    {
+     "name": "Deck Planner",
+     "dev": "Deck Dev",
+     "ratings": 2100,
+     "desc": "Design deck layouts and estimate boards."
+    },
+    {
+     "name": "Chess Openings",
+     "dev": "Pawn",
+     "ratings": 8000,
+     "desc": "Learn chess openings."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pipe thread chart npt",
+   "apps": [
+    {
+     "name": "NPT Thread Chart",
+     "dev": "Pipe Dev",
+     "ratings": 260,
+     "desc": "NPT and BSP thread sizes, tap drill and pitch reference."
+    },
+    {
+     "name": "Plumber Invoice",
+     "dev": "Bill Dev",
+     "ratings": 900,
+     "desc": "Create invoices for plumbing jobs."
+    },
+    {
+     "name": "Meme Maker",
+     "dev": "Fun",
+     "ratings": 12000,
+     "desc": "Make memes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "hvac duct size calculator",
+   "apps": [
+    {
+     "name": "Duct Sizer",
+     "dev": "Air Dev",
+     "ratings": 480,
+     "desc": "Round and rectangular duct sizing by CFM and friction rate."
+    },
+    {
+     "name": "HVAC Field Service CRM",
+     "dev": "Svc",
+     "ratings": 3000,
+     "desc": "Dispatch and schedule HVAC technicians."
+    },
+    {
+     "name": "Sleep Sounds",
+     "dev": "Zz",
+     "ratings": 15000,
+     "desc": "Sleep sounds."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "wire gauge ampacity chart",
+   "apps": [
+    {
+     "name": "Ampacity Chart",
+     "dev": "Amp Dev",
+     "ratings": 310,
+     "desc": "NEC ampacity table by wire size, insulation and temperature."
+    },
+    {
+     "name": "Electrician Timesheet",
+     "dev": "Time",
+     "ratings": 1500,
+     "desc": "Track hours for electricians."
+    },
+    {
+     "name": "Puzzle Words",
+     "dev": "Fun",
+     "ratings": 7000,
+     "desc": "Word puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -70547,6 +70683,36 @@
    "hi": "welding heat input calculator",
    "lo": "emoji keyboard",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex rn practice questions",
+   "lo": "qr code scanner",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic protocol reference",
+   "lo": "fortune teller",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "stud spacing calculator",
+   "lo": "ai video generator with avatars",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl air brakes test",
+   "lo": "flashlight",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "tig welding settings chart",
+   "lo": "color by number",
+   "split": "dev"
   }
  ],
  "note": [

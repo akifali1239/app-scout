@@ -4024,6 +4024,31 @@
    "term": "tip calculator",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "rn dosage calculation practice",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "ems protocols pocket",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "plumbing code quiz",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "mechanic hiring near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "minecraft pocket",
+   "label": "game",
+   "split": "test"
   }
  ],
  "brand": [
@@ -49404,6 +49429,61 @@
    ],
    "label": true,
    "split": "dev"
+  },
+  {
+   "term": "scuba trade ou",
+   "top": [
+    {
+     "name": "Суbеr Shiеld - Wеb Dеfеndеr",
+     "dev": "Scuba trade OU",
+     "ratings": 342,
+     "desc": "Cуbеr Shiеld - Wеb Dеfеndеr is a tool that combines the necessary functions for safe work on the Internet. It blocks ads, prevents visits to dangerous sites, improves page loading speed and protects y"
+    },
+    {
+     "name": "PADI",
+     "dev": "PADI Americas, Inc.",
+     "ratings": 45697,
+     "desc": "The New PADI App\nLearn, log, stay inspired , and book your next adventure\n\n…all in one app.\n\n\n\nLearn Anywhere\nBoth online and offline. \nThe best scuba diving training materials in the world are availa"
+    },
+    {
+     "name": "Scuba Diving Computer Oceanic+",
+     "dev": "Huish Outdoors, LLC",
+     "ratings": 4681,
+     "desc": "Dive into a World of Adventure with Oceanic+ on Your Apple Watch Ultra!\nReady to make every dive or snorkeling experience an unforgettable journey? \nOceanic+ transforms your Apple Watch Ultra into a f"
+    },
+    {
+     "name": "SSI App - Education and Fun",
+     "dev": "HEAD Watersports GmbH",
+     "ratings": 8383,
+     "desc": "DIGITAL DIVE LOG\nFast dive logging for scuba, freediving, extended range & rebreather dives. Sync from Mares, Suunto, Shearwater, Aqualung & more. GPS tagging, QR codes & Dive Site Database included.\n"
+    },
+    {
+     "name": "Breathe - Smart Scuba Dive Log",
+     "dev": "EPIC APPS UK",
+     "ratings": 297,
+     "desc": "Breathe is an innovative digital scuba dive log set to revolutionise the world of recreational scuba diving. Gone are the days when you need to carry around a paper log book to log your dives (never m"
+    },
+    {
+     "name": "Dive+ World's Diving Community",
+     "dev": "Life Plus Tech (Shenzhen) Co., Ltd.",
+     "ratings": 2571,
+     "desc": "All about diving, all in Dive+ APP!\n\n[ BUDDIES WORLDWIDE ]\nDivers from 200+ countries are sharing their diving experiences and infos of dive sites. You can explore what is happening in dive locations,"
+    },
+    {
+     "name": "Garmin Dive™",
+     "dev": "Garmin",
+     "ratings": 852,
+     "desc": "Whether you’re a beginner or an experienced diver, Garmin Dive is the ultimate diving companion. Once you pair your phone with a Descent™ dive computer or another compatible Garmin device¹, you can en"
+    },
+    {
+     "name": "Apnea Freediving Exercises",
+     "dev": "SleepyBytes SIA",
+     "ratings": 2950,
+     "desc": "Are you an underwater enthusiast looking to improve your freediving, apnea, and diving skills? Look no further than this app, designed to help you train your body to stay longer underwater without bre"
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [
@@ -71181,6 +71261,16 @@
    "note": "Bu işi yapan neredeyse kimse yok, ilk sayfa boş gibi",
    "label": "Boş alan / fırsat",
    "split": "test"
+  },
+  {
+   "note": "Ayda üç yeni rakip girdi, hepsi aynı şeyi yapıyor",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bu aramaya özel bir app yapmamış, boşluk var",
+   "label": "Boş alan / fırsat",
+   "split": "train"
   }
  ],
  "kind": [

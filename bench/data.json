@@ -4089,6 +4089,11 @@
    "term": "loan officer exam prep",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "riverbend family dental",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -66506,6 +66511,21 @@
    "app": "Offline dictionary of electrical wiring terms.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Gives step-by-step legal advice and drafts court filings for tenants facing eviction, replacing a lawyer.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Converts between metric and imperial pipe sizes with a simple lookup table.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Contains the full text of copyrighted NFPA 70E tables for electrical safety exams.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -69382,6 +69402,18 @@
    "hi": "cna state exam practice",
    "lo": "emoji stickers",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician license exam prep",
+   "lo": "dice roller",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "pipefitter apprenticeship exam prep",
+   "lo": "coin flip",
+   "split": "dev"
   }
  ],
  "note": [
@@ -71413,6 +71445,16 @@
   {
    "note": "İlk sayfadaki app'lerin hiçbiri bu işi yapmıyor, rakipsiz bir boşluk",
    "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Birkaç app var ama hiçbiri bunu tam yapmıyor, boşluk görünüyor",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Sorgu app mağazasındaki işle bağlantısız, tamamen alakasız sonuçlar",
+   "label": "Alakasız",
    "split": "test"
   }
  ],
@@ -75187,6 +75229,33 @@
    },
    "label": "service",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Concrete Mix Ratio Calc",
+    "category": "Utilities",
+    "desc": "Enter slab size and get cement, sand and gravel quantities."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "ChefGPT Recipe Chat",
+    "category": "Food & Drink",
+    "desc": "Chat with an AI assistant that writes recipes from your fridge contents."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Drug Interaction Checker Reference",
+    "category": "Medical",
+    "desc": "Look up interactions, dosing and side effects for thousands of medications."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

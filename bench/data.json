@@ -4109,6 +4109,26 @@
    "term": "looking for a plumber",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "diesel mechanic openings",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "dental hygienist staffing agency",
+   "label": "jobs",
+   "split": "train"
+  },
+  {
+   "term": "sunrise pediatric dentistry",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "lakeview animal hospital",
+   "label": "local_business",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -69634,6 +69654,42 @@
    "dim": "audience",
    "hi": "hvac load calculator",
    "lo": "rock paper scissors",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cpa exam prep",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam simulator",
+   "lo": "wallpapers",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "nclex rn practice questions",
+   "lo": "recipe app",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "journeyman electrician exam prep",
+   "lo": "emoji keyboard",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator",
+   "lo": "video editor",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque conversion chart",
+   "lo": "social network",
    "split": "dev"
   }
  ],

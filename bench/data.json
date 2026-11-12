@@ -68898,6 +68898,36 @@
    "app": "Shows funny cat wallpapers for your lock screen, updated daily.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Diagnoses ear infections by pointing the phone camera into a child's ear.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Buy and sell cryptocurrency with leverage trading up to 100x.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Download paid iPhone apps and games for free with a cracked app store.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates the right chemotherapy dose for each patient from weight and lab results.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Flashcards for EMT certification exam with scenario quizzes.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Study guide and practice tests for the electrician journeyman licensing exam.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

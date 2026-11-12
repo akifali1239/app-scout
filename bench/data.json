@@ -78213,6 +78213,60 @@
    },
    "label": "game",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Converter",
+    "category": "Utilities",
+    "desc": "Convert between ft-lb, Nm and in-lb with extension and adapter correction."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ICD-10 Quick Lookup",
+    "category": "Medical",
+    "desc": "Searchable offline list of ICD-10-CM codes with descriptions and notes."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Contract Review AI",
+    "category": "Productivity",
+    "desc": "Upload a contract and an AI assistant summarizes clauses and flags risks."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Mobile Notary Booking",
+    "category": "Business",
+    "desc": "Book a licensed mobile notary to come to your home or office, same day."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Idle Plumber Tycoon",
+    "category": "Games",
+    "desc": "Tap to repair pipes, upgrade your van and grow your plumbing empire."
+   },
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Daily Bible Podcast Stories",
+    "category": "Lifestyle",
+    "desc": "Listen to short daily audio stories and devotionals, new episodes every morning."
+   },
+   "label": "content",
+   "split": "test"
   }
  ]
 }

@@ -73682,6 +73682,36 @@
    "note": "Arama sonuçlarında aynı özelliklere sahip yüzlerce app var",
    "label": "Çok rekabet / doygun",
    "split": "dev"
+  },
+  {
+   "note": "Bu kategoride App Store'un ilk sayfası dev firmalarla dolu, girmek anlamsız",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kullanıcıların çoğu bunu ücretsiz web sitesinden yapıyor, ödeme yapmazlar",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Listede bu kartı üçüncü kez görüyorum, hep aynı fikir",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Rakip app'in ekran görüntüleri 2019'dan kalma ve hiç güncellenmemiş",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Pazar o kadar küçük ki reklam maliyetini bile çıkaramaz",
+   "label": "Para yapmaz",
+   "split": "train"
+  },
+  {
+   "note": "Yine aynı kart farklı isimle önüme geldi",
+   "label": "Çok benzer",
+   "split": "test"
   }
  ],
  "kind": [

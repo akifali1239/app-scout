@@ -68500,6 +68500,26 @@
    "app": "Spanish verb conjugation flashcards for beginners.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Calculates the correct drip rate for IV fluids from the ordered volume and time so nurses can set the pump.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tracks your daily water intake with cute animated reminders and a streak counter.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts a pilot's weight and balance figures and computes center of gravity for a loaded aircraft.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Shows funny cat wallpapers for your lock screen, updated daily.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -77637,6 +77657,51 @@
     "desc": "Chat with an AI assistant powered by GPT that writes and rewrites your resume."
    },
    "label": "ai_wrapper",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Converter",
+    "category": "Utilities",
+    "desc": "Converts between ft-lb, N·m and in-lb for mechanics and technicians."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Nursing Lab Values Guide",
+    "category": "Medical",
+    "desc": "Searchable normal ranges and clinical significance for common lab tests."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "AI Cover Letter Generator",
+    "category": "Productivity",
+    "desc": "Type your job title and get an AI written cover letter in seconds."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Mobile Notary Booking",
+    "category": "Business",
+    "desc": "Book a mobile notary to come to your home or office and sign documents."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Farm Tycoon Idle",
+    "category": "Games",
+    "desc": "Build your farm empire, upgrade barns and collect coins in this idle game."
+   },
+   "label": "game",
    "split": "train"
   }
  ]

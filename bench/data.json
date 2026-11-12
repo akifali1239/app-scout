@@ -71292,6 +71292,60 @@
    "hi": "tig welding settings chart",
    "lo": "color by number",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician conduit fill calculator",
+   "lo": "ringtone maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "bar exam practice questions",
+   "lo": "meme generator",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "plumbing pipe sizing calculator",
+   "lo": "live wallpaper",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "concrete volume calculator",
+   "lo": "multiplayer battle royale",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "wire gauge ampacity chart",
+   "lo": "ai photo editor",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "drill bit size chart",
+   "lo": "food delivery marketplace",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "dental hygiene board exam prep",
+   "lo": "baby sleep sounds",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "crane signal hand reference",
+   "lo": "cute sticker maker",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "surveyor stakeout calculator",
+   "lo": "horoscope daily",
+   "split": "dev"
   }
  ],
  "note": [

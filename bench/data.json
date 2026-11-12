@@ -74528,6 +74528,36 @@
    "note": "Sunucu, canlı veri ve lisans gerekir, tek başıma yetişemem",
    "label": "Yapması zor",
    "split": "train"
+  },
+  {
+   "note": "Bu işte üç şirketin yüz binlerce yorumlu app'i var, ilk sayfayı onlar tutuyor",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kategori lideri iki milyon indirmeli, küçük bir geliştirici asla yetişemez bu pazarda",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Sonuçlarda tek bir alakalı app yok, hepsi başka şeyler; arama bomboş",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Bu meslek için özel bir araç hiç yapılmamış, rakipsiz alan",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Aynı fikri yapan app'ler zaten var ve neredeyse birebir aynı çalışıyor, farkım yok",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Arama sonuçlarında bu işe özel hiçbir app yok, ilk sayfa tamamen boş",
+   "label": "Boş alan / fırsat",
+   "split": "train"
   }
  ],
  "kind": [

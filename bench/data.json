@@ -78313,6 +78313,60 @@
    },
    "label": "content",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rebar Weight Calculator",
+    "category": "Utilities",
+    "desc": "Calculates rebar weight by size and length for construction takeoffs."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pharmacology Drug Cards",
+    "category": "Medical",
+    "desc": "Searchable offline monograph cards with dosing, interactions and side effects."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Resume Rewrite AI",
+    "category": "Productivity",
+    "desc": "Paste your resume and let AI rewrite bullets with GPT for any job."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Home Inspector Report Pro",
+    "category": "Business",
+    "desc": "Hire a licensed home inspector; book appointments and receive your inspection report."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Block Puzzle Quest",
+    "category": "Games",
+    "desc": "Match colorful blocks, beat levels and earn rewards in this puzzle game."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Welding Safety Podcast",
+    "category": "Education",
+    "desc": "Weekly audio episodes and interviews about shop safety stories."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

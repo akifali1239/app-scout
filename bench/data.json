@@ -66414,6 +66414,210 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "rebar bending schedule",
+   "apps": [
+    {
+     "name": "Rebar Schedule Pro",
+     "dev": "Steel Tools LLC",
+     "ratings": 150,
+     "desc": "Create rebar bending schedules and cut lists for concrete jobs."
+    },
+    {
+     "name": "Concrete Mix Calc",
+     "dev": "Build Apps",
+     "ratings": 400,
+     "desc": "Estimate concrete volume for slabs."
+    },
+    {
+     "name": "Candy Match",
+     "dev": "Fun Games",
+     "ratings": 9000,
+     "desc": "Match candies."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "ekg rhythm quiz",
+   "apps": [
+    {
+     "name": "EKG Rhythm Trainer",
+     "dev": "Cardio Learn",
+     "ratings": 800,
+     "desc": "Practice identifying ECG rhythms with quiz questions and explanations."
+    },
+    {
+     "name": "Heart Rate Monitor",
+     "dev": "Pulse Co",
+     "ratings": 5000,
+     "desc": "Measure heart rate with your camera."
+    },
+    {
+     "name": "Pizza Maker",
+     "dev": "Cook Fun",
+     "ratings": 2000,
+     "desc": "Cooking game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "hvac load calculator",
+   "apps": [
+    {
+     "name": "HVAC Load Calc",
+     "dev": "Cool Eng",
+     "ratings": 300,
+     "desc": "Manual J style heating and cooling load calculator for technicians."
+    },
+    {
+     "name": "Thermostat Remote",
+     "dev": "Home Co",
+     "ratings": 20000,
+     "desc": "Control your smart thermostat."
+    },
+    {
+     "name": "Emoji Keyboard",
+     "dev": "Keys Inc",
+     "ratings": 7000,
+     "desc": "Fun emoji keyboard."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "notary journal",
+   "apps": [
+    {
+     "name": "Notary Journal Pro",
+     "dev": "Sign Dev",
+     "ratings": 600,
+     "desc": "Digital notary journal to log notarizations with signer details."
+    },
+    {
+     "name": "PDF Signer",
+     "dev": "Doc Tools",
+     "ratings": 12000,
+     "desc": "Sign PDF documents."
+    },
+    {
+     "name": "Photo Collage",
+     "dev": "Pic Co",
+     "ratings": 30000,
+     "desc": "Make collages."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "dog grooming invoice",
+   "apps": [
+    {
+     "name": "Groomer Invoice",
+     "dev": "Pet Biz",
+     "ratings": 90,
+     "desc": "Invoices and client records for dog groomers."
+    },
+    {
+     "name": "Dog Training Tips",
+     "dev": "Paws",
+     "ratings": 1500,
+     "desc": "Tips for training your dog."
+    },
+    {
+     "name": "Racing Moto",
+     "dev": "Speed Games",
+     "ratings": 40000,
+     "desc": "Racing game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "cdl practice test",
+   "apps": [
+    {
+     "name": "CDL Prep Pro",
+     "dev": "Truck Learn",
+     "ratings": 2500,
+     "desc": "CDL permit practice tests for general knowledge, air brakes and hazmat."
+    },
+    {
+     "name": "Trucker Path",
+     "dev": "Road Co",
+     "ratings": 15000,
+     "desc": "Find truck stops and parking."
+    },
+    {
+     "name": "Bubble Shooter",
+     "dev": "Pop Games",
+     "ratings": 8000,
+     "desc": "Shoot bubbles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

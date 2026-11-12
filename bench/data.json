@@ -67042,6 +67042,210 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "rebar spacing calculator",
+   "apps": [
+    {
+     "name": "Rebar Calc Pro",
+     "dev": "BuildTools LLC",
+     "ratings": 420,
+     "desc": "Calculate rebar spacing, quantity and weight for slabs and footings."
+    },
+    {
+     "name": "Concrete Mixer Game",
+     "dev": "Funplay",
+     "ratings": 8000,
+     "desc": "Drive a mixer truck in a casual game."
+    },
+    {
+     "name": "Notes",
+     "dev": "Apple",
+     "ratings": 9999,
+     "desc": "Simple notes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "hvac load calculation",
+   "apps": [
+    {
+     "name": "HVAC Load Calc",
+     "dev": "CoolSoft",
+     "ratings": 1100,
+     "desc": "Manual J style heating and cooling load estimates for technicians."
+    },
+    {
+     "name": "Thermostat Remote",
+     "dev": "Climate Co",
+     "ratings": 30000,
+     "desc": "Control your smart thermostat from your phone."
+    },
+    {
+     "name": "Fan Sounds",
+     "dev": "Zen Apps",
+     "ratings": 500,
+     "desc": "White noise fan sounds for sleep."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "farrier horseshoe log",
+   "apps": [
+    {
+     "name": "Farrier Log",
+     "dev": "HoofNotes",
+     "ratings": 90,
+     "desc": "Track horseshoe appointments, client horses and trim cycles for farriers."
+    },
+    {
+     "name": "Horse Racing Manager",
+     "dev": "StableSim",
+     "ratings": 40000,
+     "desc": "Race horses in a strategy game."
+    },
+    {
+     "name": "Pet Vet Diary",
+     "dev": "PawTech",
+     "ratings": 2000,
+     "desc": "Vaccination diary for dogs and cats."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "scaffold load capacity",
+   "apps": [
+    {
+     "name": "Scaffold Capacity",
+     "dev": "SiteSafe",
+     "ratings": 260,
+     "desc": "Check scaffold platform load ratings and bay capacity."
+    },
+    {
+     "name": "Scaffold Inspection Checklist",
+     "dev": "SiteSafe",
+     "ratings": 900,
+     "desc": "Daily scaffold inspection tag and checklist for crews."
+    },
+    {
+     "name": "Block Puzzle",
+     "dev": "Casual Inc",
+     "ratings": 60000,
+     "desc": "Classic block puzzle game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "beekeeper hive inspection",
+   "apps": [
+    {
+     "name": "Hive Tracker",
+     "dev": "ApiaryApps",
+     "ratings": 700,
+     "desc": "Log hive inspections, queen status and honey yield for beekeepers."
+    },
+    {
+     "name": "Beekeeping Inspection Notes",
+     "dev": "BeeLog",
+     "ratings": 150,
+     "desc": "Record colony inspections and treatments."
+    },
+    {
+     "name": "Bee Sticker Pack",
+     "dev": "Stickers Co",
+     "ratings": 300,
+     "desc": "Cute bee emoji stickers."
+    }
+   ],
+   "labels": [
+    1,
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "direct",
+    "unrelated"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "stud finder wall",
+   "apps": [
+    {
+     "name": "Magnetic Stud Finder",
+     "dev": "DIY Labs",
+     "ratings": 8000,
+     "desc": "Use phone magnetometer to find studs in drywall."
+    },
+    {
+     "name": "Wall Paint Visualizer",
+     "dev": "ColorHome",
+     "ratings": 15000,
+     "desc": "Preview paint colors on your wall photos."
+    },
+    {
+     "name": "Drywall Calculator",
+     "dev": "BuildTools LLC",
+     "ratings": 500,
+     "desc": "Estimate drywall sheets and screws needed."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

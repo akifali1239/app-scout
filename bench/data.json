@@ -50039,6 +50039,70 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "nurse.com",
+   "top": [
+    {
+     "name": "Nurse.com",
+     "dev": "Relias LLC",
+     "ratings": 12000,
+     "desc": "Continuing education and jobs for nurses."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "quickbooks",
+   "top": [
+    {
+     "name": "QuickBooks Accounting",
+     "dev": "Intuit",
+     "ratings": 300000,
+     "desc": "Invoicing and accounting."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "plumbing formulas",
+   "top": [
+    {
+     "name": "Plumbing Formulas",
+     "dev": "Dev X",
+     "ratings": 400,
+     "desc": "Pipe sizing formulas for plumbers."
+    },
+    {
+     "name": "Plumber Toolkit",
+     "dev": "Dev Y",
+     "ratings": 700,
+     "desc": "Calculators for plumbers."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "electrician exam prep",
+   "top": [
+    {
+     "name": "Electrician Exam Prep",
+     "dev": "Dev A",
+     "ratings": 1500,
+     "desc": "Practice questions."
+    },
+    {
+     "name": "Journeyman Test",
+     "dev": "Dev B",
+     "ratings": 800,
+     "desc": "Journeyman practice test."
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [
@@ -65847,6 +65911,278 @@
      "dev": "Fun",
      "ratings": 7000,
      "desc": "Word puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "concrete volume calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc",
+     "dev": "BuildTools",
+     "ratings": 2400,
+     "desc": "Calculate cubic yards of concrete for slabs, footings and columns."
+    },
+    {
+     "name": "Mason Notes",
+     "dev": "Stone Co",
+     "ratings": 800,
+     "desc": "Notes for masons."
+    },
+    {
+     "name": "Block Puzzle",
+     "dev": "Fun",
+     "ratings": 9000,
+     "desc": "Classic block puzzle game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pipe offset calculator",
+   "apps": [
+    {
+     "name": "Pipe Offset Pro",
+     "dev": "Trade Apps",
+     "ratings": 1100,
+     "desc": "Compute travel and run for 22.5, 30, 45 degree pipe offsets."
+    },
+    {
+     "name": "Plumber Invoice",
+     "dev": "Inv LLC",
+     "ratings": 600,
+     "desc": "Invoices for plumbers."
+    },
+    {
+     "name": "Photo Collage",
+     "dev": "Pic",
+     "ratings": 5000,
+     "desc": "Make collages."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "rebar weight calculator",
+   "apps": [
+    {
+     "name": "Rebar Weight",
+     "dev": "Civil Dev",
+     "ratings": 300,
+     "desc": "Weight and length of rebar by bar size."
+    },
+    {
+     "name": "Concrete Mix Notes",
+     "dev": "Civil Dev",
+     "ratings": 150,
+     "desc": "Mix design notes."
+    },
+    {
+     "name": "Meme Maker",
+     "dev": "Fun",
+     "ratings": 20000,
+     "desc": "Create memes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "nclex pharmacology flashcards",
+   "apps": [
+    {
+     "name": "NCLEX Pharm Cards",
+     "dev": "Nurse Prep",
+     "ratings": 5200,
+     "desc": "Flashcards for nursing pharmacology drug classes for the NCLEX."
+    },
+    {
+     "name": "Nurse Shift Planner",
+     "dev": "Plan",
+     "ratings": 900,
+     "desc": "Plan nursing shifts."
+    },
+    {
+     "name": "Piano Tiles",
+     "dev": "Game",
+     "ratings": 30000,
+     "desc": "Tap the tiles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "roofing pitch calculator",
+   "apps": [
+    {
+     "name": "Roof Pitch Calc",
+     "dev": "Roof Dev",
+     "ratings": 700,
+     "desc": "Convert roof pitch to angle and rafter length."
+    },
+    {
+     "name": "Roofing Estimates",
+     "dev": "Roof Dev",
+     "ratings": 400,
+     "desc": "Estimate roofing job costs."
+    },
+    {
+     "name": "Sudoku Daily",
+     "dev": "Puz",
+     "ratings": 8000,
+     "desc": "Daily sudoku."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "cdl pre trip inspection",
+   "apps": [
+    {
+     "name": "CDL Pre-Trip Checklist",
+     "dev": "Truck Prep",
+     "ratings": 3100,
+     "desc": "Step by step CDL pre-trip inspection script for the road test."
+    },
+    {
+     "name": "Trucker Path Maps",
+     "dev": "Maps Inc",
+     "ratings": 90000,
+     "desc": "Truck stops and parking."
+    },
+    {
+     "name": "Solitaire Pro",
+     "dev": "Cards",
+     "ratings": 12000,
+     "desc": "Card game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "hvac superheat subcooling calculator",
+   "apps": [
+    {
+     "name": "Superheat Subcool",
+     "dev": "HVAC Dev",
+     "ratings": 500,
+     "desc": "Superheat and subcooling from pressure and temperature readings."
+    },
+    {
+     "name": "HVAC Invoice",
+     "dev": "Inv",
+     "ratings": 250,
+     "desc": "Invoice app for HVAC."
+    },
+    {
+     "name": "Coloring Book",
+     "dev": "Art",
+     "ratings": 6000,
+     "desc": "Coloring."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "surveying coordinate converter",
+   "apps": [
+    {
+     "name": "Survey Coord Convert",
+     "dev": "Geo Dev",
+     "ratings": 200,
+     "desc": "Convert between lat/long, UTM and state plane coordinates."
+    },
+    {
+     "name": "Fishing Log",
+     "dev": "Fish",
+     "ratings": 300,
+     "desc": "Log catches."
+    },
+    {
+     "name": "Bubble Pop",
+     "dev": "Fun",
+     "ratings": 4000,
+     "desc": "Pop bubbles."
     }
    ],
    "labels": [

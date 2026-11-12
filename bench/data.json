@@ -4204,6 +4204,31 @@
    "term": "phlebotomy exam practice",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "monopoly go",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "cdl practice test",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "lifeguard jobs hiring",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "bright smiles dental of austin",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "farm simulator",
+   "label": "game",
+   "split": "train"
   }
  ],
  "brand": [
@@ -50103,6 +50128,81 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "uptodate",
+   "top": [
+    {
+     "name": "UpToDate",
+     "dev": "UpToDate, Inc.",
+     "ratings": 9000,
+     "desc": "Clinical decision support."
+    },
+    {
+     "name": "Medscape",
+     "dev": "WebMD",
+     "ratings": 40000,
+     "desc": "Medical reference."
+    },
+    {
+     "name": "Lexicomp",
+     "dev": "Wolters Kluwer",
+     "ratings": 5000,
+     "desc": "Drug info."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "medscape",
+   "top": [
+    {
+     "name": "Medscape",
+     "dev": "WebMD LLC",
+     "ratings": 40000,
+     "desc": "Medical news and drug reference."
+    },
+    {
+     "name": "Epocrates",
+     "dev": "Epocrates",
+     "ratings": 30000,
+     "desc": "Drug reference."
+    },
+    {
+     "name": "Drugs.com",
+     "dev": "Drugs.com",
+     "ratings": 20000,
+     "desc": "Pill identifier."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "bubble level",
+   "top": [
+    {
+     "name": "Bubble Level",
+     "dev": "Dev A",
+     "ratings": 3000,
+     "desc": "Simple level tool."
+    },
+    {
+     "name": "Level Pro",
+     "dev": "Dev B",
+     "ratings": 1200,
+     "desc": "Spirit level and angle."
+    },
+    {
+     "name": "Spirit Level",
+     "dev": "Dev C",
+     "ratings": 900,
+     "desc": "Measure tilt."
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [
@@ -73196,6 +73296,16 @@
    "note": "Mağazada aynı işi yapan 60 app var, hepsi 4.8 puanlı",
    "label": "Çok rekabet / doygun",
    "split": "test"
+  },
+  {
+   "note": "Sadece tek bir şirketin iç ekibi kullanıyor, dışarıya satılamaz",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Arama sonuçlarında aynı özelliklere sahip yüzlerce app var",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
   }
  ],
  "kind": [

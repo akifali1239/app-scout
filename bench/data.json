@@ -4229,6 +4229,36 @@
    "term": "farm simulator",
    "label": "game",
    "split": "train"
+  },
+  {
+   "term": "khan academy",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "figma",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "notion",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "pharmacology flashcards",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "hvac duct sizing",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "canva",
+   "label": "brand",
+   "split": "train"
   }
  ],
  "brand": [
@@ -50199,6 +50229,94 @@
      "dev": "Dev C",
      "ratings": 900,
      "desc": "Measure tilt."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "khan academy",
+   "top": [
+    {
+     "name": "Khan Academy",
+     "dev": "Khan Academy",
+     "ratings": 250000,
+     "desc": "Free lessons, practice and videos for math, science and more."
+    },
+    {
+     "name": "Khan Academy Kids",
+     "dev": "Khan Academy",
+     "ratings": 300000,
+     "desc": "Free educational program for kids ages 2-8."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "figma",
+   "top": [
+    {
+     "name": "Figma",
+     "dev": "Figma, Inc.",
+     "ratings": 8000,
+     "desc": "View and comment on Figma designs on the go."
+    },
+    {
+     "name": "Figma Mirror",
+     "dev": "Figma, Inc.",
+     "ratings": 1500,
+     "desc": "Preview your designs on a device."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pharmacology flashcards",
+   "top": [
+    {
+     "name": "Pharm Flashcards",
+     "dev": "Dev A",
+     "ratings": 900,
+     "desc": "Flashcards for drug classes and mechanisms."
+    },
+    {
+     "name": "Drug Cards NCLEX",
+     "dev": "Dev B",
+     "ratings": 600,
+     "desc": "Memorize common medications for nursing exams."
+    },
+    {
+     "name": "PharmaCards",
+     "dev": "Dev C",
+     "ratings": 400,
+     "desc": "Study drug names and side effects."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "hvac duct sizing",
+   "top": [
+    {
+     "name": "Duct Calc",
+     "dev": "Dev A",
+     "ratings": 700,
+     "desc": "Size round and rectangular ducts by CFM and friction rate."
+    },
+    {
+     "name": "HVAC Tools",
+     "dev": "Dev B",
+     "ratings": 500,
+     "desc": "Duct sizing and load calculators for technicians."
+    },
+    {
+     "name": "AirDuct Pro",
+     "dev": "Dev C",
+     "ratings": 200,
+     "desc": "Quick duct sizing chart."
     }
    ],
    "label": false,

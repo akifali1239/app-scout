@@ -4259,6 +4259,36 @@
    "term": "canva",
    "label": "brand",
    "split": "train"
+  },
+  {
+   "term": "udemy",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "ekg rhythm practice",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "emt jobs near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "maple grove pediatric dentistry",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "bus driving simulator",
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "term": "pipe thread chart",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -66618,6 +66648,108 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "emt bending offset calculator",
+   "apps": [
+    {
+     "name": "Offset Bender",
+     "dev": "Sparky Tools",
+     "ratings": 900,
+     "desc": "Offset, kick and saddle bend math for EMT conduit."
+    },
+    {
+     "name": "Electrician's Toolkit",
+     "dev": "Volt Apps",
+     "ratings": 4000,
+     "desc": "Wire size, voltage drop and conduit fill calculators."
+    },
+    {
+     "name": "Tile Puzzle",
+     "dev": "Fun Games",
+     "ratings": 3000,
+     "desc": "Match tiles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pharmacy dosage calculator",
+   "apps": [
+    {
+     "name": "PharmCalc",
+     "dev": "RxDev",
+     "ratings": 1200,
+     "desc": "Pediatric and adult drug dose calculator for pharmacists."
+    },
+    {
+     "name": "GoodRx",
+     "dev": "GoodRx",
+     "ratings": 600000,
+     "desc": "Find coupons and save on prescriptions."
+    },
+    {
+     "name": "Sudoku Daily",
+     "dev": "Brain Co",
+     "ratings": 9000,
+     "desc": "Number puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "land survey angle converter",
+   "apps": [
+    {
+     "name": "Survey Angles",
+     "dev": "GeoTools",
+     "ratings": 300,
+     "desc": "Convert DMS, decimal degrees, gradians and bearings for surveyors."
+    },
+    {
+     "name": "Compass Pro",
+     "dev": "Nav Inc",
+     "ratings": 5000,
+     "desc": "Digital compass."
+    },
+    {
+     "name": "Cooking Fever",
+     "dev": "Nordcurrent",
+     "ratings": 90000,
+     "desc": "Restaurant game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

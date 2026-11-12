@@ -50597,6 +50597,42 @@
    "top": [],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "rn pharmacology made easy",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "lexicomp",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "ekg interpretation guide",
+   "top": [],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "raken",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "plumbing code quick reference",
+   "top": [],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "sitelink3d",
+   "top": [],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

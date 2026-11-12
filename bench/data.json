@@ -72096,6 +72096,42 @@
    "hi": "surveyor stakeout helper",
    "lo": "trivia party game",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pharmacy technician calculations drug dosage",
+   "lo": "free ringtone maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl pre trip inspection checklist",
+   "lo": "cute sticker maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate exam prep license",
+   "lo": "pixel art coloring",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "concrete yardage calculator",
+   "lo": "ai girlfriend chat companion",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "hvac load calculation btu",
+   "lo": "online dating matchmaking platform",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "crane operator load chart",
+   "lo": "meme generator",
+   "split": "train"
   }
  ],
  "note": [

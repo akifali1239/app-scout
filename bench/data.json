@@ -50750,6 +50750,30 @@
    "top": [],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "quizlet flashcards",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pharmacology flashcards nursing",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "cpr training pocket card",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "sonic mixer",
+   "top": [],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [
@@ -67557,6 +67581,108 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "pipe sizing chart",
+   "apps": [
+    {
+     "name": "Pipe Flow Sizer",
+     "dev": "FluidApps",
+     "ratings": 900,
+     "desc": "Size pipes by flow rate and pressure drop."
+    },
+    {
+     "name": "Pasta Maker",
+     "dev": "Chef Co",
+     "ratings": 3000,
+     "desc": "Pasta recipes."
+    },
+    {
+     "name": "Tile Estimator",
+     "dev": "BuildTools",
+     "ratings": 400,
+     "desc": "Estimate tiles for a floor."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nurse shift swap",
+   "apps": [
+    {
+     "name": "ShiftSwap Nursing",
+     "dev": "MedStaff",
+     "ratings": 1500,
+     "desc": "Swap and trade nursing shifts with coworkers."
+    },
+    {
+     "name": "Calorie Counter",
+     "dev": "FitLab",
+     "ratings": 70000,
+     "desc": "Track calories."
+    },
+    {
+     "name": "Nurse Dosage Calc",
+     "dev": "MedCalc",
+     "ratings": 6000,
+     "desc": "Drug dose calculator."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "barber booking app",
+   "apps": [
+    {
+     "name": "Barber Book",
+     "dev": "CutSoft",
+     "ratings": 800,
+     "desc": "Online booking for barbers and clients."
+    },
+    {
+     "name": "Hair Color Try-On",
+     "dev": "StyleAI",
+     "ratings": 20000,
+     "desc": "Try hair colors with AR."
+    },
+    {
+     "name": "Subway Surfers",
+     "dev": "SYBO",
+     "ratings": 2000000,
+     "desc": "Endless runner game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

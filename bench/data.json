@@ -74849,6 +74849,36 @@
    "note": "Arama sonuçlarında bu işe özel hiçbir app yok, ilk sayfa tamamen boş",
    "label": "Boş alan / fırsat",
    "split": "train"
+  },
+  {
+   "note": "Bu aramada çıkan app'lerin hiçbiri bu mesleğe hitap etmiyor, hepsi genel amaçlı; araya girecek yer var",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Arama sonucunda tek bir ciddi rakip yok, hepsi 50 yorumun altında",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Bu işi yapan birkaç eski app var ama yıllardır güncellenmemiş, boşluk net görünüyor",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "İlk sayfa alakasız app'lerle dolu, bu işe özel bir araç yok; kapı açık",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Rakip sayısı çok az ve hepsi zayıf, burada şansım var gibi",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Bu konuda kimse özel bir uygulama yapmamış, ilk sonuçlar hep genel hesap makineleri",
+   "label": "Boş alan / fırsat",
+   "split": "train"
   }
  ],
  "kind": [

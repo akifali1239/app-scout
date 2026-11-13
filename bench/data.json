@@ -4374,6 +4374,11 @@
    "term": "riverside veterinary hospital portal",
    "label": "local_business",
    "split": "dev"
+  },
+  {
+   "term": "johnson county credit union mobile banking",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [

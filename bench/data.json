@@ -67297,6 +67297,210 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "tile layout calculator",
+   "apps": [
+    {
+     "name": "Tile Calc Pro",
+     "dev": "Dev",
+     "ratings": 1200,
+     "desc": "Calculate tiles, grout and waste for floor and wall layouts."
+    },
+    {
+     "name": "Tile Shop: Floor Designs",
+     "dev": "Dev",
+     "ratings": 30000,
+     "desc": "Browse tile designs and order samples from our store."
+    },
+    {
+     "name": "Tile Match Puzzle",
+     "dev": "Dev",
+     "ratings": 90000,
+     "desc": "Match tiles in this relaxing puzzle game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "gutter slope calculator",
+   "apps": [
+    {
+     "name": "Gutter Pitch",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Work out downspout spacing and gutter slope for installers."
+    },
+    {
+     "name": "Roof Pitch Gauge",
+     "dev": "Dev",
+     "ratings": 2000,
+     "desc": "Measure roof pitch angle with your phone camera."
+    },
+    {
+     "name": "Rain Sounds Sleep",
+     "dev": "Dev",
+     "ratings": 40000,
+     "desc": "Relaxing rain sounds for sleep."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "chimney sweep log",
+   "apps": [
+    {
+     "name": "Sweep Log",
+     "dev": "Dev",
+     "ratings": 120,
+     "desc": "Record chimney inspections, flue sizes and customer visits for sweeps."
+    },
+    {
+     "name": "Fireplace Ambience",
+     "dev": "Dev",
+     "ratings": 25000,
+     "desc": "Burning fireplace video for your TV."
+    },
+    {
+     "name": "Chimney Sweep Services Near Me",
+     "dev": "Dev",
+     "ratings": 80,
+     "desc": "Book a chimney sweep at your door."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "crane load chart",
+   "apps": [
+    {
+     "name": "Crane Load Charts",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Read mobile crane capacity charts, radius and boom angle for operators."
+    },
+    {
+     "name": "Crane Game Arcade",
+     "dev": "Dev",
+     "ratings": 70000,
+     "desc": "Win prizes with the claw crane in this arcade game."
+    },
+    {
+     "name": "Rigging Weight Calculator",
+     "dev": "Dev",
+     "ratings": 500,
+     "desc": "Estimate sling angles and load weights for riggers."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "wood moisture content",
+   "apps": [
+    {
+     "name": "Wood MC Tracker",
+     "dev": "Dev",
+     "ratings": 250,
+     "desc": "Log lumber moisture meter readings and kiln-drying results."
+    },
+    {
+     "name": "Humidity Monitor",
+     "dev": "Dev",
+     "ratings": 12000,
+     "desc": "Track indoor humidity and temperature at home."
+    },
+    {
+     "name": "Woodworking Plans",
+     "dev": "Dev",
+     "ratings": 4000,
+     "desc": "Free woodworking project plans for beginners."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "fence post spacing calculator",
+   "apps": [
+    {
+     "name": "Fence Calc",
+     "dev": "Dev",
+     "ratings": 600,
+     "desc": "Compute posts, rails and pickets for any fence length."
+    },
+    {
+     "name": "Fence Planner AR",
+     "dev": "Dev",
+     "ratings": 150,
+     "desc": "Visualize fence styles on your yard photo."
+    },
+    {
+     "name": "Fencing Sword Game",
+     "dev": "Dev",
+     "ratings": 5000,
+     "desc": "Dueling game with fencing swords."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

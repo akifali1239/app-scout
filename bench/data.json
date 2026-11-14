@@ -70830,6 +70830,21 @@
    "app": "Tells pilots whether fuel on board is sufficient for the planned route and reserves.",
    "label": true,
    "split": "train"
+  },
+  {
+   "app": "Calculates insulin dose from carbs and blood glucose for diabetic patients.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Shows a countdown timer for workouts and rest periods.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts drill bit sizes between fractional inch and millimeter.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -74144,6 +74159,30 @@
    "hi": "torque conversion chart",
    "lo": "ride sharing app",
    "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "social network",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "checklist app",
+   "lo": "multiplayer game",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "dosage calculator",
+   "lo": "video streaming app",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "flashcards",
+   "lo": "telehealth video visits",
+   "split": "train"
   }
  ],
  "note": [

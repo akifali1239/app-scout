@@ -4589,6 +4589,21 @@
    "term": "stethoscope sound practice",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "pharmacy tech calculations",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "travelers insurance claims",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "downtown dental group patient app",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [
@@ -76620,6 +76635,31 @@
    "note": "Ilk sayfada tek bir app var, o da 2019'dan beri guncellenmemis",
    "label": "Boş alan / fırsat",
    "split": "dev"
+  },
+  {
+   "note": "Rakip app'ler 2018'den beri güncellenmemiş, arayüzleri eski",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Bu konuda kimse aramıyor, kullanıcı başı gelir sıfır",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Sadece bir app var ve yorumları kötü, bariz boşluk",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Fikir çok sıkıcı, kendim bile kullanmazdım",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
+  },
+  {
+   "note": "Meslekle ilgisi yok, hedef kitleme uymuyor",
+   "label": "Alakasız",
+   "split": "train"
   }
  ],
  "kind": [
@@ -80852,6 +80892,33 @@
    },
    "label": "reference",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Pill ID Scanner AI",
+    "category": "Medical",
+    "desc": "Snap a photo of a pill and AI identifies it and explains dosage."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Locksmith Dispatch Pro",
+    "category": "Business",
+    "desc": "Book a licensed locksmith to come to your door within the hour."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Rebar Weight Calculator",
+    "category": "Utilities",
+    "desc": "Calculate rebar weight and spacing for concrete jobs."
+   },
+   "label": "utility",
+   "split": "test"
   }
  ]
 }

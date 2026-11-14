@@ -1811,3 +1811,9 @@
 {"ts": "2026-11-14T12:42:02+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 1, "reason": "intent: lippincott advisor (brand, test)."}
 {"ts": "2026-11-14T12:42:02+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard/audit hâlâ 25 Eki 2026. Altın niş aday yok, reviews.json değişmedi. Yeni bileşen eklenmedi."}
 {"ts": "2026-11-14T12:42:02+00:00", "actor": "claude", "action": "brain_suggest_code", "cap": null, "reason": "Optimizer ~20 gündür kayıt yazmıyor; Actions loglarında anahtar/bütçe/zamanlama sorunu kontrol edilmeli."}
+{"ts": "2026-11-14T13:41:56+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 4, "reason": "pairs: net vakalar (test/dev/train dengeli)."}
+{"ts": "2026-11-14T13:41:56+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: net vakalar (test/dev/train dengeli)."}
+{"ts": "2026-11-14T13:41:56+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 2, "reason": "note: net vakalar (test/dev/train dengeli)."}
+{"ts": "2026-11-14T13:41:56+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: net vakalar (test/dev/train dengeli)."}
+{"ts": "2026-11-14T13:41:56+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard/audit hâlâ 25 Eki 2026. Altın niş aday yok (kademeli rakip ≤1 yok), reviews.json değişmedi. Yeni bileşen eklenmedi."}
+{"ts": "2026-11-14T13:41:56+00:00", "actor": "claude", "action": "brain_suggest_code", "cap": null, "reason": "Optimizer ~20 gündür kayıt yazmıyor; Actions loglarında anahtar/bütçe/zamanlama sorunu kontrol edilmeli."}

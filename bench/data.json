@@ -80989,6 +80989,60 @@
    },
    "label": "utility",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Bible Verses & Devotionals",
+    "category": "Lifestyle",
+    "desc": "A new devotional, verse and short reflection delivered every morning."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Short Bedtime Stories for Kids",
+    "category": "Books",
+    "desc": "Hundreds of narrated bedtime stories for children, new stories added weekly."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Idle Tower Defense Heroes",
+    "category": "Games",
+    "desc": "Place heroes, upgrade towers and defeat endless waves of monsters."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "NEC Code Quick Reference",
+    "category": "Reference",
+    "desc": "Searchable electrical code tables, wire sizes and conduit fill charts for electricians."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Periodic Table & Element Guide",
+    "category": "Education",
+    "desc": "Browse every element with properties, isotopes and electron configurations."
+   },
+   "label": "reference",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Home Cleaning Booking",
+    "category": "Lifestyle",
+    "desc": "Book a vetted cleaner at your door in two taps; payments and tipping in app."
+   },
+   "label": "service",
+   "split": "test"
   }
  ]
 }

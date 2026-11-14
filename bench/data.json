@@ -4634,6 +4634,46 @@
    "term": "wordle",
    "label": "game",
    "split": "test"
+  },
+  {
+   "term": "suture",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "physical therapy assistant",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nremt paramedic exam prep 2026",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "alabama occupational therapy association",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician's letter®",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "occupational therapy assistant",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "paramedic drug list flashcards",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "pharmacy technician",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [

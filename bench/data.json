@@ -4604,6 +4604,36 @@
    "term": "downtown dental group patient app",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "nclex rn flashcards",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "mcgraw hill nursing",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "cement mix calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "roofing jobs hiring near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "tire shop open now",
+   "label": "local_business",
+   "split": "train"
+  },
+  {
+   "term": "wordle",
+   "label": "game",
+   "split": "test"
   }
  ],
  "brand": [

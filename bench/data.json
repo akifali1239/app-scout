@@ -68564,6 +68564,210 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "dosage calculator nurse",
+   "apps": [
+    {
+     "name": "Nurse Dose Calc",
+     "dev": "MedTools",
+     "ratings": 900,
+     "desc": "Drug dosage and IV drip rate calculator for nurses."
+    },
+    {
+     "name": "Pill Reminder Daily",
+     "dev": "Care Apps",
+     "ratings": 300,
+     "desc": "Reminders to take your medication on time."
+    },
+    {
+     "name": "Zombie Nurse Run",
+     "dev": "Fun Labs",
+     "ratings": 60,
+     "desc": "Endless runner game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "torque wrench chart",
+   "apps": [
+    {
+     "name": "Torque Spec Lookup",
+     "dev": "Garage Dev",
+     "ratings": 400,
+     "desc": "Bolt torque specifications chart by size and grade."
+    },
+    {
+     "name": "Wrench Hero",
+     "dev": "Pixel Co",
+     "ratings": 80,
+     "desc": "Puzzle game with wrenches."
+    },
+    {
+     "name": "Tool Inventory Tracker",
+     "dev": "Shop Dev",
+     "ratings": 120,
+     "desc": "Track your tools and lend-outs."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pilot logbook",
+   "apps": [
+    {
+     "name": "Flight Logbook Pro",
+     "dev": "Aero Dev",
+     "ratings": 2500,
+     "desc": "Digital pilot logbook with currency tracking and endorsements."
+    },
+    {
+     "name": "Aviation Weather Radar",
+     "dev": "Sky Dev",
+     "ratings": 1800,
+     "desc": "METAR and TAF weather briefing for pilots."
+    },
+    {
+     "name": "Paper Plane Fun",
+     "dev": "Kids Co",
+     "ratings": 30,
+     "desc": "Fold and throw paper planes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl practice test",
+   "apps": [
+    {
+     "name": "CDL Test Prep 2026",
+     "dev": "Road Dev",
+     "ratings": 3000,
+     "desc": "CDL general knowledge and air brakes practice questions."
+    },
+    {
+     "name": "Trucker Path Route Planner",
+     "dev": "Haul Dev",
+     "ratings": 5000,
+     "desc": "Find truck stops and parking."
+    },
+    {
+     "name": "Truck Parking Sim",
+     "dev": "Sim Co",
+     "ratings": 200,
+     "desc": "Parking simulator game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "plumbing pipe sizing",
+   "apps": [
+    {
+     "name": "Pipe Size Calculator",
+     "dev": "Plumb Dev",
+     "ratings": 350,
+     "desc": "Calculate pipe diameter and flow rate for plumbing systems."
+    },
+    {
+     "name": "Plumber Invoice Maker",
+     "dev": "Biz Dev",
+     "ratings": 500,
+     "desc": "Invoices and estimates for plumbers."
+    },
+    {
+     "name": "Pipe Connect Puzzle",
+     "dev": "Fun Labs",
+     "ratings": 70,
+     "desc": "Connect the pipes puzzle game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "emt study flashcards",
+   "apps": [
+    {
+     "name": "EMT Flashcards NREMT",
+     "dev": "Medic Dev",
+     "ratings": 1500,
+     "desc": "Flashcards for the NREMT exam with spaced repetition."
+    },
+    {
+     "name": "Heart Rate Monitor",
+     "dev": "Fit Dev",
+     "ratings": 900,
+     "desc": "Measure heart rate with camera."
+    },
+    {
+     "name": "Emergency Rescue Game",
+     "dev": "Play Co",
+     "ratings": 120,
+     "desc": "Rescue game for kids."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

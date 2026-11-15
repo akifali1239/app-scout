@@ -71134,6 +71134,21 @@
    "app": "Converts drill bit sizes between fractional inch and millimeter.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Calculates vasopressor drip rates from patient weight and dose.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Counts down a cooking timer for boiling eggs.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts paint coverage in square feet per gallon.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -81277,6 +81292,42 @@
    },
    "label": "service",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chess Puzzles Daily",
+    "category": "Games",
+    "desc": "Solve a new tactics puzzle every day and climb the rating ladder."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Unit Converter Pro",
+    "category": "Utilities",
+    "desc": "Convert length, weight, temperature and volume offline."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Pharm Flash",
+    "category": "Education",
+    "desc": "Drug class and side-effect reference cards for pharmacology students."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pet Groomer On Demand",
+    "category": "Lifestyle",
+    "desc": "Book a mobile groomer to come to your home; pay and tip in app."
+   },
+   "label": "service",
+   "split": "train"
   }
  ]
 }

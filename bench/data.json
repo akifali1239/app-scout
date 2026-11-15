@@ -69446,6 +69446,108 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "barber appointment booking",
+   "apps": [
+    {
+     "name": "Barber Book Pro",
+     "dev": "CutSoft",
+     "ratings": 900,
+     "desc": "Appointment scheduling app for barbers and clients."
+    },
+    {
+     "name": "Clipper Guard Chart",
+     "dev": "Fade Labs",
+     "ratings": 300,
+     "desc": "Reference chart of clipper guard sizes."
+    },
+    {
+     "name": "Beard Style Photo Editor",
+     "dev": "PicFun",
+     "ratings": 5000,
+     "desc": "Try beard styles on your photo."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "wind chill calculator",
+   "apps": [
+    {
+     "name": "Wind Chill Calc",
+     "dev": "TempTools",
+     "ratings": 400,
+     "desc": "Calculate wind chill from temperature and wind speed."
+    },
+    {
+     "name": "Weather Radar Live",
+     "dev": "SkyCo",
+     "ratings": 90000,
+     "desc": "Radar, forecast and alerts; also shows wind chill."
+    },
+    {
+     "name": "Winter Boots Shop",
+     "dev": "ShoeMart",
+     "ratings": 2000,
+     "desc": "Buy winter boots."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "broader",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl practice test",
+   "apps": [
+    {
+     "name": "CDL Prep 2026",
+     "dev": "TruckEd",
+     "ratings": 15000,
+     "desc": "CDL general knowledge, air brakes and hazmat practice tests."
+    },
+    {
+     "name": "Truck Stop Finder",
+     "dev": "RoadCo",
+     "ratings": 3000,
+     "desc": "Find truck stops and parking."
+    },
+    {
+     "name": "Driving Simulator Truck",
+     "dev": "PlayLab",
+     "ratings": 8000,
+     "desc": "Truck driving game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [
@@ -75041,6 +75143,36 @@
    "hi": "real estate license exam prep",
    "lo": "wallpaper",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl air brakes test prep",
+   "lo": "calculator vault",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "farrier hoof trimming guide",
+   "lo": "meme maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "bar exam mbe practice questions",
+   "lo": "qr code scanner",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam simulator",
+   "lo": "flashlight",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "tide times chart",
+   "lo": "live air traffic control feed",
+   "split": "test"
   }
  ],
  "note": [

@@ -69610,6 +69610,74 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "paramedic drug cards",
+   "apps": [
+    {
+     "name": "Paramedic Meds",
+     "dev": "MedicPrep",
+     "ratings": 6100,
+     "desc": "Flashcards for paramedic drug dosages and indications."
+    },
+    {
+     "name": "Pharmacology Nursing Quiz",
+     "dev": "NurseUp",
+     "ratings": 12000,
+     "desc": "Nursing pharmacology quizzes."
+    },
+    {
+     "name": "Ambulance Rush",
+     "dev": "PlayLab",
+     "ratings": 4000,
+     "desc": "Ambulance driving game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "beekeeping hive log",
+   "apps": [
+    {
+     "name": "Hive Tracker",
+     "dev": "ApiaryApps",
+     "ratings": 1200,
+     "desc": "Log hive inspections, queens and honey yields."
+    },
+    {
+     "name": "Honey Recipes",
+     "dev": "Foodie",
+     "ratings": 800,
+     "desc": "Recipes with honey."
+    },
+    {
+     "name": "Garden Planner",
+     "dev": "GrowCo",
+     "ratings": 7000,
+     "desc": "Plan your vegetable garden."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -71800,6 +71868,21 @@
   },
   {
    "app": "Calculates the chemotherapy dose for a patient from weight and height.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tells you the right insulin dose for your meal based on blood sugar.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts miles to kilometers and back.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Checks whether two prescription drugs are safe to take together.",
    "label": true,
    "split": "test"
   }
@@ -82457,6 +82540,24 @@
    },
    "label": "utility",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Hair Color Chat",
+    "category": "Lifestyle",
+    "desc": "Ask an AI assistant to suggest hair colors from your photo."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Bolt Size Chart",
+    "category": "Reference",
+    "desc": "Reference tables of bolt sizes, thread pitch and torque."
+   },
+   "label": "reference",
+   "split": "dev"
   }
  ]
 }

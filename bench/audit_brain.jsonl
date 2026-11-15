@@ -1862,3 +1862,7 @@
 {"ts": "2026-11-15T01:41:19+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 3, "reason": "risk: vazopresör dozu (riskli), yumurta sayacı ve boya kapsama (güvenli); test 2, train 1."}
 {"ts": "2026-11-15T01:41:19+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026. Altın niş aday yok, reviews.json değişmedi. Yeni bileşen eklenmedi."}
 {"ts": "2026-11-15T01:41:19+00:00", "actor": "claude", "action": "brain_suggest_code", "cap": null, "reason": "Optimizer ~20 gündür kayıt yazmıyor; Actions loglarında anahtar/bütçe/zamanlama sorunu kontrol edilmeli."}
+{"ts": "2026-11-15T02:41:48+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 4, "reason": "intent: jobs/game/need net vakalar; test+dev+train dengeli."}
+{"ts": "2026-11-15T02:41:48+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 3, "reason": "rival: direct/adjacent/unrelated net vakalar; test 1, dev 1, train 1."}
+{"ts": "2026-11-15T02:41:48+00:00", "actor": "claude", "action": "brain_review", "cap": null, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026. Altın niş aday yok (0), reviews.json değişmedi. Yeni bileşen eklenmedi (önceki çalışmalarda eklenenler henüz ölçülmedi)."}
+{"ts": "2026-11-15T02:41:48+00:00", "actor": "claude", "action": "brain_suggest_code", "cap": null, "reason": "Optimizer ~20 gündür kayıt yazmıyor; Actions loglarında anahtar/bütçe/zamanlama sorunu kontrol edilmeli."}

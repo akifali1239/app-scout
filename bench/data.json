@@ -71740,6 +71740,31 @@
    "app": "Converts cups to grams for baking recipes.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Tells drivers whether they may legally drive after drinking, based on the drinks they enter.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Lists the AWS welding symbols with pictures and a short quiz.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Reads a photo of a skin mole and says whether it is cancerous.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Flashcards for the FAA private pilot written exam.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Calculates the chemotherapy dose for a patient from weight and height.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -82305,6 +82330,42 @@
    },
    "label": "content",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chat with an AI tutor that explains your electrician exam questions",
+    "category": "Education",
+    "desc": "Chat with an AI tutor that explains your electrician exam questions."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Brain-training puzzle game with daily levels",
+    "category": "Games",
+    "desc": "Brain-training puzzle game with daily levels."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Book a certified plumber to your home in one tap",
+    "category": "Lifestyle",
+    "desc": "Book a certified plumber to your home in one tap."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Quick torque unit converter with offline mode",
+    "category": "Utilities",
+    "desc": "Quick torque unit converter with offline mode."
+   },
+   "label": "utility",
+   "split": "test"
   }
  ]
 }

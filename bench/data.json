@@ -77628,6 +77628,51 @@
    "note": "Mevzuat ve lisans engeli var, Apple reddeder",
    "label": "Ret riski",
    "split": "test"
+  },
+  {
+   "note": "Ürün çok ağır bir sağlık düzenlemesine tabi, sertifikasyon olmadan yayınlanamaz",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Ekranlar 2015'ten kalma gibi duruyor, uzun zamandır güncellenmemiş",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Backend, gerçek zamanlı sensör verisi ve donanım entegrasyonu gerek, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "dev"
+  },
+  {
+   "note": "Tek başına açılıp bakılacak bir şey değil, bu konuya hiç ilgim yok",
+   "label": "Alakasız",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bunun için para vermez, herkes aynısını Google'dan bedava buluyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Bu alanda kimsenin yapmadığı bir şey, gerçekten boş bir fırsat gibi görünüyor",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Ana sayfada tıpatıp aynı kart arka arkaya üç kez çıktı",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Kategoride yüzlerce app ve birkaç dev şirket var, girmek mantıksız",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Okurken uykum geldi, konu çok monoton",
+   "label": "Sıkıcı fikir",
+   "split": "test"
   }
  ],
  "kind": [
@@ -82048,6 +82093,60 @@
     "desc": "Upload a PDF and ask questions using GPT."
    },
    "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Sudoku Master",
+    "category": "Games",
+    "desc": "Classic sudoku puzzles with daily challenges."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Drug Dose Reference",
+    "category": "Medical",
+    "desc": "Look up adult dosing tables for common medications."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Unit Converter Pro",
+    "category": "Utilities",
+    "desc": "Convert length, weight, torque and temperature units."
+   },
+   "label": "utility",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Lawyer AI",
+    "category": "Productivity",
+    "desc": "Chat with ChatGPT to get answers to legal questions."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Find a Tutor",
+    "category": "Education",
+    "desc": "Book one-on-one sessions with certified tutors near you."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Mindfulness Audio",
+    "category": "Health",
+    "desc": "New guided meditation podcast episodes every week."
+   },
+   "label": "content",
    "split": "dev"
   }
  ]

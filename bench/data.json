@@ -78084,6 +78084,31 @@
    "note": "Okurken uykum geldi, konu çok monoton",
    "label": "Sıkıcı fikir",
    "split": "test"
+  },
+  {
+   "note": "sadece bir sürü kopya var, hepsi aynı ekran görüntüleriyle",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "kimse bu uygulamaya para vermez, ücretsiz alternatifler yeterli",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bu tür sağlık tavsiyesi uygulamalarını reddeder",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "arama sonuçlarında neredeyse hiç app yok, boş bir alan gibi duruyor",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "konuyu ilgilendiren hiçbir şey çıkmadı, tamamen farklı bir konu",
+   "label": "Alakasız",
+   "split": "dev"
   }
  ],
  "kind": [
@@ -82613,6 +82638,33 @@
    },
    "label": "reference",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Nurse AI",
+    "category": "Medical",
+    "desc": "Chat with an AI assistant that answers nursing questions using GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Crossword Daily Puzzle",
+    "category": "Games",
+    "desc": "Play a new crossword puzzle every day and earn streak badges."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Sailing Knots Guide",
+    "category": "Reference",
+    "desc": "Illustrated step-by-step guide to 60 sailing and climbing knots."
+   },
+   "label": "reference",
+   "split": "train"
   }
  ]
 }

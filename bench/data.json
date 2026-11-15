@@ -68853,6 +68853,210 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "rope knot guide",
+   "apps": [
+    {
+     "name": "Knots 3D",
+     "dev": "Siebert",
+     "ratings": 5000,
+     "desc": "Learn to tie knots with 3D animations for sailing and climbing."
+    },
+    {
+     "name": "Pet Names Generator",
+     "dev": "Fun Co",
+     "ratings": 300,
+     "desc": "Name ideas for pets."
+    },
+    {
+     "name": "Rope Climbing Game",
+     "dev": "Play Co",
+     "ratings": 90,
+     "desc": "Arcade game about climbing."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "blood pressure log",
+   "apps": [
+    {
+     "name": "BP Tracker Pro",
+     "dev": "Heart Dev",
+     "ratings": 2200,
+     "desc": "Log blood pressure readings and export charts."
+    },
+    {
+     "name": "Heart Rate Monitor",
+     "dev": "Fit Dev",
+     "ratings": 900,
+     "desc": "Measure pulse with camera."
+    },
+    {
+     "name": "Recipe Box",
+     "dev": "Cook Co",
+     "ratings": 400,
+     "desc": "Save recipes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "plumbing pipe sizing",
+   "apps": [
+    {
+     "name": "Pipe Sizer Calc",
+     "dev": "Trade Dev",
+     "ratings": 800,
+     "desc": "Calculate pipe diameter and flow for plumbing jobs."
+    },
+    {
+     "name": "Plumber Jobs Board",
+     "dev": "Hire Co",
+     "ratings": 200,
+     "desc": "Find plumbing jobs."
+    },
+    {
+     "name": "Pipe Mania Game",
+     "dev": "Play Co",
+     "ratings": 5000,
+     "desc": "Puzzle game with pipes."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "tip calculator",
+   "apps": [
+    {
+     "name": "Tip Calc",
+     "dev": "Pay Dev",
+     "ratings": 3000,
+     "desc": "Split bills and calculate tips."
+    },
+    {
+     "name": "Tax Calculator",
+     "dev": "Fin Dev",
+     "ratings": 1200,
+     "desc": "Sales tax calculator."
+    },
+    {
+     "name": "Restaurant Finder",
+     "dev": "Eat Co",
+     "ratings": 800,
+     "desc": "Find restaurants nearby."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "cdl practice test",
+   "apps": [
+    {
+     "name": "CDL Prep 2026",
+     "dev": "Road Dev",
+     "ratings": 4000,
+     "desc": "Practice tests for the commercial driver's license exam."
+    },
+    {
+     "name": "Truck GPS",
+     "dev": "Nav Co",
+     "ratings": 3000,
+     "desc": "Navigation for trucks."
+    },
+    {
+     "name": "Truck Simulator",
+     "dev": "Play Co",
+     "ratings": 20000,
+     "desc": "Drive trucks in a game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "guitar tuner",
+   "apps": [
+    {
+     "name": "Fine Tuner",
+     "dev": "Music Dev",
+     "ratings": 9000,
+     "desc": "Chromatic tuner for guitar, bass and ukulele."
+    },
+    {
+     "name": "Guitar Chords",
+     "dev": "Music Dev",
+     "ratings": 2000,
+     "desc": "Chord library."
+    },
+    {
+     "name": "Piano Game",
+     "dev": "Play Co",
+     "ratings": 700,
+     "desc": "Rhythm game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -76729,6 +76933,36 @@
   {
    "note": "Meslekle ilgisi yok, hedef kitleme uymuyor",
    "label": "Alakasız",
+   "split": "train"
+  },
+  {
+   "note": "Aramada çıkan app'lerin hepsi 100 bin yorumlu, girmek imkansız",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Her kategoride onlarca rakip var, pazar çok kalabalık",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Dün de aynı kartı gördüm, listede yine çıktı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikri geçen hafta zaten reddetmiştim, tekrar geldi",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bunun için ödeme yapmaz, herkes bedava buluyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu kabul etmez, tıbbi tavsiye veriyor",
+   "label": "Ret riski",
    "split": "train"
   }
  ],

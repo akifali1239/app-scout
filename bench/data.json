@@ -51483,6 +51483,12 @@
    "top": [],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "aviation weather checklist",
+   "top": [],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [
@@ -75253,6 +75259,60 @@
    "dim": "build",
    "hi": "tide times chart",
    "lo": "live air traffic control feed",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "tax preparer exam prep",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac load calculator",
+   "lo": "wallpaper",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate license exam prep",
+   "lo": "fidget spinner",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "pharmacy technician exam flashcards",
+   "lo": "meme maker",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician code reference",
+   "lo": "cute stickers",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic drug dosage calculator",
+   "lo": "photo collage",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "live video translation",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "stopwatch timer",
+   "lo": "social network for plumbers",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator",
+   "lo": "real-time stock trading platform",
    "split": "test"
   }
  ],

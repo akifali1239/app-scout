@@ -75452,6 +75452,54 @@
    "hi": "tip calculator",
    "lo": "real-time stock trading platform",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl pre-trip inspection checklist",
+   "lo": "ringtones for free",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam prep questions",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician conduit fill calculator",
+   "lo": "tic tac toe",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "radiology technologist registry review",
+   "lo": "fortune teller horoscope",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "video conferencing platform like zoom",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "sheet metal bend allowance calculator",
+   "lo": "food delivery marketplace",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "firefighter exam flashcards",
+   "lo": "prank call sounds",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pomodoro timer",
+   "lo": "multiplayer 3d battle royale game",
+   "split": "train"
   }
  ],
  "note": [

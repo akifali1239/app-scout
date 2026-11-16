@@ -70150,6 +70150,58 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "electrician wire size calculator",
+   "apps": [
+    {
+     "name": "Wire Gauge Pro",
+     "dev": "SparkTools",
+     "ratings": 1200,
+     "desc": "Calculate wire gauge, ampacity and voltage drop for electricians."
+    },
+    {
+     "name": "Cake Recipes Daily",
+     "dev": "BakeCo",
+     "ratings": 900,
+     "desc": "Easy cake recipes and baking timers."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nursing shift handoff notes",
+   "apps": [
+    {
+     "name": "Nurse Brain Sheet",
+     "dev": "CareApps",
+     "ratings": 2500,
+     "desc": "Shift report sheet for nurses with patient handoff templates."
+    },
+    {
+     "name": "Guitar Tuner Plus",
+     "dev": "TuneLab",
+     "ratings": 4000,
+     "desc": "Chromatic tuner for guitar and ukulele."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -72436,6 +72488,21 @@
   {
    "app": "Lets minors chat with anonymous strangers and share live location.",
    "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Gives personalized chemotherapy dose adjustments for patients.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts decimal inches to fractions for machinists.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tracks lawn mowing schedule and fertilizer dates.",
+   "label": false,
    "split": "dev"
   }
  ],
@@ -83494,6 +83561,15 @@
     "desc": "Offline lookup tables of bolt torque specifications by grade and size."
    },
    "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask My Textbook AI",
+    "category": "Education",
+    "desc": "Chat with an AI assistant that answers questions about any pasted text."
+   },
+   "label": "ai_wrapper",
    "split": "dev"
   }
  ]

@@ -69917,6 +69917,58 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "rebar bend length calculator",
+   "apps": [
+    {
+     "name": "Rebar Bend Calc",
+     "dev": "IronWorks",
+     "ratings": 300,
+     "desc": "Calculate rebar cut and bend lengths for stirrups and hooks."
+    },
+    {
+     "name": "Concrete Mix Pro",
+     "dev": "BuildLab",
+     "ratings": 900,
+     "desc": "Concrete volume and mix ratio calculator."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "pipe fitter offset calculator",
+   "apps": [
+    {
+     "name": "Pipe Offset Calc",
+     "dev": "FitterTools",
+     "ratings": 450,
+     "desc": "Compute travel and run for pipe offsets at any angle."
+    },
+    {
+     "name": "Plumbing Jobs Board",
+     "dev": "HireNow",
+     "ratings": 2000,
+     "desc": "Find plumbing jobs near you."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -78492,6 +78544,21 @@
    "note": "Fikir tamamen alakasız, mesleğimle ilgisi yok",
    "label": "Alakasız",
    "split": "test"
+  },
+  {
+   "note": "Bunu yapan app'ler zaten yüzlerce, ilk sayfa tamamen dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Reklamla bile kazanç çıkmaz, kimse bunun için para vermez",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple bu kadar hassas sağlık verisini kesin reddeder",
+   "label": "Ret riski",
+   "split": "dev"
   }
  ],
  "kind": [

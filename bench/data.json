@@ -71940,6 +71940,41 @@
    "app": "Checks whether two prescription drugs are safe to take together.",
    "label": true,
    "split": "test"
+  },
+  {
+   "app": "Calculates heparin drip rates and dosing for patients based on weight and aPTT.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates vasopressor infusion doses (norepinephrine mcg/kg/min) for ICU patients.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Converts pounds to kilograms and inches to centimeters.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tracks the user's daily water intake with reminders.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Helps parents decide how much acetaminophen to give a child by weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates paint coverage for a room from wall dimensions.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Estimates a patient's stroke risk and tells them whether to stop taking anticoagulants.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [

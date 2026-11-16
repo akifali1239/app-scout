@@ -70048,6 +70048,84 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "stair stringer calculator",
+   "apps": [
+    {
+     "name": "Stair Stringer Pro",
+     "dev": "WoodCalc",
+     "ratings": 420,
+     "desc": "Calculate rise, run and stringer cut lengths for any staircase."
+    },
+    {
+     "name": "Deck Planner 3D",
+     "dev": "BuildLab",
+     "ratings": 1500,
+     "desc": "Design decks and estimate lumber."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "hvac load calculator",
+   "apps": [
+    {
+     "name": "HVAC Load Calc",
+     "dev": "CoolTools",
+     "ratings": 350,
+     "desc": "Manual J style heating and cooling load estimates for rooms."
+    },
+    {
+     "name": "HVAC Jobs Near Me",
+     "dev": "HireNow",
+     "ratings": 900,
+     "desc": "Find HVAC technician jobs."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "paramedic drug dosage",
+   "apps": [
+    {
+     "name": "Paramedic Meds",
+     "dev": "EMSdev",
+     "ratings": 800,
+     "desc": "Dose calculator and drug cards for paramedic protocols."
+    },
+    {
+     "name": "Pizza Delivery Tracker",
+     "dev": "FoodCo",
+     "ratings": 300,
+     "desc": "Track your pizza order."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [
@@ -75960,6 +76038,24 @@
    "hi": "cdl permit test prep",
    "lo": "emoji sticker pack",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician exam prep",
+   "lo": "wallpaper hd",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "social network for pilots",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex practice questions",
+   "lo": "funny sound board",
+   "split": "dev"
   }
  ],
  "note": [
@@ -83308,6 +83404,33 @@
    },
    "label": "content",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Voltage Drop Calculator",
+    "category": "Utilities",
+    "desc": "Compute wire voltage drop by gauge, length and amps."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask My Lease AI",
+    "category": "Productivity",
+    "desc": "Upload your lease and chat with GPT to find clauses."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Torque Spec Handbook",
+    "category": "Reference",
+    "desc": "Offline lookup tables of bolt torque specifications by grade and size."
+   },
+   "label": "reference",
+   "split": "dev"
   }
  ]
 }

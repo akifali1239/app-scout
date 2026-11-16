@@ -1994,3 +1994,7 @@
 {"ts": "2026-11-16T17:42:00+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi (yeni ölçüm yok)."}
 {"ts": "2026-11-16T18:41:33+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "brand", "n": 6, "reason": "brand: en zayıf test_acc; epic emr marka, osha/cna/pmp/torque/flashcards net jenerik; test 4, dev 1, train 1."}
 {"ts": "2026-11-16T18:41:33+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi (yeni ölçüm yok)."}
+{"ts": "2026-11-16T19:41:00+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 3, "reason": "rival: test_errors hedefli net direct/ilgisiz vakalar; test 2, dev 1."}
+{"ts": "2026-11-16T19:41:00+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 3, "reason": "kind: net utility/ai_wrapper/reference; test 2, dev 1."}
+{"ts": "2026-11-16T19:41:00+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 3, "reason": "pairs: pay/build net çiftler; test 2, dev 1."}
+{"ts": "2026-11-16T19:41:00+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026. Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi (yeni ölçüm yok)."}

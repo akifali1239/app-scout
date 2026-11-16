@@ -1985,3 +1985,6 @@
 {"ts": "2026-11-16T14:41:57+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 2, "reason": "rival: inşaat/ticari sürücü terimleri, direct/adjacent/unrelated net vakalar; test 3, dev 1."}
 {"ts": "2026-11-16T14:41:57+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 3, "reason": "note: doygun, para yapmaz, ret riski; test 2, dev 1."}
 {"ts": "2026-11-16T14:41:57+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026. Altın niş adayı 0 bekleniyor, reviews.json değişmedi. Bileşen eklenmedi (yeni ölçüm yok)."}
+{"ts": "2026-11-16T15:41:41+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 4, "reason": "pairs: pay/audience/build net hi/lo çiftleri; test 3, dev 1."}
+{"ts": "2026-11-16T15:41:41+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026. Altın niş adayı 0 bekleniyor, reviews.json değişmedi. Bileşen eklenmedi (yeni ölçüm yok)."}
+{"ts": "2026-11-16T15:41:41+00:00", "actor": "claude", "action": "brain_suggest_code", "cap": null, "n": 0, "reason": "Optimizer ~3 aydır kayıt yazmıyor; Actions loglarında anahtar/bütçe/zamanlama sorunu kontrol edilmeli."}

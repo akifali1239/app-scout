@@ -4894,6 +4894,26 @@
    "term": "acupuncture exam mastery",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "sonography registry review",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "doordash",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "surgical tech jobs hiring",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "tattoo aftercare tracker",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [
@@ -69733,6 +69753,58 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "grain bin inventory",
+   "apps": [
+    {
+     "name": "Grain Bin Manager",
+     "dev": "FarmLogic",
+     "ratings": 700,
+     "desc": "Track bushels, moisture and bin levels."
+    },
+    {
+     "name": "Recipe Box",
+     "dev": "Cook",
+     "ratings": 9000,
+     "desc": "Save recipes."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "crane signal hand guide",
+   "apps": [
+    {
+     "name": "Crane Hand Signals",
+     "dev": "RigPro",
+     "ratings": 400,
+     "desc": "Illustrated ASME hand signals for crane operators."
+    },
+    {
+     "name": "Sign Language ASL",
+     "dev": "Hands",
+     "ratings": 6000,
+     "desc": "Learn ASL."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

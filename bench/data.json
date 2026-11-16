@@ -75535,6 +75535,24 @@
    "hi": "pomodoro timer",
    "lo": "multiplayer 3d battle royale game",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "nurse medication calculator",
+   "lo": "fidget spinner sounds",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate exam prep",
+   "lo": "wallpaper maker",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "ham radio exam",
+   "lo": "cat sounds",
+   "split": "train"
   }
  ],
  "note": [
@@ -82748,6 +82766,33 @@
    },
    "label": "reference",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Tax Bracket Calculator",
+    "category": "Finance",
+    "desc": "Enter your income and filing status to compute your federal tax bracket."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Knot Tying 3D",
+    "category": "Reference",
+    "desc": "Illustrated reference of 80 knots with step-by-step animations."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "AskBot GPT Chat",
+    "category": "Productivity",
+    "desc": "Chat assistant powered by GPT for answers, writing and ideas."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
   }
  ]
 }

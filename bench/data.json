@@ -4954,6 +4954,31 @@
    "term": "slack",
    "label": "brand",
    "split": "test"
+  },
+  {
+   "term": "electrician jobs hiring near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "nurse staffing agency openings",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "voltage drop calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "sunrise dental care patient portal",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "first federal credit union mobile",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [

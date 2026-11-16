@@ -83084,6 +83084,42 @@
    },
    "label": "reference",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Concrete Yardage Calculator",
+    "category": "Utilities",
+    "desc": "Calculate cubic yards of concrete for slabs, footings and columns."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "OSHA 30 Study Guide",
+    "category": "Education",
+    "desc": "Chapter summaries and notes on OSHA 30 regulations for reference."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chat with Docs AI",
+    "category": "Productivity",
+    "desc": "Upload a PDF and ask questions answered by GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Daily Nursing Tips",
+    "category": "Medical",
+    "desc": "A new nursing tip article every day, curated by editors."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

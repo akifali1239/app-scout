@@ -1998,3 +1998,6 @@
 {"ts": "2026-11-16T19:41:00+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 3, "reason": "kind: net utility/ai_wrapper/reference; test 2, dev 1."}
 {"ts": "2026-11-16T19:41:00+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 3, "reason": "pairs: pay/build net çiftler; test 2, dev 1."}
 {"ts": "2026-11-16T19:41:00+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026. Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi (yeni ölçüm yok)."}
+{"ts": "2026-11-16T20:41:06+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 5, "reason": "risk: tıbbi teşhis/reçete/reşit olmayan sohbet net true; woodworking dönüştürücü ve uçuş checklist net false; test 3, dev 2."}
+{"ts": "2026-11-16T20:41:06+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 3, "reason": "note: ret riski, doygun, para yapmaz net vakalar; test 2, dev 1."}
+{"ts": "2026-11-16T20:41:06+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi (yeni ölçüm yok)."}

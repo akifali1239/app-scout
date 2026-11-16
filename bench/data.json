@@ -72388,6 +72388,31 @@
    "app": "Counts down rest timers between gym sets.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Diagnoses skin cancer from a camera photo and tells the user if they need treatment.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Prescribes medication doses to patients based on their symptoms.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts between inches and millimeters for woodworkers.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Keeps a checklist of daily pre-flight items for private pilots.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Lets minors chat with anonymous strangers and share live location.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -78757,6 +78782,21 @@
   {
    "note": "Apple bu kadar hassas sağlık verisini kesin reddeder",
    "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bu tür tıbbi teşhis app'lerini kesinlikle reddeder",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Piyasada yüzlerce aynısı var, hepsi aynı vaadi veriyor",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bunun için ücret ödemez, ücretsiz alternatifler yeterli",
+   "label": "Para yapmaz",
    "split": "dev"
   }
  ],

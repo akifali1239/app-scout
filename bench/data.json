@@ -51564,6 +51564,42 @@
    "top": [],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "uworld nclex",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "epocrates",
+   "top": [],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "pocket prep paramedic",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "hvac load calculator",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "pipe bending angle calculator",
+   "top": [],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "nclex rn study",
+   "top": [],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -78281,6 +78317,21 @@
   {
    "note": "konuyu ilgilendiren hiçbir şey çıkmadı, tamamen farklı bir konu",
    "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "ilk sayfada aynı işi yapan onlarca app var",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "bunu kimse para verip almaz",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "kimse bu konuda bir app yapmamış, boşluk var",
+   "label": "Boş alan / fırsat",
    "split": "dev"
   }
  ],

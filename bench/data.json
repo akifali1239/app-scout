@@ -84213,6 +84213,51 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Torque Wrench Calc",
+    "category": "Utilities",
+    "desc": "Convert torque values and calculate extension adjustments for wrenches."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Barber Booker",
+    "category": "Business",
+    "desc": "Let clients book appointments with your barbershop and send reminders."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chat Lawyer AI",
+    "category": "Productivity",
+    "desc": "Ask an AI chatbot powered by GPT to draft legal letters."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Rail Tycoon Idle",
+    "category": "Games",
+    "desc": "Build your railway empire in this idle tycoon game."
+   },
+   "label": "game",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Daily Craft Stories",
+    "category": "News",
+    "desc": "Read daily articles and videos about woodworking and craft."
+   },
+   "label": "content",
+   "split": "test"
   }
  ]
 }

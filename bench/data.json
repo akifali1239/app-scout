@@ -72653,6 +72653,26 @@
    "app": "Converts miles to kilometers for road trips.",
    "label": false,
    "split": "test"
+  },
+  {
+   "app": "Estimates a patient's anticoagulant warfarin dose from INR readings for clinicians to follow.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates the load capacity of a steel beam so an engineer can sign off a building's structure.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Converts recipe measurements between cups, grams and ounces.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Tracks your daily water intake and sends friendly reminders.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -83812,6 +83832,24 @@
     "desc": "Ask an AI chatbot any legal question and get instant answers."
    },
    "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Chase Mobile Banking",
+    "category": "Finance",
+    "desc": "Check balances, deposit checks and pay bills with your Chase account."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Idle Tycoon Empire",
+    "category": "Games",
+    "desc": "Tap to earn coins and build your business empire."
+   },
+   "label": "game",
    "split": "dev"
   }
  ]

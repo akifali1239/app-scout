@@ -2026,3 +2026,6 @@
 {"ts": "2026-11-17T04:41:33+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 3, "reason": "pairs: net, tek anlamlı vakalar; test/dev dengeli."}
 {"ts": "2026-11-17T04:41:33+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 2, "reason": "risk: net, tek anlamlı vakalar; test/dev dengeli."}
 {"ts": "2026-11-17T04:41:33+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı 0 (jev.rivalP ile), reviews.json değişmedi. Bileşen eklenmedi."}
+{"ts": "2026-11-17T05:41:53+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 4, "reason": "risk: varfarin dozu ve kiriş yükü true (tıbbi/yapısal), mutfak dönüştürücü ve su takibi false; test/dev dengeli."}
+{"ts": "2026-11-17T05:41:53+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: tool, service, ai_wrapper, game için net tek anlamlı vakalar."}
+{"ts": "2026-11-17T05:41:53+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi."}

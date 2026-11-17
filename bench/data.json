@@ -52052,6 +52052,469 @@
    "top": [],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "bluon hvac",
+   "top": [
+    {
+     "name": "HVACR Check & Charge",
+     "dev": "Copeland LP",
+     "ratings": 17332,
+     "desc": "Instant mobile refrigerant charge calculator for HVACR applications.\n\nThe HVACR Check & Charge™ mobile app from Copeland Climate Technologies provides an on-site refrigerant charge calculator for air "
+    },
+    {
+     "name": "Bluon HVAC",
+     "dev": "Bluon, Inc.",
+     "ratings": 4451,
+     "desc": "Bluon provides the technical information and support to tackle any job in HVAC-R and plumbing.\n\nScan or search for any unit to find the documentation on over 35,000,000+ HVAC models across virtual eve"
+    },
+    {
+     "name": "measureQuick HVAC",
+     "dev": "measureQuick",
+     "ratings": 8,
+     "desc": "Ready to work smarter, not harder? The measureQuick HVAC App gives you everything you need to diagnose HVAC systems quickly and accurately. With powerful new tools and features, you can solve any job "
+    },
+    {
+     "name": "SuperCool Slide Rule HVAC",
+     "dev": "Designstein, llc",
+     "ratings": 194,
+     "desc": "The SuperCool HVAC app provides comprehensive solutions to the most complex problems in the industry. The app provides the user with an interactive experience, possible solutions, on-screen instructio"
+    },
+    {
+     "name": "SuperHeatCalc",
+     "dev": "Blue Mountain Consulting Inc",
+     "ratings": 6,
+     "desc": "Calculator app for use in HVACR diagnostics and service. Can calculate target superheat for fixed orifice expansion devices, superheat and subcooling for 28 refrigerants, airflow calculations and psyc"
+    },
+    {
+     "name": "HVAC School",
+     "dev": "Kalos Services Inc.",
+     "ratings": 85,
+     "desc": "The app that helps you remember some things you forgot along the way, as well as helps you remember some things you forgot to know in the first place.\n\nFor all current and aspiring HVAC technicians: H"
+    },
+    {
+     "name": "Tam Şarj",
+     "dev": "Tam Şarj",
+     "ratings": 0,
+     "desc": "Elektrikli araç sahibiyseniz hayatınızı kolaylaştıracak bir uygulama arıyorsanız doğru yerdesiniz. Uygulamamız sayesinde şarj istasyonlarını bulmak, şarj işlemini başlatmak ve ödeme yapmak artık çok d"
+    },
+    {
+     "name": "HVAC Assistant",
+     "dev": "Fritz Bootle",
+     "ratings": 1,
+     "desc": "Your Smart HVAC Assistant - AI-powered diagnostics for faster, smarter repairs.\n\nHVAC Assistant helps technicians and homeowners troubleshoot HVAC systems instantly with AI-driven insights, real-time "
+    },
+    {
+     "name": "HVAC Mastery",
+     "dev": "arjan qema",
+     "ratings": 2,
+     "desc": "HVAC Mastery is the hands-on study companion for anyone learning the heating, ventilation, air conditioning, and refrigeration trade — from first-year apprentices to experienced technicians brushing u"
+    },
+    {
+     "name": "Daikin Tech Hub",
+     "dev": "Daikin North America",
+     "ratings": 3570,
+     "desc": "Daikin Tech Hub supports service contractors working with Daikin products. It provides all Daikin technical and service information directly at your fingertips. \n\nThe Daikin Tech Hub mobile applicatio"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "notarize",
+   "top": [
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "Solidifi Notary Network",
+     "dev": "Solidifi U.S. Inc.",
+     "ratings": 24,
+     "desc": "The Solidifi Notary Network app for iOS allows Solidifi Notaries to have quick and easy access to all of their Solidifi orders. You can accept or decline signings, manage your calendar, get travel and"
+    },
+    {
+     "name": "Title365 Signings",
+     "dev": "Title365 Company",
+     "ratings": 13,
+     "desc": "Title365 Signings is an innovative app for professional Signing Agents that want to extend their business. With thousands of signing orders daily, Title365 Signings will help you increase your busines"
+    },
+    {
+     "name": "Notary Provider",
+     "dev": "The Effren Group, Inc.",
+     "ratings": 6,
+     "desc": "Notary Provider is on-demand mobile notary service. Created by notaries with a vision to bring our services to the public with the ease of opening an app on your phone. With trackable GPS service, wat"
+    },
+    {
+     "name": "NotaryGadget",
+     "dev": "Realtyzam, LLC",
+     "ratings": 729,
+     "desc": "NotaryGadget  is the ultimate app for notary signing agents. It makes just about everything you do easier - sending invoices, tracking payments, tracking mileage, tracking notarial acts, managing your"
+    },
+    {
+     "name": "eNotary On Call",
+     "dev": "Techrev LLC",
+     "ratings": 6,
+     "desc": "eNotary On Call helps you to manage & accept requests from anywhere.\n\n\n\nThis is an app developed by TechRev and powered by DEW. It aims to provide convenient, safe, and centralized notarization Notifi"
+    },
+    {
+     "name": "Bancserv App",
+     "dev": "Chris Lizar",
+     "ratings": 3,
+     "desc": "Bancserv's notary application allows our notaries to view their assignments, confirm the exact scheduled time, and complete orders faster than ever before.  Save time and effort by downloading the Ban"
+    },
+    {
+     "name": "Instant Notary App",
+     "dev": "OnlineNotary.net/Instant Notary LLC",
+     "ratings": 8069,
+     "desc": "OnlineNotary.net is a Virginia based company that can legally perform online notary to any US Citizen or US Resident. Our experienced and friendly, professionally licensed and certified notaries can h"
+    },
+    {
+     "name": "A360 CloseClear Mobile",
+     "dev": "A360Inc",
+     "ratings": 0,
+     "desc": "a360inc™ CloseClear Mobile is an enhanced mobile application designed to support Notaries performing work on behalf of a360inc™ on the CloseClear platform. The app captures GPS coordinates to share re"
+    },
+    {
+     "name": "NotaryAssist",
+     "dev": "LavaTurtle Software Inc.",
+     "ratings": 215,
+     "desc": "NotaryAssist is the simplest way to run your notary business like a professional.\nForward confirmation emails to create appointments in seconds. Sync across devices and calendars. Track income, expens"
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "moego",
+   "top": [
+    {
+     "name": "Dog Grooming Salon Scheduler",
+     "dev": "Maksym Kavun",
+     "ratings": 0,
+     "desc": "Dog Grooming Scheduler is a simple pet grooming CRM, appointment calendar, and business organizer built for solo dog groomers, mobile groomers, and small grooming salons.\n\nManage clients, dogs, appoin"
+    },
+    {
+     "name": "MoeGo: Pet Business Suite",
+     "dev": "Moement Inc.",
+     "ratings": 296,
+     "desc": "MoeGo is the next-generation operating system designed to revolutionize pet care businesses, including grooming, boarding, daycare, training etc. \n\nBy combining automation and data-driven insights, Mo"
+    },
+    {
+     "name": "Schedule My Groom",
+     "dev": "Schedule My Groom LLC",
+     "ratings": 10,
+     "desc": "Pet grooming software built for solo groomers. Running a grooming business solo doesn’t have to be overwhelming. Schedule appointments, message clients, and run your grooming business in one simple ap"
+    },
+    {
+     "name": "DaySmart Pet Software",
+     "dev": "DaySmart Software, LLC",
+     "ratings": 1096,
+     "desc": "DaySmart Pet, formerly 123Pet, is an easy to use groomer appointment scheduling app for pet grooming business owners, employees, and independent contractors that lets you manage your grooming business"
+    },
+    {
+     "name": "GrooMore Grooming Software",
+     "dev": "GrooMore, INC.",
+     "ratings": 24,
+     "desc": "[ Flexible Scheduling ]\nDay/Week/Month view and Agenda view provided, you can get the best control of your whole schedule easily.\nYou can easily view and print your appointment list of agenda view.\nYo"
+    },
+    {
+     "name": "TapGroom - Pet Grooming Salon",
+     "dev": "TapStyle Pty Ltd",
+     "ratings": 93,
+     "desc": "Shift to the new STYLISH way,,,, TapGroom makes your pet grooming salon business more efficient and stylish. TapStyle offers all the must have features for pet grooming salon / groomer in one package."
+    },
+    {
+     "name": "GroomLog: Groom Scheduling",
+     "dev": "Thomas Senior",
+     "ratings": 0,
+     "desc": "Stop double booking, chasing no-shows, and hunting for client details. GroomLog is the scheduling app built specifically for dog groomers. Mobile, salon or home-based. Spend less time on admin and mor"
+    },
+    {
+     "name": "Groomit On-Demand Grooming",
+     "dev": "GroomIt, LLC",
+     "ratings": 1374,
+     "desc": "Groomit is the #1 pet grooming app offering both in-home and mobile grooming—bringing expert care directly to your door.\n\nWhether you want a groomer to pamper your pet inside your home or prefer the c"
+    },
+    {
+     "name": "Savvy Pet Spa",
+     "dev": "Its All Savvy Ltd",
+     "ratings": 1,
+     "desc": "Savvy Pet Spa is an indispensable business management software designed specifically to meet the needs of busy pet groomers.\nWith Savvy’s automated reminders, ‘no shows’ will become a thing of the pas"
+    },
+    {
+     "name": "DapperTails Mobile Grooming",
+     "dev": "The Ruff Life Mobile Grooming",
+     "ratings": 12,
+     "desc": "An app that connects pet parents with premium pet grooming facilities.\n\n- Instant Booking: Effortlessly schedule appointments with top-notch pet grooming facilities.\n- Manage Easily: Track your past a"
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "teleflora",
+   "top": [
+    {
+     "name": "Local Florist Delivery",
+     "dev": "LocalFloristDelivery.org",
+     "ratings": 0,
+     "desc": "Support Local. Send Love.\n\nLocalFloristDelivery.org connects you with trusted local florists across the U.S. to deliver beautiful flower arrangements quickly and reliably. Whether it's for birthdays, "
+    },
+    {
+     "name": "Teleflora – Flower Delivery",
+     "dev": "Teleflora",
+     "ratings": 72,
+     "desc": "Order beautiful flowers that are always 100% arranged and delivered by local florists right from the Teleflora app!\n\nTeleflora’s app makes it easy to order flowers on the go and get flower delivery ri"
+    },
+    {
+     "name": "Bleems - Flowers & Gifts",
+     "dev": "Bleems Website Design and Management Co.",
+     "ratings": 12359,
+     "desc": "Bleems - Flowers, Confections, Gifts & AI Shopper  \n\nCelebrate every moment with Bleems, the easiest way to send flowers, chocolates, cakes, confections, perfumes, incense, and unique gifts. Enjoy sam"
+    },
+    {
+     "name": "LolaFlora - Flower Delivery",
+     "dev": "Lolaflora BV",
+     "ratings": 2122,
+     "desc": "Stay ahead of the curve with exclusive offers and discounts on our exquisite floral arrangements and gifts at LolaFlora, your go-to online florist! With our user-friendly app, you can conveniently pla"
+    },
+    {
+     "name": "Florist Now- Flowers & Gifts",
+     "dev": "Aykut Karaalioglu",
+     "ratings": 13,
+     "desc": "#1 Florist App in the United States and Canada.\n- We delivered more than 1million Flowers last year with ZERO Problem.\n- Same Day Delivery! Easy, Fast and Cheap!\n\nFlorist Now has the freshest, finest "
+    },
+    {
+     "name": "Floward Online Flowers & Gifts",
+     "dev": "FLOWARD FOR PLANTS & FLOWERS CO",
+     "ratings": 39124,
+     "desc": "Unwrap your heart with Floward, the #1 online flower delivery and gifts shop. Experience the joy of gifting with our elegantly designed floral arrangements and handpicked gifts, delivered with love an"
+    },
+    {
+     "name": "1800Flowers: Shop Gifts & More",
+     "dev": "1800 Flowers",
+     "ratings": 28865,
+     "desc": "Welcome to 1800Flowers! Discover the fastest and easiest way to send last-minute flowers, plants, gift baskets, and more with just a few taps using the 1-800-Flowers.com app!  \n \nTrust us, we know flo"
+    },
+    {
+     "name": "Mobile Florist: Flower Delivery - Order & Send Fresh Flowers from Anywhere using Local Florists!",
+     "dev": "Syntactix, LLC",
+     "ratings": 38,
+     "desc": "+ Network of over 15,000 local FTD florists\n+ Same Day Delivery!\n+ Quality and Freshness Guaranteed!\n \nEver forget to send flowers or a gift? Need SAME DAY DELIVERY? It can be frustrating trying to fi"
+    },
+    {
+     "name": "Flowers delivery - Myflowers",
+     "dev": "MYFLOWERS LTD",
+     "ratings": 147,
+     "desc": "Flowers delivery across the UK, straight from your phone. MyFlowers is a flower delivery app for fresh bouquets, plants and gifts — with free delivery in as little as 3 hours, 24/7.\n\nUse promo code AP"
+    },
+    {
+     "name": "FNP: Gifts, Flowers, Cakes App",
+     "dev": "Ferns N Petals Pvt. Ltd.",
+     "ratings": 1466,
+     "desc": "FNP (Ferns N Petals) is your one-stop app for online cake delivery, gifts for him & her, anniversary & valentine gifts, flowers, and more! Whether you need to order cakes online, find birthday gifts f"
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "pipe size calculator",
+   "top": [
+    {
+     "name": "Plumber Prep: Pipe Size Calc",
+     "dev": "Deeun Inc.",
+     "ratings": 4,
+     "desc": "Prepare for your plumbing licensing exam with practice questions, explanations, calculation tools, and progress tracking.\n\nPRACTICE AND STUDY\nMore than 300 IPC 2021 questions, plus supplementary UPC 2"
+    },
+    {
+     "name": "Pipe Flow Wizard - Calculator",
+     "dev": "Pipe Flow Software",
+     "ratings": 103,
+     "desc": "Pipe Flow Wizard is a fluid flow rate and pressure loss calculator app from Pipe Flow Software.  Perform flow rate calculations, calculate pressure drop in a pipe, size a pipe diameter, or calculate a"
+    },
+    {
+     "name": "Pipe Trades Pro Calc",
+     "dev": "Calculated Industries",
+     "ratings": 4335,
+     "desc": "FREE Try Before You Buy trial, your App Store account is not charged by Apple during the free trial.\n\nWelcome to Pipe Trades Pro for iPhone, a game-changing tool for professionals in the pipe trades i"
+    },
+    {
+     "name": "Pipe Calc Elite",
+     "dev": "Cyberprodigy LLC",
+     "ratings": 152,
+     "desc": "Pipe Calc Elite™ is an advanced calculator designed specifically for pipe trade professionals.  This app provides quick and reliable access to standard pipe data and dimensions for 7 different piping "
+    },
+    {
+     "name": "Pipe Fitter Calculator",
+     "dev": "LMF.Services",
+     "ratings": 35,
+     "desc": "The Pipe Calculator is evolving to provide more and more information at your finger tips. \nQuick Facts:\n- Pipe Offset - 8 options in 1\n- Rolling Offset - 9 options in 1\n- Reducing Tee Offset - 8 Optio"
+    },
+    {
+     "name": "Pipe Fitting",
+     "dev": "xNeat.com",
+     "ratings": 133,
+     "desc": "Pipe Fitting Calculator is the all-in-one solution for pipefitters, welders, and fabricators who need fast and accurate pipe layout calculations in the field or the shop. Designed for iPhone & iPad, t"
+    },
+    {
+     "name": "Journeyman Plumber: IPC & UPC",
+     "dev": "Lumeon Technologies, LLC",
+     "ratings": 13,
+     "desc": "You know the trade. Let's get you certified.\n\nCertifyIQ is the only plumber exam prep app that lets you filter practice questions by your state's code — IPC or UPC. Texas, Florida, New York, North Car"
+    },
+    {
+     "name": "Pipe Flow Liquid Pipe Diameter",
+     "dev": "Pipe Flow Software",
+     "ratings": 5,
+     "desc": "Pipe Flow Liquid Pipe Diameter is a pipe sizing calculator app from Pipe Flow Software that calculates the minimum internal pipe diameter needed for a given flow rate at a specified maximum pressure l"
+    },
+    {
+     "name": "Pipe Tools",
+     "dev": "Bri-Steel Manufacturing",
+     "ratings": 20,
+     "desc": "Steel Pipe Handbook that fits in your pocket!  \n\nGreat tool for pipe purchasers & sales, pipe manufacturers, pipe yard inspectors, fabricators, oilfield workers, NDE techs, truck operators, designers,"
+    },
+    {
+     "name": "Roto-Rooter: Plumbing & Drains",
+     "dev": "Roto-Rooter",
+     "ratings": 340,
+     "desc": "Never stress over plumbing problems again! The Roto-Rooter app puts expert plumbing service at your fingertips. \n\nSchedule emergency repairs, track your service order, and get your plumbing back in or"
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "notary journal",
+   "top": [
+    {
+     "name": "Notary eJournal",
+     "dev": "Jurat",
+     "ratings": 190,
+     "desc": "The Notary eJournal by Jurat INC is an electronic notary journal created to provide a digital replacement for the standard hard-bound notary journals that exist in the market. Designed by notaries in "
+    },
+    {
+     "name": "NotaryAct - Electronic Journal",
+     "dev": "NotaryAct",
+     "ratings": 98,
+     "desc": "Replace the Paper Journal. Stay Compliant. Save Hours Every Week.\n\nNotaryAct is the original and most trusted electronic notary journal built by notaries, for notaries. Since 2012, over 25,000 notary "
+    },
+    {
+     "name": "Notarize",
+     "dev": "Notarize, Inc.",
+     "ratings": 119026,
+     "desc": "Legally and securely notarize any document in minutes from your iPhone or iPad.\n\nNotarize serves every American worldwide. Open 24 hours a day, 7 days a week—even during holidays. Average wait time is"
+    },
+    {
+     "name": "Remote Notary Ninjas",
+     "dev": "Notary Ninjas, LLC",
+     "ratings": 2,
+     "desc": "Our app makes it easier than ever for clients, businesses, title agencies, and notaries to book remote online notarization, mobile notary, document uploads, secure messaging, session scheduling, statu"
+    },
+    {
+     "name": "NotaryAssist",
+     "dev": "LavaTurtle Software Inc.",
+     "ratings": 215,
+     "desc": "NotaryAssist is the simplest way to run your notary business like a professional.\nForward confirmation emails to create appointments in seconds. Sync across devices and calendars. Track income, expens"
+    },
+    {
+     "name": "Notary Journal: Record Book",
+     "dev": "JASON TENG YAO",
+     "ratings": 1,
+     "desc": "Keep your notarial record the way your state expects, right on your phone.\n\nNotary Journal gives you a sequential, append-only log that mirrors a bound paper book. Every entry gets a number that is ne"
+    },
+    {
+     "name": "Evernote Scannable",
+     "dev": "Evernote Corporation",
+     "ratings": 417937,
+     "desc": "Scannable moves paper forward. Scan contracts, receipts, business cards, and any paper that comes your way. Save or share documents instantly and move on.\n\nAutomatically capture high-quality scans any"
+    },
+    {
+     "name": "Simple Notary",
+     "dev": "Kevin Martinez",
+     "ratings": 1,
+     "desc": "Simple Notary was created to provide a modern alternative to the typical paper notary journal. Simple Notary gives you a way to create non-editable notary entries that are saved in a cloud base system"
+    },
+    {
+     "name": "Instant Notary App",
+     "dev": "OnlineNotary.net/Instant Notary LLC",
+     "ratings": 8069,
+     "desc": "OnlineNotary.net is a Virginia based company that can legally perform online notary to any US Citizen or US Resident. Our experienced and friendly, professionally licensed and certified notaries can h"
+    },
+    {
+     "name": "BlueNotary",
+     "dev": "BlueNotary LLC",
+     "ratings": 1,
+     "desc": "BlueNotary — Your Remote Online Notarization business, on the go.\n\nBlueNotary App is the mobile companion for commissioned notaries who use the BlueNotary Remote Online Notarization (RON) platform. Bu"
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "pdf unlocker",
+   "top": [
+    {
+     "name": "PDF Password Remover Offline",
+     "dev": "Parsottambhai Dhameliya",
+     "ratings": 22,
+     "desc": "This PDF Password Remover Offline is the Best PDF Password Remover app.\n\nThis PDF Password Remover Offline App is straightforward to get rid of passwords pdf from pdf files.\n\nYou can decrypt a pdf fil"
+    },
+    {
+     "name": "Omni PDF Unlocker - Password",
+     "dev": "Baofeng County Jixu Education Information Consulting Co., Ltd.",
+     "ratings": 5,
+     "desc": "Easily remove PDF passwords or protect your PDFs with just one click!\n\nFeatures:\n* Unlock PDF: Remove password protection and restrictions.\n* Batch Processing: Unlock or protect multiple files at once"
+    },
+    {
+     "name": "unlock pdf & lock pdf",
+     "dev": "Sounak Sarkar",
+     "ratings": 55,
+     "desc": "Protect your sensitive PDF documents with strong password encryption or remove passwords from PDFs you own with just a few taps. PDF Lock & Unlock is a fast, secure, and easy-to-use tool designed to h"
+    },
+    {
+     "name": "Unlock PDF - Password Remover",
+     "dev": "Ashvin Ajadiya",
+     "ratings": 2,
+     "desc": "Welcome to Unlock PDF - Password Remover, the simple and secure way to access your locked documents. With Easily Open Encrypted PDFs, you can unlock password-protected files instantly, remove restrict"
+    },
+    {
+     "name": "Unlock PDF – Password Remover",
+     "dev": "Lubomir Dlhy",
+     "ratings": 0,
+     "desc": "Unlock PDF removes the password from protected PDF files - entirely on your iPhone.\n\nPick a locked PDF, enter its password once, and save or share an unlocked copy that opens anywhere without a passwo"
+    },
+    {
+     "name": "iLovePDF - PDF Editor & Scan",
+     "dev": "iLovePDF",
+     "ratings": 51748,
+     "desc": "Read, convert, annotate and sign PDF in just a few seconds with this handy document scanner and editor. Boost your productivity with every tool you need to work on the go.\n \nPHONE SCANNER\n \n• iPhone a"
+    },
+    {
+     "name": "PDF Unlock: Offline PDF Tools",
+     "dev": "Dipak Chhag",
+     "ratings": 2,
+     "desc": "PDF Unlock: Offline PDF Tools\n\nYour complete offline PDF toolkit to scan documents, unlock and protect PDFs, convert files, manage PDF passwords, and more — all without an internet connection.\n\nKey Fe"
+    },
+    {
+     "name": "lock pdf | unlock pdf expert",
+     "dev": "逢信 谭",
+     "ratings": 0,
+     "desc": "Unlock PDF is your ultimate solution for managing PDF security with ease. Whether you need to remove password protection or securely lock your PDF files, Unlock PDF offers a seamless experience. With "
+    },
+    {
+     "name": "PDF Password Tool",
+     "dev": "Bokeria",
+     "ratings": 1,
+     "desc": "PDF Password Tool is a simple PDF security utility for creating unlocked copies of PDFs you can already open, or adding a new open password to PDFs that are not protected yet.\n\nIt is designed to proce"
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

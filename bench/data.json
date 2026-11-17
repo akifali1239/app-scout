@@ -5069,6 +5069,41 @@
    "term": "vet clinic open now",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "plumber jobs hiring now",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "pipefitter job openings",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "hvac technician staffing agency",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "hair salon near me booking",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "veterinary clinic open now near me",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "insulin dose calculator",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "sudoku offline",
+   "label": "game",
+   "split": "test"
   }
  ],
  "brand": [

@@ -52006,6 +52006,42 @@
    "top": [],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "bluebeam",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "quizlet nursing flashcards",
+   "top": [],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "torque wrench calculator",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "opioid conversion calculator",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "stethoscope heart sounds",
+   "top": [],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "electrician conduit fill calculator",
+   "top": [],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

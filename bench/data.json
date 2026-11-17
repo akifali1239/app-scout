@@ -4984,6 +4984,26 @@
    "term": "roofing contractor jobs",
    "label": "jobs",
    "split": "test"
+  },
+  {
+   "term": "lippincott nursing",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "plumbing code lookup",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "fire department recruit jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "cherry creek vet clinic app",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [

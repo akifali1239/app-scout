@@ -76674,6 +76674,54 @@
    "hi": "rebar spacing calculator",
    "lo": "social network for pets",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumber license exam prep",
+   "lo": "wallpaper for everyone",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "hvac technician refrigerant guide",
+   "lo": "fun photo filters",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl permit test",
+   "lo": "free ringtones",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex rn practice questions",
+   "lo": "cute stickers keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe bending calculator",
+   "lo": "social network for pets",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "voltage drop calculator",
+   "lo": "ai girlfriend chat",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "fe electrical exam prep",
+   "lo": "emoji maker",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic drug dose cards",
+   "lo": "random wallpaper app",
+   "split": "test"
   }
  ],
  "note": [

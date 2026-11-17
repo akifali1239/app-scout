@@ -72643,6 +72643,16 @@
    "app": "Converts board feet to cubic meters for lumber orders.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Calculates vasopressor infusion rates for ICU patients.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts miles to kilometers for road trips.",
+   "label": false,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -76359,6 +76369,24 @@
    "hi": "ccna subnetting practice",
    "lo": "fart sound prank",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "dosage calculator for nurses",
+   "lo": "wallpaper for iphone",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "drill bit size chart",
+   "lo": "ai doctor video consultation",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl practice test",
+   "lo": "emoji keyboard",
+   "split": "test"
   }
  ],
  "note": [
@@ -83764,6 +83792,24 @@
     "name": "Ask Your Contract AI",
     "category": "Productivity",
     "desc": "Chat with an AI that summarizes any pasted legal contract."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Weld Joint Calc",
+    "category": "Utilities",
+    "desc": "Calculates fillet weld size and strength for fabricators."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Paralegal Chat GPT",
+    "category": "Productivity",
+    "desc": "Ask an AI chatbot any legal question and get instant answers."
    },
    "label": "ai_wrapper",
    "split": "dev"

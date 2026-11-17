@@ -2037,3 +2037,7 @@
 {"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_add_components", "cap": "brand", "n": 1, "reason": "Ad vs. ihtiyaç ayrımı için yeni talimat (brand test hataları: bileşik ad/kelime karışması)."}
 {"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_add_components", "cap": "rival", "n": 1, "reason": "Aynı görev + aynı kullanıcı tipi vurgulu rival talimatı."}
 {"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Optimizer scoreboard hâlâ 25 Eki 2026 (durgun, yeni promosyon/geri alma yok); kanıtlı zarar yok. Altın niş adayı 0."}
+{"ts": "2026-11-17T08:43:11+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 5, "reason": "intent: sınav/flashcard need, marka, oyun, jobs, local_business vakaları."}
+{"ts": "2026-11-17T08:43:11+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 4, "reason": "note: rekabet/benzer ayrımı ve diğer sebepler; test/dev/train dağıtıldı."}
+{"ts": "2026-11-17T08:43:11+00:00", "actor": "claude", "action": "brain_add_components", "cap": "intent", "n": 1, "reason": "Sıralı karar ağacı talimatı (oyun→jobs→marka→need); intent test hataları (oyun adları brand sanılıyor)."}
+{"ts": "2026-11-17T08:43:11+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Optimizer hâlâ durgun (scoreboard 25 Eki 2026); promosyon/geri alma yok, kanıtlı zarar yok. Altın niş adayı 0 (koşulları sağlayan yeni kelime yok)."}

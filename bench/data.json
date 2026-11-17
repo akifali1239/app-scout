@@ -5004,6 +5004,31 @@
    "term": "cherry creek vet clinic app",
    "label": "local_business",
    "split": "train"
+  },
+  {
+   "term": "electrician exam prep",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "nursing flashcards",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "mcdonalds",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "cna jobs hiring",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "forklift certification practice test",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [
@@ -79292,6 +79317,26 @@
    "note": "Kimse bunun için ücret ödemez, ücretsiz alternatifler yeterli",
    "label": "Para yapmaz",
    "split": "dev"
+  },
+  {
+   "note": "Kategoride yüzlerce app var, hepsi aynı şeyi yapıyor",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Aynı kartı bu hafta üçüncü kez gösteriyorsun",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikrin hiçbir rakibi yok, boş bir alan gibi duruyor",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Bunu tek başıma yapamam, çok karmaşık bir sistem gerekir",
+   "label": "Yapması zor",
+   "split": "train"
   }
  ],
  "kind": [

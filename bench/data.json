@@ -70227,6 +70227,110 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "wire gauge chart",
+   "apps": [
+    {
+     "name": "AWG Wire Gauge Chart",
+     "dev": "ElecRef",
+     "ratings": 1800,
+     "desc": "AWG wire gauge sizes, diameters and ampacity chart for electricians."
+    },
+    {
+     "name": "Sleep Sounds Pro",
+     "dev": "CalmApps",
+     "ratings": 9000,
+     "desc": "Rain and ocean sounds for sleeping."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "scuba dive planner",
+   "apps": [
+    {
+     "name": "Dive Table Planner",
+     "dev": "DeepLogs",
+     "ratings": 1200,
+     "desc": "Plan scuba dives with no-decompression limits and repetitive dive tables."
+    },
+    {
+     "name": "Fitness Tracker Lite",
+     "dev": "FitCo",
+     "ratings": 20000,
+     "desc": "Count steps and workouts."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "tide chart",
+   "apps": [
+    {
+     "name": "Tide Tables Pro",
+     "dev": "CoastLabs",
+     "ratings": 3000,
+     "desc": "Daily tide charts and times for harbors."
+    },
+    {
+     "name": "Pocket Calculator",
+     "dev": "MathTools",
+     "ratings": 5000,
+     "desc": "Simple calculator."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "insulin dose calculator",
+   "apps": [
+    {
+     "name": "Insulin Dose Calc",
+     "dev": "DiabetesRef",
+     "ratings": 2200,
+     "desc": "Calculate mealtime and correction insulin doses."
+    },
+    {
+     "name": "Chess Puzzles",
+     "dev": "BoardLab",
+     "ratings": 7000,
+     "desc": "Daily chess puzzles."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

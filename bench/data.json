@@ -72529,6 +72529,16 @@
    "app": "Tracks lawn mowing schedule and fertilizer dates.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Calculates pediatric acetaminophen dose by child weight.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts board feet to cubic meters for lumber orders.",
+   "label": false,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -76226,6 +76236,24 @@
    "dim": "audience",
    "hi": "cdl permit test practice",
    "lo": "wallpaper maker",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "crna drug calculations",
+   "lo": "emoji keyboard maker",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe offset calculator",
+   "lo": "ai radiologist chatbot",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "ccna subnetting practice",
+   "lo": "fart sound prank",
    "split": "dev"
   }
  ],
@@ -83623,6 +83651,15 @@
     "name": "Ask My Textbook AI",
     "category": "Education",
     "desc": "Chat with an AI assistant that answers questions about any pasted text."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Your Contract AI",
+    "category": "Productivity",
+    "desc": "Chat with an AI that summarizes any pasted legal contract."
    },
    "label": "ai_wrapper",
    "split": "dev"

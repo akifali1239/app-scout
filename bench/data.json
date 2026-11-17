@@ -5039,6 +5039,36 @@
    "term": "chatgpt",
    "label": "brand",
    "split": "dev"
+  },
+  {
+   "term": "hiring nurses near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "welders wanted near me",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "notary journal",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "pharmacy technician flashcards",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "tow truck near me",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "vet clinic open now",
+   "label": "local_business",
+   "split": "train"
   }
  ],
  "brand": [

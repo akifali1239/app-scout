@@ -2062,3 +2062,6 @@
 {"ts": "2026-11-17T16:41:47+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 7, "reason": "risk: tıbbi/yapısal dozaj-güvenlik riski net vakalar (true) ve zararsız araçlar (false); test 3, dev 2."}
 {"ts": "2026-11-17T16:41:47+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 7, "reason": "pairs: pay/audience/build çiftleri, hi açıkça lo'dan yüksek; test 3, dev 3, train 1."}
 {"ts": "2026-11-17T16:41:47+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi."}
+{"ts": "2026-11-17T17:41:30+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 4, "reason": "pairs: pay/build/audience net çiftler; test 2, dev 2."}
+{"ts": "2026-11-17T17:41:30+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "risk", "n": 3, "reason": "risk: beton/heparin true (test), günlük söz false (dev)."}
+{"ts": "2026-11-17T17:41:30+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı 0, reviews.json değişmedi. Bileşen eklenmedi."}

@@ -72969,6 +72969,21 @@
    "app": "Converts between metric and imperial units for cooking and DIY projects.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Calculates concrete mix ratios and load capacity for structural slabs.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Simple app that shows a random daily quote on your lock screen.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Computes heparin infusion rates by patient weight for nurses.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -76841,6 +76856,30 @@
    "hi": "paramedic protocol reference",
    "lo": "random name generator",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl practice test",
+   "lo": "pixel wallpaper pack",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for plumbers",
+   "lo": "ai movie generator",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "surveyor field notes",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "bar exam flashcards",
+   "lo": "coloring game",
+   "split": "dev"
   }
  ],
  "note": [

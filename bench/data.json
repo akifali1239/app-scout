@@ -70617,6 +70617,142 @@
     "adjacent"
    ],
    "split": "dev"
+  },
+  {
+   "term": "welding amperage calculator",
+   "apps": [
+    {
+     "name": "Weld Amps",
+     "dev": "ArcTools",
+     "ratings": 800,
+     "desc": "Amperage and voltage settings calculator for MIG, TIG and stick welding by material thickness."
+    },
+    {
+     "name": "Weld Cost Estimator",
+     "dev": "FabBiz",
+     "ratings": 300,
+     "desc": "Estimate welding job cost with labor and consumables."
+    },
+    {
+     "name": "Welding Games 3D",
+     "dev": "FunLab",
+     "ratings": 5000,
+     "desc": "Play a welding simulator game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "bolt torque chart",
+   "apps": [
+    {
+     "name": "Torque Specs",
+     "dev": "WrenchApp",
+     "ratings": 2000,
+     "desc": "Bolt torque chart by grade and size, ft-lb and Nm."
+    },
+    {
+     "name": "Bolt Length Gauge",
+     "dev": "FastenerPro",
+     "ratings": 400,
+     "desc": "Measure bolt thread pitch and length with camera."
+    },
+    {
+     "name": "Hardware Store Finder",
+     "dev": "MapIt",
+     "ratings": 900,
+     "desc": "Find nearby hardware stores."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "nail salon booking app",
+   "apps": [
+    {
+     "name": "NailBook",
+     "dev": "SalonSoft",
+     "ratings": 1500,
+     "desc": "Appointment booking and client reminders for nail salons and nail techs."
+    },
+    {
+     "name": "Nail Art Ideas",
+     "dev": "Pretty",
+     "ratings": 9000,
+     "desc": "Browse nail art design photos."
+    },
+    {
+     "name": "Nail Polish Match",
+     "dev": "ColorLab",
+     "ratings": 100,
+     "desc": "Match polish colors from photos."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hvac pressure temperature chart",
+   "apps": [
+    {
+     "name": "PT Chart HVAC",
+     "dev": "CoolTech",
+     "ratings": 3000,
+     "desc": "Refrigerant pressure-temperature chart for R410A, R22 and more."
+    },
+    {
+     "name": "HVAC Load Calc",
+     "dev": "AirCalc",
+     "ratings": 700,
+     "desc": "Manual J heating and cooling load calculator."
+    },
+    {
+     "name": "Home Thermostat",
+     "dev": "SmartHome",
+     "ratings": 15000,
+     "desc": "Control your smart thermostat."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

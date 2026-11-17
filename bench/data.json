@@ -76407,6 +76407,24 @@
    "hi": "cdl practice test",
    "lo": "emoji keyboard",
    "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "hvac duct sizing calculator",
+   "lo": "tiktok follower counter",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nursing drug dosage quiz",
+   "lo": "cat meme maker",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoice generator",
+   "lo": "free ringtone maker",
+   "split": "test"
   }
  ],
  "note": [
@@ -83848,6 +83866,24 @@
     "name": "Idle Tycoon Empire",
     "category": "Games",
     "desc": "Tap to earn coins and build your business empire."
+   },
+   "label": "game",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Roofing Estimate Pro",
+    "category": "Business",
+    "desc": "Measure roofs and send quotes to customers on the job site."
+   },
+   "label": "tool",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Merge Cats Puzzle",
+    "category": "Games",
+    "desc": "Merge cute cats and unlock new levels in this casual puzzle."
    },
    "label": "game",
    "split": "dev"

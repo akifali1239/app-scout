@@ -51941,6 +51941,18 @@
    "top": [],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "concrete volume calculator",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "drug interaction checker",
+   "top": [],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [
@@ -79489,6 +79501,26 @@
    "note": "Bunu tek başıma yapamam, çok karmaşık bir sistem gerekir",
    "label": "Yapması zor",
    "split": "train"
+  },
+  {
+   "note": "Tamamen alakasız, benim işimle ilgisi yok",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bunun için para ödemez, hep bedava app var",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Uygulamalar yıllardır güncellenmemiş, çok eski görünüyor",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu reddeder, tıbbi iddia var",
+   "label": "Ret riski",
+   "split": "dev"
   }
  ],
  "kind": [

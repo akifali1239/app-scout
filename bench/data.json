@@ -76209,6 +76209,24 @@
    "hi": "nclex pharmacology flashcards",
    "lo": "pet name generator",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental x-ray interpretation",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for plumbers",
+   "lo": "ai doctor diagnosis chatbot",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl permit test practice",
+   "lo": "wallpaper maker",
+   "split": "dev"
   }
  ],
  "note": [

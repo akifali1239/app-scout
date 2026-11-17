@@ -72934,6 +72934,41 @@
    "app": "Shows a daily motivational quote on your home screen.",
    "label": false,
    "split": "dev"
+  },
+  {
+   "app": "Calculates the maximum safe dose of acetaminophen for a child by weight and tells parents exactly how much to give.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Reads a patient's ECG photo and tells paramedics whether to administer treatment.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Computes the rebar size and spacing a structural engineer should specify for a concrete slab.",
+   "label": true,
+   "split": "train"
+  },
+  {
+   "app": "Tells you which wild mushrooms are safe to eat from a photo.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Counts down the days until your next vacation with a nice background photo.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Keeps a list of books you want to read with simple checkmarks.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Converts between metric and imperial units for cooking and DIY projects.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -76764,6 +76799,48 @@
    "hi": "paramedic drug dose cards",
    "lo": "random wallpaper app",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nurse practitioner board exam prep",
+   "lo": "wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "tax preparer calculator for accountants",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "pharmacy technician exam prep",
+   "lo": "fun facts",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician conduit fill calculator",
+   "lo": "flashlight",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "live ocean tide forecasting with sensors",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pomodoro timer",
+   "lo": "ai x-ray diagnosis",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic protocol reference",
+   "lo": "random name generator",
+   "split": "train"
   }
  ],
  "note": [

@@ -51804,6 +51804,54 @@
    "top": [],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "servicetitan",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "epocrates",
+   "top": [],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "bluebeam revu",
+   "top": [],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "hvac load calculation",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "stud spacing calculator",
+   "top": [],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "drill bit size chart",
+   "top": [],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "nursing drug dosage calculator",
+   "top": [],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "procore",
+   "top": [],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [
@@ -70331,6 +70379,108 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "pipe offset calculator",
+   "apps": [
+    {
+     "name": "Pipe Offset Calc",
+     "dev": "TradeTools",
+     "ratings": 1800,
+     "desc": "Calculate conduit and pipe offset bends, travel and spacing."
+    },
+    {
+     "name": "Plumbing Pro Marketplace",
+     "dev": "FixNow Inc",
+     "ratings": 9000,
+     "desc": "Book a local plumber in minutes."
+    },
+    {
+     "name": "Pipe Fitter Pro",
+     "dev": "PF Labs",
+     "ratings": 600,
+     "desc": "Offset, rolling offset and 45 degree fitting calculators for pipefitters."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    1
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "direct"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "blood pressure log",
+   "apps": [
+    {
+     "name": "BP Log",
+     "dev": "HeartDiary",
+     "ratings": 4200,
+     "desc": "Record blood pressure readings and export a PDF for your doctor."
+    },
+    {
+     "name": "Hospital Patient Portal",
+     "dev": "MedCorp",
+     "ratings": 30000,
+     "desc": "Book visits and view results at MedCorp hospitals."
+    },
+    {
+     "name": "Pulse Tracker",
+     "dev": "FitBeat",
+     "ratings": 8000,
+     "desc": "Heart rate monitor using the camera."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "rebar weight calculator",
+   "apps": [
+    {
+     "name": "Rebar Calc",
+     "dev": "BuildMath",
+     "ratings": 900,
+     "desc": "Rebar weight, length and spacing calculator for concrete work."
+    },
+    {
+     "name": "Concrete Volume",
+     "dev": "SiteCalc",
+     "ratings": 3000,
+     "desc": "Concrete slab and footing volume calculator."
+    },
+    {
+     "name": "Steel Weight",
+     "dev": "MetalRef",
+     "ratings": 1200,
+     "desc": "Weight of steel bars, plates and beams by size."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

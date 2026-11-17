@@ -2032,3 +2032,8 @@
 {"ts": "2026-11-17T06:42:27+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "pairs", "n": 3, "reason": "pairs: hvac kanal boyutu, hemşire ilaç quizi, müteahhit fatura çiftleri; test 2, dev 1."}
 {"ts": "2026-11-17T06:42:27+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 2, "reason": "kind: çatı teklif aracı tool (test), kedi birleştirme game (dev)."}
 {"ts": "2026-11-17T06:42:27+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı kontrol edilmedi/yok, reviews.json değişmedi. Bileşen eklenmedi."}
+{"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "brand", "n": 8, "reason": "brand en zayıf yetenek: 4 ad (servicetitan, epocrates, bluebeam revu, procore) + 4 düz-kelime ihtiyaç; test 3, dev 3, train 2."}
+{"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "rival", "n": 3, "reason": "rival: boru ofseti, tansiyon günlüğü, demir ağırlığı; test 2, dev 1."}
+{"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_add_components", "cap": "brand", "n": 1, "reason": "Ad vs. ihtiyaç ayrımı için yeni talimat (brand test hataları: bileşik ad/kelime karışması)."}
+{"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_add_components", "cap": "rival", "n": 1, "reason": "Aynı görev + aynı kullanıcı tipi vurgulu rival talimatı."}
+{"ts": "2026-11-17T07:41:40+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Optimizer scoreboard hâlâ 25 Eki 2026 (durgun, yeni promosyon/geri alma yok); kanıtlı zarar yok. Altın niş adayı 0."}

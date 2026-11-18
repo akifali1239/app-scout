@@ -5154,6 +5154,16 @@
    "term": "brooklyn tattoo studio",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "lyft driver",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "home health aide jobs near me",
+   "label": "jobs",
+   "split": "test"
   }
  ],
  "brand": [
@@ -52555,6 +52565,106 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "rope splice length",
+   "top": [
+    {
+     "name": "Rope Splice Calc",
+     "dev": "Marine Tools",
+     "ratings": 60,
+     "desc": "Calculate splice lengths for three-strand rope."
+    },
+    {
+     "name": "Knots 3D",
+     "dev": "Siege Games",
+     "ratings": 9000,
+     "desc": "Learn knots with animations."
+    },
+    {
+     "name": "Rigging Calc",
+     "dev": "SailPro",
+     "ratings": 35,
+     "desc": "Rigging load and length calculator."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "vial dilution calculator",
+   "top": [
+    {
+     "name": "Dilution Calc Rx",
+     "dev": "PharmTools",
+     "ratings": 70,
+     "desc": "Dilute vials and compute concentrations for nurses."
+    },
+    {
+     "name": "Med Math",
+     "dev": "Nurse Studio",
+     "ratings": 450,
+     "desc": "Dosage calculations for nursing students."
+    },
+    {
+     "name": "IV Drip Calc",
+     "dev": "MedCalc",
+     "ratings": 120,
+     "desc": "IV drip rate calculator."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "shipt shopper",
+   "top": [
+    {
+     "name": "Shipt Shopper",
+     "dev": "Shipt",
+     "ratings": 1800,
+     "desc": "The app for Shipt shoppers to pick up and deliver orders."
+    },
+    {
+     "name": "Shipt",
+     "dev": "Shipt",
+     "ratings": 300000,
+     "desc": "Same-day delivery from your local stores."
+    },
+    {
+     "name": "Gig Mileage Log",
+     "dev": "TaxPal",
+     "ratings": 600,
+     "desc": "Track mileage for gig drivers."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "cable pulling tension",
+   "top": [
+    {
+     "name": "Cable Pull Calc",
+     "dev": "Wire Tools",
+     "ratings": 45,
+     "desc": "Pulling tension and sidewall pressure for electricians."
+    },
+    {
+     "name": "Electrician Toolkit",
+     "dev": "SparkApps",
+     "ratings": 800,
+     "desc": "Wire sizing and conduit fill."
+    },
+    {
+     "name": "Voltage Drop Calc",
+     "dev": "SparkApps",
+     "ratings": 300,
+     "desc": "Voltage drop calculator."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -71589,6 +71699,58 @@
    "kinds": [
     "direct",
     "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "hvac duct sizing",
+   "apps": [
+    {
+     "name": "Ductulator Pro",
+     "dev": "DuctWorks",
+     "ratings": 900,
+     "desc": "Duct sizing calculator using friction rate and CFM for HVAC technicians."
+    },
+    {
+     "name": "Cool Wallpapers HD",
+     "dev": "BlueArt",
+     "ratings": 3000,
+     "desc": "Beautiful cool-toned wallpapers."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "farrier hoof trim log",
+   "apps": [
+    {
+     "name": "Hoof Care Journal",
+     "dev": "EquiApps",
+     "ratings": 900,
+     "desc": "Track trims and shoeing history per horse for farriers."
+    },
+    {
+     "name": "Horse Racing Manager",
+     "dev": "Turf Games",
+     "ratings": 3000,
+     "desc": "Run your own racing stable game."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
     "adjacent"
    ],
    "split": "dev"

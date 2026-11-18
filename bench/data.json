@@ -71320,6 +71320,142 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "tile grout calculator",
+   "apps": [
+    {
+     "name": "Grout Calc",
+     "dev": "TileWorks",
+     "ratings": 800,
+     "desc": "Calculate how much grout you need for any tile size and joint width."
+    },
+    {
+     "name": "Tile Layout Pro",
+     "dev": "LayoutLab",
+     "ratings": 400,
+     "desc": "Plan tile layouts and cuts for floors and walls."
+    },
+    {
+     "name": "Bathroom Remodel Ideas",
+     "dev": "HomeIdeas",
+     "ratings": 9000,
+     "desc": "Photo gallery of bathroom designs."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "fence board calculator",
+   "apps": [
+    {
+     "name": "Fence Material Estimator",
+     "dev": "YardPro",
+     "ratings": 600,
+     "desc": "Estimate pickets, rails and posts for a wood fence by length and height."
+    },
+    {
+     "name": "Garden Planner",
+     "dev": "GreenThumb",
+     "ratings": 12000,
+     "desc": "Design your garden beds and plan planting."
+    },
+    {
+     "name": "Deck Board Calc",
+     "dev": "DeckSmith",
+     "ratings": 300,
+     "desc": "Calculate deck boards and screws for any deck."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "blood pressure tracker",
+   "apps": [
+    {
+     "name": "BP Log",
+     "dev": "HeartTrack",
+     "ratings": 20000,
+     "desc": "Record blood pressure readings, view charts and export for your doctor."
+    },
+    {
+     "name": "Heart Rate Monitor",
+     "dev": "PulseLab",
+     "ratings": 5000,
+     "desc": "Measure your pulse with the camera."
+    },
+    {
+     "name": "Calorie Counter",
+     "dev": "FitDiet",
+     "ratings": 50000,
+     "desc": "Log meals and calories."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "scuba log book",
+   "apps": [
+    {
+     "name": "Dive Log Pro",
+     "dev": "DeepApp",
+     "ratings": 1500,
+     "desc": "Digital scuba logbook: record dives, depth, gas and buddies."
+    },
+    {
+     "name": "Dive Table Calc",
+     "dev": "DeepApp",
+     "ratings": 400,
+     "desc": "Plan no-decompression limits with dive tables."
+    },
+    {
+     "name": "Ocean Wallpapers",
+     "dev": "BlueArt",
+     "ratings": 3000,
+     "desc": "Beautiful underwater backgrounds."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -85174,6 +85310,33 @@
    },
    "label": "content",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rafter Length Calculator",
+    "category": "Utilities",
+    "desc": "Calculate rafter length, pitch and bird's mouth cuts for roof framing."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Periodic Table Reference",
+    "category": "Reference",
+    "desc": "Element data, atomic weights and electron configurations in a searchable table."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chat with AI Tutor",
+    "category": "Education",
+    "desc": "Ask an AI chatbot any homework question and get instant answers powered by GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
   }
  ]
 }

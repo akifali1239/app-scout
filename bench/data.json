@@ -5164,6 +5164,11 @@
    "term": "home health aide jobs near me",
    "label": "jobs",
    "split": "test"
+  },
+  {
+   "term": "crossfit wod timer",
+   "label": "need",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -52665,6 +52670,75 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "emt study guide",
+   "top": [
+    {
+     "name": "EMT Study Guide",
+     "dev": "MedPrep LLC",
+     "ratings": 900,
+     "desc": "NREMT practice questions and flashcards."
+    },
+    {
+     "name": "EMT Prep",
+     "dev": "Pocket Medic",
+     "ratings": 2100,
+     "desc": "Exam prep for EMTs."
+    },
+    {
+     "name": "NREMT Flashcards",
+     "dev": "StudyLab",
+     "ratings": 300,
+     "desc": "Flashcards for the NREMT exam."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "lineman's handbook",
+   "top": [
+    {
+     "name": "Lineman's Handbook",
+     "dev": "Orbit Utilities",
+     "ratings": 50,
+     "desc": "Reference for line workers: clearances, knots, sag tables."
+    },
+    {
+     "name": "Lineman Toolkit",
+     "dev": "PowerCalc",
+     "ratings": 120,
+     "desc": "Sag and tension calculators."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "mortgage points calculator",
+   "top": [
+    {
+     "name": "Mortgage Calculator Plus",
+     "dev": "Fin Tools",
+     "ratings": 8000,
+     "desc": "Payments, points and amortization."
+    },
+    {
+     "name": "Mortgage Points Calc",
+     "dev": "HomeMath",
+     "ratings": 60,
+     "desc": "Compare buying down points."
+    },
+    {
+     "name": "Home Loan Calculator",
+     "dev": "Calc Co",
+     "ratings": 1200,
+     "desc": "Loan payments and APR."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -80948,6 +81022,31 @@
   {
    "note": "İlk sayfadaki tüm app'ler birbirinin kopyası, ayırt edici bir şey yok",
    "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Hep aynı app'i gösteriyorsun, bunu dün de reddetmiştim",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Piyasada onlarca app ve hepsi büyük firmalardan, girmeye değmez",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kimse bunun için ödeme yapmaz, ücretsiz alternatifler yeter",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Apple bunu medikal iddia diye reddeder, riskli",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Bu aramada kimse yok gibi, boş bir alan, deneyebilirim",
+   "label": "Boş alan / fırsat",
    "split": "dev"
   }
  ],

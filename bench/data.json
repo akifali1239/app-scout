@@ -52739,6 +52739,101 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "plumbing code quiz",
+   "top": [
+    {
+     "name": "Plumbing Code Quiz Pro",
+     "dev": "TradePrep",
+     "ratings": 420,
+     "desc": "Practice questions for the journeyman plumber exam."
+    },
+    {
+     "name": "Plumber Exam Prep",
+     "dev": "LicenseUp",
+     "ratings": 900,
+     "desc": "Pipe sizing and code questions."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "procore",
+   "top": [
+    {
+     "name": "Procore",
+     "dev": "Procore Technologies",
+     "ratings": 9000,
+     "desc": "Construction management platform for project teams."
+    },
+    {
+     "name": "Procore Field",
+     "dev": "Procore Technologies",
+     "ratings": 1500,
+     "desc": "Daily logs and photos."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "rebar weight chart",
+   "top": [
+    {
+     "name": "Rebar Calc",
+     "dev": "SteelTools",
+     "ratings": 300,
+     "desc": "Rebar weight and length calculator."
+    },
+    {
+     "name": "Rebar Weight",
+     "dev": "BuildMath",
+     "ratings": 150,
+     "desc": "Quick rebar reference chart."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "fieldwire plans",
+   "top": [
+    {
+     "name": "Fieldwire",
+     "dev": "Hilti Group",
+     "ratings": 7000,
+     "desc": "Jobsite plans and task management."
+    },
+    {
+     "name": "Fieldwire Punch",
+     "dev": "Hilti Group",
+     "ratings": 200,
+     "desc": "Punch lists."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "torque wrench log",
+   "top": [
+    {
+     "name": "Torque Log",
+     "dev": "MechNotes",
+     "ratings": 90,
+     "desc": "Record torque values per job."
+    },
+    {
+     "name": "Wrench Tracker",
+     "dev": "ShopTools",
+     "ratings": 40,
+     "desc": "Tool maintenance log."
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

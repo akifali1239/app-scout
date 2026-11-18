@@ -71456,6 +71456,142 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "lab values cheat sheet",
+   "apps": [
+    {
+     "name": "Lab Values Nursing Reference",
+     "dev": "MedNotes",
+     "ratings": 4200,
+     "desc": "Normal lab values, critical ranges and interpretations for nurses."
+    },
+    {
+     "name": "Nurse Shift Planner",
+     "dev": "MedNotes",
+     "ratings": 600,
+     "desc": "Plan your shifts and tasks."
+    },
+    {
+     "name": "Blood Type Game",
+     "dev": "QuizFun",
+     "ratings": 200,
+     "desc": "Fun quiz about blood groups."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "notary fee calculator",
+   "apps": [
+    {
+     "name": "Notary Fees by State",
+     "dev": "SignPro",
+     "ratings": 150,
+     "desc": "Maximum notary fees for every US state."
+    },
+    {
+     "name": "Notary Journal Pro",
+     "dev": "SignPro",
+     "ratings": 800,
+     "desc": "Digital notary journal and signer records."
+    },
+    {
+     "name": "Signature Maker",
+     "dev": "DocLab",
+     "ratings": 5000,
+     "desc": "Draw your signature."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "tire size calculator",
+   "apps": [
+    {
+     "name": "Tire Size Calc",
+     "dev": "WheelWorks",
+     "ratings": 1800,
+     "desc": "Compare tire sizes, speedometer error and clearance."
+    },
+    {
+     "name": "Tire Pressure Log",
+     "dev": "WheelWorks",
+     "ratings": 300,
+     "desc": "Log pressure checks."
+    },
+    {
+     "name": "Car Wallpapers HD",
+     "dev": "PixelHome",
+     "ratings": 7000,
+     "desc": "Sports car backgrounds."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "ohms law calculator",
+   "apps": [
+    {
+     "name": "Ohm's Law Calc",
+     "dev": "VoltLab",
+     "ratings": 2500,
+     "desc": "Voltage, current, resistance and power calculator."
+    },
+    {
+     "name": "Electrician Notes",
+     "dev": "VoltLab",
+     "ratings": 700,
+     "desc": "Wire color codes and notes."
+    },
+    {
+     "name": "Lightning Live Wallpaper",
+     "dev": "PixelHome",
+     "ratings": 900,
+     "desc": "Animated storm wallpapers."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [
@@ -80595,6 +80731,26 @@
    "note": "Arama neredeyse boş, 1-2 zayıf app var ve talep belli",
    "label": "Boş alan / fırsat",
    "split": "train"
+  },
+  {
+   "note": "Bu alanda hiçbir app güncel değil ve kullanıcılar yorumlarda yeni app istiyor",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Ücretsiz alternatifler yüzünden kimse bunun için ödeme yapmaz",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Apple'ın tıbbi tavsiye kısıtları yüzünden reddedilme riski var",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "İlk sayfadaki tüm app'ler birbirinin kopyası, ayırt edici bir şey yok",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
   }
  ],
  "kind": [

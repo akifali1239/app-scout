@@ -78401,6 +78401,42 @@
    "hi": "pipe fitting reference",
    "lo": "ride hailing like uber",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "pe exam prep for civil engineers",
+   "lo": "free ringtones",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl practice test",
+   "lo": "wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumbing code reference for journeymen",
+   "lo": "video game cheats",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "phlebotomy exam flashcards",
+   "lo": "funny photo filters",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "video editing suite like final cut",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pomodoro timer",
+   "lo": "real time multiplayer 3d game",
+   "split": "train"
   }
  ],
  "note": [

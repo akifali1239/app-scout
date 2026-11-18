@@ -77754,6 +77754,60 @@
    "hi": "bar exam flashcards",
    "lo": "coloring game",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "ccrn exam practice questions for icu nurses",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "journeyman plumber license exam prep",
+   "lo": "wifi speed test",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "pharmacy technician ptcb practice test",
+   "lo": "photo collage maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "cdl air brakes test prep",
+   "lo": "white noise for sleep",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate license exam flashcards",
+   "lo": "qr code scanner",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "pmp exam simulator",
+   "lo": "ringtone maker",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator",
+   "lo": "social network like facebook",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "food delivery marketplace",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "wire gauge ampacity chart",
+   "lo": "online multiplayer battle royale",
+   "split": "test"
   }
  ],
  "note": [

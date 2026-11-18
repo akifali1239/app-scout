@@ -80511,6 +80511,36 @@
    "note": "Apple bunu reddeder, tıbbi iddia var",
    "label": "Ret riski",
    "split": "dev"
+  },
+  {
+   "note": "Kullanıcılar bu tür appleri ilk haftada siliyor, tekrar kullanmak için sebep yok",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Rakiplerin çoğu ücretsiz ve reklamsız, kimse ödemez",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Dozaj hesaplayıp hastaya yönlendiriyor, App Review tıbbi cihaz sorar",
+   "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "Bunu yapmak için GPS ve donanım sensörü entegrasyonu şart, tek başıma zor",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Rakiplerin hepsi 3 yıldır güncellenmedi, ekran görüntüleri çok eski",
+   "label": "Kalitesiz / eski",
+   "split": "dev"
+  },
+  {
+   "note": "Arama neredeyse boş, 1-2 zayıf app var ve talep belli",
+   "label": "Boş alan / fırsat",
+   "split": "train"
   }
  ],
  "kind": [

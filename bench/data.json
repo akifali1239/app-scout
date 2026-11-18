@@ -78106,6 +78106,42 @@
    "hi": "wire gauge ampacity chart",
    "lo": "online multiplayer battle royale",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental hygiene board exam prep",
+   "lo": "free wallpapers",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "life insurance license exam",
+   "lo": "flashlight",
+   "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "pharmacy technician exam prep",
+   "lo": "tip calculator",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl air brakes practice test",
+   "lo": "fun emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "social network with live video",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe fitting reference",
+   "lo": "ride hailing like uber",
+   "split": "train"
   }
  ],
  "note": [
@@ -85739,6 +85775,24 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Dr. Chat: Symptom AI",
+    "category": "Medical",
+    "desc": "Chat with an AI assistant powered by GPT to answer your health questions."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Haircut Booking for Salons",
+    "category": "Lifestyle",
+    "desc": "Let your clients book appointments, pay deposits and get reminders."
+   },
+   "label": "service",
+   "split": "test"
   }
  ]
 }

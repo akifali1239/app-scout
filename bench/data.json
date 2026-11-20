@@ -5239,6 +5239,21 @@
    "term": "tractor driving simulator",
    "label": "game",
    "split": "dev"
+  },
+  {
+   "term": "welder job openings",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "nursing dosage cheat sheet",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "hvac superheat calculator",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [

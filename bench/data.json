@@ -72168,6 +72168,136 @@
     "adjacent"
    ],
    "split": "dev"
+  },
+  {
+   "term": "concrete volume calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc Pro",
+     "dev": "SlabWorks",
+     "ratings": 800,
+     "desc": "Calculate cubic yards of concrete for slabs, footings and columns."
+    },
+    {
+     "name": "Zen Meditation Timer",
+     "dev": "CalmApps",
+     "ratings": 2000,
+     "desc": "Guided meditation and breathing timer."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "drywall sheet calculator",
+   "apps": [
+    {
+     "name": "Drywall Estimator",
+     "dev": "BuildTools",
+     "ratings": 400,
+     "desc": "Estimate drywall sheets, mud and screws for any room."
+    },
+    {
+     "name": "Paint Color Visualizer",
+     "dev": "HueLab",
+     "ratings": 3000,
+     "desc": "Preview paint colors on your walls with the camera."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "cna skills checklist",
+   "apps": [
+    {
+     "name": "CNA Skills Exam Prep",
+     "dev": "NurseAidPrep",
+     "ratings": 600,
+     "desc": "Step-by-step checklist for all CNA state exam skills."
+    },
+    {
+     "name": "Calorie Counter Daily",
+     "dev": "FitEat",
+     "ratings": 9000,
+     "desc": "Track meals and calories."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "roofing pitch calculator",
+   "apps": [
+    {
+     "name": "Roof Pitch & Rafter",
+     "dev": "RoofMath",
+     "ratings": 300,
+     "desc": "Compute roof pitch, rafter length and shingle bundles."
+    },
+    {
+     "name": "Contractor Invoice Maker",
+     "dev": "BizTools",
+     "ratings": 1500,
+     "desc": "Create and send invoices for contractors."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
+  },
+  {
+   "term": "forklift certification test",
+   "apps": [
+    {
+     "name": "Forklift Operator Exam Prep",
+     "dev": "SafeLiftApps",
+     "ratings": 500,
+     "desc": "Practice questions for OSHA forklift operator certification."
+    },
+    {
+     "name": "Warehouse Jobs Near Me",
+     "dev": "JobHub",
+     "ratings": 2500,
+     "desc": "Search warehouse job listings."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

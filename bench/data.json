@@ -5304,6 +5304,21 @@
    "term": "amazon jobs",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "coinbase wallet",
+   "label": "brand",
+   "split": "train"
+  },
+  {
+   "term": "cdl driver hiring",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "planet fitness",
+   "label": "brand",
+   "split": "test"
   }
  ],
  "brand": [

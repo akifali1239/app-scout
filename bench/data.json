@@ -78592,6 +78592,42 @@
    "hi": "pomodoro timer",
    "lo": "real time multiplayer 3d game",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic exam prep",
+   "lo": "wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl permit practice test",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac load calculator",
+   "lo": "funny sound board",
+   "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician exam prep",
+   "lo": "ringtone maker",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "qr code scanner",
+   "lo": "open world rpg game",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "tip calculator",
+   "lo": "social network like instagram",
+   "split": "test"
   }
  ],
  "note": [

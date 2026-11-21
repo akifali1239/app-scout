@@ -5389,6 +5389,26 @@
    "term": "rn travel assignments hiring",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "cvs pharmacy",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "walmart app",
+   "label": "brand",
+   "split": "dev"
+  },
+  {
+   "term": "pipe sizing calculator",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "dental hygienist jobs near me",
+   "label": "jobs",
+   "split": "train"
   }
  ],
  "brand": [
@@ -53263,6 +53283,63 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "autocad",
+   "top": [
+    {
+     "name": "AutoCAD - DWG Viewer & Editor",
+     "dev": "Autodesk",
+     "ratings": 250000,
+     "desc": "Edit and view CAD drawings."
+    },
+    {
+     "name": "Handy Tools",
+     "dev": "Dev2",
+     "ratings": 90,
+     "desc": "Simple utility app."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nurse shift handoff notes",
+   "top": [
+    {
+     "name": "Shift Notes for Nurses",
+     "dev": "Dev",
+     "ratings": 150,
+     "desc": "Template for patient handoff reports."
+    },
+    {
+     "name": "Handy Tools",
+     "dev": "Dev2",
+     "ratings": 90,
+     "desc": "Simple utility app."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "adobe acrobat",
+   "top": [
+    {
+     "name": "Adobe Acrobat Reader: Edit PDF",
+     "dev": "Adobe",
+     "ratings": 900000,
+     "desc": "View, sign and comment on PDF files."
+    },
+    {
+     "name": "Handy Tools",
+     "dev": "Dev2",
+     "ratings": 90,
+     "desc": "Simple utility app."
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

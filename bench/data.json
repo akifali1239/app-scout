@@ -74550,6 +74550,26 @@
    "app": "Uses the official Star Wars logo and characters in a sticker maker.",
    "label": true,
    "split": "train"
+  },
+  {
+   "app": "Fan-made trivia quiz using Pokémon names and official artwork with a Nintendo logo.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Lets users view MLB live scores with the official team logos and a Major League Baseball badge.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Offline checklist for tracking your own gym sets and reps with no third-party content.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Simple unit converter for plumbers covering pipe diameters and flow rates.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -86325,6 +86345,24 @@
    },
    "label": "ai_wrapper",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Mortgage Payment Calculator",
+    "category": "Finance",
+    "desc": "Enter loan amount, rate and term to see your monthly payment and amortization."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Chat with Claude-style Tutor AI",
+    "category": "Education",
+    "desc": "Ask GPT-4 anything; our assistant writes essays and answers homework via the OpenAI API."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
   }
  ]
 }

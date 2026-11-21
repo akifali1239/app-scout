@@ -53143,6 +53143,101 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "testflight",
+   "top": [
+    {
+     "name": "TestFlight",
+     "dev": "Apple",
+     "ratings": 50000,
+     "desc": "Install and test beta apps."
+    },
+    {
+     "name": "Beta Tracker",
+     "dev": "Dev",
+     "ratings": 40,
+     "desc": "Track betas."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nclex rn prep notes",
+   "top": [
+    {
+     "name": "NCLEX RN Prep",
+     "dev": "Study Co",
+     "ratings": 900,
+     "desc": "Practice questions for the NCLEX."
+    },
+    {
+     "name": "RN Cards",
+     "dev": "Dev",
+     "ratings": 120,
+     "desc": "Flashcards for nursing students."
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "pocket prep",
+   "top": [
+    {
+     "name": "Pocket Prep",
+     "dev": "Pocket Prep Inc",
+     "ratings": 4000,
+     "desc": "Exam prep for certifications."
+    },
+    {
+     "name": "Exam Cards",
+     "dev": "Dev",
+     "ratings": 80,
+     "desc": "Study cards."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "electrician exam flashcards",
+   "top": [
+    {
+     "name": "Electrician Exam Prep",
+     "dev": "Dev",
+     "ratings": 300,
+     "desc": "Flashcards for the journeyman exam."
+    },
+    {
+     "name": "NEC Cards",
+     "dev": "Dev2",
+     "ratings": 150,
+     "desc": "Code flashcards."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "procreate",
+   "top": [
+    {
+     "name": "Procreate",
+     "dev": "Savage Interactive",
+     "ratings": 30000,
+     "desc": "Sketch, paint, create."
+    },
+    {
+     "name": "Sketch Pad",
+     "dev": "Dev",
+     "ratings": 900,
+     "desc": "Drawing app."
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

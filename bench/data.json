@@ -53079,6 +53079,25 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "fluke connect",
+   "top": [
+    {
+     "name": "Fluke Connect",
+     "dev": "Fluke Corporation",
+     "ratings": 3100,
+     "desc": "Connect to Fluke measurement tools and share data."
+    },
+    {
+     "name": "Meter Logger",
+     "dev": "Dev",
+     "ratings": 60,
+     "desc": "Log readings."
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

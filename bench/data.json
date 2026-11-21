@@ -5254,6 +5254,16 @@
    "term": "hvac superheat calculator",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "pharmacy tech flashcards",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "electrician apprentice hiring",
+   "label": "jobs",
+   "split": "test"
   }
  ],
  "brand": [

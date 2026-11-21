@@ -72457,6 +72457,84 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "pipe fitting offset calculator",
+   "apps": [
+    {
+     "name": "Pipe Trades Pro",
+     "dev": "TradeCalc LLC",
+     "ratings": 3400,
+     "desc": "Offset, rolling offset and bend calculators for pipefitters and plumbers."
+    },
+    {
+     "name": "Plumber Jobs Hub",
+     "dev": "JobHub",
+     "ratings": 800,
+     "desc": "Find plumbing jobs."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "emt study guide",
+   "apps": [
+    {
+     "name": "EMT Exam Prep",
+     "dev": "MedPrep Studio",
+     "ratings": 6200,
+     "desc": "NREMT practice questions with explanations."
+    },
+    {
+     "name": "First Aid Basics",
+     "dev": "HealthTips",
+     "ratings": 1500,
+     "desc": "General first aid tips for the public."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "surveyor field notes",
+   "apps": [
+    {
+     "name": "Survey Field Book",
+     "dev": "GeoTools Studio",
+     "ratings": 700,
+     "desc": "Digital field book for land surveyors: points, offsets, notes."
+    },
+    {
+     "name": "Photo Collage Maker",
+     "dev": "PicFun",
+     "ratings": 120000,
+     "desc": "Make photo collages."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
   }
  ],
  "risk": [

@@ -81550,6 +81550,36 @@
    "note": "Rakiplerin ekranları 2015'ten kalma, güncellenmemiş ve bozuk çalışıyor",
    "label": "Kalitesiz / eski",
    "split": "test"
+  },
+  {
+   "note": "Bu aramada ilk sayfadaki app'lerin hiçbirinin 50 yorumu yok, boş alan var",
+   "label": "Boş alan / fırsat",
+   "split": "test"
+  },
+  {
+   "note": "Rakipler eski, son güncelleme üç yıl önce; yeni bir app rahat öne çıkar",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Bu niş için ciddi bir app yok, sonuçlar neredeyse boş",
+   "label": "Boş alan / fırsat",
+   "split": "train"
+  },
+  {
+   "note": "Sadece bir not defteri daha, kimse için heyecan verici değil",
+   "label": "Sıkıcı fikir",
+   "split": "test"
+  },
+  {
+   "note": "Fikir düz ve sıradan, üzerinde çalışmak bile istemiyorum",
+   "label": "Sıkıcı fikir",
+   "split": "dev"
+  },
+  {
+   "note": "Yine standart bir birim çevirici, ilgimi çekmiyor",
+   "label": "Sıkıcı fikir",
+   "split": "test"
   }
  ],
  "kind": [

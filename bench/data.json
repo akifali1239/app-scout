@@ -74899,6 +74899,36 @@
    "app": "Simple unit converter for plumbers covering pipe diameters and flow rates.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Calculates pediatric acetaminophen and ibuprofen doses by child weight for parents.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Uses Disney princess artwork and the Mickey Mouse ears logo in a kids coloring book.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Computes beam deflection and maximum span tables for structural engineers.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Tracks how many glasses of water you drink each day with a simple tap counter.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Shows a simple stopwatch and lap timer for runners with no health advice.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Lists the days of the week and months in Spanish as flashcards you create yourself.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

@@ -52944,6 +52944,63 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "osha 30 practice questions",
+   "top": [
+    {
+     "name": "OSHA 30 Exam Prep",
+     "dev": "SafetyStudy",
+     "ratings": 2300,
+     "desc": "Practice questions for the OSHA 30-hour course."
+    },
+    {
+     "name": "OSHA Quiz",
+     "dev": "SafeWork",
+     "ratings": 410,
+     "desc": "Safety quiz with explanations."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "rebar spacing chart",
+   "top": [
+    {
+     "name": "Rebar Calc",
+     "dev": "ConcreteTools",
+     "ratings": 270,
+     "desc": "Rebar spacing and weight tables."
+    },
+    {
+     "name": "Concrete Helper",
+     "dev": "MasonPro",
+     "ratings": 90,
+     "desc": "Quick concrete and rebar reference."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "ohms law calculator",
+   "top": [
+    {
+     "name": "Ohm's Law Calc",
+     "dev": "ElecTools",
+     "ratings": 1900,
+     "desc": "Voltage, current and resistance calculator."
+    },
+    {
+     "name": "Electrician Calculator",
+     "dev": "SparkyApps",
+     "ratings": 760,
+     "desc": "Electrical formulas for electricians."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

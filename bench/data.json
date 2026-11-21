@@ -78862,6 +78862,42 @@
    "hi": "tip calculator",
    "lo": "social network like instagram",
    "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nclex practice questions",
+   "lo": "wallpaper app",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter",
+   "lo": "video editor like capcut",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pomodoro timer",
+   "lo": "food delivery marketplace",
+   "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "welding symbols reference",
+   "lo": "funny sound effects",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "paramedic drug dosage calculator",
+   "lo": "emoji keyboard",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoice app",
+   "lo": "meme generator",
+   "split": "test"
   }
  ],
  "note": [

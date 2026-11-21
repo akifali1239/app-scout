@@ -5279,6 +5279,31 @@
    "term": "lineman jobs",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "walgreens pharmacy",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "nec code lookup",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "rn staffing agency",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "drug dosage calculator",
+   "label": "need",
+   "split": "train"
+  },
+  {
+   "term": "amazon jobs",
+   "label": "jobs",
+   "split": "dev"
   }
  ],
  "brand": [

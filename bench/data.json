@@ -86663,6 +86663,51 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Piano Chord Dictionary",
+    "category": "Music",
+    "desc": "Look up chord diagrams, notes and fingerings for every key."
+   },
+   "label": "reference",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Tutor Marketplace",
+    "category": "Education",
+    "desc": "Find and book vetted tutors for live video lessons."
+   },
+   "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Voltage Drop Calculator",
+    "category": "Utilities",
+    "desc": "Enter wire gauge, length and current to get voltage drop percentage."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Resume Writer GPT",
+    "category": "Productivity",
+    "desc": "Generate cover letters and resumes with ChatGPT in seconds."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Idle Farm Tycoon",
+    "category": "Games",
+    "desc": "Tap to grow crops, upgrade barns and unlock new levels."
+   },
+   "label": "game",
+   "split": "train"
   }
  ]
 }

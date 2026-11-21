@@ -53435,6 +53435,95 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "epic ehr",
+   "top": [
+    {
+     "name": "Epic Haiku",
+     "dev": "Epic Systems",
+     "ratings": 9000,
+     "desc": "Mobile access to Epic electronic health record for clinicians."
+    },
+    {
+     "name": "Epic Rover",
+     "dev": "Epic Systems",
+     "ratings": 3000,
+     "desc": "Inpatient nursing documentation for Epic."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "osha 10 study guide",
+   "top": [
+    {
+     "name": "OSHA 10 Prep",
+     "dev": "SafeApp",
+     "ratings": 1200,
+     "desc": "Practice questions for the OSHA 10 hour course."
+    },
+    {
+     "name": "Safety Quiz",
+     "dev": "TradeDev",
+     "ratings": 400,
+     "desc": "Construction safety exam questions."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "roofing estimator",
+   "top": [
+    {
+     "name": "Roofing Calc",
+     "dev": "BuildTools",
+     "ratings": 800,
+     "desc": "Estimate shingles, squares and cost for roof jobs."
+    },
+    {
+     "name": "Roof Measure",
+     "dev": "MeasureCo",
+     "ratings": 2500,
+     "desc": "Measure roof area from photos."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "nursing dosage calculation",
+   "top": [
+    {
+     "name": "Dosage Calc",
+     "dev": "NurseDev",
+     "ratings": 5000,
+     "desc": "Drug dose and IV drip rate calculator for nurses."
+    },
+    {
+     "name": "Med Math",
+     "dev": "RNTools",
+     "ratings": 1500,
+     "desc": "Practice dosage calculation problems."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "jobnimbus",
+   "top": [
+    {
+     "name": "JobNimbus CRM",
+     "dev": "JobNimbus",
+     "ratings": 2000,
+     "desc": "CRM and job management for roofing contractors."
+    }
+   ],
+   "label": true,
+   "split": "dev"
   }
  ],
  "rival": [

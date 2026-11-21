@@ -81810,6 +81810,36 @@
    "note": "Yine standart bir birim çevirici, ilgimi çekmiyor",
    "label": "Sıkıcı fikir",
    "split": "test"
+  },
+  {
+   "note": "Birebir aynı özellikler ve aynı ekranlar, rakiplerden tek farkı logosu olurdu",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Üç rakibin ekran görüntüleri neredeyse kopya, ayrışacak hiçbir yanım yok",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Bu aramada yüzlerce app var ve ilk sayfadakilerin hepsi on binlerce yorumlu devler",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Kategori çok kalabalık, her sıradaki app milyonlarca indirmeli, girmek umutsuz",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Kullanıcılar bu tür app'e ödeme yapmıyor, hepsi ücretsiz ve reklamsız bekliyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Konuyla hiç ilgisi olmayan bir arama, benim hedef kitlemle alakası yok",
+   "label": "Alakasız",
+   "split": "dev"
   }
  ],
  "kind": [

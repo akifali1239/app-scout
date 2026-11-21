@@ -82092,6 +82092,46 @@
    "note": "Konuyla hiç ilgisi olmayan bir arama, benim hedef kitlemle alakası yok",
    "label": "Alakasız",
    "split": "dev"
+  },
+  {
+   "note": "Kategorinin ilk sayfası aynı işi yapan 50 app ile dolu, hepsi yorumlu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu niş büyük firmaların elinde, ilk üç app'in her birinin yüz bin yorumu var",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Kaç app varsa hepsi aynı vaadi veriyor, pazar tıka basa dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Bu kartı az önce de gördüm, listede aynısı tekrar çıktı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Dün reddettiğim fikir yine karşıma geldi, sadece başlığı farklı",
+   "label": "Çok benzer",
+   "split": "dev"
+  },
+  {
+   "note": "Listede peş peşe aynı kart gösterildi, tekrar tekrar aynısı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Apple'ın kendi ücretsiz uygulaması bu işi zaten yapıyor, pazar dolu",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Bu kart geçen hafta reddettiğim kartın aynısı, yine listede",
+   "label": "Çok benzer",
+   "split": "train"
   }
  ],
  "kind": [

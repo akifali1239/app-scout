@@ -53340,6 +53340,101 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "sketchup",
+   "top": [
+    {
+     "name": "SketchUp",
+     "dev": "Trimble",
+     "ratings": 12000,
+     "desc": "3D modeling for design and construction."
+    },
+    {
+     "name": "Handy Tools",
+     "dev": "Dev2",
+     "ratings": 90,
+     "desc": "Simple utility app."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "pdf expert",
+   "top": [
+    {
+     "name": "PDF Expert: Editor & Reader",
+     "dev": "Readdle",
+     "ratings": 200000,
+     "desc": "Edit, sign and annotate PDFs."
+    },
+    {
+     "name": "Handy Tools",
+     "dev": "Dev2",
+     "ratings": 90,
+     "desc": "Simple utility app."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "jobtread",
+   "top": [
+    {
+     "name": "JobTread",
+     "dev": "JobTread",
+     "ratings": 800,
+     "desc": "Construction management software."
+    },
+    {
+     "name": "Handy Tools",
+     "dev": "Dev2",
+     "ratings": 90,
+     "desc": "Simple utility app."
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "medication dosage calculator",
+   "top": [
+    {
+     "name": "Dose Calc",
+     "dev": "Dev3",
+     "ratings": 400,
+     "desc": "Calculate medication doses by weight."
+    },
+    {
+     "name": "RxMath",
+     "dev": "Dev4",
+     "ratings": 250,
+     "desc": "Dosage calculation practice for nurses."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "knot tying guide",
+   "top": [
+    {
+     "name": "Knots 3D",
+     "dev": "Dev5",
+     "ratings": 9000,
+     "desc": "Learn to tie knots step by step."
+    },
+    {
+     "name": "Knot Guide",
+     "dev": "Dev6",
+     "ratings": 600,
+     "desc": "Illustrated knot reference."
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

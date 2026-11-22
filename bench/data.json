@@ -54278,6 +54278,31 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "trade ready flashcards",
+   "top": [
+    {
+     "name": "Pocket Prep Trades",
+     "dev": "Pocket Prep",
+     "ratings": 6000,
+     "desc": "Exam prep for trades."
+    },
+    {
+     "name": "Electrician Exam Flashcards",
+     "dev": "StudyForge",
+     "ratings": 900,
+     "desc": "Flashcards for the journeyman exam."
+    },
+    {
+     "name": "Plumber Study Guide",
+     "dev": "LearnTrade",
+     "ratings": 300,
+     "desc": "Study guide."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -73961,6 +73986,74 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "concrete mix calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc Pro",
+     "dev": "BuildKit",
+     "ratings": 3100,
+     "desc": "Calculate concrete volume and bags for slabs and footings."
+    },
+    {
+     "name": "Contractor Job Scheduler",
+     "dev": "SiteWorks",
+     "ratings": 900,
+     "desc": "Schedule crews and jobs for contractors."
+    },
+    {
+     "name": "Idle Tower Builder",
+     "dev": "FunPlay",
+     "ratings": 50000,
+     "desc": "Tap to build a tower in this idle game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "drywall estimator",
+   "apps": [
+    {
+     "name": "Drywall Sheet Estimator",
+     "dev": "FinishTools",
+     "ratings": 600,
+     "desc": "Estimate drywall sheets, mud and screws for any room."
+    },
+    {
+     "name": "Paint Color Visualizer",
+     "dev": "HueHome",
+     "ratings": 5000,
+     "desc": "Preview paint colors on your walls."
+    },
+    {
+     "name": "Photo Collage Maker",
+     "dev": "SnapArt",
+     "ratings": 70000,
+     "desc": "Make photo collages."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

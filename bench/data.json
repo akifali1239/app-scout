@@ -73832,6 +73832,40 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "piano chord finder",
+   "apps": [
+    {
+     "name": "Chord Finder for Piano",
+     "dev": "KeysLab",
+     "ratings": 2400,
+     "desc": "Look up piano chords and inversions for any key."
+    },
+    {
+     "name": "Piano Lessons Marketplace",
+     "dev": "TutorHub",
+     "ratings": 700,
+     "desc": "Book a local piano teacher near you."
+    },
+    {
+     "name": "Tank Battle 3D",
+     "dev": "WarCo",
+     "ratings": 20000,
+     "desc": "Command tanks in online battles."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [
@@ -80503,6 +80537,42 @@
    "hi": "nurse medication dosage calculator",
    "lo": "photo-realistic 3d racing game",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician license exam prep",
+   "lo": "kids bedtime stories",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "hvac technician refrigerant guide",
+   "lo": "celebrity gossip feed",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoice and estimate maker",
+   "lo": "free wallpaper pack",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "real estate agent mortgage calculator",
+   "lo": "funny sound board",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "tide chart for fishing spots",
+   "lo": "global social network with live video",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe thread size lookup",
+   "lo": "multiplayer open world mmo",
+   "split": "dev"
   }
  ],
  "note": [
@@ -88537,6 +88607,24 @@
     "desc": "A new article and video every day about welding technique."
    },
    "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Daily Hymns Radio",
+    "category": "Music",
+    "desc": "Streams classic hymns and sermons all day."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Union Credit Sign-In",
+    "category": "Finance",
+    "desc": "Check your balance and deposit checks at your credit union."
+   },
+   "label": "service",
    "split": "dev"
   }
  ]

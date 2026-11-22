@@ -88953,6 +88953,51 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Knot Guide Offline",
+    "category": "Reference",
+    "desc": "Illustrated library of 60 knots with step-by-step tying instructions, works offline."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Rebar Weight Calculator",
+    "category": "Utility",
+    "desc": "Enter bar size and length to get total weight and cost."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Meal Plan Coach GPT",
+    "category": "Health & Fitness",
+    "desc": "Chat with an AI that generates weekly meal plans from your goals."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Vet Tech Daily Podcast",
+    "category": "Education",
+    "desc": "Daily audio episodes covering veterinary technician topics and news."
+   },
+   "label": "content",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Mobile Notary Booking",
+    "category": "Business",
+    "desc": "Book a certified mobile notary to come to your home or office."
+   },
+   "label": "service",
+   "split": "train"
   }
  ]
 }

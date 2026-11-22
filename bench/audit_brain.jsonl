@@ -2292,3 +2292,5 @@
 {"ts": "2026-11-22T21:41:45+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "intent", "n": 2, "reason": "intent: pubg mobile (brand), tradesman staffing agency (jobs) net vakalar"}
 {"ts": "2026-11-22T21:41:45+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "note", "n": 5, "reason": "note: her sınıftan birer net vaka; test/dev dağılımlı"}
 {"ts": "2026-11-22T21:41:45+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; optimizer durgun. Altın niş adayı 0. Yeni bileşen eklenmedi."}
+{"ts": "2026-11-22T22:41:17+00:00", "actor": "claude", "action": "brain_add_cases", "cap": "kind", "n": 5, "reason": "kind: reference/utility/ai_wrapper/content/service için net vakalar; test/dev/train dağılımlı"}
+{"ts": "2026-11-22T22:41:17+00:00", "actor": "claude", "action": "brain_review", "cap": null, "n": 0, "reason": "Promosyon/geri alma yok, kanıtlı zarar yok; scoreboard hâlâ 25 Eki 2026 (optimizer durgun). Altın niş adayı 0 (kademeli rakip<=1 yok). Yeni bileşen eklenmedi."}

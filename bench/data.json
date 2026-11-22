@@ -83715,6 +83715,26 @@
    "note": "Bu nişte hiç app yok, ilk sayfa bomboş, fırsat gibi duruyor",
    "label": "Boş alan / fırsat",
    "split": "train"
+  },
+  {
+   "note": "Ekran görüntülerine bakınca hepsi aynı şablon, birini seçmek imkansız",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "İlk sayfada 30'dan fazla güçlü rakip var, yeni app görünmez",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Aramada çıkan hiçbir app bu işi yapmıyor, boşluk var",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Kullanıcılar bunun için para ödemez, hep ücretsiz arıyorlar",
+   "label": "Para yapmaz",
+   "split": "train"
   }
  ],
  "kind": [

@@ -53524,6 +53524,103 @@
    ],
    "label": true,
    "split": "dev"
+  },
+  {
+   "term": "trello",
+   "top": [
+    {
+     "name": "Trello: Organize anything",
+     "dev": "Atlassian",
+     "ratings": 90000,
+     "desc": "Boards, lists and cards to organize projects with your team."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "notion",
+   "top": [
+    {
+     "name": "Notion: Notes, Tasks, AI",
+     "dev": "Notion Labs",
+     "ratings": 60000,
+     "desc": "All-in-one workspace for notes, docs and projects."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "clio",
+   "top": [
+    {
+     "name": "Clio for Lawyers",
+     "dev": "Clio",
+     "ratings": 1500,
+     "desc": "Legal practice management: time tracking, billing and matters."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "milwaukee one-key",
+   "top": [
+    {
+     "name": "ONE-KEY",
+     "dev": "Milwaukee Tool",
+     "ratings": 9000,
+     "desc": "Manage and track your Milwaukee tools and equipment."
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "dewalt tool connect",
+   "top": [
+    {
+     "name": "DEWALT Tool Connect",
+     "dev": "DEWALT",
+     "ratings": 3000,
+     "desc": "Connect and manage DEWALT tools and inventory."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "wire size chart",
+   "top": [
+    {
+     "name": "Wire Gauge Calculator",
+     "dev": "SparkTools",
+     "ratings": 800,
+     "desc": "Wire size and ampacity chart for electricians."
+    },
+    {
+     "name": "AWG Reference",
+     "dev": "Bench Apps",
+     "ratings": 300,
+     "desc": "AWG conversion table."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "deadline calculator court",
+   "top": [
+    {
+     "name": "Court Deadline Calc",
+     "dev": "LegalTools",
+     "ratings": 400,
+     "desc": "Compute filing deadlines from rule dates for paralegals."
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

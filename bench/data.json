@@ -53641,6 +53641,83 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "procore",
+   "top": [
+    {
+     "name": "Procore",
+     "dev": "Procore Technologies",
+     "ratings": 9000,
+     "desc": "Construction management platform for projects, drawings and RFIs."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "fieldwire",
+   "top": [
+    {
+     "name": "Fieldwire - Construction App",
+     "dev": "Fieldwire",
+     "ratings": 7000,
+     "desc": "Jobsite plans, tasks and punch lists for field teams."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "loan officer mortgage calculator",
+   "top": [
+    {
+     "name": "Mortgage Calculator Pro",
+     "dev": "Calc Labs",
+     "ratings": 800,
+     "desc": "Payment, APR and amortization calculator."
+    },
+    {
+     "name": "Home Loan Calc",
+     "dev": "Finlytics",
+     "ratings": 300,
+     "desc": "Estimate monthly mortgage payments."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "electrician conduit bending",
+   "top": [
+    {
+     "name": "Conduit Bend Calc",
+     "dev": "SparkTools",
+     "ratings": 500,
+     "desc": "Offsets, kicks and saddles for EMT bending."
+    },
+    {
+     "name": "Bend It",
+     "dev": "Volt Apps",
+     "ratings": 150,
+     "desc": "Conduit bending angles and multipliers."
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "uworld nclex",
+   "top": [
+    {
+     "name": "UWorld Nursing",
+     "dev": "UWorld",
+     "ratings": 30000,
+     "desc": "NCLEX question bank and self-assessments."
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [
@@ -72938,6 +73015,110 @@
     "unrelated"
    ],
    "split": "test"
+  },
+  {
+   "term": "farrier shoeing log",
+   "apps": [
+    {
+     "name": "Farrier Log",
+     "dev": "HoofTools",
+     "ratings": 200,
+     "desc": "Track horse shoeing, trims and client schedules."
+    },
+    {
+     "name": "Horse Photo Frames",
+     "dev": "PicFun",
+     "ratings": 40000,
+     "desc": "Add frames to horse photos."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "concrete yardage calculator",
+   "apps": [
+    {
+     "name": "Concrete Calc",
+     "dev": "BuildQuick",
+     "ratings": 900,
+     "desc": "Cubic yards for slabs, footings and columns."
+    },
+    {
+     "name": "Slab Maker Game",
+     "dev": "Idle Studio",
+     "ratings": 3000,
+     "desc": "Pour concrete in a casual game."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "bartender tip tracker",
+   "apps": [
+    {
+     "name": "Tip Tracker",
+     "dev": "ShiftPay",
+     "ratings": 600,
+     "desc": "Log bar tips per shift and tip-out totals."
+    },
+    {
+     "name": "Cocktail Recipes",
+     "dev": "Mixology Co",
+     "ratings": 25000,
+     "desc": "Thousands of drink recipes."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "hvac load calculation",
+   "apps": [
+    {
+     "name": "HVAC Load Calc",
+     "dev": "CoolTools",
+     "ratings": 450,
+     "desc": "Manual J style heating and cooling load estimates."
+    },
+    {
+     "name": "Thermostat Remote",
+     "dev": "Nest Clone",
+     "ratings": 5000,
+     "desc": "Control your thermostat."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

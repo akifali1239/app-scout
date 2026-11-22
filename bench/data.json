@@ -54183,6 +54183,81 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "cronometer",
+   "top": [
+    {
+     "name": "Cronometer – Nutrition Tracker",
+     "dev": "Cronometer Software",
+     "ratings": 95000,
+     "desc": "Track calories and micronutrients."
+    },
+    {
+     "name": "Calorie Counter",
+     "dev": "FitLab",
+     "ratings": 4000,
+     "desc": "Log food."
+    },
+    {
+     "name": "Macro Tracker",
+     "dev": "Nutri Apps",
+     "ratings": 1200,
+     "desc": "Track macros."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "complete anatomy",
+   "top": [
+    {
+     "name": "Complete Anatomy",
+     "dev": "3D4Medical",
+     "ratings": 52000,
+     "desc": "3D human anatomy platform for students and clinicians."
+    },
+    {
+     "name": "Anatomy Atlas",
+     "dev": "MedViz",
+     "ratings": 3000,
+     "desc": "Muscle charts."
+    },
+    {
+     "name": "Anatomy Quiz",
+     "dev": "StudyCo",
+     "ratings": 900,
+     "desc": "Quiz."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "drug dose calculator",
+   "top": [
+    {
+     "name": "Dose Calculator",
+     "dev": "MedCalc Labs",
+     "ratings": 2100,
+     "desc": "Drug dose calculator."
+    },
+    {
+     "name": "Pediatric Dose Calc",
+     "dev": "RxTools",
+     "ratings": 1500,
+     "desc": "Dose by weight."
+    },
+    {
+     "name": "Drug Dosage Calculator",
+     "dev": "NurseKit",
+     "ratings": 900,
+     "desc": "Dosages."
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

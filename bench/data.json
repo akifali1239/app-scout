@@ -53718,6 +53718,101 @@
    ],
    "label": true,
    "split": "test"
+  },
+  {
+   "term": "fluke",
+   "top": [
+    {
+     "name": "Fluke Connect",
+     "dev": "Fluke Corporation",
+     "ratings": 4200,
+     "desc": "Connect Fluke test tools and share measurements with your team."
+    },
+    {
+     "name": "Fluke Reliability",
+     "dev": "Fluke",
+     "ratings": 900,
+     "desc": "Maintenance work orders for Fluke condition monitoring."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "autodesk construction cloud",
+   "top": [
+    {
+     "name": "Autodesk Construction Cloud",
+     "dev": "Autodesk",
+     "ratings": 8200,
+     "desc": "Manage drawings, RFIs and field reports on your Autodesk project."
+    },
+    {
+     "name": "Autodesk Docs",
+     "dev": "Autodesk",
+     "ratings": 3100,
+     "desc": "Access project files from Autodesk Docs."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "tinkercad",
+   "top": [
+    {
+     "name": "Tinkercad",
+     "dev": "Autodesk",
+     "ratings": 1500,
+     "desc": "Design 3D models in Tinkercad, a free app from Autodesk."
+    },
+    {
+     "name": "Tinkercad Circuits Guide",
+     "dev": "Hobby Labs",
+     "ratings": 90,
+     "desc": "Learn about circuits."
+    }
+   ],
+   "label": true,
+   "split": "train"
+  },
+  {
+   "term": "conduit fill calculator",
+   "top": [
+    {
+     "name": "Conduit Fill Calc",
+     "dev": "ElecTools",
+     "ratings": 1800,
+     "desc": "Calculate conduit fill percentage for wires."
+    },
+    {
+     "name": "Electrician Pro Calc",
+     "dev": "Sparky Apps",
+     "ratings": 4200,
+     "desc": "Wire size, conduit fill and voltage drop calculators."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "emt flashcards",
+   "top": [
+    {
+     "name": "EMT Flashcards",
+     "dev": "StudyPro",
+     "ratings": 2600,
+     "desc": "Flashcards for the NREMT exam."
+    },
+    {
+     "name": "EMT Prep Cards",
+     "dev": "MedCards",
+     "ratings": 1500,
+     "desc": "Study cards for EMTs."
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

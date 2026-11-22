@@ -53833,6 +53833,82 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "stud finder calculator",
+   "top": [
+    {
+     "name": "Stud Spacing Calc",
+     "dev": "BuildTools",
+     "ratings": 600,
+     "desc": "Compute wall stud spacing for framing."
+    },
+    {
+     "name": "Framing Calculator",
+     "dev": "CarpenterApps",
+     "ratings": 1100,
+     "desc": "Rafter, stair and stud layout math."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "lineman climbing checklist",
+   "top": [
+    {
+     "name": "Lineman Gear Checklist",
+     "dev": "PowerLineApps",
+     "ratings": 150,
+     "desc": "Pre-climb checklist for linemen."
+    },
+    {
+     "name": "Pole Climb Log",
+     "dev": "GridCrew",
+     "ratings": 90,
+     "desc": "Log climbs and inspections."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "cna state exam practice",
+   "top": [
+    {
+     "name": "CNA Practice Test",
+     "dev": "NurseAid Studio",
+     "ratings": 2400,
+     "desc": "Practice questions for the CNA state exam."
+    },
+    {
+     "name": "CNA Skills Guide",
+     "dev": "CareStudy",
+     "ratings": 700,
+     "desc": "Step-by-step CNA skills."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "harvest",
+   "top": [
+    {
+     "name": "Harvest - Time Tracking",
+     "dev": "Harvest",
+     "ratings": 1500,
+     "desc": "Track time and expenses, send invoices."
+    },
+    {
+     "name": "Harvest Moon Wallpapers",
+     "dev": "PixelArt",
+     "ratings": 300,
+     "desc": "Autumn wallpapers."
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [
@@ -73312,6 +73388,74 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "drywall mud calculator",
+   "apps": [
+    {
+     "name": "Drywall Calc Pro",
+     "dev": "BuildTools",
+     "ratings": 1500,
+     "desc": "Estimate joint compound and drywall sheets for a room."
+    },
+    {
+     "name": "Paint Color Visualizer",
+     "dev": "HomeDecor Inc",
+     "ratings": 9000,
+     "desc": "Try paint colors on walls."
+    },
+    {
+     "name": "Plaster Repair Tips",
+     "dev": "DIYGuides",
+     "ratings": 200,
+     "desc": "Articles about patching walls."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "sterile processing flashcards",
+   "apps": [
+    {
+     "name": "SPD Tech Flashcards",
+     "dev": "SterileStudy",
+     "ratings": 900,
+     "desc": "Flashcards for CRCST certification exam."
+    },
+    {
+     "name": "Surgical Instruments Atlas",
+     "dev": "MedSurg Apps",
+     "ratings": 3000,
+     "desc": "Photo reference of surgical instruments."
+    },
+    {
+     "name": "Spades Plus",
+     "dev": "CardGames Ltd",
+     "ratings": 20000,
+     "desc": "Classic card game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

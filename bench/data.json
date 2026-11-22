@@ -54063,6 +54063,101 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "osmosis medical videos",
+   "top": [
+    {
+     "name": "Osmosis - Medical Education",
+     "dev": "Osmosis.org",
+     "ratings": 24000,
+     "desc": "Medical video lessons and flashcards."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "drug dose calculator for nurses",
+   "top": [
+    {
+     "name": "Nurse Drug Calc",
+     "dev": "MedTools",
+     "ratings": 1500,
+     "desc": "Dose calculations."
+    },
+    {
+     "name": "Dosage Calc",
+     "dev": "RxApps",
+     "ratings": 900,
+     "desc": "Dosage helper."
+    },
+    {
+     "name": "Med Math",
+     "dev": "NurseDev",
+     "ratings": 600,
+     "desc": "Med math."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "pipe bending calculator",
+   "top": [
+    {
+     "name": "Pipe Bend",
+     "dev": "ConduitApps",
+     "ratings": 700,
+     "desc": "Offsets."
+    },
+    {
+     "name": "Bender Calc",
+     "dev": "ElecDev",
+     "ratings": 400,
+     "desc": "EMT bends."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "ladder angle finder",
+   "top": [
+    {
+     "name": "Ladder Angle",
+     "dev": "SafeDev",
+     "ratings": 500,
+     "desc": "Angle gauge."
+    },
+    {
+     "name": "Ladder Level",
+     "dev": "ToolBox",
+     "ratings": 300,
+     "desc": "Ladder safety."
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "acls algorithms",
+   "top": [
+    {
+     "name": "ACLS Pocket",
+     "dev": "MedRef",
+     "ratings": 2500,
+     "desc": "ACLS cards."
+    },
+    {
+     "name": "ACLS Guide",
+     "dev": "CodeBlue",
+     "ratings": 1100,
+     "desc": "Algorithms."
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [

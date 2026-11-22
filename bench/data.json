@@ -5489,6 +5489,31 @@
    "term": "paint calculator",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "hiring paramedics near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "electrician openings hiring now",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "johnson dental group pc",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "sunrise yoga studio austin",
+   "label": "local_business",
+   "split": "train"
+  },
+  {
+   "term": "pipe fitting dimensions chart",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [

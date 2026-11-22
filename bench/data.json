@@ -5429,6 +5429,26 @@
    "term": "conduit bending reference",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "procore",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "rebar bending schedule",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "joes crab shack jobs",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "minecraft",
+   "label": "game",
+   "split": "train"
   }
  ],
  "brand": [
@@ -73214,6 +73234,84 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "rebar weight calculator",
+   "apps": [
+    {
+     "name": "Rebar Calc Pro",
+     "dev": "SteelTools",
+     "ratings": 320,
+     "desc": "Rebar weight and length calculator for ironworkers."
+    },
+    {
+     "name": "Concrete Mixer Game",
+     "dev": "FunLabs",
+     "ratings": 9000,
+     "desc": "Mix concrete in a fun game."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "scaffold load calculator",
+   "apps": [
+    {
+     "name": "Scaffold Safety Guide",
+     "dev": "SiteSafe",
+     "ratings": 210,
+     "desc": "Scaffold inspection checklists."
+    },
+    {
+     "name": "Scaffold Load Calc",
+     "dev": "BuildMath",
+     "ratings": 150,
+     "desc": "Compute scaffold load capacity per bay."
+    }
+   ],
+   "labels": [
+    0,
+    1
+   ],
+   "kinds": [
+    "adjacent",
+    "direct"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "beekeeping hive log",
+   "apps": [
+    {
+     "name": "Hive Tracker",
+     "dev": "ApiaryApps",
+     "ratings": 800,
+     "desc": "Log hive inspections, queen status and treatments."
+    },
+    {
+     "name": "Honey Bee Wallpapers",
+     "dev": "PixelArt",
+     "ratings": 4000,
+     "desc": "Cute bee wallpapers."
+    }
+   ],
+   "labels": [
+    1,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "unrelated"
+   ],
+   "split": "train"
   }
  ],
  "risk": [
@@ -82877,6 +82975,21 @@
    "note": "Kimse bu işe özel bir app yapmamış, arama sonuçları genel araçlarla dolu, fırsat var",
    "label": "Boş alan / fırsat",
    "split": "test"
+  },
+  {
+   "note": "Bu işi yapan tek bir dev app her şeyi kapsıyor, 400k yorumu var",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Meslek için çok niş ama kimse ücret ödemez, kullanıcılar bedava arar",
+   "label": "Para yapmaz",
+   "split": "dev"
+  },
+  {
+   "note": "Resmi bir kurumun logosunu kullanmadan yapılamaz, Apple reddeder",
+   "label": "Ret riski",
+   "split": "train"
   }
  ],
  "kind": [

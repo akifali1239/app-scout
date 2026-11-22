@@ -75390,6 +75390,31 @@
    "app": "Lists the days of the week and months in Spanish as flashcards you create yourself.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Tells a pregnant user whether a specific medication is safe to take and in what dose.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Counts down the time left in a chess game with two buttons.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Diagnoses chest pain from a photo of an ECG strip and tells the user whether to go to the ER.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Shows a list of flashcards for the welding symbols exam that the user flips through.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Generates a legal will from a questionnaire and says it is valid in every US state.",
+   "label": true,
+   "split": "dev"
   }
  ],
  "pairs": [
@@ -79508,6 +79533,42 @@
    "hi": "real estate agent mileage tracker",
    "lo": "puzzle for kids",
    "split": "train"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl pre-trip inspection checklist",
+   "lo": "flashlight",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician conduit bending calculator",
+   "lo": "photo filter",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "court reporter steno practice",
+   "lo": "free wallpaper",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac load calculation manual j",
+   "lo": "emoji keyboard",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe fitter offset calculator",
+   "lo": "social network for pets",
+   "split": "dev"
+  },
+  {
+   "dim": "build",
+   "hi": "nurse medication dosage calculator",
+   "lo": "photo-realistic 3d racing game",
+   "split": "test"
   }
  ],
  "note": [

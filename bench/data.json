@@ -76209,6 +76209,26 @@
    "app": "Generates a legal will from a questionnaire and says it is valid in every US state.",
    "label": true,
    "split": "dev"
+  },
+  {
+   "app": "Interprets a photo of a skin mole and says whether it is cancerous.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates insulin doses from blood sugar readings and tells the user how many units to inject.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Counts down a timer for the user's rest periods between gym sets.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Lists the steps of the OSHA lockout tagout procedure as a checklist.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -88344,6 +88364,60 @@
    },
    "label": "game",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Rebar Spacing Calc",
+    "category": "Utilities",
+    "desc": "Enter bar size and slab width to get spacing and quantity."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "NEC Code Quick Look",
+    "category": "Reference",
+    "desc": "Searchable electrical code article summaries for offline lookup."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Ask Nurse AI",
+    "category": "Medical",
+    "desc": "Chat with an AI assistant powered by GPT for nursing questions."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Mobile Notary Booking",
+    "category": "Business",
+    "desc": "Book a mobile notary to visit you; confirm a time and pay online."
+   },
+   "label": "service",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Dungeon Tap Heroes",
+    "category": "Games",
+    "desc": "Battle monsters, collect loot and level up your hero."
+   },
+   "label": "game",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Welding Tips",
+    "category": "Education",
+    "desc": "A new article and video every day about welding technique."
+   },
+   "label": "content",
+   "split": "dev"
   }
  ]
 }

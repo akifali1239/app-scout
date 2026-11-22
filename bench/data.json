@@ -82490,6 +82490,36 @@
    "note": "Bu kart geçen hafta reddettiğim kartın aynısı, yine listede",
    "label": "Çok benzer",
    "split": "train"
+  },
+  {
+   "note": "Her aramada ilk sayfa dolu, hepsi aynı vaatte, rakiplerin binlerce yorumu var",
+   "label": "Çok rekabet / doygun",
+   "split": "train"
+  },
+  {
+   "note": "Bu kategoride kırk app aynı hesaplamayı yapıyor, kimse fark yaratamıyor",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Zaten bu fikir daha önce karşıma çıkmıştı, aynı app tekrar önerildi",
+   "label": "Çok benzer",
+   "split": "train"
+  },
+  {
+   "note": "Az önce geçtiğim kartın neredeyse birebir aynısı, sadece ismi farklı",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Bu aramada hiç rakip yok, ilk sayfada alakasız app'ler var, boş bir alan",
+   "label": "Boş alan / fırsat",
+   "split": "train"
+  },
+  {
+   "note": "Kimse bu işe özel bir app yapmamış, arama sonuçları genel araçlarla dolu, fırsat var",
+   "label": "Boş alan / fırsat",
+   "split": "test"
   }
  ],
  "kind": [

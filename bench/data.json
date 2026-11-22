@@ -53949,6 +53949,120 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "bluebeam",
+   "top": [
+    {
+     "name": "Bluebeam Revu",
+     "dev": "Bluebeam, Inc.",
+     "ratings": 4000,
+     "desc": "PDF markup and collaboration for construction teams."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "procreate pocket",
+   "top": [
+    {
+     "name": "Procreate Pocket",
+     "dev": "Savage Interactive",
+     "ratings": 90000,
+     "desc": "Painting app for iPhone."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "torque wrench chart",
+   "top": [
+    {
+     "name": "Torque Specs Pro",
+     "dev": "MechApps",
+     "ratings": 800,
+     "desc": "Torque charts for bolts."
+    },
+    {
+     "name": "Wrench Torque Table",
+     "dev": "ToolSoft",
+     "ratings": 300,
+     "desc": "Bolt torque reference."
+    },
+    {
+     "name": "Torque Calc",
+     "dev": "GearLab",
+     "ratings": 150,
+     "desc": "Torque converter."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "anatomy flashcards",
+   "top": [
+    {
+     "name": "Anatomy Flashcards",
+     "dev": "StudyLab",
+     "ratings": 1200,
+     "desc": "Flashcards for anatomy."
+    },
+    {
+     "name": "Anatomy Cards Pro",
+     "dev": "MedCards",
+     "ratings": 600,
+     "desc": "Anatomy memorization."
+    },
+    {
+     "name": "Learn Anatomy",
+     "dev": "EduApps",
+     "ratings": 900,
+     "desc": "Anatomy quiz."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "monday.com",
+   "top": [
+    {
+     "name": "monday.com - Work Management",
+     "dev": "monday.com Ltd.",
+     "ratings": 30000,
+     "desc": "Manage projects and teams."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "tide chart for anglers",
+   "top": [
+    {
+     "name": "Tide Chart",
+     "dev": "NavSoft",
+     "ratings": 5000,
+     "desc": "Tide times."
+    },
+    {
+     "name": "Fishing Tides",
+     "dev": "AnglerApps",
+     "ratings": 2000,
+     "desc": "Tides for fishing."
+    },
+    {
+     "name": "Tide Table",
+     "dev": "SeaTools",
+     "ratings": 900,
+     "desc": "Tide table."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [
@@ -73496,6 +73610,108 @@
     "unrelated"
    ],
    "split": "dev"
+  },
+  {
+   "term": "beekeeping log",
+   "apps": [
+    {
+     "name": "Hive Journal",
+     "dev": "ApiaryTools",
+     "ratings": 700,
+     "desc": "Log hive inspections and honey yield."
+    },
+    {
+     "name": "Garden Planner",
+     "dev": "GreenThumb",
+     "ratings": 5000,
+     "desc": "Plan vegetable beds."
+    },
+    {
+     "name": "Bee Games",
+     "dev": "FunKids",
+     "ratings": 900,
+     "desc": "Kids bee game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "cdl practice test",
+   "apps": [
+    {
+     "name": "CDL Prep 2026",
+     "dev": "TruckPrep",
+     "ratings": 8000,
+     "desc": "Practice tests for the CDL permit exam."
+    },
+    {
+     "name": "Trucker Path",
+     "dev": "Trucker Path Inc",
+     "ratings": 50000,
+     "desc": "Truck stops and parking."
+    },
+    {
+     "name": "Car Racing 3D",
+     "dev": "SpeedGames",
+     "ratings": 20000,
+     "desc": "Racing game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "concrete mix ratio",
+   "apps": [
+    {
+     "name": "Concrete Calc Pro",
+     "dev": "BuildTools",
+     "ratings": 1500,
+     "desc": "Concrete mix ratios and volume."
+    },
+    {
+     "name": "Paint Color Visualizer",
+     "dev": "HomeDeco",
+     "ratings": 3000,
+     "desc": "Try paint colors on walls."
+    },
+    {
+     "name": "Zombie Slayer",
+     "dev": "GameCo",
+     "ratings": 9000,
+     "desc": "Shooter game."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [
@@ -83173,6 +83389,26 @@
   {
    "note": "Resmi bir kurumun logosunu kullanmadan yapılamaz, Apple reddeder",
    "label": "Ret riski",
+   "split": "train"
+  },
+  {
+   "note": "App Store'da bu işi yapan otuz tane app var, hepsi de yüksek puanlı",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Listede aynı kart üst üste geldi, daha önce reddetmiştim",
+   "label": "Çok benzer",
+   "split": "test"
+  },
+  {
+   "note": "Rakipler çok büyük ve yerleşik, sıfırdan girmek mantıksız",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Bu nişte hiç app yok, ilk sayfa bomboş, fırsat gibi duruyor",
+   "label": "Boş alan / fırsat",
    "split": "train"
   }
  ],

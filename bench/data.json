@@ -5549,6 +5549,16 @@
    "term": "carpenters union local 12",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "pubg mobile",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "tradesman staffing agency",
+   "label": "jobs",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -83894,6 +83904,31 @@
    "note": "Kullanıcılar bunun için para ödemez, hep ücretsiz arıyorlar",
    "label": "Para yapmaz",
    "split": "train"
+  },
+  {
+   "note": "Bu iş donanım sensörü ve gerçek zamanlı ses işleme istiyor, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Aramadaki app'lerin son güncellemesi 4 yıl önce, hepsi terk edilmiş",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Arama sonuçlarında bu işi yapan tek bir app bile yok, açık bir boşluk",
+   "label": "Boş alan / fırsat",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bunun için ödeme yapmaz, Notlar uygulaması bunu zaten ücretsiz yapıyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "App Store incelemesinde tıbbi tavsiye verdiği için reddedilir",
+   "label": "Ret riski",
+   "split": "dev"
   }
  ],
  "kind": [

@@ -76478,6 +76478,21 @@
    "app": "Lists the steps of the OSHA lockout tagout procedure as a checklist.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Recommends antibiotic and dose for a child's ear infection from symptoms entered by parents.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates the safe working load of a crane lift plan for site engineers to approve.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Keeps a simple list of your favorite local coffee shops.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [

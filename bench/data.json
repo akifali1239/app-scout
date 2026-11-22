@@ -54328,6 +54328,56 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "knowify",
+   "top": [
+    {
+     "name": "Knowify",
+     "dev": "Knowify",
+     "ratings": 300,
+     "desc": "Job costing and billing for contractors."
+    },
+    {
+     "name": "Contractor Invoice Maker",
+     "dev": "BizTools",
+     "ratings": 1200,
+     "desc": "Create invoices for jobs."
+    },
+    {
+     "name": "Job Cost Tracker",
+     "dev": "TradeSoft",
+     "ratings": 150,
+     "desc": "Track labor and materials."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "stair stringer calculator",
+   "top": [
+    {
+     "name": "Stair Calc",
+     "dev": "CarpenterTools",
+     "ratings": 900,
+     "desc": "Compute stringer rise, run and cuts."
+    },
+    {
+     "name": "Framing Calculator",
+     "dev": "CarpenterTools",
+     "ratings": 2500,
+     "desc": "Rafter and stud framing math."
+    },
+    {
+     "name": "Step Counter",
+     "dev": "WalkFit",
+     "ratings": 50000,
+     "desc": "Count your daily steps."
+    }
+   ],
+   "label": false,
+   "split": "test"
   }
  ],
  "rival": [
@@ -74079,6 +74129,40 @@
     "unrelated"
    ],
    "split": "train"
+  },
+  {
+   "term": "deck board calculator",
+   "apps": [
+    {
+     "name": "Deck Calc",
+     "dev": "DeckPro",
+     "ratings": 700,
+     "desc": "Calculate deck boards and fasteners."
+    },
+    {
+     "name": "Lumber Estimator",
+     "dev": "WoodTools",
+     "ratings": 1100,
+     "desc": "Estimate lumber for projects."
+    },
+    {
+     "name": "Yoga Daily",
+     "dev": "ZenApps",
+     "ratings": 60000,
+     "desc": "Daily yoga routines."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "unrelated"
+   ],
+   "split": "dev"
   }
  ],
  "risk": [

@@ -80776,6 +80776,42 @@
    "hi": "pipe thread size lookup",
    "lo": "multiplayer open world mmo",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "plumber pipe sizing chart",
+   "lo": "viral dance challenge",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "crane operator load chart",
+   "lo": "anime wallpaper maker",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor time tracking and invoicing",
+   "lo": "free ringtone maker",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "dental hygienist board exam prep",
+   "lo": "cute sticker pack",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "stud spacing calculator",
+   "lo": "ai video generator with face swap",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "wire gauge ampacity chart",
+   "lo": "live streaming marketplace with payments",
+   "split": "dev"
   }
  ],
  "note": [
@@ -88848,6 +88884,24 @@
     "desc": "Check your balance and deposit checks at your credit union."
    },
    "label": "service",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Dosage Quick Calc",
+    "category": "Medical",
+    "desc": "Enter weight and drug to compute pediatric doses instantly."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Your Tax Return AI",
+    "category": "Finance",
+    "desc": "Chat with an AI assistant that answers questions about your tax documents."
+   },
+   "label": "ai_wrapper",
    "split": "dev"
   }
  ]

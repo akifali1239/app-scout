@@ -5574,6 +5574,26 @@
    "term": "sheet metal gauge converter",
    "label": "need",
    "split": "train"
+  },
+  {
+   "term": "home depot pro",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "concrete slump test guide",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "riverside pediatric clinic",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "lakeside veterinary hospital app",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [
@@ -89112,6 +89132,24 @@
    },
    "label": "service",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Pipe Thread Reference",
+    "category": "Reference",
+    "desc": "Offline charts of NPT, BSP and metric pipe thread dimensions."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Plumber Chat AI",
+    "category": "Productivity",
+    "desc": "Ask an AI assistant plumbing code questions and get instant answers."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
   }
  ]
 }

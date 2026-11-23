@@ -54859,6 +54859,82 @@
    ],
    "label": false,
    "split": "train"
+  },
+  {
+   "term": "mold remediation estimate",
+   "top": [
+    {
+     "name": "Mold Estimator",
+     "dev": "RestoPro",
+     "ratings": 300,
+     "desc": "Estimate mold remediation jobs."
+    },
+    {
+     "name": "Restoration Calc",
+     "dev": "DryTech LLC",
+     "ratings": 150,
+     "desc": "Water and mold job costing."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "plumbing code cheat sheet",
+   "top": [
+    {
+     "name": "Plumbing Code Ref",
+     "dev": "PipeNotes",
+     "ratings": 900,
+     "desc": "Quick plumbing code lookup."
+    },
+    {
+     "name": "Plumber Toolkit",
+     "dev": "TradeApps",
+     "ratings": 1200,
+     "desc": "Pipe sizing and code tips."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "farrier appointment tracker",
+   "top": [
+    {
+     "name": "Farrier Log",
+     "dev": "HoofBeat",
+     "ratings": 80,
+     "desc": "Track horse shoeing visits."
+    },
+    {
+     "name": "Equine Care Diary",
+     "dev": "StableSoft",
+     "ratings": 200,
+     "desc": "Horse health records."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "hubspot",
+   "top": [
+    {
+     "name": "HubSpot",
+     "dev": "HubSpot, Inc.",
+     "ratings": 30000,
+     "desc": "CRM and sales tools."
+    },
+    {
+     "name": "HubSpot Sales",
+     "dev": "HubSpot, Inc.",
+     "ratings": 900,
+     "desc": "Sales hub on mobile."
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

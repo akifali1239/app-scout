@@ -54777,6 +54777,63 @@
    ],
    "label": false,
    "split": "dev"
+  },
+  {
+   "term": "drywall screw spacing chart",
+   "top": [
+    {
+     "name": "Drywall Calc",
+     "dev": "BuildPal",
+     "ratings": 1500,
+     "desc": "Screw spacing and board count."
+    },
+    {
+     "name": "Drywall Pro",
+     "dev": "JobSiteTools",
+     "ratings": 700,
+     "desc": "Estimate drywall sheets."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "tig welding amperage chart",
+   "top": [
+    {
+     "name": "TIG Settings",
+     "dev": "ArcCalc",
+     "ratings": 800,
+     "desc": "Amperage by thickness."
+    },
+    {
+     "name": "Weld Helper",
+     "dev": "MetalTools",
+     "ratings": 1200,
+     "desc": "Welding parameters."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "roofing pitch calculator",
+   "top": [
+    {
+     "name": "Roof Pitch",
+     "dev": "BuildPal",
+     "ratings": 2500,
+     "desc": "Pitch and rafter length."
+    },
+    {
+     "name": "Roofing Calc",
+     "dev": "RoofPro",
+     "ratings": 900,
+     "desc": "Estimate shingles."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

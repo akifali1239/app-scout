@@ -5594,6 +5594,31 @@
    "term": "lakeside veterinary hospital app",
    "label": "local_business",
    "split": "test"
+  },
+  {
+   "term": "sheet metal bend allowance",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "hvac load calculation manual j",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "hiring crane operators",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "oakwood family dentistry",
+   "label": "local_business",
+   "split": "test"
+  },
+  {
+   "term": "lowes pro",
+   "label": "brand",
+   "split": "dev"
   }
  ],
  "brand": [
@@ -84062,6 +84087,16 @@
   {
    "note": "App Store incelemesinde tıbbi tavsiye verdiği için reddedilir",
    "label": "Ret riski",
+   "split": "dev"
+  },
+  {
+   "note": "App Store'un ilk sayfası aynı app'lerle dolu, yeni bir şey yok",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "bu kategoride yüzlerce aynı app var, kalabalık",
+   "label": "Çok rekabet / doygun",
    "split": "dev"
   }
  ],

@@ -54453,6 +54453,156 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "sitelink",
+   "top": [
+    {
+     "name": "SiteLink Mobile",
+     "dev": "SiteLink Software",
+     "ratings": 300,
+     "desc": "Self-storage management on the go."
+    },
+    {
+     "name": "Storage Unit Finder",
+     "dev": "FindIt",
+     "ratings": 1200,
+     "desc": "Find storage units near you."
+    },
+    {
+     "name": "Link Checker",
+     "dev": "WebTools",
+     "ratings": 80,
+     "desc": "Check links on websites."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "blackbaud",
+   "top": [
+    {
+     "name": "Blackbaud Mobile",
+     "dev": "Blackbaud Inc",
+     "ratings": 900,
+     "desc": "Nonprofit fundraising and donor management."
+    },
+    {
+     "name": "Donor Tracker",
+     "dev": "GiveApps",
+     "ratings": 400,
+     "desc": "Track donations."
+    },
+    {
+     "name": "Nonprofit News",
+     "dev": "NPNet",
+     "ratings": 50,
+     "desc": "News for nonprofits."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "cabinet door size calculator",
+   "top": [
+    {
+     "name": "Cabinet Calc",
+     "dev": "WoodCalcs",
+     "ratings": 700,
+     "desc": "Compute cabinet door and drawer sizes."
+    },
+    {
+     "name": "Cabinet Maker Pro",
+     "dev": "ShopTools",
+     "ratings": 2100,
+     "desc": "Cut lists for cabinet builders."
+    },
+    {
+     "name": "Door Lock Manager",
+     "dev": "HomeSafe",
+     "ratings": 300,
+     "desc": "Manage smart door locks."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "truss span table",
+   "top": [
+    {
+     "name": "Truss Span Tables",
+     "dev": "FramingRef",
+     "ratings": 250,
+     "desc": "Look up lumber span tables for trusses."
+    },
+    {
+     "name": "Lumber Span Calc",
+     "dev": "CarpenterTools",
+     "ratings": 1500,
+     "desc": "Joist, rafter and beam spans."
+    },
+    {
+     "name": "Bridge Builder",
+     "dev": "PlayCo",
+     "ratings": 9000,
+     "desc": "Build bridges puzzle game."
+    }
+   ],
+   "label": false,
+   "split": "train"
+  },
+  {
+   "term": "mortgage payment calculator",
+   "top": [
+    {
+     "name": "Mortgage Calc",
+     "dev": "LoanTools",
+     "ratings": 8000,
+     "desc": "Monthly mortgage payment calculator."
+    },
+    {
+     "name": "Home Loan EMI",
+     "dev": "FinPlan",
+     "ratings": 3000,
+     "desc": "EMI and amortization."
+    },
+    {
+     "name": "Zillow",
+     "dev": "Zillow Group",
+     "ratings": 600000,
+     "desc": "Homes for sale and rent."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "fanduel",
+   "top": [
+    {
+     "name": "FanDuel Sportsbook",
+     "dev": "FanDuel",
+     "ratings": 900000,
+     "desc": "Bet on sports."
+    },
+    {
+     "name": "FanDuel Fantasy",
+     "dev": "FanDuel",
+     "ratings": 200000,
+     "desc": "Daily fantasy sports."
+    },
+    {
+     "name": "Odds Tracker",
+     "dev": "BetTools",
+     "ratings": 400,
+     "desc": "Compare odds."
+    }
+   ],
+   "label": true,
+   "split": "test"
   }
  ],
  "rival": [

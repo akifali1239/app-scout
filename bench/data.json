@@ -5634,6 +5634,31 @@
    "term": "roofing square calculator",
    "label": "need",
    "split": "dev"
+  },
+  {
+   "term": "dental assistant jobs",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "cdl jobs hiring now",
+   "label": "jobs",
+   "split": "dev"
+  },
+  {
+   "term": "lincoln electric",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "northside credit union mobile",
+   "label": "local_business",
+   "split": "dev"
+  },
+  {
+   "term": "truck driver cdl practice test",
+   "label": "need",
+   "split": "test"
   }
  ],
  "brand": [

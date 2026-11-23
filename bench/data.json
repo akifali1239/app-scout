@@ -5559,6 +5559,21 @@
    "term": "tradesman staffing agency",
    "label": "jobs",
    "split": "dev"
+  },
+  {
+   "term": "rigger load chart",
+   "label": "need",
+   "split": "test"
+  },
+  {
+   "term": "plumbers wanted near me",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "sheet metal gauge converter",
+   "label": "need",
+   "split": "train"
   }
  ],
  "brand": [
@@ -76695,6 +76710,21 @@
    "app": "Keeps a simple list of your favorite local coffee shops.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Tracks reps and sets for a barbell training log with rest timer.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "Lets users stream copyrighted movies and TV shows from a free catalog.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Diagnoses skin cancer from a photo and tells you if a mole is malignant.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [

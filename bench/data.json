@@ -84514,6 +84514,21 @@
    "note": "bu kategoride yüzlerce aynı app var, kalabalık",
    "label": "Çok rekabet / doygun",
    "split": "dev"
+  },
+  {
+   "note": "Bu app'in 2 yıldır güncellemesi yok, arayüzü çok eski",
+   "label": "Kalitesiz / eski",
+   "split": "test"
+  },
+  {
+   "note": "Aynı işi yapan onlarca app var, hiçbiri öne çıkmıyor, yine de kalabalık",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Arama sonuçlarında benzer app yok, gerçekten boş bir alan",
+   "label": "Boş alan / fırsat",
+   "split": "test"
   }
  ],
  "kind": [
@@ -89601,6 +89616,51 @@
    },
    "label": "ai_wrapper",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Steel Beam Span Tables",
+    "category": "Reference",
+    "desc": "Offline span tables and load charts for structural steel beams."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Your Lease AI",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant that explains your lease in plain language."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Tire Pressure Log",
+    "category": "Utilities",
+    "desc": "Track tire pressure readings and get reminders to check them."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Cabin Crew Podcast",
+    "category": "Entertainment",
+    "desc": "Weekly stories and interviews from flight attendants."
+   },
+   "label": "content",
+   "split": "train"
+  },
+  {
+   "app": {
+    "name": "Notary Near Me Booking",
+    "category": "Business",
+    "desc": "Book a mobile notary to come to your location."
+   },
+   "label": "service",
+   "split": "test"
   }
  ]
 }

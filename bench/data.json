@@ -77462,6 +77462,21 @@
    "app": "Diagnoses skin cancer from a photo and tells you if a mole is malignant.",
    "label": true,
    "split": "test"
+  },
+  {
+   "app": "Official Disney character coloring app using Mickey Mouse and Elsa artwork.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Converts between metric and imperial units for woodworking.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Tells you which prescription drugs are safe to combine and adjusts your insulin dose.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -81724,6 +81739,30 @@
    "hi": "torque spec lookup table",
    "lo": "social network with video feed",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "electricians preparing for journeyman licensing exam",
+   "lo": "anyone who wants to look at pictures online",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor invoicing and estimate software",
+   "lo": "free wallpaper pack for phone",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe sizing calculator with offline tables",
+   "lo": "real-time multiplayer battle royale game",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nurses looking up IV drip rates at the bedside",
+   "lo": "people killing time with a casual quiz",
+   "split": "train"
   }
  ],
  "note": [

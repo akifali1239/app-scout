@@ -74746,6 +74746,74 @@
     "adjacent"
    ],
    "split": "test"
+  },
+  {
+   "term": "nurse shift handoff",
+   "apps": [
+    {
+     "name": "Nurse Handoff SBAR",
+     "dev": "NurseTools",
+     "ratings": 1500,
+     "desc": "Structured SBAR shift handoff notes for nurses."
+    },
+    {
+     "name": "Shift Work Calendar",
+     "dev": "ShiftCal",
+     "ratings": 30000,
+     "desc": "Calendar for rotating shift schedules."
+    },
+    {
+     "name": "Nursing Drug Guide",
+     "dev": "MedRef",
+     "ratings": 8000,
+     "desc": "Drug reference for nurses."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "tattoo aftercare reminder",
+   "apps": [
+    {
+     "name": "Tattoo Maker Design",
+     "dev": "InkGames",
+     "ratings": 15000,
+     "desc": "Try virtual tattoos on your photos."
+    },
+    {
+     "name": "Tattoo Aftercare",
+     "dev": "HealInk",
+     "ratings": 400,
+     "desc": "Daily aftercare reminders and healing tracker for new tattoos."
+    },
+    {
+     "name": "Skin Care Routine",
+     "dev": "GlowApp",
+     "ratings": 9000,
+     "desc": "Daily skincare routine tracker."
+    }
+   ],
+   "labels": [
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "unrelated",
+    "direct",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

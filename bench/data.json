@@ -81412,6 +81412,42 @@
    "hi": "wire gauge ampacity chart",
    "lo": "live streaming marketplace with payments",
    "split": "dev"
+  },
+  {
+   "dim": "audience",
+   "hi": "cdl air brakes test prep",
+   "lo": "emoji keyboard",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "electrician journeyman exam flashcards",
+   "lo": "photo collage maker",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "contractor estimate and invoice app",
+   "lo": "wallpaper changer",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac load calculation tool",
+   "lo": "ringtone maker",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "tip percentage calculator",
+   "lo": "ride sharing marketplace with drivers",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "torque spec lookup table",
+   "lo": "social network with video feed",
+   "split": "dev"
   }
  ],
  "note": [
@@ -89661,6 +89697,24 @@
    },
    "label": "service",
    "split": "test"
+  },
+  {
+   "app": {
+    "name": "Pipe Fitter Reference Guide",
+    "category": "Reference",
+    "desc": "Offline tables for pipe sizes, schedules and fittings."
+   },
+   "label": "reference",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ask Legal AI",
+    "category": "Productivity",
+    "desc": "Chat with an AI assistant that drafts answers to legal questions using GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "dev"
   }
  ]
 }

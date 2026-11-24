@@ -215,6 +215,10 @@
    {
     "true": "Dedicated to the exact job the search asks for, for the same kind of user, as shown by its own title or description",
     "false": "Different audience (e.g. client booking vs professional tool), broad utility, a service or shop in the same trade, or only shares words with the search"
+   },
+   {
+    "true": "The app's name or description names the searched job itself (e.g. the same calculator, chart or tracker) and a user searching this term would plausibly install it as the answer",
+    "false": "The match is only through a shared word, a brand-name suffix like PRO, or a general-purpose app whose main purpose is something else (broad weather, generic security, client booking)"
    }
   ]
  },

@@ -55971,6 +55971,44 @@
    ],
    "label": true,
    "split": "train"
+  },
+  {
+   "term": "osha 10 hour study guide",
+   "top": [
+    {
+     "name": "OSHA 10 Prep",
+     "dev": "Dev C",
+     "ratings": 120,
+     "desc": "Practice questions for OSHA 10."
+    },
+    {
+     "name": "Safety Quiz",
+     "dev": "Dev D",
+     "ratings": 60,
+     "desc": "Construction safety quiz."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "drywall mud calculator",
+   "top": [
+    {
+     "name": "Drywall Calc",
+     "dev": "Dev L",
+     "ratings": 200,
+     "desc": "Estimate joint compound."
+    },
+    {
+     "name": "Board Calc",
+     "dev": "Dev M",
+     "ratings": 50,
+     "desc": "Sheet count."
+    }
+   ],
+   "label": false,
+   "split": "dev"
   }
  ],
  "rival": [

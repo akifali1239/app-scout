@@ -76323,6 +76323,142 @@
     "adjacent"
    ],
    "split": "train"
+  },
+  {
+   "term": "pipe flow chart plumber",
+   "apps": [
+    {
+     "name": "Plumber Mate",
+     "dev": "FlowSoft",
+     "ratings": 1500,
+     "desc": "Pipe sizing charts, flow rates and fixture units for plumbers."
+    },
+    {
+     "name": "Local Plumber Booking",
+     "dev": "HomeFix",
+     "ratings": 8000,
+     "desc": "Book a plumber near you in minutes."
+    },
+    {
+     "name": "Water Leak Alarm",
+     "dev": "SecureHome",
+     "ratings": 900,
+     "desc": "Detect leaks with smart sensors."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "test"
+  },
+  {
+   "term": "farrier horseshoe sizing",
+   "apps": [
+    {
+     "name": "Horse Care Diary",
+     "dev": "EquiApps",
+     "ratings": 1200,
+     "desc": "Track vet visits, feed and riding for horse owners."
+    },
+    {
+     "name": "Hoof Size Guide",
+     "dev": "FarrierTools",
+     "ratings": 300,
+     "desc": "Horseshoe size chart and measuring guide for farriers."
+    },
+    {
+     "name": "Horse Riding Lessons",
+     "dev": "StableCo",
+     "ratings": 2500,
+     "desc": "Find riding lessons."
+    }
+   ],
+   "labels": [
+    0,
+    1,
+    0
+   ],
+   "kinds": [
+    "adjacent",
+    "direct",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "electrician wire gauge",
+   "apps": [
+    {
+     "name": "Wire Gauge Lite",
+     "dev": "VoltSoft",
+     "ratings": 5200,
+     "desc": "AWG wire size and ampacity lookup for electricians."
+    },
+    {
+     "name": "Electric Bill Tracker",
+     "dev": "EnergyCo",
+     "ratings": 15000,
+     "desc": "Monitor household electricity costs."
+    },
+    {
+     "name": "Hire an Electrician",
+     "dev": "FixItNow",
+     "ratings": 3000,
+     "desc": "Customers find electricians nearby."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "dev"
+  },
+  {
+   "term": "lawn mowing route planner",
+   "apps": [
+    {
+     "name": "Mow Route",
+     "dev": "GreenPro",
+     "ratings": 800,
+     "desc": "Plan routes, schedule jobs and invoice clients for lawn care crews."
+    },
+    {
+     "name": "Lawn Care Tips",
+     "dev": "GardenTV",
+     "ratings": 6000,
+     "desc": "Articles and tips for a green lawn."
+    },
+    {
+     "name": "Mower Rental",
+     "dev": "RentAll",
+     "ratings": 500,
+     "desc": "Rent a lawn mower."
+    }
+   ],
+   "labels": [
+    1,
+    0,
+    0
+   ],
+   "kinds": [
+    "direct",
+    "adjacent",
+    "adjacent"
+   ],
+   "split": "train"
   }
  ],
  "risk": [

@@ -78864,6 +78864,31 @@
    "app": "Checklist timer for scaffolding inspections.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Calculates vasopressor drip rates and recommends titration for ICU patients.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Interprets ECG strips and suggests a cardiac diagnosis.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Generates a legal will and advises how to split an estate.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Lists common lumber sizes with nominal and actual dimensions.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "A timer for rest intervals between workout sets.",
+   "label": false,
+   "split": "train"
   }
  ],
  "pairs": [
@@ -83276,6 +83301,24 @@
    "hi": "hvac refrigerant pressure temperature chart",
    "lo": "free sticker pack",
    "split": "train"
+  },
+  {
+   "dim": "pay",
+   "hi": "commercial electrician load calculator",
+   "lo": "wallpaper for phone",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "stud spacing calculator",
+   "lo": "ai video editor with effects",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "anesthesia drug dose calculator",
+   "lo": "cute cat wallpapers",
+   "split": "dev"
   }
  ],
  "note": [

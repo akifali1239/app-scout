@@ -86551,6 +86551,31 @@
    "note": "Bu fikir şu an listedeki öbür fikrin birebir aynısı, tekrar ekleme",
    "label": "Çok benzer",
    "split": "train"
+  },
+  {
+   "note": "Aynı konuda 40'tan fazla app var, hepsi yıllardır güncelleniyor",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Apple bunu muhtemelen reddeder, tıbbi tavsiye veriyor",
+   "label": "Ret riski",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikir benim işimle hiç ilgisi yok, ne yapacağımı bilmiyorum",
+   "label": "Alakasız",
+   "split": "dev"
+  },
+  {
+   "note": "Gerçek zamanlı sensör verisi ve özel donanım gerekiyor, tek başıma yapamam",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Rakiplerin son güncellemesi 3 yıl önce, arayüzleri çok eski",
+   "label": "Kalitesiz / eski",
+   "split": "train"
   }
  ],
  "kind": [
@@ -91872,6 +91897,51 @@
    },
    "label": "reference",
    "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Rebar Tie Calculator",
+    "category": "Utilities",
+    "desc": "Calculates rebar quantity and tie spacing for slabs and footings."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "ChatPDF Buddy AI",
+    "category": "Productivity",
+    "desc": "Upload a PDF and chat with an AI assistant powered by GPT."
+   },
+   "label": "ai_wrapper",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Ohm's Law Quick Reference",
+    "category": "Reference",
+    "desc": "Searchable tables of electrical formulas, wire gauges and color codes."
+   },
+   "label": "reference",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Hair Salon Booking Pro",
+    "category": "Lifestyle",
+    "desc": "Book appointments with your local salon and pay in app."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Podcast Stories Daily",
+    "category": "Entertainment",
+    "desc": "Fresh short audio stories and articles every morning."
+   },
+   "label": "content",
+   "split": "train"
   }
  ]
 }

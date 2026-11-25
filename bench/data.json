@@ -83252,6 +83252,30 @@
    "hi": "scaffold inspection checklist",
    "lo": "funny cat stickers",
    "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician load calculation for contractors",
+   "lo": "funny ringtone maker",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "simple unit converter for torque",
+   "lo": "social network with live video chat",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "nursing drug dosage calculator",
+   "lo": "emoji keyboard for teens",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "hvac refrigerant pressure temperature chart",
+   "lo": "free sticker pack",
+   "split": "train"
   }
  ],
  "note": [

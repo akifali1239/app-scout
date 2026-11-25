@@ -79121,6 +79121,41 @@
    "app": "A timer for rest intervals between workout sets.",
    "label": false,
    "split": "train"
+  },
+  {
+   "app": "Gives drug dosage recommendations by patient weight for nurses.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Calculates tax deductions and files a return for the user.",
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "app": "Diagnoses skin conditions from a photo and suggests treatment.",
+   "label": true,
+   "split": "test"
+  },
+  {
+   "app": "Lists the tool sizes of common wrench types.",
+   "label": false,
+   "split": "test"
+  },
+  {
+   "app": "A simple checklist for packing a camping trip.",
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "app": "Converts between metric and imperial cooking units.",
+   "label": false,
+   "split": "train"
+  },
+  {
+   "app": "Tells a driver whether they are legally allowed to drive after drinking.",
+   "label": true,
+   "split": "test"
   }
  ],
  "pairs": [
@@ -92192,6 +92227,42 @@
    },
    "label": "content",
    "split": "train"
+  },
+  {
+   "app": {
+    "name": "Concrete Mix Calculator",
+    "category": "Utilities",
+    "desc": "Enter slab size and get bags of concrete and water needed."
+   },
+   "label": "utility",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Barber Shop Booking",
+    "category": "Lifestyle",
+    "desc": "Choose your barber and reserve a time slot, pay in app."
+   },
+   "label": "service",
+   "split": "test"
+  },
+  {
+   "app": {
+    "name": "Daily Trucking News",
+    "category": "News",
+    "desc": "Fresh headlines and articles for truckers every morning."
+   },
+   "label": "content",
+   "split": "dev"
+  },
+  {
+   "app": {
+    "name": "Knot Types Guide",
+    "category": "Reference",
+    "desc": "Searchable illustrated reference of sailing and climbing knots."
+   },
+   "label": "reference",
+   "split": "test"
   }
  ]
 }

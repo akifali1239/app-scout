@@ -55850,6 +55850,82 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "fieldwire punch list",
+   "top": [
+    {
+     "name": "Fieldwire",
+     "dev": "Hilti",
+     "ratings": 9000,
+     "desc": "Construction management and punch lists for field teams."
+    },
+    {
+     "name": "Punch List Pro",
+     "dev": "Dev X",
+     "ratings": 300,
+     "desc": "Simple punch lists."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "gas mileage log for truckers",
+   "top": [
+    {
+     "name": "Trucker Fuel Log",
+     "dev": "LogCo",
+     "ratings": 700,
+     "desc": "Track fuel and mileage for drivers."
+    },
+    {
+     "name": "IFTA Helper",
+     "dev": "Dev Y",
+     "ratings": 200,
+     "desc": "Fuel tax mileage log."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "torque spec lookup",
+   "top": [
+    {
+     "name": "Torque Specs",
+     "dev": "Dev A",
+     "ratings": 500,
+     "desc": "Bolt torque values chart."
+    },
+    {
+     "name": "Torque Table",
+     "dev": "Dev B",
+     "ratings": 150,
+     "desc": "Fastener torque tables."
+    }
+   ],
+   "label": false,
+   "split": "dev"
+  },
+  {
+   "term": "clinical key",
+   "top": [
+    {
+     "name": "ClinicalKey",
+     "dev": "Elsevier",
+     "ratings": 2500,
+     "desc": "Clinical reference by Elsevier."
+    },
+    {
+     "name": "Clinical Notes",
+     "dev": "Dev C",
+     "ratings": 80,
+     "desc": "Notes app."
+    }
+   ],
+   "label": true,
+   "split": "train"
   }
  ],
  "rival": [

@@ -6059,6 +6059,31 @@
    "term": "piano tuning app",
    "label": "need",
    "split": "test"
+  },
+  {
+   "term": "osha 30 practice exam",
+   "label": "need",
+   "split": "dev"
+  },
+  {
+   "term": "lowe's pro rewards",
+   "label": "brand",
+   "split": "test"
+  },
+  {
+   "term": "anytime fitness",
+   "label": "brand",
+   "split": "train"
+  },
+  {
+   "term": "truck driver jobs hiring now",
+   "label": "jobs",
+   "split": "test"
+  },
+  {
+   "term": "brightside pediatric dentistry",
+   "label": "local_business",
+   "split": "test"
   }
  ],
  "brand": [

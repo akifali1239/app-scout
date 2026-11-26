@@ -87554,6 +87554,36 @@
    "note": "Rakiplerin son güncellemesi 3 yıl önce, arayüzleri çok eski",
    "label": "Kalitesiz / eski",
    "split": "train"
+  },
+  {
+   "note": "Bu kategoride 60 app var, ilk sayfanın tamamı 4+ yıldız ve yüzbinlerce yorumlu",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Zaten güçlü oyuncular pazarı paylaşmış, yeni bir app'in görünür olması çok zor",
+   "label": "Çok rekabet / doygun",
+   "split": "test"
+  },
+  {
+   "note": "Büyük markalar bu alanı ele geçirmiş, ben girsem arama sonuçlarında kaybolurum",
+   "label": "Çok rekabet / doygun",
+   "split": "dev"
+  },
+  {
+   "note": "Kimse bunun için para ödemez, kullanıcılar ücretsiz alternatiflerle yetiniyor",
+   "label": "Para yapmaz",
+   "split": "test"
+  },
+  {
+   "note": "Bu fikri gerçekleştirmek için bir sunucu altyapısı ve ekip gerekir, tek kişilik iş değil",
+   "label": "Yapması zor",
+   "split": "test"
+  },
+  {
+   "note": "Hiç rakip yok, aranan bir ihtiyaç ve rakiplerin hepsi eski",
+   "label": "Boş alan / fırsat",
+   "split": "test"
   }
  ],
  "kind": [

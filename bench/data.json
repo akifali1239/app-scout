@@ -56505,6 +56505,101 @@
    ],
    "label": false,
    "split": "test"
+  },
+  {
+   "term": "fluke connect",
+   "top": [
+    {
+     "name": "Fluke Connect",
+     "dev": "Fluke Corporation",
+     "ratings": 5200,
+     "desc": "Connect Fluke test tools and share measurements with your team."
+    },
+    {
+     "name": "Meter Log",
+     "dev": "Dev C",
+     "ratings": 120,
+     "desc": "Log multimeter readings."
+    }
+   ],
+   "label": true,
+   "split": "test"
+  },
+  {
+   "term": "nclex rn practice test",
+   "top": [
+    {
+     "name": "NCLEX RN Prep",
+     "dev": "Dev A",
+     "ratings": 8000,
+     "desc": "Thousands of NCLEX-RN practice questions."
+    },
+    {
+     "name": "Nurse Quiz",
+     "dev": "Dev B",
+     "ratings": 3000,
+     "desc": "Nursing exam questions with rationales."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "blueprint reading trainer",
+   "top": [
+    {
+     "name": "Blueprint Reading",
+     "dev": "Dev D",
+     "ratings": 300,
+     "desc": "Learn to read construction blueprints."
+    },
+    {
+     "name": "Print Reading Quiz",
+     "dev": "Dev E",
+     "ratings": 90,
+     "desc": "Quizzes on shop drawings."
+    }
+   ],
+   "label": false,
+   "split": "test"
+  },
+  {
+   "term": "dewalt toughsystem",
+   "top": [
+    {
+     "name": "DEWALT Tool Connect",
+     "dev": "DEWALT",
+     "ratings": 2100,
+     "desc": "Manage and locate DEWALT tools."
+    },
+    {
+     "name": "Tool Tracker",
+     "dev": "Dev F",
+     "ratings": 400,
+     "desc": "Track your tools."
+    }
+   ],
+   "label": true,
+   "split": "dev"
+  },
+  {
+   "term": "osha 30 exam prep",
+   "top": [
+    {
+     "name": "OSHA 30 Practice",
+     "dev": "Dev G",
+     "ratings": 1500,
+     "desc": "OSHA 30-hour practice exams."
+    },
+    {
+     "name": "Safety Test Prep",
+     "dev": "Dev H",
+     "ratings": 700,
+     "desc": "Construction safety quizzes."
+    }
+   ],
+   "label": false,
+   "split": "train"
   }
  ],
  "rival": [

@@ -84216,6 +84216,42 @@
    "hi": "cdl air brakes test prep",
    "lo": "celebrity gossip feed",
    "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "hvac refrigerant pt chart",
+   "lo": "meme sound board",
+   "split": "test"
+  },
+  {
+   "dim": "audience",
+   "hi": "surgical tech instrument quiz",
+   "lo": "wallpaper maker",
+   "split": "dev"
+  },
+  {
+   "dim": "pay",
+   "hi": "electrician load calculation app",
+   "lo": "free ringtone downloads",
+   "split": "test"
+  },
+  {
+   "dim": "pay",
+   "hi": "nurse dosage calculator",
+   "lo": "emoji sticker pack",
+   "split": "train"
+  },
+  {
+   "dim": "build",
+   "hi": "unit converter for machinists",
+   "lo": "live streaming social network",
+   "split": "test"
+  },
+  {
+   "dim": "build",
+   "hi": "pipe volume calculator",
+   "lo": "ai avatar video generator",
+   "split": "dev"
   }
  ],
  "note": [
